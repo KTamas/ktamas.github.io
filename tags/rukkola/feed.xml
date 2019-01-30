@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
-	<id>https://ktamas.github.io/tags/rukkola/</id>
+	<id>https://blog.ktamas.com/tags/rukkola/</id>
 	<title>rukkola on KTamas&#39; blog</title>
 	<subtitle>An ongoing list of KTamas' blog posts about rukkola</subtitle>
 	<updated>2013-05-14T08:55:13Z</updated>
-	<link rel="self" type="application/atom+xml" href="https://ktamas.github.io/tags/rukkola/feed.xml"/>
-	<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/rukkola/"/>
-	<link rel="alternate" type="application/json" href="https://ktamas.github.io/tags/rukkola/feed.json"/>
+	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/rukkola/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/rukkola/"/>
+	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/rukkola/feed.json"/>
 	<author>
 		<name>KTamas</name>
-		<uri>https://ktamas.github.io/</uri>
+		<uri>https://blog.ktamas.com/</uri>
 	</author>
 	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
-	<icon>"https://ktamas.github.io/icon-512x512.png"</icon>
+	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2013/05/14/all-good-things-rukkola-bookmarklet-vegallomas/</id>
+		<id>https://blog.ktamas.com/index.php/2013/05/14/all-good-things-rukkola-bookmarklet-vegallomas/</id>
 		<title>All good things (Rukkola bookmarklet, végállomás)</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/05/14/all-good-things-rukkola-bookmarklet-vegallomas/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/05/14/all-good-things-rukkola-bookmarklet-vegallomas/"/>
 		<updated>2013-05-14T08:55:13Z</updated>
 		<published>2013-05-14T08:55:13Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="rukkola" label="rukkola"/>
+		<category scheme="https://blog.ktamas.com/tags" term="rukkola" label="rukkola"/>
 		<summary>Nagyon rövid verzió: mostmár minden oldalon (a kiemelt könyvek között is, a profiloldalon is) megy a happoló mód, így nyugdíjaztam a bookmarkletet.
 Az úgy volt, hogy tavaly megszületett a rukkola, én pedig nagyon lelkesen indultam neki az oldalnak, mint felhasználó. Aztán elkezdett zavarni az, hogy nem lehet szűrni a csak happolható könyvekre, úgyhogy írtam rá egy bookmarkletet.
 Az idők során aztán került bele végtelen görgetés, kapott egy saját oldalt, tanultam egy csomó dolgot, például azt, hogy nem szabad az ilyesmit a GitHubon tartani, szóval költözött is egyet, majd mikor már meg voltam elégedve a funkcionalitással, újraírtam az egészet, hogy a kód is kinézzen valahogy.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p><strong>Nagyon rövid verzió:</strong> mostmár minden oldalon (a kiemelt könyvek között is, a profiloldalon is) megy a happoló mód, így nyugdíjaztam a bookmarkletet.</p>
 
 <p>Az úgy volt, hogy tavaly megszületett a rukkola, én pedig nagyon lelkesen indultam neki az oldalnak, mint felhasználó. Aztán elkezdett zavarni az, hogy nem lehet szűrni a csak happolható könyvekre, úgyhogy <a href="http://blog.ktamas.com/index.php/2012/08/11/hacking-rukkola-avagy-alternativ-kollekciobongeszes/">írtam rá egy bookmarkletet</a>.</p>
@@ -48,32 +48,32 @@ Az idők során aztán került bele végtelen görgetés, kapott egy saját olda
 <p>És aztán az is lehet, hogy egyszercsak rámjön az ötperc, és mégis megcsinálom, de ezt megigérni egyelőre nem tudom. Mindenesetre köszönet minden felhasználónak és minden visszajelzésnek.</p>
 
 <footer>
-    <a title="Permanent link to “All good things (Rukkola bookmarklet, végállomás)”" href="https://ktamas.github.io/index.php/2013/05/14/all-good-things-rukkola-bookmarklet-vegallomas/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “All good things (Rukkola bookmarklet, végállomás)”" href="https://blog.ktamas.com/index.php/2013/05/14/all-good-things-rukkola-bookmarklet-vegallomas/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/rukkola/">rukkola</a></li>
+                <li><a href="https://blog.ktamas.com/tags/rukkola/">rukkola</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2012/10/18/rukkola-bookmarklet-update-4-this-is-not-a-goodbye/</id>
+		<id>https://blog.ktamas.com/index.php/2012/10/18/rukkola-bookmarklet-update-4-this-is-not-a-goodbye/</id>
 		<title>Rukkola bookmarklet update 4: this is not a goodbye</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2012/10/18/rukkola-bookmarklet-update-4-this-is-not-a-goodbye/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2012/10/18/rukkola-bookmarklet-update-4-this-is-not-a-goodbye/"/>
 		<updated>2012-10-18T13:15:41Z</updated>
 		<published>2012-10-18T13:15:41Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="rukkola" label="rukkola"/>
+		<category scheme="https://blog.ktamas.com/tags" term="rukkola" label="rukkola"/>
 		<summary>Jelentősen megkésett ez a poszt, és valószínű már mindenki észrevette magától, de azért megírom a történelmi kontinuitás kedvéért: a Rukkolába mostmár vagy’ 2 hete belekerült ez az igen jelentős fejlesztés:
 
 Ezzel a bookmarklet tulajdonképpen elérte a célját, mostantól csak át kell kapcsolni magunkat happoló módba és onnantól rakenroll minden.
 Ami még hiányzik, az a végtelenscrollozás. Igérni nem akarok semmit, azt viszont elárulom, hogy pár napja már belülről bomlasztom a rendszert, bár egyelőre a legynagyobb szívügyemre koncentrálok az oldallal kapcsolatban: a sebességre.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Jelentősen megkésett ez a poszt, és valószínű már mindenki észrevette magától, de azért megírom a történelmi kontinuitás kedvéért: a Rukkolába mostmár vagy&#8217; 2 hete belekerült ez az igen jelentős fejlesztés:</p>
 
 <p><a href="/wp-content/uploads/2012/10/6q.png"><img class="aligncenter size-full wp-image-2363334" title="happolo mod" src="/wp-content/uploads/2012/10/6q.png" alt="" width="174" height="35" /></a></p>
@@ -85,31 +85,31 @@ Ami még hiányzik, az a végtelenscrollozás. Igérni nem akarok semmit, azt vi
 <p>Mindenesetre köszönet mindenkinek aki visszajelzéseket és/vagy bugokat küldött.</p>
 
 <footer>
-    <a title="Permanent link to “Rukkola bookmarklet update 4: this is not a goodbye”" href="https://ktamas.github.io/index.php/2012/10/18/rukkola-bookmarklet-update-4-this-is-not-a-goodbye/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Rukkola bookmarklet update 4: this is not a goodbye”" href="https://blog.ktamas.com/index.php/2012/10/18/rukkola-bookmarklet-update-4-this-is-not-a-goodbye/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/rukkola/">rukkola</a></li>
+                <li><a href="https://blog.ktamas.com/tags/rukkola/">rukkola</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2012/08/11/hacking-rukkola-avagy-alternativ-kollekciobongeszes/</id>
+		<id>https://blog.ktamas.com/index.php/2012/08/11/hacking-rukkola-avagy-alternativ-kollekciobongeszes/</id>
 		<title>Hacking Rukkola, avagy bookmarklet a nem happolhatóak elrejtésére</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2012/08/11/hacking-rukkola-avagy-alternativ-kollekciobongeszes/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2012/08/11/hacking-rukkola-avagy-alternativ-kollekciobongeszes/"/>
 		<updated>2012-08-11T18:31:15Z</updated>
 		<published>2012-08-11T18:31:15Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="programoz%C3%A1s" label="programozás"/>
-		<category scheme="https://ktamas.github.io/tags" term="rukkola" label="rukkola"/>
+		<category scheme="https://blog.ktamas.com/tags" term="programoz%C3%A1s" label="programozás"/>
+		<category scheme="https://blog.ktamas.com/tags" term="rukkola" label="rukkola"/>
 		<summary>Szóval elindult a rukkola.hu, közösségi könyvcserélde, remek dolog, próbáljátok ki, felteszitek a megunt könyveiteket, és cserébe szerezhettek másoktól hasonlókat. A böngészés a feltett könyvek között egyelőre még nem tökéletes, engem például borzasztóan zavar, hogy a kollekciók böngészésénél (szerk: és keresésnél) nincs olyan nézet, amikor csak azokat a könyveket látom, amikre ténylegesen lecsaphatok.
 Összedobtam hát gyorsan egy bookmarkletet erre. Chrome Extensionnek indult, de nem érzem elég nagynak, hogy megérje berakni a saját App Storejukba, valamint sóher vagyok kifizetni az öt dollárt érte egyelőre, majd ha még lesz pár ilyen rukkola-módosításom, amit már érdemes felrakni.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Szóval elindult a <a href="http://rukkola.hu/">rukkola.hu</a>, közösségi könyvcserélde, remek dolog, próbáljátok ki, felteszitek a megunt könyveiteket, és cserébe szerezhettek másoktól hasonlókat. A böngészés a feltett könyvek között egyelőre még nem tökéletes, engem például borzasztóan zavar, hogy a <a href="http://rukkola.hu/kollekciok">kollekciók</a> böngészésénél (szerk: és keresésnél) nincs olyan nézet, amikor csak azokat a könyveket látom, amikre ténylegesen lecsaphatok.</p>
 
 <p>Összedobtam hát gyorsan egy bookmarkletet erre. Chrome Extensionnek indult, de nem érzem elég nagynak, hogy megérje berakni a saját App Storejukba, valamint sóher vagyok kifizetni az öt dollárt érte egyelőre, majd ha még lesz pár ilyen rukkola-módosításom, amit már érdemes felrakni. Mindenesetre nincs más dolgoktok, hogy <a href="http://blog.ktamas.com/index.php/rukkola-bookmarklet/">felrakjátok a bookmarklet oldaláról</a>. <del datetime="2012-08-15T16:30:01+00:00">Lapozni a Tovább gombbal lehet, még az oldalakat is mutatja.</del> <strong>Update:</strong> nem kell semmit kattintgatni, <a href="http://blog.ktamas.com/index.php/2012/08/15/rukkola-bookmarklet-update-1-gorgetes-a-vegtelenbe/">van végtelen görgetés</a>.</p>
@@ -133,13 +133,13 @@ Ami még hiányzik, az a végtelenscrollozás. Igérni nem akarok semmit, azt vi
 <p>(P.P.S.: A bookmarklet remekül alkalmazható keresésekre is.)</p>
 
 <footer>
-    <a title="Permanent link to “Hacking Rukkola, avagy bookmarklet a nem happolhatóak elrejtésére”" href="https://ktamas.github.io/index.php/2012/08/11/hacking-rukkola-avagy-alternativ-kollekciobongeszes/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Hacking Rukkola, avagy bookmarklet a nem happolhatóak elrejtésére”" href="https://blog.ktamas.com/index.php/2012/08/11/hacking-rukkola-avagy-alternativ-kollekciobongeszes/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/programoz%C3%A1s/">programozás</a></li>
-                <li><a href="https://ktamas.github.io/tags/rukkola/">rukkola</a></li>
+                <li><a href="https://blog.ktamas.com/tags/programoz%C3%A1s/">programozás</a></li>
+                <li><a href="https://blog.ktamas.com/tags/rukkola/">rukkola</a></li>
             </ul>
         </div>
 </footer>]]></content>

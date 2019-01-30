@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
-	<id>https://ktamas.github.io/tags/geekdom/</id>
+	<id>https://blog.ktamas.com/tags/geekdom/</id>
 	<title>geekdom on KTamas&#39; blog</title>
 	<subtitle>An ongoing list of KTamas' blog posts about geekdom</subtitle>
 	<updated>2010-06-12T11:00:00Z</updated>
-	<link rel="self" type="application/atom+xml" href="https://ktamas.github.io/tags/geekdom/feed.xml"/>
-	<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/geekdom/"/>
-	<link rel="alternate" type="application/json" href="https://ktamas.github.io/tags/geekdom/feed.json"/>
+	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/geekdom/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/geekdom/"/>
+	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/geekdom/feed.json"/>
 	<author>
 		<name>KTamas</name>
-		<uri>https://ktamas.github.io/</uri>
+		<uri>https://blog.ktamas.com/</uri>
 	</author>
 	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
-	<icon>"https://ktamas.github.io/icon-512x512.png"</icon>
+	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2010/06/12/my_name_is_ktamas_and_i_approve_this_message/</id>
+		<id>https://blog.ktamas.com/index.php/2010/06/12/my_name_is_ktamas_and_i_approve_this_message/</id>
 		<title>Endorsement (My name is KTamas and I approve this message)</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2010/06/12/my_name_is_ktamas_and_i_approve_this_message/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2010/06/12/my_name_is_ktamas_and_i_approve_this_message/"/>
 		<updated>2010-06-12T11:00:00Z</updated>
 		<published>2010-06-12T11:00:00Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="geekdom" label="geekdom"/>
-		<category scheme="https://ktamas.github.io/tags" term="linux" label="linux"/>
-		<category scheme="https://ktamas.github.io/tags" term="mac" label="mac"/>
-		<category scheme="https://ktamas.github.io/tags" term="random" label="random"/>
-		<category scheme="https://ktamas.github.io/tags" term="windows" label="windows"/>
+		<category scheme="https://blog.ktamas.com/tags" term="geekdom" label="geekdom"/>
+		<category scheme="https://blog.ktamas.com/tags" term="linux" label="linux"/>
+		<category scheme="https://blog.ktamas.com/tags" term="mac" label="mac"/>
+		<category scheme="https://blog.ktamas.com/tags" term="random" label="random"/>
+		<category scheme="https://blog.ktamas.com/tags" term="windows" label="windows"/>
 		<summary>Mivel mostmar tobb, mint egy eve hasznalom aktivan a harom legnepszerubb operacios rendszert, — Windows 7, Mac OSX, Ubuntu –, sikeresen akviraltam azt a kepesseget, hogy barmelyiket, barmikor tudom szidni is, dicserni is, persze kulonbozo mertekben. Most az utobbi kovetkezik, konkretan annak a kifejtese, hogy a Windows 7 a jelenlegi legjobban osszerakott operacios rendszer out there.
 It Just Works A telepito CD/Pendrive berakasa utan legkesobb harminc perccel mukodo rendszert kapunk, a gepek jo reszen egyaltalan, vagy csak alig kell driverekkel barmit csinalni, mert elintezi a Windows Update — gondolom mindenkiben meg elenken el az XP, a kotelezo egyoras jatek a driverekkel.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Mivel mostmar tobb, mint egy eve hasznalom aktivan a harom legnepszerubb operacios rendszert, &#8212; Windows 7, Mac OSX, Ubuntu &#8211;, sikeresen akviraltam azt a kepesseget, hogy barmelyiket, barmikor tudom szidni is, dicserni is, persze kulonbozo mertekben. Most az utobbi kovetkezik, konkretan annak a kifejtese, hogy a Windows 7 a jelenlegi legjobban osszerakott operacios rendszer <em>out there</em>.</p>
 
 <h3 id="it-just-works">It Just Works</h3>
@@ -47,36 +47,36 @@ It Just Works A telepito CD/Pendrive berakasa utan legkesobb harminc perccel muk
 <p>Es most elkezdhetnek panaszkodni, hogy de nincs rendes parancssor vagy epp posix, es kulonben is, de nem, ez nem arra van, amit kapunk, az egy gyors, stabil, hasznalhato operacios rendszer, se tobb, se kevesebb, es pont ennyi kell a legtobb embernek (es sokszor nekem is), es vegre megkapjak, es ez annyira jo.</p>
 
 <footer>
-    <a title="Permanent link to “Endorsement (My name is KTamas and I approve this message)”" href="https://ktamas.github.io/index.php/2010/06/12/my_name_is_ktamas_and_i_approve_this_message/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Endorsement (My name is KTamas and I approve this message)”" href="https://blog.ktamas.com/index.php/2010/06/12/my_name_is_ktamas_and_i_approve_this_message/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/geekdom/">geekdom</a></li>
-                <li><a href="https://ktamas.github.io/tags/linux/">linux</a></li>
-                <li><a href="https://ktamas.github.io/tags/mac/">mac</a></li>
-                <li><a href="https://ktamas.github.io/tags/random/">random</a></li>
-                <li><a href="https://ktamas.github.io/tags/windows/">windows</a></li>
+                <li><a href="https://blog.ktamas.com/tags/geekdom/">geekdom</a></li>
+                <li><a href="https://blog.ktamas.com/tags/linux/">linux</a></li>
+                <li><a href="https://blog.ktamas.com/tags/mac/">mac</a></li>
+                <li><a href="https://blog.ktamas.com/tags/random/">random</a></li>
+                <li><a href="https://blog.ktamas.com/tags/windows/">windows</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2010/01/17/linux_blues_avagy_hogyan_nem_lettem_meg_desktoplinux_juzer/</id>
+		<id>https://blog.ktamas.com/index.php/2010/01/17/linux_blues_avagy_hogyan_nem_lettem_meg_desktoplinux_juzer/</id>
 		<title>Linux Blues, avagy hogyan (nem) lettem (még) Desktoplinux-júzer?</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2010/01/17/linux_blues_avagy_hogyan_nem_lettem_meg_desktoplinux_juzer/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2010/01/17/linux_blues_avagy_hogyan_nem_lettem_meg_desktoplinux_juzer/"/>
 		<updated>2010-01-17T17:26:25Z</updated>
 		<published>2010-01-17T17:26:25Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="geekdom" label="geekdom"/>
-		<category scheme="https://ktamas.github.io/tags" term="linux" label="linux"/>
-		<category scheme="https://ktamas.github.io/tags" term="windows" label="windows"/>
+		<category scheme="https://blog.ktamas.com/tags" term="geekdom" label="geekdom"/>
+		<category scheme="https://blog.ktamas.com/tags" term="linux" label="linux"/>
+		<category scheme="https://blog.ktamas.com/tags" term="windows" label="windows"/>
 		<summary>Nem tudom. Van a draftban már vagy’ egy jó hónapja egy iromány arról, hogy lettem desktoplinux-felhasználó, de nem fejeztem be, mert… egyelőre még nem vagyok az.
 Persze, jó volna egy olyan rendszert használni, ami alatt van például tisztességes commandline, abban kötelezően egy byobu, meg egy saját bashrc, és az úgy nagyon jó. Meg van Gnome-Do, amihez már egészen hozzászoktam, már amikor fut, mert nem képes fél napnál tovább futni anélkül, hogy egyszer csak szét ne fagyna, ami után jó esetben elsőre újraindul helyesen, rossz esetben úgy kell kilőni mégegyszer, és akkor majd utána.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Nem tudom. Van a draftban már vagy&#8217; egy jó hónapja egy iromány arról, hogy lettem desktoplinux-felhasználó, de nem fejeztem be, mert&#8230; egyelőre még nem vagyok az.</p>
 
 <p>Persze, jó volna egy olyan rendszert használni, ami alatt van például tisztességes commandline, abban kötelezően egy <a href="https://launchpad.net/byobu">byobu</a>, meg egy saját bashrc, és az úgy nagyon jó. Meg van <a href="http://do.davebsd.com/">Gnome-Do</a>, amihez már egészen hozzászoktam, már amikor fut, mert nem képes fél napnál tovább futni anélkül, hogy egyszer csak szét ne fagyna, ami után jó esetben elsőre újraindul helyesen, rossz esetben úgy kell kilőni mégegyszer, és akkor majd utána.</p>
@@ -96,63 +96,63 @@ Persze, jó volna egy olyan rendszert használni, ami alatt van például tiszte
 <p>(Jaigen, új taglájn, <a href="http://miafene.hu/2009/11/19/jpod/">Gazs szokta mondogatni</a>, de én szeretem a webcomicokat, na.)</p>
 
 <footer>
-    <a title="Permanent link to “Linux Blues, avagy hogyan (nem) lettem (még) Desktoplinux-júzer?”" href="https://ktamas.github.io/index.php/2010/01/17/linux_blues_avagy_hogyan_nem_lettem_meg_desktoplinux_juzer/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Linux Blues, avagy hogyan (nem) lettem (még) Desktoplinux-júzer?”" href="https://blog.ktamas.com/index.php/2010/01/17/linux_blues_avagy_hogyan_nem_lettem_meg_desktoplinux_juzer/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/geekdom/">geekdom</a></li>
-                <li><a href="https://ktamas.github.io/tags/linux/">linux</a></li>
-                <li><a href="https://ktamas.github.io/tags/windows/">windows</a></li>
+                <li><a href="https://blog.ktamas.com/tags/geekdom/">geekdom</a></li>
+                <li><a href="https://blog.ktamas.com/tags/linux/">linux</a></li>
+                <li><a href="https://blog.ktamas.com/tags/windows/">windows</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2009/08/12/miner_szuletesnap/</id>
+		<id>https://blog.ktamas.com/index.php/2009/08/12/miner_szuletesnap/</id>
 		<title>Miner születésnap</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/08/12/miner_szuletesnap/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/08/12/miner_szuletesnap/"/>
 		<updated>2009-08-12T20:16:51Z</updated>
 		<published>2009-08-12T20:16:51Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="fot%C3%B3z%C3%A1s" label="fotózás"/>
-		<category scheme="https://ktamas.github.io/tags" term="geekdom" label="geekdom"/>
+		<category scheme="https://blog.ktamas.com/tags" term="fot%C3%B3z%C3%A1s" label="fotózás"/>
+		<category scheme="https://blog.ktamas.com/tags" term="geekdom" label="geekdom"/>
 		<summary>Szóval múlt szombaton a pályán gyűlt össze a miner-rajongók/fejlesztők/érdeklődők csapata, ugyanis óvodáskorba lépett a miner.hu. Ott voltunk, fotóztunk.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Szóval múlt szombaton a pályán gyűlt össze a miner-rajongók/fejlesztők/érdeklődők csapata, ugyanis óvodáskorba lépett a <a href="http://miner.hu/?betaon">miner.hu</a>. Ott voltunk, <a href="http://indafoto.hu/ktamasenty/minerhu_3_szuletesnap">fotóztunk</a>.</p>
 
 <footer>
-    <a title="Permanent link to “Miner születésnap”" href="https://ktamas.github.io/index.php/2009/08/12/miner_szuletesnap/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Miner születésnap”" href="https://blog.ktamas.com/index.php/2009/08/12/miner_szuletesnap/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
-                <li><a href="https://ktamas.github.io/tags/geekdom/">geekdom</a></li>
+                <li><a href="https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
+                <li><a href="https://blog.ktamas.com/tags/geekdom/">geekdom</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2009/07/06/vi_mode_in_readline_applications/</id>
+		<id>https://blog.ktamas.com/index.php/2009/07/06/vi_mode_in_readline_applications/</id>
 		<title>Vi Mode in Readline Applications</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/07/06/vi_mode_in_readline_applications/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/07/06/vi_mode_in_readline_applications/"/>
 		<updated>2009-07-06T10:09:22Z</updated>
 		<published>2009-07-06T10:09:22Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="geekdom" label="geekdom"/>
-		<category scheme="https://ktamas.github.io/tags" term="linux" label="linux"/>
-		<category scheme="https://ktamas.github.io/tags" term="random" label="random"/>
+		<category scheme="https://blog.ktamas.com/tags" term="geekdom" label="geekdom"/>
+		<category scheme="https://blog.ktamas.com/tags" term="linux" label="linux"/>
+		<category scheme="https://blog.ktamas.com/tags" term="random" label="random"/>
 		<summary>If you find that you do like using vi editing mode (and what’s not to love about it :), add ‘set editing-mode vi’ to your .inputrc, and vi mode will work in any readline based client, eg psql, irb.
 via Daily Vim: Text Editor Tips, Tricks, Tutorials, and HOWTOs: Vi Mode in Readline Applications.
  Avagy miért érdemes olvasni a Daily Vim blogot. Ami szintén menő: “set -o vi” ezzel meg a basht lehet vi módban használni.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<blockquote>
 <p>If you find that you do like using vi editing mode (and what&#8217;s not to love about it :), add &#8216;set editing-mode vi&#8217; to your .inputrc, and vi mode will work in any readline based client, eg psql, irb.</p>
 
@@ -162,33 +162,33 @@ via Daily Vim: Text Editor Tips, Tricks, Tutorials, and HOWTOs: Vi Mode in Readl
 <p>Avagy miért érdemes olvasni a Daily Vim blogot. Ami szintén menő: &#8220;set -o vi&#8221; ezzel meg a basht lehet vi módban használni. Oké, vi és nem vim, de még ígyse rossz.</p>
 
 <footer>
-    <a title="Permanent link to “Vi Mode in Readline Applications”" href="https://ktamas.github.io/index.php/2009/07/06/vi_mode_in_readline_applications/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Vi Mode in Readline Applications”" href="https://blog.ktamas.com/index.php/2009/07/06/vi_mode_in_readline_applications/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/geekdom/">geekdom</a></li>
-                <li><a href="https://ktamas.github.io/tags/linux/">linux</a></li>
-                <li><a href="https://ktamas.github.io/tags/random/">random</a></li>
+                <li><a href="https://blog.ktamas.com/tags/geekdom/">geekdom</a></li>
+                <li><a href="https://blog.ktamas.com/tags/linux/">linux</a></li>
+                <li><a href="https://blog.ktamas.com/tags/random/">random</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2009/07/02/slicehosttol_a_vpsplantig/</id>
+		<id>https://blog.ktamas.com/index.php/2009/07/02/slicehosttol_a_vpsplantig/</id>
 		<title>Slicehosttól a VPSPlantig</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/07/02/slicehosttol_a_vpsplantig/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/07/02/slicehosttol_a_vpsplantig/"/>
 		<updated>2009-07-02T20:45:03Z</updated>
 		<published>2009-07-02T20:45:03Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="geekdom" label="geekdom"/>
-		<category scheme="https://ktamas.github.io/tags" term="linux" label="linux"/>
-		<category scheme="https://ktamas.github.io/tags" term="szerverek" label="szerverek"/>
+		<category scheme="https://blog.ktamas.com/tags" term="geekdom" label="geekdom"/>
+		<category scheme="https://blog.ktamas.com/tags" term="linux" label="linux"/>
+		<category scheme="https://blog.ktamas.com/tags" term="szerverek" label="szerverek"/>
 		<summary>Szóval az egész úgy kezdődött még kb. egy éve, hogy ismerős ismerőse osztogatott ingyen VPS-eket. Persze az egész nem tartott sokáig, de addigra gyorsan rájöttem ezeknek a hasznosságára: IRC bouncer / bot, wordpress, egyéb random hülyeségek hosztolására kiváló platform, úgyhogy körülnéztünk, és ráakadtunk a Slicehostra, akkor az tűnt a legjobbnak. Tény, hogy minőségi szolgáltatást nyújtanak, csilivili kontrolpanellel, saját DNS szerverrel, ajaxos konzollal, miegymással. Csakhát: egyrészt csak 64-bites disztrók voltak (programfüggő, de átlagban jelentősen magasabb memóriahasználat), másrészt nem is volt olcsó, az utóbbi 1-2 hónapban sokkal jobb dealeket találtam.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Szóval az egész úgy kezdődött még kb. egy éve, hogy ismerős ismerőse osztogatott ingyen VPS-eket. Persze az egész nem tartott sokáig, de addigra gyorsan rájöttem ezeknek a hasznosságára: IRC bouncer / bot, wordpress, egyéb random hülyeségek hosztolására kiváló platform, úgyhogy körülnéztünk, és ráakadtunk a Slicehostra, akkor az tűnt a legjobbnak. Tény, hogy minőségi szolgáltatást nyújtanak, csilivili kontrolpanellel, saját DNS szerverrel, ajaxos konzollal, miegymással. Csakhát: egyrészt csak 64-bites disztrók voltak (programfüggő, de átlagban jelentősen magasabb memóriahasználat), másrészt nem is volt olcsó, az utóbbi 1-2 hónapban sokkal jobb dealeket találtam. Úgyhogy nemrég megléptük a váltást a magyar VPSPlantre: duplannyi memória, 32-bites disztró, végre nincs ssh lag és kb. egy ezressel olcsóbb, mint amit eddig fizettem. Ezek voltak a pozitívumok, szóval alapjába véve jól megy, de.</p>
 
 <ul>
@@ -203,32 +203,32 @@ via Daily Vim: Text Editor Tips, Tricks, Tutorials, and HOWTOs: Vi Mode in Readl
 <p>Egyik se dealbreaker, szerintem jól elleszek ezzel, de remélem ezek előbb-utóbb javulni fognak.</p>
 
 <footer>
-    <a title="Permanent link to “Slicehosttól a VPSPlantig”" href="https://ktamas.github.io/index.php/2009/07/02/slicehosttol_a_vpsplantig/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Slicehosttól a VPSPlantig”" href="https://blog.ktamas.com/index.php/2009/07/02/slicehosttol_a_vpsplantig/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/geekdom/">geekdom</a></li>
-                <li><a href="https://ktamas.github.io/tags/linux/">linux</a></li>
-                <li><a href="https://ktamas.github.io/tags/szerverek/">szerverek</a></li>
+                <li><a href="https://blog.ktamas.com/tags/geekdom/">geekdom</a></li>
+                <li><a href="https://blog.ktamas.com/tags/linux/">linux</a></li>
+                <li><a href="https://blog.ktamas.com/tags/szerverek/">szerverek</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2009/05/13/pagetable_pont_com/</id>
+		<id>https://blog.ktamas.com/index.php/2009/05/13/pagetable_pont_com/</id>
 		<title>pagetable[pont]com</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/05/13/pagetable_pont_com/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/05/13/pagetable_pont_com/"/>
 		<updated>2009-05-13T11:20:54Z</updated>
 		<published>2009-05-13T11:20:54Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
-		<category scheme="https://ktamas.github.io/tags" term="geekdom" label="geekdom"/>
+		<category scheme="https://blog.ktamas.com/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
+		<category scheme="https://blog.ktamas.com/tags" term="geekdom" label="geekdom"/>
 		<summary>Apple switched their computers from using Motorola 68K processors to Motorola/IBM PowerPC processors between 1994 and 1996. Since the Macintosh operating system, called System 7 at that time, was mostly written in 68K assembly, it could not be easily converted into a PowerPC operating system. Instead, most of the system was run in emulation: The new “nanokernel” handled and dispatched interrupts and did some basic memory management to abstract away the PowerPC, and the tightly integrated 68K emulator ran the old operating system code, which was modified to hook into the nanokernel for interrupts and memory management.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<blockquote>
 <p>Apple switched their computers from using Motorola 68K processors to Motorola/IBM PowerPC processors between 1994 and 1996. Since the Macintosh operating system, called System 7 at that time, was mostly written in 68K assembly, it could not be easily converted into a PowerPC operating system. Instead, most of the system was run in emulation: The new “nanokernel” handled and dispatched interrupts and did some basic memory management to abstract away the PowerPC, and the tightly integrated 68K emulator ran the old operating system code, which was modified to hook into the nanokernel for interrupts and memory management. So System 7.1.2 for PowerPC was basically a paravirtualized operating system running inside emulation on top of a very thin hypervisor. ****(<a href="http://www.pagetable.com/?p=152" target="_blank">The History of OS Migration</a>)</p>
 </blockquote>
@@ -238,44 +238,44 @@ via Daily Vim: Text Editor Tips, Tricks, Tutorials, and HOWTOs: Vi Mode in Readl
 <p>(Credits: <a href="http://plastik.hu" target="_blank">Angyalnap</a> osztotta meg readeren.)</p>
 
 <footer>
-    <a title="Permanent link to “pagetable[pont]com”" href="https://ktamas.github.io/index.php/2009/05/13/pagetable_pont_com/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “pagetable[pont]com”" href="https://blog.ktamas.com/index.php/2009/05/13/pagetable_pont_com/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
-                <li><a href="https://ktamas.github.io/tags/geekdom/">geekdom</a></li>
+                <li><a href="https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
+                <li><a href="https://blog.ktamas.com/tags/geekdom/">geekdom</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2009/01/11/1234567890/</id>
+		<id>https://blog.ktamas.com/index.php/2009/01/11/1234567890/</id>
 		<title>1234567890</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/01/11/1234567890/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/01/11/1234567890/"/>
 		<updated>2009-01-11T15:20:18Z</updated>
 		<published>2009-01-11T15:20:18Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="geekdom" label="geekdom"/>
-		<category scheme="https://ktamas.github.io/tags" term="linux" label="linux"/>
+		<category scheme="https://blog.ktamas.com/tags" term="geekdom" label="geekdom"/>
+		<category scheme="https://blog.ktamas.com/tags" term="linux" label="linux"/>
 		<summary>Andrei összerakott egy visszaszámlálót, amely abban a pillanatban éri el a 0-t, mikor az aktuális Unix timestamp 1234567890 lesz.
 Az Unix timestampet 1970. január 1-től számítjuk, a másodpercek számolásával, a részletes leírása itt olvasható, a lényeg hogy sacc/kb 33 nap és pár óra mulva lesz az 1234567890. másodperc ami egy szép, kerek szám. Ehhez kapcsolódik a Y2K38 is, lehet egyszer arról is írok…</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p><a href="http://turulcsirip.hu/user/andreisen/" target="_blank">Andrei</a> összerakott egy <a href="http://cntdwn.eu/" target="_blank">visszaszámlálót</a>, amely abban a pillanatban éri el a 0-t, mikor az aktuális Unix timestamp 1234567890 lesz.</p>
 
 <p>Az Unix timestampet 1970. január 1-től számítjuk, a másodpercek számolásával, a részletes leírása <a href="http://en.wikipedia.org/wiki/Unix_time" target="_blank">itt olvasható</a>, a lényeg hogy sacc/kb 33 nap és pár óra mulva lesz az 1234567890. másodperc ami egy szép, kerek szám. Ehhez kapcsolódik a <a href="http://en.wikipedia.org/wiki/Year_2038_problem" target="_blank">Y2K38</a> is, lehet egyszer arról is írok&#8230;</p>
 
 <footer>
-    <a title="Permanent link to “1234567890”" href="https://ktamas.github.io/index.php/2009/01/11/1234567890/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “1234567890”" href="https://blog.ktamas.com/index.php/2009/01/11/1234567890/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/geekdom/">geekdom</a></li>
-                <li><a href="https://ktamas.github.io/tags/linux/">linux</a></li>
+                <li><a href="https://blog.ktamas.com/tags/geekdom/">geekdom</a></li>
+                <li><a href="https://blog.ktamas.com/tags/linux/">linux</a></li>
             </ul>
         </div>
 </footer>]]></content>

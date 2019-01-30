@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
-	<id>https://ktamas.github.io/tags/v%C3%A1llalkozunk/</id>
+	<id>https://blog.ktamas.com/tags/v%C3%A1llalkozunk/</id>
 	<title>vállalkozunk on KTamas&#39; blog</title>
 	<subtitle>An ongoing list of KTamas' blog posts about vállalkozunk</subtitle>
 	<updated>2013-07-22T10:30:25Z</updated>
-	<link rel="self" type="application/atom+xml" href="https://ktamas.github.io/tags/v%C3%A1llalkozunk/feed.xml"/>
-	<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/v%C3%A1llalkozunk/"/>
-	<link rel="alternate" type="application/json" href="https://ktamas.github.io/tags/v%C3%A1llalkozunk/feed.json"/>
+	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/v%C3%A1llalkozunk/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/v%C3%A1llalkozunk/"/>
+	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/v%C3%A1llalkozunk/feed.json"/>
 	<author>
 		<name>KTamas</name>
-		<uri>https://ktamas.github.io/</uri>
+		<uri>https://blog.ktamas.com/</uri>
 	</author>
 	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
-	<icon>"https://ktamas.github.io/icon-512x512.png"</icon>
+	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2013/07/22/ceges-dolgok/</id>
+		<id>https://blog.ktamas.com/index.php/2013/07/22/ceges-dolgok/</id>
 		<title>Céges dolgok</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/07/22/ceges-dolgok/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/07/22/ceges-dolgok/"/>
 		<updated>2013-07-22T10:30:25Z</updated>
 		<published>2013-07-22T10:30:25Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
-		<category scheme="https://ktamas.github.io/tags" term="v%C3%A1llalkozunk" label="vállalkozunk"/>
+		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://blog.ktamas.com/tags" term="v%C3%A1llalkozunk" label="vállalkozunk"/>
 		<summary>Megjöttek a csütörtökön a papírok az adóhatóságtól, hivatalosan is sole trader (egyéni vállalkozó) vagyok. Mindehez ki kellett tölteni egy kemény négy oldalas nyomtatványt (oké, nehezítésképpen svédül volt, kaptam segítsét), majd még pluszba meggyőzni őket, hogy az elején, amikor gőzőm sincs mennyit fogok keresni, ne kelljen előre ÁFÁ-t (?) fizetnem, ez érvényes is jövő januárig, akkor már sokkal több fogalmam lesz a dologról. Amíg be nem töltöm a 26-ot, kapok adókedvezményeket, adóbevallanom ha minden jól megy, csak 2015-ben kell először, és van lehetőségem egyszerűsített adóbevallásra is, évi egyszer.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Megjöttek a csütörtökön a papírok az adóhatóságtól, hivatalosan is <em>sole trader</em> (egyéni vállalkozó) vagyok. Mindehez ki kellett tölteni egy kemény négy oldalas nyomtatványt (oké, nehezítésképpen svédül volt, kaptam segítsét), majd még pluszba meggyőzni őket, hogy az elején, amikor gőzőm sincs mennyit fogok keresni, ne kelljen előre ÁFÁ-t (?) fizetnem, ez érvényes is jövő januárig, akkor már sokkal több fogalmam lesz a dologról. Amíg be nem töltöm a 26-ot, kapok adókedvezményeket, adóbevallanom ha minden jól megy, csak 2015-ben kell először, és van lehetőségem egyszerűsített adóbevallásra is, évi egyszer. Ja, és mindez egy fillérembe se került.</p>
 
 <p>Még kell nyitnom a bankomba minimum egy, de inkább két számlát a saját kontómhoz &#8212; egyikre gyűjtöm a céges pénzeket, a másikra az áfát &#8211;, de amúgy ez se kötelező, csak hát egyértelmű okokból erősen ajánlott szétválasztani a dolgokat. A könyvelésben meg a számlázásban az elején segíteni fog a Kommunicera, meg minden másban is van segítségem egy rakat embertől, csak még meg kell tanulnom kicsit jobban kérni ezt.</p>
@@ -36,35 +36,35 @@
 <p>Ami biztos, hogy erősen át kell alakítanom, ahogy dolgozok, így az első héten erősen összefolytak a dolgok, persze ez kialakul, de egyébként is meg kell tanulnom sokkal jobban managelni az időmet, meg a feladataimat, meg magamat. Ami persze nem megy egyik napról a másikra de szépen, lassan.</p>
 
 <footer>
-    <a title="Permanent link to “Céges dolgok”" href="https://ktamas.github.io/index.php/2013/07/22/ceges-dolgok/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Céges dolgok”" href="https://blog.ktamas.com/index.php/2013/07/22/ceges-dolgok/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
-                <li><a href="https://ktamas.github.io/tags/v%C3%A1llalkozunk/">vállalkozunk</a></li>
+                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://blog.ktamas.com/tags/v%C3%A1llalkozunk/">vállalkozunk</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2013/07/16/a-munkarol/</id>
+		<id>https://blog.ktamas.com/index.php/2013/07/16/a-munkarol/</id>
 		<title>A munkáról</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/07/16/a-munkarol/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/07/16/a-munkarol/"/>
 		<updated>2013-07-16T10:10:53Z</updated>
 		<published>2013-07-16T10:10:53Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
-		<category scheme="https://ktamas.github.io/tags" term="v%C3%A1llalkozunk" label="vállalkozunk"/>
+		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://blog.ktamas.com/tags" term="v%C3%A1llalkozunk" label="vállalkozunk"/>
 		<summary>Költözés volt az irodában, ami végülis jó, mert mostmár Ulrika előtt ülök, és sokkal közelebbről tudunk egymással Skype-on csetelni. Ennek örömére kidekoráltam kicsit a cubicle-öm (mondjatok erre magyar szót) a munkahelyemen, csak két poszter került ki, és egyik se Dilbert. Kicsit furcsa kontraszt, még én is gondolkozok, hogy lehetne jobban, de minkettőnek érzem létjogosultságát.
 
 Ettől a héttél kezdve vagyok az új felállásban, három napot dolgozok a Kommunicerának, a maradék időmben pedig fel kell építenem egy konzultációs vállalkozást, apróságok.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Költözés volt az irodában, ami végülis jó, mert mostmár Ulrika előtt ülök, és sokkal közelebbről tudunk egymással Skype-on csetelni. Ennek örömére kidekoráltam kicsit a cubicle-öm (mondjatok erre magyar szót) a munkahelyemen, csak két poszter került ki, és egyik se Dilbert. Kicsit furcsa kontraszt, még én is gondolkozok, hogy lehetne jobban, de minkettőnek érzem létjogosultságát.</p>
 
 <p><a href="/wp-content/uploads/2013/07/a6afab56e4a211e2bd6e22000aaa07e4_7.jpg"><img src="/wp-content/uploads/2013/07/a6afab56e4a211e2bd6e22000aaa07e4_7.jpg" alt="a6afab56e4a211e2bd6e22000aaa07e4_7" width="612" height="612" class="aligncenter size-full wp-image-2364951" srcset="/wp-content/uploads/2013/07/a6afab56e4a211e2bd6e22000aaa07e4_7.jpg 612w, /wp-content/uploads/2013/07/a6afab56e4a211e2bd6e22000aaa07e4_7-150x150.jpg 150w, /wp-content/uploads/2013/07/a6afab56e4a211e2bd6e22000aaa07e4_7-300x300.jpg 300w" sizes="(max-width: 612px) 100vw, 612px" /></a></p>
@@ -76,14 +76,14 @@ Ettől a héttél kezdve vagyok az új felállásban, három napot dolgozok a Ko
 <p>Aztán most a saját főnököm leszek, hát, nem irigylem magamat&#8230;</p>
 
 <footer>
-    <a title="Permanent link to “A munkáról”" href="https://ktamas.github.io/index.php/2013/07/16/a-munkarol/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “A munkáról”" href="https://blog.ktamas.com/index.php/2013/07/16/a-munkarol/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
-                <li><a href="https://ktamas.github.io/tags/v%C3%A1llalkozunk/">vállalkozunk</a></li>
+                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://blog.ktamas.com/tags/v%C3%A1llalkozunk/">vállalkozunk</a></li>
             </ul>
         </div>
 </footer>]]></content>

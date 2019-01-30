@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
-	<id>https://ktamas.github.io/tags/ubuntu/</id>
+	<id>https://blog.ktamas.com/tags/ubuntu/</id>
 	<title>ubuntu on KTamas&#39; blog</title>
 	<subtitle>An ongoing list of KTamas' blog posts about ubuntu</subtitle>
 	<updated>2009-05-09T10:30:35Z</updated>
-	<link rel="self" type="application/atom+xml" href="https://ktamas.github.io/tags/ubuntu/feed.xml"/>
-	<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/ubuntu/"/>
-	<link rel="alternate" type="application/json" href="https://ktamas.github.io/tags/ubuntu/feed.json"/>
+	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/ubuntu/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/ubuntu/"/>
+	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/ubuntu/feed.json"/>
 	<author>
 		<name>KTamas</name>
-		<uri>https://ktamas.github.io/</uri>
+		<uri>https://blog.ktamas.com/</uri>
 	</author>
 	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
-	<icon>"https://ktamas.github.io/icon-512x512.png"</icon>
+	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2009/05/09/hetyke_nyultilop/</id>
+		<id>https://blog.ktamas.com/index.php/2009/05/09/hetyke_nyultilop/</id>
 		<title>Hetyke Nyúltilop</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/05/09/hetyke_nyultilop/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/05/09/hetyke_nyultilop/"/>
 		<updated>2009-05-09T10:30:35Z</updated>
 		<published>2009-05-09T10:30:35Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="linux" label="linux"/>
-		<category scheme="https://ktamas.github.io/tags" term="ubuntu" label="ubuntu"/>
-		<category scheme="https://ktamas.github.io/tags" term="windows" label="windows"/>
+		<category scheme="https://blog.ktamas.com/tags" term="linux" label="linux"/>
+		<category scheme="https://blog.ktamas.com/tags" term="ubuntu" label="ubuntu"/>
+		<category scheme="https://blog.ktamas.com/tags" term="windows" label="windows"/>
 		<summary>Szóval eljött az április, és eljött az Ubuntu 9.04 is, a próba kedvéért felraktam mind az asztali (munkahelyi) gépemre, mind a laptopomra. Az eredmények, nos, vegyesek.
 Asztali gép: wifi nincs, viszont van videókártya (hehe), mégpedig ATi, abból is egy X300. A rendszer telepítés után nem hajlandó bekapcsolni a Compizt, a restricted drivers nem mutat semmit. Felrakom manuálisan a bináris drivert, halál, vesa módba kell kapcsolnom az X-et hogy újra életre keljen.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Szóval eljött az április, és eljött az Ubuntu 9.04 is, a próba kedvéért felraktam mind az asztali (munkahelyi) gépemre, mind a laptopomra. Az eredmények, nos, vegyesek.</p>
 
 <p>Asztali gép: wifi nincs, viszont van videókártya (hehe), mégpedig ATi, abból is egy X300. A rendszer telepítés után nem hajlandó bekapcsolni a Compizt, a restricted drivers nem mutat semmit. Felrakom manuálisan a bináris drivert, halál, vesa módba kell kapcsolnom az X-et hogy újra életre keljen. Fél óra nyomozás után ellentmondásos információkat kapok, a legigéretesebbnek az tűnik, hogy ez a driver már nem támogatja az X300-at, csak azt nem sikerül megtudni, hogy akkor mi is. Itt jegyezném meg, hogy nem tudom, komolyan gondolták-e, hogy alapból kikapcsolva van a Ctrl+Alt+Backspace billkombó, de viccnek durva.</p>
@@ -43,34 +43,34 @@ Asztali gép: wifi nincs, viszont van videókártya (hehe), mégpedig ATi, abbó
 <p>Mindenesetre, ha helyreáll az asztali gép, nem kizárt, hogy tovább fogom használni, már amikor tudom, mert hosszútávon nincs értelme annak, ha az egyetlen nyitott ablak egy terminal services client valamelyik virtgépünkre&#8230;</p>
 
 <footer>
-    <a title="Permanent link to “Hetyke Nyúltilop”" href="https://ktamas.github.io/index.php/2009/05/09/hetyke_nyultilop/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Hetyke Nyúltilop”" href="https://blog.ktamas.com/index.php/2009/05/09/hetyke_nyultilop/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/linux/">linux</a></li>
-                <li><a href="https://ktamas.github.io/tags/ubuntu/">ubuntu</a></li>
-                <li><a href="https://ktamas.github.io/tags/windows/">windows</a></li>
+                <li><a href="https://blog.ktamas.com/tags/linux/">linux</a></li>
+                <li><a href="https://blog.ktamas.com/tags/ubuntu/">ubuntu</a></li>
+                <li><a href="https://blog.ktamas.com/tags/windows/">windows</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2009/01/26/a_wind_es_az_ubuntu_esete_pt_1/</id>
+		<id>https://blog.ktamas.com/index.php/2009/01/26/a_wind_es_az_ubuntu_esete_pt_1/</id>
 		<title>A Wind és az Ubuntu esete, pt. 1</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/01/26/a_wind_es_az_ubuntu_esete_pt_1/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/01/26/a_wind_es_az_ubuntu_esete_pt_1/"/>
 		<updated>2009-01-26T09:43:08Z</updated>
 		<published>2009-01-26T09:43:08Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="linux" label="linux"/>
-		<category scheme="https://ktamas.github.io/tags" term="ubuntu" label="ubuntu"/>
-		<category scheme="https://ktamas.github.io/tags" term="wind" label="wind"/>
+		<category scheme="https://blog.ktamas.com/tags" term="linux" label="linux"/>
+		<category scheme="https://blog.ktamas.com/tags" term="ubuntu" label="ubuntu"/>
+		<category scheme="https://blog.ktamas.com/tags" term="wind" label="wind"/>
 		<summary>Szóval a hétvégén játszottam kicsit az Ubuntuval apám Windjén a Wubi segítségével és tulajdonképp nem volt rossz. Maga a rendszer 20 perc alatt felment sans letöltés, és majdnem minden hardvert azonnal felismert, es 5 perc google után megvolt a wifi is ami már-már scifibe illik.
 A legkisebb rossz jegyében a Gnome-ot választottam, a KDE4-et megnéztem a múltkor a winden és amellett, hogy lassú volt, usability szempontból szintén, khm, viszonylag hátul szerepelt a sorban.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Szóval a hétvégén játszottam kicsit az Ubuntuval apám Windjén a <a href="http://wubi.sf.net" target="_blank">Wubi</a> segítségével és tulajdonképp nem volt rossz. Maga a rendszer 20 perc alatt felment sans letöltés, és majdnem minden hardvert azonnal felismert, es 5 perc google után megvolt a wifi is ami már-már scifibe illik.</p>
 
 <p>A legkisebb rossz jegyében a Gnome-ot választottam, a KDE4-et megnéztem a múltkor a winden és amellett, hogy lassú volt, usability szempontból szintén, khm, viszonylag hátul szerepelt a sorban. Gyorsan könnyes búcsút vettem az alsó taskbarszerüségtől (a futó programok felkerültek a felső menüsorra), majd felraktam a Gnome Do-t és kellemeset csalódtam: kiváló Quicksilver-klón, rakat pluginnal, és legalább annyira kézre áll.</p>
@@ -82,14 +82,14 @@ A legkisebb rossz jegyében a Gnome-ot választottam, a KDE4-et megnéztem a mú
 <p>Ettől független lehet, hogy hamarosan beszerzek magamnak is egy ilyen kis gépet, főleg mert pl. a Windows 7 (is) nagyon jól fut rajta :)</esc></p>
 
 <footer>
-    <a title="Permanent link to “A Wind és az Ubuntu esete, pt. 1”" href="https://ktamas.github.io/index.php/2009/01/26/a_wind_es_az_ubuntu_esete_pt_1/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “A Wind és az Ubuntu esete, pt. 1”" href="https://blog.ktamas.com/index.php/2009/01/26/a_wind_es_az_ubuntu_esete_pt_1/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/linux/">linux</a></li>
-                <li><a href="https://ktamas.github.io/tags/ubuntu/">ubuntu</a></li>
-                <li><a href="https://ktamas.github.io/tags/wind/">wind</a></li>
+                <li><a href="https://blog.ktamas.com/tags/linux/">linux</a></li>
+                <li><a href="https://blog.ktamas.com/tags/ubuntu/">ubuntu</a></li>
+                <li><a href="https://blog.ktamas.com/tags/wind/">wind</a></li>
             </ul>
         </div>
 </footer>]]></content>

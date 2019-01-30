@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
-	<id>https://ktamas.github.io/tags/javascript/</id>
+	<id>https://blog.ktamas.com/tags/javascript/</id>
 	<title>javascript on KTamas&#39; blog</title>
 	<subtitle>An ongoing list of KTamas' blog posts about javascript</subtitle>
 	<updated>2011-05-05T23:58:46Z</updated>
-	<link rel="self" type="application/atom+xml" href="https://ktamas.github.io/tags/javascript/feed.xml"/>
-	<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/javascript/"/>
-	<link rel="alternate" type="application/json" href="https://ktamas.github.io/tags/javascript/feed.json"/>
+	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/javascript/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/javascript/"/>
+	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/javascript/feed.json"/>
 	<author>
 		<name>KTamas</name>
-		<uri>https://ktamas.github.io/</uri>
+		<uri>https://blog.ktamas.com/</uri>
 	</author>
 	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
-	<icon>"https://ktamas.github.io/icon-512x512.png"</icon>
+	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2011/05/05/iframek-es-popupok-toredekek-a-fejleszto-naplojabol/</id>
+		<id>https://blog.ktamas.com/index.php/2011/05/05/iframek-es-popupok-toredekek-a-fejleszto-naplojabol/</id>
 		<title>iframek es popupok (toredekek a fejleszto naplojabol)</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2011/05/05/iframek-es-popupok-toredekek-a-fejleszto-naplojabol/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2011/05/05/iframek-es-popupok-toredekek-a-fejleszto-naplojabol/"/>
 		<updated>2011-05-05T23:58:46Z</updated>
 		<published>2011-05-05T23:58:46Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="javascript" label="javascript"/>
-		<category scheme="https://ktamas.github.io/tags" term="programoz%C3%A1s" label="programozás"/>
-		<category scheme="https://ktamas.github.io/tags" term="random" label="random"/>
+		<category scheme="https://blog.ktamas.com/tags" term="javascript" label="javascript"/>
+		<category scheme="https://blog.ktamas.com/tags" term="programoz%C3%A1s" label="programozás"/>
+		<category scheme="https://blog.ktamas.com/tags" term="random" label="random"/>
 		<summary>Van egy iframed, abbol nyit a felhasznalo egy popupot, kulso webszolgaltatassal valo autenikalas celjabol, adsz neki egy callback URL-t, ami viszont ugye a popupba iranyit vissza, te viszont szeretned, ha az iframe tartalma lecserelodjon, majd bezarodjon a popup. Hogy csinalod? Ugy, hogy egy ilyesfajta HTML-t (es benne levo js-t) adsz meg callbacknek:
   <html> <head> <script type=“text/javascript”> var close_and_redirect = function() { if (opener &amp;&amp; !opener.closed) { opener.location.href = “http://localhost:9610/done"; }</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Van egy iframed, abbol nyit a felhasznalo egy popupot, kulso webszolgaltatassal valo autenikalas celjabol, adsz neki egy callback URL-t, ami viszont ugye a popupba iranyit vissza, te viszont szeretned, ha az iframe tartalma lecserelodjon, majd bezarodjon a popup. Hogy csinalod? Ugy, hogy egy ilyesfajta HTML-t (es benne levo js-t) adsz meg callbacknek:</p>
 
 <p><noscript>
@@ -64,14 +64,14 @@
   </p></p>
 
 <footer>
-    <a title="Permanent link to “iframek es popupok (toredekek a fejleszto naplojabol)”" href="https://ktamas.github.io/index.php/2011/05/05/iframek-es-popupok-toredekek-a-fejleszto-naplojabol/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “iframek es popupok (toredekek a fejleszto naplojabol)”" href="https://blog.ktamas.com/index.php/2011/05/05/iframek-es-popupok-toredekek-a-fejleszto-naplojabol/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/javascript/">javascript</a></li>
-                <li><a href="https://ktamas.github.io/tags/programoz%C3%A1s/">programozás</a></li>
-                <li><a href="https://ktamas.github.io/tags/random/">random</a></li>
+                <li><a href="https://blog.ktamas.com/tags/javascript/">javascript</a></li>
+                <li><a href="https://blog.ktamas.com/tags/programoz%C3%A1s/">programozás</a></li>
+                <li><a href="https://blog.ktamas.com/tags/random/">random</a></li>
             </ul>
         </div>
 </footer>]]></content>

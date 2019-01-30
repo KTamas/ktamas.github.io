@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
-	<id>https://ktamas.github.io/tags/kaja/</id>
+	<id>https://blog.ktamas.com/tags/kaja/</id>
 	<title>kaja on KTamas&#39; blog</title>
 	<subtitle>An ongoing list of KTamas' blog posts about kaja</subtitle>
 	<updated>2013-08-10T11:31:41Z</updated>
-	<link rel="self" type="application/atom+xml" href="https://ktamas.github.io/tags/kaja/feed.xml"/>
-	<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/kaja/"/>
-	<link rel="alternate" type="application/json" href="https://ktamas.github.io/tags/kaja/feed.json"/>
+	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/kaja/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/kaja/"/>
+	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/kaja/feed.json"/>
 	<author>
 		<name>KTamas</name>
-		<uri>https://ktamas.github.io/</uri>
+		<uri>https://blog.ktamas.com/</uri>
 	</author>
 	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
-	<icon>"https://ktamas.github.io/icon-512x512.png"</icon>
+	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2013/08/10/a-piacrol-a-bevasarlasrol-es-a-tervezesrol/</id>
+		<id>https://blog.ktamas.com/index.php/2013/08/10/a-piacrol-a-bevasarlasrol-es-a-tervezesrol/</id>
 		<title>A piacról, a bevásárlásról és a tervezésről</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/08/10/a-piacrol-a-bevasarlasrol-es-a-tervezesrol/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/08/10/a-piacrol-a-bevasarlasrol-es-a-tervezesrol/"/>
 		<updated>2013-08-10T11:31:41Z</updated>
 		<published>2013-08-10T11:31:41Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://ktamas.github.io/tags" term="kaja" label="kaja"/>
-		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://blog.ktamas.com/tags" term="kaja" label="kaja"/>
+		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
 		<summary>(Igen, ez a poszt pont egy hetes, de lassan visszatérünk a jelenbe.)
 Az úgy volt, hogy meg kéne tanulnom kicsit tovább tervezni étkezések tekintetében, mint az aktuálisan következő, akkor kicsit kevesebbet kéne járnom boltba, meg sokkal kevesebb időt töltenék el azzal, hogy akkor most mit is egyek. A középtávú cél az, hogy össze tudjam állítani többé-kevésbé egy hétre előre, mit fogok enni.
 Ennek első lépéseként összeírtam legalább részben, hogy mik azok a dolgok, amiket és ahol enni szoktam, utána pedig ma elmentem egyrészt a piacra, másrészt a viszonylag közel lévő igen nagy szupermarketbe félig bevásárolni, félig további ötleteket gyűjteni.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p><em>(Igen, ez a poszt pont egy hetes, de lassan visszatérünk a jelenbe.)</em></p>
 
 <p>Az úgy volt, hogy meg kéne tanulnom kicsit tovább tervezni étkezések tekintetében, mint az aktuálisan következő, akkor kicsit kevesebbet kéne járnom boltba, meg sokkal kevesebb időt töltenék el azzal, hogy akkor most mit is egyek. A középtávú cél az, hogy össze tudjam állítani többé-kevésbé egy hétre előre, mit fogok enni.</p>
@@ -48,36 +48,36 @@ Ennek első lépéseként összeírtam legalább részben, hogy mik azok a dolgo
 <p>Most van kajám a hétvégére, meg valamennyi tán a jövőhétre, meglátjuk, hogy fog haladni meg fejlődni a projekt.</p>
 
 <footer>
-    <a title="Permanent link to “A piacról, a bevásárlásról és a tervezésről”" href="https://ktamas.github.io/index.php/2013/08/10/a-piacrol-a-bevasarlasrol-es-a-tervezesrol/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “A piacról, a bevásárlásról és a tervezésről”" href="https://blog.ktamas.com/index.php/2013/08/10/a-piacrol-a-bevasarlasrol-es-a-tervezesrol/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://ktamas.github.io/tags/kaja/">kaja</a></li>
-                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://blog.ktamas.com/tags/kaja/">kaja</a></li>
+                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2013/08/08/a-ben-jerrysrol/</id>
+		<id>https://blog.ktamas.com/index.php/2013/08/08/a-ben-jerrysrol/</id>
 		<title>A Ben &amp;#038; Jerry&amp;#8217;sről</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/08/08/a-ben-jerrysrol/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/08/08/a-ben-jerrysrol/"/>
 		<updated>2013-08-08T14:39:49Z</updated>
 		<published>2013-08-08T14:39:49Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://ktamas.github.io/tags" term="fagyi" label="fagyi"/>
-		<category scheme="https://ktamas.github.io/tags" term="kaja" label="kaja"/>
-		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
-		<category scheme="https://ktamas.github.io/tags" term="vend%C3%A9gek" label="vendégek"/>
+		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://blog.ktamas.com/tags" term="fagyi" label="fagyi"/>
+		<category scheme="https://blog.ktamas.com/tags" term="kaja" label="kaja"/>
+		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://blog.ktamas.com/tags" term="vend%C3%A9gek" label="vendégek"/>
 		<summary>A Ben &amp; Jerry’s nekem mindig is legenda volt a fagylaltok tekintetében, ódákat zengettek róla az interneten. Ellenben először sehol, utána pedig csak a Culinarisban lehetett beszerezni pesten, méregdrágán, szóval sohasem jutottam el odáig, hogy megkóstoljak akár egyet is. Közben aztán laktózérzékeny lettem, és a laktóztabletták se voltak tökéletesek, így végképp hanyagolva lett a dolog.
 Itt Svédországban a márka termékei azonban minden nagyobb boltban megtalálhatóak, széles választékban, ráadásul itteni viszonylatban nem is igazán drágán: persze, drágább, mint a fagyik nagy része, de egyáltalán nem kiugróan, egy félliteres bödön belőle 49 SEK.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>A Ben &amp; Jerry&#8217;s nekem mindig is legenda volt a fagylaltok tekintetében, ódákat zengettek róla az interneten. Ellenben először sehol, utána pedig csak a Culinarisban lehetett beszerezni pesten, méregdrágán, szóval sohasem jutottam el odáig, hogy megkóstoljak akár egyet is. Közben aztán laktózérzékeny lettem, és a laktóztabletták se voltak tökéletesek, így végképp hanyagolva lett a dolog.</p>
 
 <p>Itt Svédországban a márka termékei azonban minden nagyobb boltban megtalálhatóak, széles választékban, ráadásul itteni viszonylatban nem is igazán drágán: persze, drágább, mint a fagyik nagy része, de egyáltalán nem kiugróan, egy félliteres bödön belőle 49 SEK. Eredetileg azt terveztem, hogy meghívom a vendégeimet rá, én meg csak egy-két falat erejéig kipróbálom; persze az lett belőle, hogy a harmadik kanál után úgy döntöttem, ezt nem lehet abbahagyni, megkerestem a múltkorról megmaradt laktóztablettáimat, és lesz ami lesz, bevettem kettőt, majd belevetettem magamat a fagylaltevésbe.</p>
@@ -91,37 +91,37 @@ Itt Svédországban a márka termékei azonban minden nagyobb boltban megtalálh
 <p>Augusztusban is lesznek vendégeim&#8230;</p>
 
 <footer>
-    <a title="Permanent link to “A Ben &amp;#038; Jerry&amp;#8217;sről”" href="https://ktamas.github.io/index.php/2013/08/08/a-ben-jerrysrol/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “A Ben &amp;#038; Jerry&amp;#8217;sről”" href="https://blog.ktamas.com/index.php/2013/08/08/a-ben-jerrysrol/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://ktamas.github.io/tags/fagyi/">fagyi</a></li>
-                <li><a href="https://ktamas.github.io/tags/kaja/">kaja</a></li>
-                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
-                <li><a href="https://ktamas.github.io/tags/vend%C3%A9gek/">vendégek</a></li>
+                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://blog.ktamas.com/tags/fagyi/">fagyi</a></li>
+                <li><a href="https://blog.ktamas.com/tags/kaja/">kaja</a></li>
+                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://blog.ktamas.com/tags/vend%C3%A9gek/">vendégek</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2013/06/26/flashback-egy-jo-hamburger-goteborgban/</id>
+		<id>https://blog.ktamas.com/index.php/2013/06/26/flashback-egy-jo-hamburger-goteborgban/</id>
 		<title>Flashback: Egy jó hamburger Götebörgban</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/06/26/flashback-egy-jo-hamburger-goteborgban/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/06/26/flashback-egy-jo-hamburger-goteborgban/"/>
 		<updated>2013-06-26T11:18:09Z</updated>
 		<published>2013-06-26T11:18:09Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://ktamas.github.io/tags" term="kaja" label="kaja"/>
-		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://blog.ktamas.com/tags" term="kaja" label="kaja"/>
+		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
 		<summary>Rendszeres olvasók bizonyára észrevették, hogy fájdalmas pont volt számomra az a tény, hogy a városban egyszerűen nem lehet egy igazán jó hamburgert enni. Nem egyszer írtam már erről, sikerült is találni olyat, ami úgy-ahogy nem volt rossz, sőt, ha a városban nem is, az országban már sikerült enni igazán jót, még Stockholmban. Egészen mostanáig, amikor is elmentem a Berså nevű helyre.
 
 A fenti képet afféle emlékeztetőnek lőttem magamnak még, mikor megláttam, Real American Burgers, hírdeti, oké, próbáljuk meg, hátha, hátha.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Rendszeres olvasók bizonyára észrevették, hogy fájdalmas pont volt számomra az a tény, hogy a városban egyszerűen nem lehet egy igazán jó hamburgert enni. <a href="http://blog.ktamas.com/index.php/2013/03/08/megjottem-stockholmba-pentek/">Nem egyszer</a> <a href="http://blog.ktamas.com/index.php/2013/04/20/irrital/">írtam már erről</a>, sikerült is találni olyat, ami <a href="http://blog.ktamas.com/index.php/2013/05/05/valborg-kedd/">úgy-ahogy nem volt rossz</a>, sőt, ha a városban nem is, az országban már sikerült enni igazán jót, <a href="http://blog.ktamas.com/index.php/2013/03/10/vasarnap-draft/">még Stockholmban</a>. Egészen mostanáig, amikor is elmentem a <a href="http://www.bersagbg.se/burger-joint/">Berså</a> nevű helyre.</p>
 
 <p><a href="/wp-content/uploads/2013/06/6362c9e6d5b111e2a8c922000a1fc80c_7.jpg"><img src="/wp-content/uploads/2013/06/6362c9e6d5b111e2a8c922000a1fc80c_7.jpg" alt="6362c9e6d5b111e2a8c922000a1fc80c_7" width="612" height="612" class="aligncenter size-full wp-image-2364866" srcset="/wp-content/uploads/2013/06/6362c9e6d5b111e2a8c922000a1fc80c_7.jpg 612w, /wp-content/uploads/2013/06/6362c9e6d5b111e2a8c922000a1fc80c_7-150x150.jpg 150w, /wp-content/uploads/2013/06/6362c9e6d5b111e2a8c922000a1fc80c_7-300x300.jpg 300w" sizes="(max-width: 612px) 100vw, 612px" /></a></p>
@@ -133,32 +133,32 @@ A fenti képet afféle emlékeztetőnek lőttem magamnak még, mikor megláttam,
 <p>Az árak is rendbe voltak: drágább, mint egy ebédlőhely (bár van 99 SEK-es ebédmenüjük, de ahhoz sajnos kiesik a hely), de az egészért fizettem olyan 220 SEK-et, itallal, borravalóval. Ja, és legközelebb lefotózom a hamburgert is.</p>
 
 <footer>
-    <a title="Permanent link to “Flashback: Egy jó hamburger Götebörgban”" href="https://ktamas.github.io/index.php/2013/06/26/flashback-egy-jo-hamburger-goteborgban/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Flashback: Egy jó hamburger Götebörgban”" href="https://blog.ktamas.com/index.php/2013/06/26/flashback-egy-jo-hamburger-goteborgban/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://ktamas.github.io/tags/kaja/">kaja</a></li>
-                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://blog.ktamas.com/tags/kaja/">kaja</a></li>
+                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2013/05/10/yiddishe-mamma-mia/</id>
+		<id>https://blog.ktamas.com/index.php/2013/05/10/yiddishe-mamma-mia/</id>
 		<title>Yiddishe Mamma Mia</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/05/10/yiddishe-mamma-mia/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/05/10/yiddishe-mamma-mia/"/>
 		<updated>2013-05-10T14:28:05Z</updated>
 		<published>2013-05-10T14:28:05Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="kaja" label="kaja"/>
+		<category scheme="https://blog.ktamas.com/tags" term="kaja" label="kaja"/>
 		<summary>Úgy gondoltam, hogy ez az étterem megérdemel egy külön irományt (leginkább, mert elfelejtettem megírni az előző posztba). Még szerdán voltunk a Yiddishe Mamma Mia nevű étteremben pár jelenlegi és pár volt kollégával (és jelenlegi baráttal), és egy hatalmas élmény volt.
 Maga az étterem, mint azt a neve részben mutatja, egy zsidó-olasz-magyar fúziós konyha (tudom, sznobul hangzik). Van tehát mindenféle tészta, a húsoknál jogosan túlreprezentált a liba, és még ki tudja, mennyiféle étel, jó sok oldalból áll a menüjük, nagyon széles a választék, érdemes végigböngészni.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Úgy gondoltam, hogy ez az étterem megérdemel egy külön irományt <del datetime="2013-05-10T12:08:25+00:00">(leginkább, mert elfelejtettem megírni az előző posztba)</del>. Még szerdán voltunk a <a href="http://ymmrestaurant.com">Yiddishe Mamma Mia</a> nevű étteremben pár jelenlegi és pár volt kollégával (és jelenlegi baráttal), és egy hatalmas élmény volt.</p>
 
 <p>Maga az étterem, mint azt a neve részben mutatja, egy zsidó-olasz-magyar <em>fúziós konyha</em> (tudom, sznobul hangzik). Van tehát mindenféle tészta, a húsoknál jogosan túlreprezentált a liba, és még ki tudja, mennyiféle étel, jó sok oldalból áll <a href="http://ymmrestaurant.com/?page_id=14">a menüjük</a>, nagyon széles a választék, érdemes végigböngészni.</p>
@@ -176,32 +176,32 @@ Maga az étterem, mint azt a neve részben mutatja, egy zsidó-olasz-magyar fúz
 <p><em>(disclosure: ezért a posztért nem fizetett nekem senki. sajnos.)</em></p>
 
 <footer>
-    <a title="Permanent link to “Yiddishe Mamma Mia”" href="https://ktamas.github.io/index.php/2013/05/10/yiddishe-mamma-mia/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Yiddishe Mamma Mia”" href="https://blog.ktamas.com/index.php/2013/05/10/yiddishe-mamma-mia/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/kaja/">kaja</a></li>
+                <li><a href="https://blog.ktamas.com/tags/kaja/">kaja</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2013/03/29/pasklunch-kepriport/</id>
+		<id>https://blog.ktamas.com/index.php/2013/03/29/pasklunch-kepriport/</id>
 		<title>Påsklunch: képriport</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/03/29/pasklunch-kepriport/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/03/29/pasklunch-kepriport/"/>
 		<updated>2013-03-29T16:25:32Z</updated>
 		<published>2013-03-29T16:25:32Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://ktamas.github.io/tags" term="kaja" label="kaja"/>
-		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://blog.ktamas.com/tags" term="kaja" label="kaja"/>
+		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
 		<summary>A påsklunch svéd húsvéti szokás: az emberek összegyűlnek, mindenki hoz valamit, majd közösen elfogyasztják ezeket.
 “a kajákat a blogba magyarázattal plíz”, mondta Veve, hát akkor, ezek voltak a mi påsklunchunkon. A képek minőségéért elnézést kérek, a dokumentálásra mentem rá nagyon, nem a fotóművészeti aspektusra:Középen a már korábban emlegetett påskmust, az ünnepekkor fogyasztott nemzeti ital. Olyan, mint a kóla, csak szörnyű az íze. Ez asszem Camambert sajt, mindenféle dolgokkal megszórva. Főtt tojás kaviárral.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>A påsklunch svéd húsvéti szokás: az emberek összegyűlnek, mindenki hoz valamit, majd közösen elfogyasztják ezeket.</p>
 
 <p>&#8220;a kajákat a blogba magyarázattal plíz&#8221;, mondta Veve, hát akkor, ezek voltak a mi påsklunchunkon. A képek minőségéért elnézést kérek, a dokumentálásra mentem rá nagyon, nem a fotóművészeti aspektusra:<figure id="attachment_2364167" style="width: 625px" class="wp-caption aligncenter"></p>
@@ -213,34 +213,34 @@ Maga az étterem, mint azt a neve részben mutatja, egy zsidó-olasz-magyar fúz
 <p>Összességében élveztem a dolgot, bár ezt a hal dolgot még erősen szoknom kell, a lazacot már megeszem, de azt könnyű, mindenki azt mondja, hogy az a legkevésbé halízű hal. A heringből a mustáros egészen jó volt, bár ahhoz kell valami jó köret, kollégák szerint knackebröddel egészen jó.</p>
 
 <footer>
-    <a title="Permanent link to “Påsklunch: képriport”" href="https://ktamas.github.io/index.php/2013/03/29/pasklunch-kepriport/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Påsklunch: képriport”" href="https://blog.ktamas.com/index.php/2013/03/29/pasklunch-kepriport/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://ktamas.github.io/tags/kaja/">kaja</a></li>
-                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://blog.ktamas.com/tags/kaja/">kaja</a></li>
+                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2009/10/09/a_honap_telefonbeszelgetese_de_jo_a_kaja/</id>
+		<id>https://blog.ktamas.com/index.php/2009/10/09/a_honap_telefonbeszelgetese_de_jo_a_kaja/</id>
 		<title>A hónap telefonbeszelgetése (de jó a kaja!)</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/10/09/a_honap_telefonbeszelgetese_de_jo_a_kaja/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/10/09/a_honap_telefonbeszelgetese_de_jo_a_kaja/"/>
 		<updated>2009-10-09T14:15:40Z</updated>
 		<published>2009-10-09T14:15:40Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="kaja" label="kaja"/>
-		<category scheme="https://ktamas.github.io/tags" term="random" label="random"/>
+		<category scheme="https://blog.ktamas.com/tags" term="kaja" label="kaja"/>
+		<category scheme="https://blog.ktamas.com/tags" term="random" label="random"/>
 		<summary>Szóval az egész úgy kezdődött hogy tegnap @koocos betwittelte, hogy van ilyen underground hiperminimál kajaszállító, és hogy jó, és tényleg, egy egészen finom füstölt sajtos lasagnet ettem ma, be is rendeltem 1-2 dolgot jövőhétre, tegyétek ti is itten.
 De a lényeg csak most következik, ugyanis 2 perccel azután, hogy letettem a villát, és elkezdtem volna a délutáni kajakómát dolgozni, csörgött a telefonom:
  – Hello, a futár vagyok, meghoztam a kaját!</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Szóval az egész úgy kezdődött hogy tegnap <a href="http://twitter.com/koocos" target="_blank">@koocos</a> <a href="http://twitter.com/koocos/status/4705669632" target="_blank">betwittelte</a>, hogy van ilyen <em>underground</em> hiperminimál kajaszállító, és hogy jó, és tényleg, egy egészen finom füstölt sajtos lasagnet ettem ma, be is rendeltem 1-2 dolgot jövőhétre, tegyétek ti is <a href="http://ketkeretkem.sod.hu/">itten</a>.</p>
 
 <p>De a lényeg csak most következik, ugyanis 2 perccel azután, hogy letettem a villát, és elkezdtem volna <span style="text-decoration: line-through;">a délutáni kajakómát</span> dolgozni, csörgött a telefonom:</p>
@@ -272,13 +272,13 @@ De a lényeg csak most következik, ugyanis 2 perccel azután, hogy letettem a v
 </blockquote>
 
 <footer>
-    <a title="Permanent link to “A hónap telefonbeszelgetése (de jó a kaja!)”" href="https://ktamas.github.io/index.php/2009/10/09/a_honap_telefonbeszelgetese_de_jo_a_kaja/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “A hónap telefonbeszelgetése (de jó a kaja!)”" href="https://blog.ktamas.com/index.php/2009/10/09/a_honap_telefonbeszelgetese_de_jo_a_kaja/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/kaja/">kaja</a></li>
-                <li><a href="https://ktamas.github.io/tags/random/">random</a></li>
+                <li><a href="https://blog.ktamas.com/tags/kaja/">kaja</a></li>
+                <li><a href="https://blog.ktamas.com/tags/random/">random</a></li>
             </ul>
         </div>
 </footer>]]></content>

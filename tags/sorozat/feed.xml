@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
-	<id>https://ktamas.github.io/tags/sorozat/</id>
+	<id>https://blog.ktamas.com/tags/sorozat/</id>
 	<title>sorozat on KTamas&#39; blog</title>
 	<subtitle>An ongoing list of KTamas' blog posts about sorozat</subtitle>
 	<updated>2013-07-23T11:20:45Z</updated>
-	<link rel="self" type="application/atom+xml" href="https://ktamas.github.io/tags/sorozat/feed.xml"/>
-	<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/sorozat/"/>
-	<link rel="alternate" type="application/json" href="https://ktamas.github.io/tags/sorozat/feed.json"/>
+	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/sorozat/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/sorozat/"/>
+	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/sorozat/feed.json"/>
 	<author>
 		<name>KTamas</name>
-		<uri>https://ktamas.github.io/</uri>
+		<uri>https://blog.ktamas.com/</uri>
 	</author>
 	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
-	<icon>"https://ktamas.github.io/icon-512x512.png"</icon>
+	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2013/07/23/nyelvtanulasrol-filmekrol-es-sorozatokrol/</id>
+		<id>https://blog.ktamas.com/index.php/2013/07/23/nyelvtanulasrol-filmekrol-es-sorozatokrol/</id>
 		<title>Nyelvtanulásról, filmekről és sorozatokról</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/07/23/nyelvtanulasrol-filmekrol-es-sorozatokrol/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/07/23/nyelvtanulasrol-filmekrol-es-sorozatokrol/"/>
 		<updated>2013-07-23T11:20:45Z</updated>
 		<published>2013-07-23T11:20:45Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://ktamas.github.io/tags" term="film" label="film"/>
-		<category scheme="https://ktamas.github.io/tags" term="sorozat" label="sorozat"/>
-		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://blog.ktamas.com/tags" term="film" label="film"/>
+		<category scheme="https://blog.ktamas.com/tags" term="sorozat" label="sorozat"/>
+		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
 		<summary>Ha sikerülne pár napnál tovább tartanom a dolgot, remek módja lenne a nyelvtanulásnak, hogy szótárt használva — találtam az ájfónra két appot is, a kettő együtt remek — írok embereknek meg olvasok svédül, ellenállva a Google Translate igen erős kisértésének. Vagy annak, hogy szimplán angolul kommunikáljak.
 Köztes megoldásként azt találtam ki, hogy elkezdek nagyobb mennyiségben fogyasztani svéd filmeket meg sorozatokat. Oké, legyünk őszinték, túlzás ezt megoldásnak nevezni, olcsó kifogás inkább, de a semminél több, ha már amúgy is ezzel töltöm a szabadidőm egy fájdalmasan nagy részét, legalább vajmi előnye legyen.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Ha sikerülne pár napnál tovább tartanom a dolgot, remek módja lenne a nyelvtanulásnak, hogy szótárt használva &#8212; találtam az ájfónra két appot is, a kettő együtt remek &#8212; írok embereknek meg olvasok svédül, ellenállva a Google Translate igen erős kisértésének. Vagy annak, hogy szimplán angolul kommunikáljak.</p>
 
 <p>Köztes megoldásként azt találtam ki, hogy elkezdek nagyobb mennyiségben fogyasztani svéd filmeket meg sorozatokat. Oké, legyünk őszinték, túlzás ezt megoldásnak nevezni, olcsó kifogás inkább, de a semminél több, ha már amúgy is ezzel töltöm a szabadidőm egy fájdalmasan nagy részét, legalább vajmi előnye legyen. Feltettem hát a kérdést Facebookon, mit nézzek, kaptam is egy rakat javaslatot, közben magam is gyűjtöttem párat.</p>
@@ -46,35 +46,35 @@ Köztes megoldásként azt találtam ki, hogy elkezdek nagyobb mennyiségben fog
 <p>Ja, a <a href="http://en.wikipedia.org/wiki/Danish_phonology">dán nyelv fonológiája</a> teljesen kész, én tökre örülök, hogy nem azt kell megtanulnom.</p>
 
 <footer>
-    <a title="Permanent link to “Nyelvtanulásról, filmekről és sorozatokról”" href="https://ktamas.github.io/index.php/2013/07/23/nyelvtanulasrol-filmekrol-es-sorozatokrol/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Nyelvtanulásról, filmekről és sorozatokról”" href="https://blog.ktamas.com/index.php/2013/07/23/nyelvtanulasrol-filmekrol-es-sorozatokrol/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://ktamas.github.io/tags/film/">film</a></li>
-                <li><a href="https://ktamas.github.io/tags/sorozat/">sorozat</a></li>
-                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://blog.ktamas.com/tags/film/">film</a></li>
+                <li><a href="https://blog.ktamas.com/tags/sorozat/">sorozat</a></li>
+                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2013/05/01/when-in-doubt-flower-it-out-szombat-1-resz/</id>
+		<id>https://blog.ktamas.com/index.php/2013/05/01/when-in-doubt-flower-it-out-szombat-1-resz/</id>
 		<title>When in doubt, flower it out (szombat, 1. rész)</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/05/01/when-in-doubt-flower-it-out-szombat-1-resz/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/05/01/when-in-doubt-flower-it-out-szombat-1-resz/"/>
 		<updated>2013-05-01T17:41:24Z</updated>
 		<published>2013-05-01T17:41:24Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://ktamas.github.io/tags" term="sorozat" label="sorozat"/>
-		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://blog.ktamas.com/tags" term="sorozat" label="sorozat"/>
+		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
 		<summary>A mai napom jórésze tehát azzal telt, hogy lenyomtam a BBC2 négyrészes, varrós realityjének, a The Great British Sewing Bee-nek az első évadját, amit gazs sózott rám, és meglepő szinten élveztem.
 A sorozat felépítése viszonylag egyszerű: nyolc versenyzővel indulnak, akiket fokozatosan ejtegetnek ki a részek alatt, az utolsó részre a nyolc emberből már csak három maradt. Magában a részben három ruhadarabot varrnak meg: egy alapdolgot minta alapján (“A” szoknya, ing, nadrág etc.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>A mai napom jórésze tehát azzal telt, hogy lenyomtam a BBC2 négyrészes, varrós realityjének, a <a href="http://www.bbc.co.uk/programmes/p0165nj8">The Great British Sewing Bee</a>-nek az első évadját, amit <a href="http://twitter.com/gazs">gazs</a> sózott rám, és meglepő szinten élveztem.</p>
 
 <p>A sorozat felépítése viszonylag egyszerű: nyolc versenyzővel indulnak, akiket fokozatosan ejtegetnek ki a részek alatt, az utolsó részre a nyolc emberből már csak három maradt. Magában a részben három ruhadarabot varrnak meg: egy alapdolgot minta alapján (&#8220;A&#8221; szoknya, ing, nadrág etc.), egyvalamit átalakítanak a saját kreativitásuk szerint, végül pedig jön a legnagyobb falat, amelyben egy komolyabb ruhadarabot kell modellre szabva elkészíteni. Ez utóbbi a <a href="http://en.wikipedia.org/wiki/Made_to_measure">Made to measure</a>, magyarul a méret utáni szabóság.</p>
@@ -84,65 +84,65 @@ A sorozat felépítése viszonylag egyszerű: nyolc versenyzővel indulnak, akik
 <p>Nem vagyok a realityk nagy rajongója, de ez kellően más volt ahhoz, hogy bejöjjön, ha valakit érdekel véletlenül a téma, akkor mindeképp érdemes bepróbálni.</p>
 
 <footer>
-    <a title="Permanent link to “When in doubt, flower it out (szombat, 1. rész)”" href="https://ktamas.github.io/index.php/2013/05/01/when-in-doubt-flower-it-out-szombat-1-resz/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “When in doubt, flower it out (szombat, 1. rész)”" href="https://blog.ktamas.com/index.php/2013/05/01/when-in-doubt-flower-it-out-szombat-1-resz/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://ktamas.github.io/tags/sorozat/">sorozat</a></li>
-                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://blog.ktamas.com/tags/sorozat/">sorozat</a></li>
+                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2011/05/07/john-boutte-the-treme-song/</id>
+		<id>https://blog.ktamas.com/index.php/2011/05/07/john-boutte-the-treme-song/</id>
 		<title>John Boutte &amp;#8211; The Treme Song</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2011/05/07/john-boutte-the-treme-song/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2011/05/07/john-boutte-the-treme-song/"/>
 		<updated>2011-05-07T14:51:58Z</updated>
 		<published>2011-05-07T14:51:58Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
-		<category scheme="https://ktamas.github.io/tags" term="sorozat" label="sorozat"/>
-		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
+		<category scheme="https://blog.ktamas.com/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
+		<category scheme="https://blog.ktamas.com/tags" term="sorozat" label="sorozat"/>
+		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
 		<summary>Volt tavaly egy igen kivalo HBO-s sorozat, a Treme, ami a Katrina utani New Orleansrol szol. A The Wire-rel hiresse valt David Simon csinalta, es a sorozat igenjo karakterdrama lett, jobbnal jobb zenekkel fuszerezve, a masodik evad nemreg kezdodott, hallgassuk is meg az egeszen kivalo introzenet: John Buotte – The Treme Song</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Volt tavaly egy igen kivalo HBO-s sorozat, a Treme, ami a Katrina utani New Orleansrol szol. A The Wire-rel hiresse valt David Simon csinalta, es a sorozat igenjo karakterdrama lett, jobbnal jobb zenekkel fuszerezve, a masodik evad nemreg kezdodott, hallgassuk is meg az egeszen kivalo introzenet: <a href="http://soundcloud.com/tomspeed-1/12-treme-song">John Buotte &#8211; The Treme Song</a></p>
 
 <footer>
-    <a title="Permanent link to “John Boutte &amp;#8211; The Treme Song”" href="https://ktamas.github.io/index.php/2011/05/07/john-boutte-the-treme-song/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “John Boutte &amp;#8211; The Treme Song”" href="https://blog.ktamas.com/index.php/2011/05/07/john-boutte-the-treme-song/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
-                <li><a href="https://ktamas.github.io/tags/sorozat/">sorozat</a></li>
-                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
+                <li><a href="https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
+                <li><a href="https://blog.ktamas.com/tags/sorozat/">sorozat</a></li>
+                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2011/04/17/access-main-computer-file/</id>
+		<id>https://blog.ktamas.com/index.php/2011/04/17/access-main-computer-file/</id>
 		<title>Access Main Computer File</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2011/04/17/access-main-computer-file/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2011/04/17/access-main-computer-file/"/>
 		<updated>2011-04-17T20:21:00Z</updated>
 		<published>2011-04-17T20:21:00Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
-		<category scheme="https://ktamas.github.io/tags" term="random" label="random"/>
-		<category scheme="https://ktamas.github.io/tags" term="sorozat" label="sorozat"/>
+		<category scheme="https://blog.ktamas.com/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
+		<category scheme="https://blog.ktamas.com/tags" term="random" label="random"/>
+		<category scheme="https://blog.ktamas.com/tags" term="sorozat" label="sorozat"/>
 		<summary>A “kiblogolom hogy meglegyen” iskola jegyeben az utobbi idok egyik legjobb tumblija egyertelmuen az Access Main Computer File, ami a kulonbozo filmekben levo hamis szamitogepkepernyoket gyujti, mar most egeszen elkepeszto kollekcioja van.
 Csak reszben kapcsolodik, de nem maradhat ki a mindenfele vegtelensegig elesen zoomolo szamitogepes jelenetek zsenialis parodiaja sem, amit a Red Dwarf kovetett el. UNCROP!
 [ez a video mar nincs.]</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>A &#8220;kiblogolom hogy meglegyen&#8221; iskola jegyeben az utobbi idok egyik legjobb tumblija egyertelmuen az <a href="http://accessmaincomputerfile.net/">Access Main Computer File</a>, ami a kulonbozo filmekben levo hamis szamitogepkepernyoket gyujti, mar most egeszen elkepeszto kollekcioja van.</p>
 
 <p>Csak reszben kapcsolodik, de nem maradhat ki a mindenfele vegtelensegig elesen zoomolo szamitogepes jelenetek zsenialis parodiaja sem, amit a <a href="http://en.wikipedia.org/wiki/Red_Dwarf">Red Dwarf</a> kovetett el. UNCROP!</p>
@@ -150,68 +150,68 @@ Csak reszben kapcsolodik, de nem maradhat ki a mindenfele vegtelensegig elesen z
 <p>[ez a video mar nincs.]</p>
 
 <footer>
-    <a title="Permanent link to “Access Main Computer File”" href="https://ktamas.github.io/index.php/2011/04/17/access-main-computer-file/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Access Main Computer File”" href="https://blog.ktamas.com/index.php/2011/04/17/access-main-computer-file/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
-                <li><a href="https://ktamas.github.io/tags/random/">random</a></li>
-                <li><a href="https://ktamas.github.io/tags/sorozat/">sorozat</a></li>
+                <li><a href="https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
+                <li><a href="https://blog.ktamas.com/tags/random/">random</a></li>
+                <li><a href="https://blog.ktamas.com/tags/sorozat/">sorozat</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2011/02/06/the-naked-and-famous-young-blood/</id>
+		<id>https://blog.ktamas.com/index.php/2011/02/06/the-naked-and-famous-young-blood/</id>
 		<title>The Naked And Famous &amp;#8211; Young Blood</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2011/02/06/the-naked-and-famous-young-blood/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2011/02/06/the-naked-and-famous-young-blood/"/>
 		<updated>2011-02-06T15:16:58Z</updated>
 		<published>2011-02-06T15:16:58Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="random" label="random"/>
-		<category scheme="https://ktamas.github.io/tags" term="sorozat" label="sorozat"/>
-		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
+		<category scheme="https://blog.ktamas.com/tags" term="random" label="random"/>
+		<category scheme="https://blog.ktamas.com/tags" term="sorozat" label="sorozat"/>
+		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
 		<summary>(ez szolt az eheti Chuck vegen)
  </summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>(ez szolt az eheti Chuck vegen)</p>
 
 <iframe src="https://open.spotify.com/embed/track/25nzKGDiua1lE9Qo5V19GL" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 <footer>
-    <a title="Permanent link to “The Naked And Famous &amp;#8211; Young Blood”" href="https://ktamas.github.io/index.php/2011/02/06/the-naked-and-famous-young-blood/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “The Naked And Famous &amp;#8211; Young Blood”" href="https://blog.ktamas.com/index.php/2011/02/06/the-naked-and-famous-young-blood/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/random/">random</a></li>
-                <li><a href="https://ktamas.github.io/tags/sorozat/">sorozat</a></li>
-                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
+                <li><a href="https://blog.ktamas.com/tags/random/">random</a></li>
+                <li><a href="https://blog.ktamas.com/tags/sorozat/">sorozat</a></li>
+                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2011/02/02/groundhog-day-legjobbabb/</id>
+		<id>https://blog.ktamas.com/index.php/2011/02/02/groundhog-day-legjobbabb/</id>
 		<title>Groundhog Day (legjobbabb)</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2011/02/02/groundhog-day-legjobbabb/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2011/02/02/groundhog-day-legjobbabb/"/>
 		<updated>2011-02-02T22:28:24Z</updated>
 		<published>2011-02-02T22:28:24Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="random" label="random"/>
-		<category scheme="https://ktamas.github.io/tags" term="sorozat" label="sorozat"/>
-		<category scheme="https://ktamas.github.io/tags" term="stargate" label="stargate"/>
+		<category scheme="https://blog.ktamas.com/tags" term="random" label="random"/>
+		<category scheme="https://blog.ktamas.com/tags" term="sorozat" label="sorozat"/>
+		<category scheme="https://blog.ktamas.com/tags" term="stargate" label="stargate"/>
 		<summary>Jack: How far is Alaris anyway?
 Teal’c: Several billions miles away.
 Jack: It’s gotta be a record!</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p><a href="/wp-content/uploads/2011/02/stargatehog2.png"><img src="/wp-content/uploads/2011/02/stargatehog2.png" alt="" title="stargatehog2" width="640" height="360" class="aligncenter size-full wp-image-2362371" srcset="/wp-content/uploads/2011/02/stargatehog2.png 640w, /wp-content/uploads/2011/02/stargatehog2-300x168.png 300w" sizes="(max-width: 640px) 100vw, 640px" /></a></p>
 
 <p>Jack: How far is Alaris anyway?</p>
@@ -221,34 +221,34 @@ Jack: It’s gotta be a record!</summary>
 <p>Jack: It&#8217;s gotta be a record!</p>
 
 <footer>
-    <a title="Permanent link to “Groundhog Day (legjobbabb)”" href="https://ktamas.github.io/index.php/2011/02/02/groundhog-day-legjobbabb/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Groundhog Day (legjobbabb)”" href="https://blog.ktamas.com/index.php/2011/02/02/groundhog-day-legjobbabb/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/random/">random</a></li>
-                <li><a href="https://ktamas.github.io/tags/sorozat/">sorozat</a></li>
-                <li><a href="https://ktamas.github.io/tags/stargate/">stargate</a></li>
+                <li><a href="https://blog.ktamas.com/tags/random/">random</a></li>
+                <li><a href="https://blog.ktamas.com/tags/sorozat/">sorozat</a></li>
+                <li><a href="https://blog.ktamas.com/tags/stargate/">stargate</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2010/12/26/fanboysag/</id>
+		<id>https://blog.ktamas.com/index.php/2010/12/26/fanboysag/</id>
 		<title>Doctor Who</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2010/12/26/fanboysag/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2010/12/26/fanboysag/"/>
 		<updated>2010-12-26T16:44:03Z</updated>
 		<published>2010-12-26T16:44:03Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
-		<category scheme="https://ktamas.github.io/tags" term="doctorwho" label="doctorwho"/>
-		<category scheme="https://ktamas.github.io/tags" term="sorozat" label="sorozat"/>
+		<category scheme="https://blog.ktamas.com/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
+		<category scheme="https://blog.ktamas.com/tags" term="doctorwho" label="doctorwho"/>
+		<category scheme="https://blog.ktamas.com/tags" term="sorozat" label="sorozat"/>
 		<summary>A Doctor Whoban az az érdekes dolog, hogy mindenkinek sokszor mereven más a véleménye róla, ez ki is jött madélután a twitteren, emiatt jutott eszembe, h még nem írtam le az enyémet, pedig meg akartam tenni anno, mikor befejeztem a sorozat első négy évadját.
 Utazzunk is vissza az időben cca másfél évet, mikor felfigyelve, hogy több barátom is lelkes Doctor Who rajongó, úgy gondoltam, bepróbálom, leszedtem az első rész, és megnéztem.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>A Doctor Whoban az az érdekes dolog, hogy mindenkinek sokszor mereven más a véleménye róla, ez ki is jött madélután a twitteren, emiatt jutott eszembe, h még nem írtam le az enyémet, pedig meg akartam tenni anno, mikor befejeztem a sorozat első négy évadját.</p>
 
 <p>Utazzunk is vissza az időben cca másfél évet, mikor felfigyelve, hogy több barátom is lelkes Doctor Who rajongó, úgy gondoltam, bepróbálom, leszedtem az első rész, és megnéztem. &#8220;Mi ez a gagyi izé és mit esz rajta ennyi ember?&#8221; &#8211; jegyeztem meg, majd ott is hagytam az egészet. Aztán eltelt egy év, és kijött a Waters of Mars c. negyedik évadbeli special amit valamiért leszedtem (még egy esélyt megérdemelt), és egészen jó volt, és akkor már jött a nagy évadzáró End of Time, ami szintén nem volt rossz (annak ellenére h kb semmit se értettem belőle, naaagy évadzáró, ugye) így leszedtem utána a második évadot (az elsővel rossz emlékeim voltak, de azt is pótoltam később).</p>
@@ -262,127 +262,127 @@ Utazzunk is vissza az időben cca másfél évet, mikor felfigyelve, hogy több 
 <p>És biztos kihagytam még egy rakat dolgot ami utólag fog csak eszembe jutni, de legfeljebb írok mégegy kört, vagy valami.</p>
 
 <footer>
-    <a title="Permanent link to “Doctor Who”" href="https://ktamas.github.io/index.php/2010/12/26/fanboysag/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Doctor Who”" href="https://blog.ktamas.com/index.php/2010/12/26/fanboysag/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
-                <li><a href="https://ktamas.github.io/tags/doctorwho/">doctorwho</a></li>
-                <li><a href="https://ktamas.github.io/tags/sorozat/">sorozat</a></li>
+                <li><a href="https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
+                <li><a href="https://blog.ktamas.com/tags/doctorwho/">doctorwho</a></li>
+                <li><a href="https://blog.ktamas.com/tags/sorozat/">sorozat</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2010/10/17/clear-eyes-full-hearts-cant-lose/</id>
+		<id>https://blog.ktamas.com/index.php/2010/10/17/clear-eyes-full-hearts-cant-lose/</id>
 		<title>Clear eyes, Full hearts, Can&amp;#8217;t lose!</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2010/10/17/clear-eyes-full-hearts-cant-lose/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2010/10/17/clear-eyes-full-hearts-cant-lose/"/>
 		<updated>2010-10-17T10:40:05Z</updated>
 		<published>2010-10-17T10:40:05Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
-		<category scheme="https://ktamas.github.io/tags" term="sorozat" label="sorozat"/>
+		<category scheme="https://blog.ktamas.com/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
+		<category scheme="https://blog.ktamas.com/tags" term="sorozat" label="sorozat"/>
 		<summary>Az FNL meg mindig a legjobb drama a TV-ben. (Es meg van 4 reszem hatra az evadbol)</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p><a href="/wp-content/uploads/2010/10/vlcsnap-2010-10-17-12h34m11s228-e1287311956145.png"><img class="aligncenter size-full wp-image-2362301" title="vlcsnap-2010-10-17-12h34m11s228" src="/wp-content/uploads/2010/10/vlcsnap-2010-10-17-12h34m11s228-e1287311956145.png" alt="" width="500" height="275" /></a></p>
 
 <p>Az FNL meg mindig a legjobb drama a TV-ben. (Es meg van 4 reszem hatra az evadbol)</p>
 
 <footer>
-    <a title="Permanent link to “Clear eyes, Full hearts, Can&amp;#8217;t lose!”" href="https://ktamas.github.io/index.php/2010/10/17/clear-eyes-full-hearts-cant-lose/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Clear eyes, Full hearts, Can&amp;#8217;t lose!”" href="https://blog.ktamas.com/index.php/2010/10/17/clear-eyes-full-hearts-cant-lose/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
-                <li><a href="https://ktamas.github.io/tags/sorozat/">sorozat</a></li>
+                <li><a href="https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
+                <li><a href="https://blog.ktamas.com/tags/sorozat/">sorozat</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2010/08/27/interlude_the_mighty_lemon_drops_inside_out/</id>
+		<id>https://blog.ktamas.com/index.php/2010/08/27/interlude_the_mighty_lemon_drops_inside_out/</id>
 		<title>Interlude (The Mighty Lemon Drops &amp;#8211; Inside Out)</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2010/08/27/interlude_the_mighty_lemon_drops_inside_out/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2010/08/27/interlude_the_mighty_lemon_drops_inside_out/"/>
 		<updated>2010-08-27T11:03:00Z</updated>
 		<published>2010-08-27T11:03:00Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="random" label="random"/>
-		<category scheme="https://ktamas.github.io/tags" term="sorozat" label="sorozat"/>
-		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
+		<category scheme="https://blog.ktamas.com/tags" term="random" label="random"/>
+		<category scheme="https://blog.ktamas.com/tags" term="sorozat" label="sorozat"/>
+		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
 		<summary> </summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<iframe src="https://open.spotify.com/embed/track/1dqmC8GadwWjzM5LFEHI7w" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 <footer>
-    <a title="Permanent link to “Interlude (The Mighty Lemon Drops &amp;#8211; Inside Out)”" href="https://ktamas.github.io/index.php/2010/08/27/interlude_the_mighty_lemon_drops_inside_out/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Interlude (The Mighty Lemon Drops &amp;#8211; Inside Out)”" href="https://blog.ktamas.com/index.php/2010/08/27/interlude_the_mighty_lemon_drops_inside_out/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/random/">random</a></li>
-                <li><a href="https://ktamas.github.io/tags/sorozat/">sorozat</a></li>
-                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
+                <li><a href="https://blog.ktamas.com/tags/random/">random</a></li>
+                <li><a href="https://blog.ktamas.com/tags/sorozat/">sorozat</a></li>
+                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2009/08/13/uj_csengohang/</id>
+		<id>https://blog.ktamas.com/index.php/2009/08/13/uj_csengohang/</id>
 		<title>Új csengőhang</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/08/13/uj_csengohang/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/08/13/uj_csengohang/"/>
 		<updated>2009-08-13T22:21:44Z</updated>
 		<published>2009-08-13T22:21:44Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="random" label="random"/>
-		<category scheme="https://ktamas.github.io/tags" term="sorozat" label="sorozat"/>
-		<category scheme="https://ktamas.github.io/tags" term="vm" label="vm"/>
-		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
+		<category scheme="https://blog.ktamas.com/tags" term="random" label="random"/>
+		<category scheme="https://blog.ktamas.com/tags" term="sorozat" label="sorozat"/>
+		<category scheme="https://blog.ktamas.com/tags" term="vm" label="vm"/>
+		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
 		<summary>Sacc per kábe kétévente cserélgetem, persze hogy sorozatos, hehe.
 csengohang</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Sacc per kábe kétévente cserélgetem, persze hogy sorozatos, hehe.</p>
 
 <p><a href="http://ktamas.blog.hu/media/image/200908/csengohang.mp3">csengohang</a></p>
 
 <footer>
-    <a title="Permanent link to “Új csengőhang”" href="https://ktamas.github.io/index.php/2009/08/13/uj_csengohang/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Új csengőhang”" href="https://blog.ktamas.com/index.php/2009/08/13/uj_csengohang/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/random/">random</a></li>
-                <li><a href="https://ktamas.github.io/tags/sorozat/">sorozat</a></li>
-                <li><a href="https://ktamas.github.io/tags/vm/">vm</a></li>
-                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
+                <li><a href="https://blog.ktamas.com/tags/random/">random</a></li>
+                <li><a href="https://blog.ktamas.com/tags/sorozat/">sorozat</a></li>
+                <li><a href="https://blog.ktamas.com/tags/vm/">vm</a></li>
+                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2009/08/09/veronica_mars_1/</id>
+		<id>https://blog.ktamas.com/index.php/2009/08/09/veronica_mars_1/</id>
 		<title>Veronica Mars</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/08/09/veronica_mars_1/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/08/09/veronica_mars_1/"/>
 		<updated>2009-08-09T13:48:17Z</updated>
 		<published>2009-08-09T13:48:17Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="sorozat" label="sorozat"/>
-		<category scheme="https://ktamas.github.io/tags" term="vm" label="vm"/>
+		<category scheme="https://blog.ktamas.com/tags" term="sorozat" label="sorozat"/>
+		<category scheme="https://blog.ktamas.com/tags" term="vm" label="vm"/>
 		<summary><p>Az alapsztoriról nem akarok sokat írni, a junkien ezt <a href="http://www.sorozatjunkie.hu/2006/11/08/veronica-mars-irta-imurai/" target="_blank">nálam sokkal jobban leírták</a>, az első két bekezdés a lényeg, inkább foglalkoznék kicsit a karakterekkel meg évadkritikákkal meg a sztorikkal, a tovább után, spoileresen, aki nem látta a sorozatot, az meg rohanjon megnézni, mert jó.</p></summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Az alapsztoriról nem akarok sokat írni, a junkien ezt <a href="http://www.sorozatjunkie.hu/2006/11/08/veronica-mars-irta-imurai/" target="_blank">nálam sokkal jobban leírták</a>, az első két bekezdés a lényeg, inkább foglalkoznék kicsit a karakterekkel meg évadkritikákkal meg a sztorikkal, a tovább után, spoileresen, aki nem látta a sorozatot, az meg rohanjon megnézni, mert jó.</p>
 
 <p>Az első évad talán a legjobb: jó sztorik, jó dumák, jó karakterek: Veronica a topon, Logan baromi jó, ahogy Weevil is, sőt igazából Wallace-ra se lehet panasz. Keith papa meg mindig jó. Duncan elmegy, de lesz ez rosszabb is. Az átívelő szálat jól adagolják, bár a végemegoldás kicsit sántít nekem, mert valahogy a semmiből jön túlságosan, de abszolút elfogadható, és &#8212; persze utólag rájöve &#8212; ügyesen elindítják a második évad átívelőjét is. Szóval ez kap egy erős <sup>8</sup>&frasl;<sub>10</sub>-et. (Plusz Kristen Bell ebben az évadban néz ki a legjobban.) ((Plusz fájdalmasan kevés Mac.))</p>
@@ -401,32 +401,32 @@ csengohang</summary>
   <a href="http://www.sorozatjunkie.hu/2006/11/08/veronica-mars-irta-imurai/">http://www.sorozatjunkie.hu/2006/11/08/veronica-mars-irta-imurai/</a>
 </div></p></p>
 <footer>
-    <a title="Permanent link to “Veronica Mars”" href="https://ktamas.github.io/index.php/2009/08/09/veronica_mars_1/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Veronica Mars”" href="https://blog.ktamas.com/index.php/2009/08/09/veronica_mars_1/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/sorozat/">sorozat</a></li>
-                <li><a href="https://ktamas.github.io/tags/vm/">vm</a></li>
+                <li><a href="https://blog.ktamas.com/tags/sorozat/">sorozat</a></li>
+                <li><a href="https://blog.ktamas.com/tags/vm/">vm</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2009/05/09/best_sitcom_ever_holtversenyben_a_the_office_szal_but_still/</id>
+		<id>https://blog.ktamas.com/index.php/2009/05/09/best_sitcom_ever_holtversenyben_a_the_office_szal_but_still/</id>
 		<title>Best Sitcom Ever (holtversenyben a The Office-szal, but still)</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/05/09/best_sitcom_ever_holtversenyben_a_the_office_szal_but_still/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/05/09/best_sitcom_ever_holtversenyben_a_the_office_szal_but_still/"/>
 		<updated>2009-05-09T12:52:45Z</updated>
 		<published>2009-05-09T12:52:45Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="random" label="random"/>
-		<category scheme="https://ktamas.github.io/tags" term="sorozat" label="sorozat"/>
+		<category scheme="https://blog.ktamas.com/tags" term="random" label="random"/>
+		<category scheme="https://blog.ktamas.com/tags" term="sorozat" label="sorozat"/>
 		<summary>
 Scrubs. (2001-2009) </summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p><a href="http://ktamas.blog.hu/media/image/200905/scrubs.jpg"><img class="aligncenter size-full wp-image-437" title="scrubs" src="http://ktamas.blog.hu/media/image/200905/scrubs.jpg" alt="scrubs" width="500" height="282" /></a></p>
 
 <p style="text-align: center;">
@@ -434,93 +434,93 @@ Scrubs. (2001-2009) </summary>
 </p></p>
 
 <footer>
-    <a title="Permanent link to “Best Sitcom Ever (holtversenyben a The Office-szal, but still)”" href="https://ktamas.github.io/index.php/2009/05/09/best_sitcom_ever_holtversenyben_a_the_office_szal_but_still/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Best Sitcom Ever (holtversenyben a The Office-szal, but still)”" href="https://blog.ktamas.com/index.php/2009/05/09/best_sitcom_ever_holtversenyben_a_the_office_szal_but_still/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/random/">random</a></li>
-                <li><a href="https://ktamas.github.io/tags/sorozat/">sorozat</a></li>
+                <li><a href="https://blog.ktamas.com/tags/random/">random</a></li>
+                <li><a href="https://blog.ktamas.com/tags/sorozat/">sorozat</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2009/04/14/house_5x21/</id>
+		<id>https://blog.ktamas.com/index.php/2009/04/14/house_5x21/</id>
 		<title>House 5&amp;#215;21</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/04/14/house_5x21/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/04/14/house_5x21/"/>
 		<updated>2009-04-14T21:05:25Z</updated>
 		<published>2009-04-14T21:05:25Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="random" label="random"/>
-		<category scheme="https://ktamas.github.io/tags" term="sorozat" label="sorozat"/>
+		<category scheme="https://blog.ktamas.com/tags" term="random" label="random"/>
+		<category scheme="https://blog.ktamas.com/tags" term="sorozat" label="sorozat"/>
 		<summary>Ez így most simán az évad legjobb része volt, egyrészt Jennifer Morrison miatt, másrészt a Wilson szál miatt, harmadrészt meg. Looks like you’re not losing it after all.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Ez így most simán az évad legjobb része volt, egyrészt Jennifer Morrison miatt, másrészt a Wilson szál miatt, harmadrészt meg. Looks like you&#8217;re not losing it after all.</p>
 
 <footer>
-    <a title="Permanent link to “House 5&amp;#215;21”" href="https://ktamas.github.io/index.php/2009/04/14/house_5x21/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “House 5&amp;#215;21”" href="https://blog.ktamas.com/index.php/2009/04/14/house_5x21/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/random/">random</a></li>
-                <li><a href="https://ktamas.github.io/tags/sorozat/">sorozat</a></li>
+                <li><a href="https://blog.ktamas.com/tags/random/">random</a></li>
+                <li><a href="https://blog.ktamas.com/tags/sorozat/">sorozat</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2009/03/24/a_battlestar_galactica_a_vilag_legjobb_sci_fi_sorozata/</id>
+		<id>https://blog.ktamas.com/index.php/2009/03/24/a_battlestar_galactica_a_vilag_legjobb_sci_fi_sorozata/</id>
 		<title>A Battlestar Galactica a vilag legjobb Sci-Fi sorozata</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/03/24/a_battlestar_galactica_a_vilag_legjobb_sci_fi_sorozata/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/03/24/a_battlestar_galactica_a_vilag_legjobb_sci_fi_sorozata/"/>
 		<updated>2009-03-24T10:00:39Z</updated>
 		<published>2009-03-24T10:00:39Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="bsg" label="bsg"/>
-		<category scheme="https://ktamas.github.io/tags" term="sorozat" label="sorozat"/>
+		<category scheme="https://blog.ktamas.com/tags" term="bsg" label="bsg"/>
+		<category scheme="https://blog.ktamas.com/tags" term="sorozat" label="sorozat"/>
 		<summary>Ennyi.
 Es Ron Moore nevet aranyba foglaljuk, ketszer.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Ennyi.</p>
 
 <p>Es Ron Moore nevet aranyba foglaljuk, ketszer.</p>
 
 <footer>
-    <a title="Permanent link to “A Battlestar Galactica a vilag legjobb Sci-Fi sorozata”" href="https://ktamas.github.io/index.php/2009/03/24/a_battlestar_galactica_a_vilag_legjobb_sci_fi_sorozata/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “A Battlestar Galactica a vilag legjobb Sci-Fi sorozata”" href="https://blog.ktamas.com/index.php/2009/03/24/a_battlestar_galactica_a_vilag_legjobb_sci_fi_sorozata/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/bsg/">bsg</a></li>
-                <li><a href="https://ktamas.github.io/tags/sorozat/">sorozat</a></li>
+                <li><a href="https://blog.ktamas.com/tags/bsg/">bsg</a></li>
+                <li><a href="https://blog.ktamas.com/tags/sorozat/">sorozat</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2009/03/04/lost_118/</id>
+		<id>https://blog.ktamas.com/index.php/2009/03/04/lost_118/</id>
 		<title>Lost</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/03/04/lost_118/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/03/04/lost_118/"/>
 		<updated>2009-03-04T10:21:35Z</updated>
 		<published>2009-03-04T10:21:35Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="sorozat" label="sorozat"/>
+		<category scheme="https://blog.ktamas.com/tags" term="sorozat" label="sorozat"/>
 		<summary><p>Szóval hivatalosan is aptudét vagyok Lostban, jöjjön egy kis kritika, elöször spoilermentesen, utána meg spoileresen.</p>
 
 <p>Spoilermentesen, nos…</p>
 
 <p>Nézzétek! Tessék rohanni, az elsö évadot letö– izé, megvenni, és nézni, nézni, mindeközben az internet közelébe se menni, mert sajnos könnyen belefuthat az ember 1-2 spoilerbe. Ha valakinek ez már sikerült a múltban — én úgy kezdtem, hogy jópárat részben tudtam –, akkor se féljen: a sorozat igenis tud meglepetéseket tartogatni, nem is keveset. Mert bizony a Lost esszenciája ez: a kíváló sorozatírás, az, hogy mindig tud csavarni mégegyet a dolgon, és sok-sok kérdést feltenni. Amit azonban nem siet megválaszolni: bizony van, akik emiatt szaladtak el 1-2 év után a sorozattól, mert a kérdések csak jönnek, a válaszok pedig csak néha, és akkor se sok… mégis, ennek ellenére magával ránt, mert tényleg nagyon meg van írva a cucc, valamint jópár karakter nagyon el van találva (pl. Locke, aki nagy kedvenc). A sorozatnak megvannak a gyengébb pillanatai, mégis, még akkor is ráver a mezony túlnyomó többségére — ha meg odateszi magát, akkor bizony más sorozat labdába se rúghat mellette. Ja, és mégvalami: a sorozat fixen befejezodik a 6. évad végén, ez szépen le van zsírozva, úgyhogy kapunk egy lezárást és egy kerek történetet, nincs cancelveszély. Folytatás a tovább alatt, <strong>spoileresen, csak az olvassa aki up to date (5×07).</strong> Én szóltam!</p></summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Szóval hivatalosan is aptudét vagyok Lostban, jöjjön egy kis kritika, elöször spoilermentesen, utána meg spoileresen.</p>
 
 <p>Spoilermentesen, nos&#8230;</p>
@@ -531,82 +531,82 @@ Es Ron Moore nevet aranyba foglaljuk, ketszer.</summary>
 
 <p>Ja és Ben Linus a legjobb rosszfiú evör.</p>
 <footer>
-    <a title="Permanent link to “Lost”" href="https://ktamas.github.io/index.php/2009/03/04/lost_118/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Lost”" href="https://blog.ktamas.com/index.php/2009/03/04/lost_118/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/sorozat/">sorozat</a></li>
+                <li><a href="https://blog.ktamas.com/tags/sorozat/">sorozat</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2009/03/03/bizonyitek_hogy_a_lost_daralasa_karos_a_tobbi_sorozatra/</id>
+		<id>https://blog.ktamas.com/index.php/2009/03/03/bizonyitek_hogy_a_lost_daralasa_karos_a_tobbi_sorozatra/</id>
 		<title>Bizonyíték, hogy a Lost darálása káros a többi sorozatra</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/03/03/bizonyitek_hogy_a_lost_daralasa_karos_a_tobbi_sorozatra/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/03/03/bizonyitek_hogy_a_lost_daralasa_karos_a_tobbi_sorozatra/"/>
 		<updated>2009-03-03T19:10:47Z</updated>
 		<published>2009-03-03T19:10:47Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="sorozat" label="sorozat"/>
+		<category scheme="https://blog.ktamas.com/tags" term="sorozat" label="sorozat"/>
 		<summary>Lesz mit bepótolni... </summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<figure id="attachment_211" style="width: 441px" class="wp-caption aligncenter"><img class="size-full wp-image-211" title="Lesz mit bepótolni..." src="http://ktamas.blog.hu/media/image/200903/2009-03-03_1434.png" alt="Lesz mit bepótolni..." width="441" height="763" /><figcaption class="wp-caption-text">Lesz mit bepótolni...</figcaption></figure>
 
 <footer>
-    <a title="Permanent link to “Bizonyíték, hogy a Lost darálása káros a többi sorozatra”" href="https://ktamas.github.io/index.php/2009/03/03/bizonyitek_hogy_a_lost_daralasa_karos_a_tobbi_sorozatra/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Bizonyíték, hogy a Lost darálása káros a többi sorozatra”" href="https://blog.ktamas.com/index.php/2009/03/03/bizonyitek_hogy_a_lost_daralasa_karos_a_tobbi_sorozatra/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/sorozat/">sorozat</a></li>
+                <li><a href="https://blog.ktamas.com/tags/sorozat/">sorozat</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2009/02/20/hello_my_name_is_ktamas/</id>
+		<id>https://blog.ktamas.com/index.php/2009/02/20/hello_my_name_is_ktamas/</id>
 		<title>Hello, my name is KTamas&amp;#8230;</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/02/20/hello_my_name_is_ktamas/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/02/20/hello_my_name_is_ktamas/"/>
 		<updated>2009-02-20T21:19:36Z</updated>
 		<published>2009-02-20T21:19:36Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="sorozat" label="sorozat"/>
+		<category scheme="https://blog.ktamas.com/tags" term="sorozat" label="sorozat"/>
 		<summary>…and I’m a Lost addict just after 11 episodes.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>&#8230;and I&#8217;m a Lost addict just after 11 episodes.</p>
 
 <footer>
-    <a title="Permanent link to “Hello, my name is KTamas&amp;#8230;”" href="https://ktamas.github.io/index.php/2009/02/20/hello_my_name_is_ktamas/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Hello, my name is KTamas&amp;#8230;”" href="https://blog.ktamas.com/index.php/2009/02/20/hello_my_name_is_ktamas/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/sorozat/">sorozat</a></li>
+                <li><a href="https://blog.ktamas.com/tags/sorozat/">sorozat</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2009/01/17/bsg_4x11/</id>
+		<id>https://blog.ktamas.com/index.php/2009/01/17/bsg_4x11/</id>
 		<title>BSG 4&amp;#215;11</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/01/17/bsg_4x11/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/01/17/bsg_4x11/"/>
 		<updated>2009-01-17T22:39:31Z</updated>
 		<published>2009-01-17T22:39:31Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="bsg" label="bsg"/>
-		<category scheme="https://ktamas.github.io/tags" term="sorozat" label="sorozat"/>
+		<category scheme="https://blog.ktamas.com/tags" term="bsg" label="bsg"/>
+		<category scheme="https://blog.ktamas.com/tags" term="sorozat" label="sorozat"/>
 		<summary><p>Szóval minimum dupla állkoppanás volt a várva várt rész a BSGből, hihetetlen durva amit Ron Moore összehozott, ilyen király sorozatrészt ritkán lát az ember. A tovább után spoileresen…</p></summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Szóval minimum dupla állkoppanás volt a várva várt rész a BSGből, hihetetlen durva amit Ron Moore összehozott, ilyen király sorozatrészt ritkán lát az ember. A tovább után spoileresen&#8230;</p>
 
 <p>Jó, tulajdonképp három koppanás, de a harmadik nekem valahogy nem koppant akkorát (Starbuck &#8220;megtalálja magát&#8221;), bár ütős volt az tény, kiváncsi vagyok mi lesz ebből, mert hogy nem cylon ő, mert megvan mind a tizenkettő? De akkor mi ő? Vagy mégtöbb cylon model van?</p>
@@ -617,67 +617,67 @@ Es Ron Moore nevet aranyba foglaljuk, ketszer.</summary>
 
 <p>Szóval nagyon ott volt ez a rész a szeren, mi lesz itt a következő kilencben?&#8230;</p>
 <footer>
-    <a title="Permanent link to “BSG 4&amp;#215;11”" href="https://ktamas.github.io/index.php/2009/01/17/bsg_4x11/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “BSG 4&amp;#215;11”" href="https://blog.ktamas.com/index.php/2009/01/17/bsg_4x11/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/bsg/">bsg</a></li>
-                <li><a href="https://ktamas.github.io/tags/sorozat/">sorozat</a></li>
+                <li><a href="https://blog.ktamas.com/tags/bsg/">bsg</a></li>
+                <li><a href="https://blog.ktamas.com/tags/sorozat/">sorozat</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2009/01/05/bsg_3/</id>
+		<id>https://blog.ktamas.com/index.php/2009/01/05/bsg_3/</id>
 		<title>BSG</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/01/05/bsg_3/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/01/05/bsg_3/"/>
 		<updated>2009-01-05T11:49:52Z</updated>
 		<published>2009-01-05T11:49:52Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="sorozat" label="sorozat"/>
+		<category scheme="https://blog.ktamas.com/tags" term="sorozat" label="sorozat"/>
 		<summary>Most esett le a húszfilléres, hogy a BSG nem volt rajta a myepisodes.com-os listámon. A problémát orvosoltuk és nem feledni: Január 16-én (születésnapom!) jön az új rész!</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Most esett le a húszfilléres, hogy a <a href="http://www.tvrage.com/Battlestar_Galactica" target="_blank">BSG</a> nem volt rajta a myepisodes.com-os listámon. A problémát orvosoltuk és nem feledni: <strong>Január 16</strong>-én (születésnapom!) jön az új rész!</p>
 
 <footer>
-    <a title="Permanent link to “BSG”" href="https://ktamas.github.io/index.php/2009/01/05/bsg_3/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “BSG”" href="https://blog.ktamas.com/index.php/2009/01/05/bsg_3/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/sorozat/">sorozat</a></li>
+                <li><a href="https://blog.ktamas.com/tags/sorozat/">sorozat</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2009/01/05/januar_o_januar/</id>
+		<id>https://blog.ktamas.com/index.php/2009/01/05/januar_o_januar/</id>
 		<title>Január, ó január&amp;#8230;</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/01/05/januar_o_januar/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/01/05/januar_o_januar/"/>
 		<updated>2009-01-05T10:19:24Z</updated>
 		<published>2009-01-05T10:19:24Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="sorozat" label="sorozat"/>
+		<category scheme="https://blog.ktamas.com/tags" term="sorozat" label="sorozat"/>
 		<summary>…várunk már. A kép a myepisodes.com-on készült, használjátok ti is, hasznos egy szolgáltatás, lehet követni h melyik sorozatban hol tartunk etc. Januári sorozatvisszatérések - kattintva nagyobb lesz!</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>&#8230;várunk már. A kép a <a href="http://myepisodes.com/" target="_blank">myepisodes.com</a>-on készült, használjátok ti is, hasznos egy szolgáltatás, lehet követni h melyik sorozatban hol tartunk etc. <figure id="attachment_22" style="width: 383px" class="wp-caption aligncenter"></p>
 
 <p><a href="http://ktamas.blog.hu/media/image/200901/picture-1.png" target="_blank"><img class="size-full wp-image-22" title="Januári sorozatok" src="http://ktamas.blog.hu/media/image/200901/picture-1.png" border="0" alt="Januári sorozatok" width="383" height="513" /></a><figcaption class="wp-caption-text">Januári sorozatvisszatérések - kattintva nagyobb lesz!</figcaption></figure></p>
 
 <footer>
-    <a title="Permanent link to “Január, ó január&amp;#8230;”" href="https://ktamas.github.io/index.php/2009/01/05/januar_o_januar/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Január, ó január&amp;#8230;”" href="https://blog.ktamas.com/index.php/2009/01/05/januar_o_januar/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/sorozat/">sorozat</a></li>
+                <li><a href="https://blog.ktamas.com/tags/sorozat/">sorozat</a></li>
             </ul>
         </div>
 </footer>]]></content>

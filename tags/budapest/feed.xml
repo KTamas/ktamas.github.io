@@ -1,51 +1,51 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
-	<id>https://ktamas.github.io/tags/budapest/</id>
+	<id>https://blog.ktamas.com/tags/budapest/</id>
 	<title>budapest on KTamas&#39; blog</title>
 	<subtitle>An ongoing list of KTamas' blog posts about budapest</subtitle>
 	<updated>2014-01-21T09:46:58Z</updated>
-	<link rel="self" type="application/atom+xml" href="https://ktamas.github.io/tags/budapest/feed.xml"/>
-	<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/budapest/"/>
-	<link rel="alternate" type="application/json" href="https://ktamas.github.io/tags/budapest/feed.json"/>
+	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/budapest/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/budapest/"/>
+	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/budapest/feed.json"/>
 	<author>
 		<name>KTamas</name>
-		<uri>https://ktamas.github.io/</uri>
+		<uri>https://blog.ktamas.com/</uri>
 	</author>
 	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
-	<icon>"https://ktamas.github.io/icon-512x512.png"</icon>
+	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2014/01/21/kepek-budapest-201401/</id>
+		<id>https://blog.ktamas.com/index.php/2014/01/21/kepek-budapest-201401/</id>
 		<title>Képek (Budapest 2014/01)</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2014/01/21/kepek-budapest-201401/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2014/01/21/kepek-budapest-201401/"/>
 		<updated>2014-01-21T09:46:58Z</updated>
 		<published>2014-01-21T09:46:58Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="budapest" label="budapest"/>
-		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://ktamas.github.io/tags" term="fot%C3%B3z%C3%A1s" label="fotózás"/>
-		<category scheme="https://ktamas.github.io/tags" term="magyarorsz%C3%A1g" label="magyarország"/>
-		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://blog.ktamas.com/tags" term="budapest" label="budapest"/>
+		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://blog.ktamas.com/tags" term="fot%C3%B3z%C3%A1s" label="fotózás"/>
+		<category scheme="https://blog.ktamas.com/tags" term="magyarorsz%C3%A1g" label="magyarország"/>
+		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
 		<summary>Mint már mondtam, vannak képek is, most végre kikerültek Lightroomból, fel az internetre. Illetve beillesztve alább.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p><a href="http://blog.ktamas.com/index.php/2014/01/16/25-1-2013-2014/" title="25, 1, 2013, 2014">Mint már mondtam</a>, vannak képek is, most végre kikerültek Lightroomból, <a href="http://www.flickr.com/photos/tamaskadar/sets/72157639982935053/">fel az internetre</a>. Illetve beillesztve alább.</p>
 
 <p><a data-flickr-embed="true"  href="https://www.flickr.com/photos/tamaskadar/albums/72157639982935053" title="Budapest 2014/01"><img src="https://farm3.staticflickr.com/2887/12056478715_7cd373dcc4_z.jpg" width="640" height="513" alt="Budapest 2014/01"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
 
 <footer>
-    <a title="Permanent link to “Képek (Budapest 2014/01)”" href="https://ktamas.github.io/index.php/2014/01/21/kepek-budapest-201401/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Képek (Budapest 2014/01)”" href="https://blog.ktamas.com/index.php/2014/01/21/kepek-budapest-201401/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/budapest/">budapest</a></li>
-                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://ktamas.github.io/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
-                <li><a href="https://ktamas.github.io/tags/magyarorsz%C3%A1g/">magyarország</a></li>
-                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://blog.ktamas.com/tags/budapest/">budapest</a></li>
+                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
+                <li><a href="https://blog.ktamas.com/tags/magyarorsz%C3%A1g/">magyarország</a></li>
+                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
             </ul>
         </div>
 </footer>]]></content>

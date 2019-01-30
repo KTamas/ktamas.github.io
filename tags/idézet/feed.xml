@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
-	<id>https://ktamas.github.io/tags/id%C3%A9zet/</id>
+	<id>https://blog.ktamas.com/tags/id%C3%A9zet/</id>
 	<title>idézet on KTamas&#39; blog</title>
 	<subtitle>An ongoing list of KTamas' blog posts about idézet</subtitle>
 	<updated>2009-01-13T09:40:59Z</updated>
-	<link rel="self" type="application/atom+xml" href="https://ktamas.github.io/tags/id%C3%A9zet/feed.xml"/>
-	<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/id%C3%A9zet/"/>
-	<link rel="alternate" type="application/json" href="https://ktamas.github.io/tags/id%C3%A9zet/feed.json"/>
+	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/id%C3%A9zet/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/id%C3%A9zet/"/>
+	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/id%C3%A9zet/feed.json"/>
 	<author>
 		<name>KTamas</name>
-		<uri>https://ktamas.github.io/</uri>
+		<uri>https://blog.ktamas.com/</uri>
 	</author>
 	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
-	<icon>"https://ktamas.github.io/icon-512x512.png"</icon>
+	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2009/01/13/2009_2011_a_desktop_linux_eve_i/</id>
+		<id>https://blog.ktamas.com/index.php/2009/01/13/2009_2011_a_desktop_linux_eve_i/</id>
 		<title>2009-2011: a desktop linux éve(i)</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/01/13/2009_2011_a_desktop_linux_eve_i/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/01/13/2009_2011_a_desktop_linux_eve_i/"/>
 		<updated>2009-01-13T09:40:59Z</updated>
 		<published>2009-01-13T09:40:59Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="id%C3%A9zet" label="idézet"/>
-		<category scheme="https://ktamas.github.io/tags" term="linux" label="linux"/>
+		<category scheme="https://blog.ktamas.com/tags" term="id%C3%A9zet" label="idézet"/>
+		<category scheme="https://blog.ktamas.com/tags" term="linux" label="linux"/>
 		<summary>Ezt muszáj megosztanom, ez annyira szép (forrás):
  Over the next 1 to 3 years, and beyond, we are set to see the glory of the GNU/Linux operating system take hold as the prominently used end user platform for computers everywhere.
  Ez pedig a kommentekből:
  Things that happened the first year I heard that it would be “the year of Linux on the desktop”:
 President Bill Clinton denies that he had “sexual relations” with Monica Lewinsky.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Ezt muszáj megosztanom, ez annyira szép (<a href="http://digg.com/linux_unix/Open_Letter_to_Game_Makers_Investigate_the_GNU_Linux_niche" target="_blank">forrás</a>):</p>
 
 <blockquote>
@@ -67,13 +67,13 @@ President Bill Clinton denies that he had “sexual relations” with Monica Lew
 </blockquote>
 
 <footer>
-    <a title="Permanent link to “2009-2011: a desktop linux éve(i)”" href="https://ktamas.github.io/index.php/2009/01/13/2009_2011_a_desktop_linux_eve_i/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “2009-2011: a desktop linux éve(i)”" href="https://blog.ktamas.com/index.php/2009/01/13/2009_2011_a_desktop_linux_eve_i/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/id%C3%A9zet/">idézet</a></li>
-                <li><a href="https://ktamas.github.io/tags/linux/">linux</a></li>
+                <li><a href="https://blog.ktamas.com/tags/id%C3%A9zet/">idézet</a></li>
+                <li><a href="https://blog.ktamas.com/tags/linux/">linux</a></li>
             </ul>
         </div>
 </footer>]]></content>

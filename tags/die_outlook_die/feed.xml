@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
-	<id>https://ktamas.github.io/tags/die_outlook_die/</id>
+	<id>https://blog.ktamas.com/tags/die_outlook_die/</id>
 	<title>die_outlook_die on KTamas&#39; blog</title>
 	<subtitle>An ongoing list of KTamas' blog posts about die_outlook_die</subtitle>
 	<updated>2009-05-17T18:16:35Z</updated>
-	<link rel="self" type="application/atom+xml" href="https://ktamas.github.io/tags/die_outlook_die/feed.xml"/>
-	<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/die_outlook_die/"/>
-	<link rel="alternate" type="application/json" href="https://ktamas.github.io/tags/die_outlook_die/feed.json"/>
+	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/die_outlook_die/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/die_outlook_die/"/>
+	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/die_outlook_die/feed.json"/>
 	<author>
 		<name>KTamas</name>
-		<uri>https://ktamas.github.io/</uri>
+		<uri>https://blog.ktamas.com/</uri>
 	</author>
 	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
-	<icon>"https://ktamas.github.io/icon-512x512.png"</icon>
+	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2009/05/17/die_outlook_die/</id>
+		<id>https://blog.ktamas.com/index.php/2009/05/17/die_outlook_die/</id>
 		<title>Die Outlook, Die</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/05/17/die_outlook_die/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/05/17/die_outlook_die/"/>
 		<updated>2009-05-17T18:16:35Z</updated>
 		<published>2009-05-17T18:16:35Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="die_outlook_die" label="die_outlook_die"/>
+		<category scheme="https://blog.ktamas.com/tags" term="die_outlook_die" label="die_outlook_die"/>
 		<summary>A Microsoft Outlook a leheto legfosabb e-mail kliens a vilagon, kiemelten ervenyes ez az IMAP-kezelesere (sokkal inkabb nemkezelesere) es egy evek / verziok ota nem fixalt bugra.
 Napalmot ra.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>A Microsoft Outlook a leheto legfosabb e-mail kliens a vilagon, kiemelten ervenyes ez az IMAP-kezelesere (sokkal inkabb nemkezelesere) es <a href="http://www.emaildiscussions.com/showthread.php?t=51114">egy evek / verziok ota nem fixalt bugra</a>.</p>
 
 <p>Napalmot ra.</p>
 
 <footer>
-    <a title="Permanent link to “Die Outlook, Die”" href="https://ktamas.github.io/index.php/2009/05/17/die_outlook_die/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Die Outlook, Die”" href="https://blog.ktamas.com/index.php/2009/05/17/die_outlook_die/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/die_outlook_die/">die_outlook_die</a></li>
+                <li><a href="https://blog.ktamas.com/tags/die_outlook_die/">die_outlook_die</a></li>
             </ul>
         </div>
 </footer>]]></content>

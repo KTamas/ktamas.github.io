@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
-	<id>https://ktamas.github.io/tags/munka/</id>
+	<id>https://blog.ktamas.com/tags/munka/</id>
 	<title>munka on KTamas&#39; blog</title>
 	<subtitle>An ongoing list of KTamas' blog posts about munka</subtitle>
 	<updated>2013-10-19T20:40:38Z</updated>
-	<link rel="self" type="application/atom+xml" href="https://ktamas.github.io/tags/munka/feed.xml"/>
-	<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/munka/"/>
-	<link rel="alternate" type="application/json" href="https://ktamas.github.io/tags/munka/feed.json"/>
+	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/munka/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/munka/"/>
+	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/munka/feed.json"/>
 	<author>
 		<name>KTamas</name>
-		<uri>https://ktamas.github.io/</uri>
+		<uri>https://blog.ktamas.com/</uri>
 	</author>
 	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
-	<icon>"https://ktamas.github.io/icon-512x512.png"</icon>
+	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2013/10/19/az-elso-ket-het-a-munkahelyen/</id>
+		<id>https://blog.ktamas.com/index.php/2013/10/19/az-elso-ket-het-a-munkahelyen/</id>
 		<title>Az első két hét a munkahelyen</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/10/19/az-elso-ket-het-a-munkahelyen/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/10/19/az-elso-ket-het-a-munkahelyen/"/>
 		<updated>2013-10-19T20:40:38Z</updated>
 		<published>2013-10-19T20:40:38Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://ktamas.github.io/tags" term="munka" label="munka"/>
-		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://blog.ktamas.com/tags" term="munka" label="munka"/>
+		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
 		<summary>(igen megint ugrottunk az időben, ezvan.)
 Az első két hét az új munkahelyen leginkább úgy telt, mint az első két hét az országban: az idő sokkal lassabban telt érzésre. Figyelembe véve, hogy ez volt az eddigi legnagyobb váltás a karrieremben, azt hiszem, ez normális.
 Az új iroda tökmáshol van, mint a régi: Mölndalban, azon kívül is a semmi közepén, pontosabban egy olyan környéken, ahol sok más cégnek is van irodája (a legnagyobb azt hiszem az AstraZeneca, saját buszmegállójuk van).</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p><em>(igen megint ugrottunk az időben, ezvan.)</em></p>
 
 <p>Az első két hét az új munkahelyen leginkább úgy telt, mint az első két hét az országban: az idő sokkal lassabban telt érzésre. Figyelembe véve, hogy ez volt az eddigi legnagyobb váltás a karrieremben, azt hiszem, ez normális.</p>
@@ -50,34 +50,34 @@ Az új iroda tökmáshol van, mint a régi: Mölndalban, azon kívül is a semmi
 <p>Ez volt nagyjából az első két hét, nem tudok jó befejezést a posztnak.</p>
 
 <footer>
-    <a title="Permanent link to “Az első két hét a munkahelyen”" href="https://ktamas.github.io/index.php/2013/10/19/az-elso-ket-het-a-munkahelyen/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Az első két hét a munkahelyen”" href="https://blog.ktamas.com/index.php/2013/10/19/az-elso-ket-het-a-munkahelyen/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://ktamas.github.io/tags/munka/">munka</a></li>
-                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://blog.ktamas.com/tags/munka/">munka</a></li>
+                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2013/09/06/szolgalati-kozlemenyek-uj-munka-es-fogorvosturizmus/</id>
+		<id>https://blog.ktamas.com/index.php/2013/09/06/szolgalati-kozlemenyek-uj-munka-es-fogorvosturizmus/</id>
 		<title>Szolgálati közlemények: új munka és fogorvosturizmus</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/09/06/szolgalati-kozlemenyek-uj-munka-es-fogorvosturizmus/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/09/06/szolgalati-kozlemenyek-uj-munka-es-fogorvosturizmus/"/>
 		<updated>2013-09-06T15:39:28Z</updated>
 		<published>2013-09-06T15:39:28Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://ktamas.github.io/tags" term="magyarorsz%C3%A1g" label="magyarország"/>
-		<category scheme="https://ktamas.github.io/tags" term="munka" label="munka"/>
-		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://blog.ktamas.com/tags" term="magyarorsz%C3%A1g" label="magyarország"/>
+		<category scheme="https://blog.ktamas.com/tags" term="munka" label="munka"/>
+		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
 		<summary>Hihetetlen mennyi minden tud változni három nap alatt, például az, hogy rekordgyorsasággal vettek fel az új munkahelyemre. Tanácsadócég, WCOM a neve, remek lesz többek között arra, hogy megismerkedjek ezzel a világgal. Nagyobb részben rendszergazdasággal, kisebb részben programozással fogok ott foglalkozni, kifejezetten problémamegoldós meló, ami nekem nagyon fekszik. Szűk hónap múlva kezdek ott, izgalmas lesz. Borzasztóan hiányozni fog a mostani munkahelyem meg a kollégák, ugyanakkor jelentős előrelépés lesz egy csomó tekintetben ez a váltás.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Hihetetlen mennyi minden tud változni három nap alatt, például az, hogy rekordgyorsasággal vettek fel az új munkahelyemre. Tanácsadócég, <a href="http://wcom.se">WCOM</a> a neve, remek lesz többek között arra, hogy megismerkedjek ezzel a világgal. Nagyobb részben rendszergazdasággal, kisebb részben programozással fogok ott foglalkozni, kifejezetten problémamegoldós meló, ami nekem nagyon fekszik. Szűk hónap múlva kezdek ott, izgalmas lesz. Borzasztóan hiányozni fog a mostani munkahelyem meg a kollégák, ugyanakkor jelentős előrelépés lesz egy csomó tekintetben ez a váltás.</p>
 
 <p>Ugyanitt, a hónap végén (szept 24 &#8211; okt 3) jövök egy bő hétre Pestre, fogorvosturistáskodni, ugyanis itt valami embertelen drága a fogászat. Hallottam már számokat ismerősöktől korábban, de az előbb megnéztem a <a href="http://www.citydental.se/priser.asp">legolcsóbb és legrosszabb hírrel rendelkező stockholmi fogászat árait</a>, és hát lementem hídba.</p>
@@ -85,15 +85,15 @@ Az új iroda tökmáshol van, mint a régi: Mölndalban, azon kívül is a semmi
 <p>Igen tudom kimaradt egy teljes augusztus blogolásilag, egyszer majd összeszedem magam.</p>
 
 <footer>
-    <a title="Permanent link to “Szolgálati közlemények: új munka és fogorvosturizmus”" href="https://ktamas.github.io/index.php/2013/09/06/szolgalati-kozlemenyek-uj-munka-es-fogorvosturizmus/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Szolgálati közlemények: új munka és fogorvosturizmus”" href="https://blog.ktamas.com/index.php/2013/09/06/szolgalati-kozlemenyek-uj-munka-es-fogorvosturizmus/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://ktamas.github.io/tags/magyarorsz%C3%A1g/">magyarország</a></li>
-                <li><a href="https://ktamas.github.io/tags/munka/">munka</a></li>
-                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://blog.ktamas.com/tags/magyarorsz%C3%A1g/">magyarország</a></li>
+                <li><a href="https://blog.ktamas.com/tags/munka/">munka</a></li>
+                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
             </ul>
         </div>
 </footer>]]></content>

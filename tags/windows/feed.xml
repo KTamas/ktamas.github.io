@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
-	<id>https://ktamas.github.io/tags/windows/</id>
+	<id>https://blog.ktamas.com/tags/windows/</id>
 	<title>windows on KTamas&#39; blog</title>
 	<subtitle>An ongoing list of KTamas' blog posts about windows</subtitle>
 	<updated>2013-08-09T11:01:47Z</updated>
-	<link rel="self" type="application/atom+xml" href="https://ktamas.github.io/tags/windows/feed.xml"/>
-	<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/windows/"/>
-	<link rel="alternate" type="application/json" href="https://ktamas.github.io/tags/windows/feed.json"/>
+	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/windows/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/windows/"/>
+	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/windows/feed.json"/>
 	<author>
 		<name>KTamas</name>
-		<uri>https://ktamas.github.io/</uri>
+		<uri>https://blog.ktamas.com/</uri>
 	</author>
 	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
-	<icon>"https://ktamas.github.io/icon-512x512.png"</icon>
+	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2013/08/09/kozerdeku-kozlemeny-service-order-avagy-a-halozati-kapcsolatok-prioritasa/</id>
+		<id>https://blog.ktamas.com/index.php/2013/08/09/kozerdeku-kozlemeny-service-order-avagy-a-halozati-kapcsolatok-prioritasa/</id>
 		<title>Közérdekű közlemény: Service Order, avagy a hálózati kapcsolatok prioritása</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/08/09/kozerdeku-kozlemeny-service-order-avagy-a-halozati-kapcsolatok-prioritasa/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/08/09/kozerdeku-kozlemeny-service-order-avagy-a-halozati-kapcsolatok-prioritasa/"/>
 		<updated>2013-08-09T11:01:47Z</updated>
 		<published>2013-08-09T11:01:47Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="osx" label="osx"/>
-		<category scheme="https://ktamas.github.io/tags" term="random" label="random"/>
-		<category scheme="https://ktamas.github.io/tags" term="windows" label="windows"/>
+		<category scheme="https://blog.ktamas.com/tags" term="osx" label="osx"/>
+		<category scheme="https://blog.ktamas.com/tags" term="random" label="random"/>
+		<category scheme="https://blog.ktamas.com/tags" term="windows" label="windows"/>
 		<summary>Mivel most szívom meg többedszerre ezzel, leírom, hátha segít valaki másnak is. Szóval, adott az a helyzet, amikor az embernek egynél több hálózati kapcsolata aktív: egyszerre van fent céges hálózaton wifivel meg kábellel, esetleg bekapcsolva hagyta az ájfónján a Personal Hotspotot és bedugta szinkronizálni, vagy éppen 3G/4G-ről internetezik, és felkapcsolódik a céges VPN-re.
 Oké, de ilyenkor mi kap prioritást? Az, ami feljebb van a listán. Milyen listán?
 Windows 7 alatt is, meg OSX alatt is jól el van rejtve ez.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Mivel most szívom meg többedszerre ezzel, leírom, hátha segít valaki másnak is. Szóval, adott az a helyzet, amikor az embernek egynél több hálózati kapcsolata aktív: egyszerre van fent céges hálózaton wifivel meg kábellel, esetleg bekapcsolva hagyta az ájfónján a Personal Hotspotot és bedugta szinkronizálni, vagy éppen 3G/4G-ről internetezik, és felkapcsolódik a céges VPN-re.</p>
 
 <p>Oké, de ilyenkor mi kap prioritást? Az, ami feljebb van a listán. Milyen listán?</p>
@@ -38,36 +38,36 @@ Windows 7 alatt is, meg OSX alatt is jól el van rejtve ez.</summary>
 <p>Windows 7 alatt is, meg OSX alatt is jól el van rejtve ez. Az előbbi alatt az <a href="http://windows.microsoft.com/en-us/windows7/change-the-order-of-network-protocol-bindings">itt található leírást</a> kell követni a megfelelő ablak eléréséig, míg OSX alatt a System Preferences &#8211; Network &#8211; fogaskerék ikon baloldalt lent &#8211; Set Service order&#8230; menüpont alatt lehet beállítani a megfelelő sorrendet. Ezzel elkerülhető az, amibe például legutóbb futottam, hogy a céges VPN-re kapcsolódva 3G/4G-ről hirtelen elment az internetem, mert magasabb volt a prioritása a kapcsolatnak, míg wifin ez nem jött elő, mert azt még régebben a megfelelő helyre ráncigáltam az említett listán&#8230;</p>
 
 <footer>
-    <a title="Permanent link to “Közérdekű közlemény: Service Order, avagy a hálózati kapcsolatok prioritása”" href="https://ktamas.github.io/index.php/2013/08/09/kozerdeku-kozlemeny-service-order-avagy-a-halozati-kapcsolatok-prioritasa/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Közérdekű közlemény: Service Order, avagy a hálózati kapcsolatok prioritása”" href="https://blog.ktamas.com/index.php/2013/08/09/kozerdeku-kozlemeny-service-order-avagy-a-halozati-kapcsolatok-prioritasa/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/osx/">osx</a></li>
-                <li><a href="https://ktamas.github.io/tags/random/">random</a></li>
-                <li><a href="https://ktamas.github.io/tags/windows/">windows</a></li>
+                <li><a href="https://blog.ktamas.com/tags/osx/">osx</a></li>
+                <li><a href="https://blog.ktamas.com/tags/random/">random</a></li>
+                <li><a href="https://blog.ktamas.com/tags/windows/">windows</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2010/06/12/my_name_is_ktamas_and_i_approve_this_message/</id>
+		<id>https://blog.ktamas.com/index.php/2010/06/12/my_name_is_ktamas_and_i_approve_this_message/</id>
 		<title>Endorsement (My name is KTamas and I approve this message)</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2010/06/12/my_name_is_ktamas_and_i_approve_this_message/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2010/06/12/my_name_is_ktamas_and_i_approve_this_message/"/>
 		<updated>2010-06-12T11:00:00Z</updated>
 		<published>2010-06-12T11:00:00Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="geekdom" label="geekdom"/>
-		<category scheme="https://ktamas.github.io/tags" term="linux" label="linux"/>
-		<category scheme="https://ktamas.github.io/tags" term="mac" label="mac"/>
-		<category scheme="https://ktamas.github.io/tags" term="random" label="random"/>
-		<category scheme="https://ktamas.github.io/tags" term="windows" label="windows"/>
+		<category scheme="https://blog.ktamas.com/tags" term="geekdom" label="geekdom"/>
+		<category scheme="https://blog.ktamas.com/tags" term="linux" label="linux"/>
+		<category scheme="https://blog.ktamas.com/tags" term="mac" label="mac"/>
+		<category scheme="https://blog.ktamas.com/tags" term="random" label="random"/>
+		<category scheme="https://blog.ktamas.com/tags" term="windows" label="windows"/>
 		<summary>Mivel mostmar tobb, mint egy eve hasznalom aktivan a harom legnepszerubb operacios rendszert, — Windows 7, Mac OSX, Ubuntu –, sikeresen akviraltam azt a kepesseget, hogy barmelyiket, barmikor tudom szidni is, dicserni is, persze kulonbozo mertekben. Most az utobbi kovetkezik, konkretan annak a kifejtese, hogy a Windows 7 a jelenlegi legjobban osszerakott operacios rendszer out there.
 It Just Works A telepito CD/Pendrive berakasa utan legkesobb harminc perccel mukodo rendszert kapunk, a gepek jo reszen egyaltalan, vagy csak alig kell driverekkel barmit csinalni, mert elintezi a Windows Update — gondolom mindenkiben meg elenken el az XP, a kotelezo egyoras jatek a driverekkel.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Mivel mostmar tobb, mint egy eve hasznalom aktivan a harom legnepszerubb operacios rendszert, &#8212; Windows 7, Mac OSX, Ubuntu &#8211;, sikeresen akviraltam azt a kepesseget, hogy barmelyiket, barmikor tudom szidni is, dicserni is, persze kulonbozo mertekben. Most az utobbi kovetkezik, konkretan annak a kifejtese, hogy a Windows 7 a jelenlegi legjobban osszerakott operacios rendszer <em>out there</em>.</p>
 
 <h3 id="it-just-works">It Just Works</h3>
@@ -83,35 +83,35 @@ It Just Works A telepito CD/Pendrive berakasa utan legkesobb harminc perccel muk
 <p>Es most elkezdhetnek panaszkodni, hogy de nincs rendes parancssor vagy epp posix, es kulonben is, de nem, ez nem arra van, amit kapunk, az egy gyors, stabil, hasznalhato operacios rendszer, se tobb, se kevesebb, es pont ennyi kell a legtobb embernek (es sokszor nekem is), es vegre megkapjak, es ez annyira jo.</p>
 
 <footer>
-    <a title="Permanent link to “Endorsement (My name is KTamas and I approve this message)”" href="https://ktamas.github.io/index.php/2010/06/12/my_name_is_ktamas_and_i_approve_this_message/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Endorsement (My name is KTamas and I approve this message)”" href="https://blog.ktamas.com/index.php/2010/06/12/my_name_is_ktamas_and_i_approve_this_message/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/geekdom/">geekdom</a></li>
-                <li><a href="https://ktamas.github.io/tags/linux/">linux</a></li>
-                <li><a href="https://ktamas.github.io/tags/mac/">mac</a></li>
-                <li><a href="https://ktamas.github.io/tags/random/">random</a></li>
-                <li><a href="https://ktamas.github.io/tags/windows/">windows</a></li>
+                <li><a href="https://blog.ktamas.com/tags/geekdom/">geekdom</a></li>
+                <li><a href="https://blog.ktamas.com/tags/linux/">linux</a></li>
+                <li><a href="https://blog.ktamas.com/tags/mac/">mac</a></li>
+                <li><a href="https://blog.ktamas.com/tags/random/">random</a></li>
+                <li><a href="https://blog.ktamas.com/tags/windows/">windows</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2010/03/09/when_in_doubt_run_process_monitor/</id>
+		<id>https://blog.ktamas.com/index.php/2010/03/09/when_in_doubt_run_process_monitor/</id>
 		<title>When in doubt, run Process Monitor</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2010/03/09/when_in_doubt_run_process_monitor/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2010/03/09/when_in_doubt_run_process_monitor/"/>
 		<updated>2010-03-09T10:30:00Z</updated>
 		<published>2010-03-09T10:30:00Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="random" label="random"/>
-		<category scheme="https://ktamas.github.io/tags" term="windows" label="windows"/>
+		<category scheme="https://blog.ktamas.com/tags" term="random" label="random"/>
+		<category scheme="https://blog.ktamas.com/tags" term="windows" label="windows"/>
 		<summary>“When in doubt, run Process Monitor!” (I follow this advice religiously, even having my daughter run Process Monitor when she comes to me with a homework question)
  Felvésem ide is, mert örök értékű szabály ez. Tegnap az SQL Express 2008 SP1 telepítője dobott furcsa hibákat, amire a megadott Microsoft KB adott mégfurcsább és méghomályosabb nemválaszokat. Kis guglizás után pedig– a Process Exploreren keresztül — eljutottunk a Process Monitorig, ami megmondta, melik registry bejegyzést kell hova klónozni, hogy működjön a telepítés.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<blockquote>
 <p><a href="http://blogs.technet.com/markrussinovich/archive/2010/01/13/3305263.aspx">&ldquo;When in doubt, run Process Monitor!&rdquo; (I follow this advice religiously, even having my daughter run Process Monitor when she comes to me with a homework question)</a></p>
 </blockquote>
@@ -121,33 +121,33 @@ It Just Works A telepito CD/Pendrive berakasa utan legkesobb harminc perccel muk
 <p>&nbsp;</p>
 
 <footer>
-    <a title="Permanent link to “When in doubt, run Process Monitor”" href="https://ktamas.github.io/index.php/2010/03/09/when_in_doubt_run_process_monitor/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “When in doubt, run Process Monitor”" href="https://blog.ktamas.com/index.php/2010/03/09/when_in_doubt_run_process_monitor/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/random/">random</a></li>
-                <li><a href="https://ktamas.github.io/tags/windows/">windows</a></li>
+                <li><a href="https://blog.ktamas.com/tags/random/">random</a></li>
+                <li><a href="https://blog.ktamas.com/tags/windows/">windows</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2010/01/17/linux_blues_avagy_hogyan_nem_lettem_meg_desktoplinux_juzer/</id>
+		<id>https://blog.ktamas.com/index.php/2010/01/17/linux_blues_avagy_hogyan_nem_lettem_meg_desktoplinux_juzer/</id>
 		<title>Linux Blues, avagy hogyan (nem) lettem (még) Desktoplinux-júzer?</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2010/01/17/linux_blues_avagy_hogyan_nem_lettem_meg_desktoplinux_juzer/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2010/01/17/linux_blues_avagy_hogyan_nem_lettem_meg_desktoplinux_juzer/"/>
 		<updated>2010-01-17T17:26:25Z</updated>
 		<published>2010-01-17T17:26:25Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="geekdom" label="geekdom"/>
-		<category scheme="https://ktamas.github.io/tags" term="linux" label="linux"/>
-		<category scheme="https://ktamas.github.io/tags" term="windows" label="windows"/>
+		<category scheme="https://blog.ktamas.com/tags" term="geekdom" label="geekdom"/>
+		<category scheme="https://blog.ktamas.com/tags" term="linux" label="linux"/>
+		<category scheme="https://blog.ktamas.com/tags" term="windows" label="windows"/>
 		<summary>Nem tudom. Van a draftban már vagy’ egy jó hónapja egy iromány arról, hogy lettem desktoplinux-felhasználó, de nem fejeztem be, mert… egyelőre még nem vagyok az.
 Persze, jó volna egy olyan rendszert használni, ami alatt van például tisztességes commandline, abban kötelezően egy byobu, meg egy saját bashrc, és az úgy nagyon jó. Meg van Gnome-Do, amihez már egészen hozzászoktam, már amikor fut, mert nem képes fél napnál tovább futni anélkül, hogy egyszer csak szét ne fagyna, ami után jó esetben elsőre újraindul helyesen, rossz esetben úgy kell kilőni mégegyszer, és akkor majd utána.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Nem tudom. Van a draftban már vagy&#8217; egy jó hónapja egy iromány arról, hogy lettem desktoplinux-felhasználó, de nem fejeztem be, mert&#8230; egyelőre még nem vagyok az.</p>
 
 <p>Persze, jó volna egy olyan rendszert használni, ami alatt van például tisztességes commandline, abban kötelezően egy <a href="https://launchpad.net/byobu">byobu</a>, meg egy saját bashrc, és az úgy nagyon jó. Meg van <a href="http://do.davebsd.com/">Gnome-Do</a>, amihez már egészen hozzászoktam, már amikor fut, mert nem képes fél napnál tovább futni anélkül, hogy egyszer csak szét ne fagyna, ami után jó esetben elsőre újraindul helyesen, rossz esetben úgy kell kilőni mégegyszer, és akkor majd utána.</p>
@@ -167,64 +167,64 @@ Persze, jó volna egy olyan rendszert használni, ami alatt van például tiszte
 <p>(Jaigen, új taglájn, <a href="http://miafene.hu/2009/11/19/jpod/">Gazs szokta mondogatni</a>, de én szeretem a webcomicokat, na.)</p>
 
 <footer>
-    <a title="Permanent link to “Linux Blues, avagy hogyan (nem) lettem (még) Desktoplinux-júzer?”" href="https://ktamas.github.io/index.php/2010/01/17/linux_blues_avagy_hogyan_nem_lettem_meg_desktoplinux_juzer/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Linux Blues, avagy hogyan (nem) lettem (még) Desktoplinux-júzer?”" href="https://blog.ktamas.com/index.php/2010/01/17/linux_blues_avagy_hogyan_nem_lettem_meg_desktoplinux_juzer/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/geekdom/">geekdom</a></li>
-                <li><a href="https://ktamas.github.io/tags/linux/">linux</a></li>
-                <li><a href="https://ktamas.github.io/tags/windows/">windows</a></li>
+                <li><a href="https://blog.ktamas.com/tags/geekdom/">geekdom</a></li>
+                <li><a href="https://blog.ktamas.com/tags/linux/">linux</a></li>
+                <li><a href="https://blog.ktamas.com/tags/windows/">windows</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2009/05/15/windows_7_plus/</id>
+		<id>https://blog.ktamas.com/index.php/2009/05/15/windows_7_plus/</id>
 		<title>Windows 7 Plus!</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/05/15/windows_7_plus/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/05/15/windows_7_plus/"/>
 		<updated>2009-05-15T22:50:41Z</updated>
 		<published>2009-05-15T22:50:41Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
-		<category scheme="https://ktamas.github.io/tags" term="windows" label="windows"/>
+		<category scheme="https://blog.ktamas.com/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
+		<category scheme="https://blog.ktamas.com/tags" term="windows" label="windows"/>
 		<summary>[](http://ktamas.blog.hu/media/image/200905/space.jpg)Klikkre nagyobb Valaki megcsinalta az osszes Win98 Plus! temat Windows 7-re, ikonokkal, kurzorokkal, hangokkal, hatterkepekkel. Nosztagia felsofokon, tovabbi infok itten talalhatoak.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<figure id="attachment_456" style="width: 500px" class="wp-caption aligncenter">[<img class="size-full wp-image-456" title="space_small" src="http://ktamas.blog.hu/media/image/200905/space_small.jpg" alt="space_small" width="500" height="375" />](http://ktamas.blog.hu/media/image/200905/space.jpg)<figcaption class="wp-caption-text">Klikkre nagyobb</figcaption></figure> 
 
 <p>Valaki megcsinalta az osszes Win98 Plus! temat Windows 7-re, ikonokkal, kurzorokkal, hangokkal, hatterkepekkel. Nosztagia felsofokon, tovabbi infok <a href="http://www.beingmanan.com/wp/2009/04/windows-98-plus-themes-for-windows-7/" target="_blank">itten talalhatoak</a>.</p>
 
 <footer>
-    <a title="Permanent link to “Windows 7 Plus!”" href="https://ktamas.github.io/index.php/2009/05/15/windows_7_plus/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Windows 7 Plus!”" href="https://blog.ktamas.com/index.php/2009/05/15/windows_7_plus/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
-                <li><a href="https://ktamas.github.io/tags/windows/">windows</a></li>
+                <li><a href="https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
+                <li><a href="https://blog.ktamas.com/tags/windows/">windows</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2009/05/09/hetyke_nyultilop/</id>
+		<id>https://blog.ktamas.com/index.php/2009/05/09/hetyke_nyultilop/</id>
 		<title>Hetyke Nyúltilop</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/05/09/hetyke_nyultilop/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/05/09/hetyke_nyultilop/"/>
 		<updated>2009-05-09T10:30:35Z</updated>
 		<published>2009-05-09T10:30:35Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="linux" label="linux"/>
-		<category scheme="https://ktamas.github.io/tags" term="ubuntu" label="ubuntu"/>
-		<category scheme="https://ktamas.github.io/tags" term="windows" label="windows"/>
+		<category scheme="https://blog.ktamas.com/tags" term="linux" label="linux"/>
+		<category scheme="https://blog.ktamas.com/tags" term="ubuntu" label="ubuntu"/>
+		<category scheme="https://blog.ktamas.com/tags" term="windows" label="windows"/>
 		<summary>Szóval eljött az április, és eljött az Ubuntu 9.04 is, a próba kedvéért felraktam mind az asztali (munkahelyi) gépemre, mind a laptopomra. Az eredmények, nos, vegyesek.
 Asztali gép: wifi nincs, viszont van videókártya (hehe), mégpedig ATi, abból is egy X300. A rendszer telepítés után nem hajlandó bekapcsolni a Compizt, a restricted drivers nem mutat semmit. Felrakom manuálisan a bináris drivert, halál, vesa módba kell kapcsolnom az X-et hogy újra életre keljen.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Szóval eljött az április, és eljött az Ubuntu 9.04 is, a próba kedvéért felraktam mind az asztali (munkahelyi) gépemre, mind a laptopomra. Az eredmények, nos, vegyesek.</p>
 
 <p>Asztali gép: wifi nincs, viszont van videókártya (hehe), mégpedig ATi, abból is egy X300. A rendszer telepítés után nem hajlandó bekapcsolni a Compizt, a restricted drivers nem mutat semmit. Felrakom manuálisan a bináris drivert, halál, vesa módba kell kapcsolnom az X-et hogy újra életre keljen. Fél óra nyomozás után ellentmondásos információkat kapok, a legigéretesebbnek az tűnik, hogy ez a driver már nem támogatja az X300-at, csak azt nem sikerül megtudni, hogy akkor mi is. Itt jegyezném meg, hogy nem tudom, komolyan gondolták-e, hogy alapból kikapcsolva van a Ctrl+Alt+Backspace billkombó, de viccnek durva.</p>
@@ -238,36 +238,36 @@ Asztali gép: wifi nincs, viszont van videókártya (hehe), mégpedig ATi, abbó
 <p>Mindenesetre, ha helyreáll az asztali gép, nem kizárt, hogy tovább fogom használni, már amikor tudom, mert hosszútávon nincs értelme annak, ha az egyetlen nyitott ablak egy terminal services client valamelyik virtgépünkre&#8230;</p>
 
 <footer>
-    <a title="Permanent link to “Hetyke Nyúltilop”" href="https://ktamas.github.io/index.php/2009/05/09/hetyke_nyultilop/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Hetyke Nyúltilop”" href="https://blog.ktamas.com/index.php/2009/05/09/hetyke_nyultilop/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/linux/">linux</a></li>
-                <li><a href="https://ktamas.github.io/tags/ubuntu/">ubuntu</a></li>
-                <li><a href="https://ktamas.github.io/tags/windows/">windows</a></li>
+                <li><a href="https://blog.ktamas.com/tags/linux/">linux</a></li>
+                <li><a href="https://blog.ktamas.com/tags/ubuntu/">ubuntu</a></li>
+                <li><a href="https://blog.ktamas.com/tags/windows/">windows</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2009/05/01/kicsit_bugzik_a_betas_intel_driver_win7_alatt/</id>
+		<id>https://blog.ktamas.com/index.php/2009/05/01/kicsit_bugzik_a_betas_intel_driver_win7_alatt/</id>
 		<title>Kicsit bugzik a betas Intel driver Win7 alatt</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/05/01/kicsit_bugzik_a_betas_intel_driver_win7_alatt/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/05/01/kicsit_bugzik_a_betas_intel_driver_win7_alatt/"/>
 		<updated>2009-05-01T09:33:11Z</updated>
 		<published>2009-05-01T09:33:11Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="agymenes" label="agymenes"/>
-		<category scheme="https://ktamas.github.io/tags" term="nocomment" label="nocomment"/>
-		<category scheme="https://ktamas.github.io/tags" term="win7" label="win7"/>
-		<category scheme="https://ktamas.github.io/tags" term="windows" label="windows"/>
-		<category scheme="https://ktamas.github.io/tags" term="wtf" label="wtf"/>
+		<category scheme="https://blog.ktamas.com/tags" term="agymenes" label="agymenes"/>
+		<category scheme="https://blog.ktamas.com/tags" term="nocomment" label="nocomment"/>
+		<category scheme="https://blog.ktamas.com/tags" term="win7" label="win7"/>
+		<category scheme="https://blog.ktamas.com/tags" term="windows" label="windows"/>
+		<category scheme="https://blog.ktamas.com/tags" term="wtf" label="wtf"/>
 		<summary>Egy DWM-ujrainditas megoldja, de ize. Jo, betas, tudom.
 Ja amugy ez csak egy a sok kozul, a taskbar pl. rendszeresen villog meg ablakok random reszei lesznek atlatszoak, meg ilyesmi.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p><a href="http://ktamas.blog.hu/media/image/200905/intelbug.png"><img class="aligncenter size-full wp-image-418" title="intelbug" src="http://ktamas.blog.hu/media/image/200905/intelbug.png" alt="intelbug" width="260" height="336" /></a></p>
 
 <p>Egy DWM-ujrainditas megoldja, de ize. Jo, betas, tudom.</p>
@@ -275,32 +275,32 @@ Ja amugy ez csak egy a sok kozul, a taskbar pl. rendszeresen villog meg ablakok 
 <p>Ja amugy ez csak egy a sok kozul, a taskbar pl. rendszeresen villog meg ablakok random reszei lesznek atlatszoak, meg ilyesmi.</p>
 
 <footer>
-    <a title="Permanent link to “Kicsit bugzik a betas Intel driver Win7 alatt”" href="https://ktamas.github.io/index.php/2009/05/01/kicsit_bugzik_a_betas_intel_driver_win7_alatt/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Kicsit bugzik a betas Intel driver Win7 alatt”" href="https://blog.ktamas.com/index.php/2009/05/01/kicsit_bugzik_a_betas_intel_driver_win7_alatt/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/agymenes/">agymenes</a></li>
-                <li><a href="https://ktamas.github.io/tags/nocomment/">nocomment</a></li>
-                <li><a href="https://ktamas.github.io/tags/win7/">win7</a></li>
-                <li><a href="https://ktamas.github.io/tags/windows/">windows</a></li>
-                <li><a href="https://ktamas.github.io/tags/wtf/">wtf</a></li>
+                <li><a href="https://blog.ktamas.com/tags/agymenes/">agymenes</a></li>
+                <li><a href="https://blog.ktamas.com/tags/nocomment/">nocomment</a></li>
+                <li><a href="https://blog.ktamas.com/tags/win7/">win7</a></li>
+                <li><a href="https://blog.ktamas.com/tags/windows/">windows</a></li>
+                <li><a href="https://blog.ktamas.com/tags/wtf/">wtf</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2009/03/16/napi_karomkodas/</id>
+		<id>https://blog.ktamas.com/index.php/2009/03/16/napi_karomkodas/</id>
 		<title>Napi káromkodás</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/03/16/napi_karomkodas/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/03/16/napi_karomkodas/"/>
 		<updated>2009-03-16T15:03:57Z</updated>
 		<published>2009-03-16T15:03:57Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="agymenes" label="agymenes"/>
-		<category scheme="https://ktamas.github.io/tags" term="windows" label="windows"/>
+		<category scheme="https://blog.ktamas.com/tags" term="agymenes" label="agymenes"/>
+		<category scheme="https://blog.ktamas.com/tags" term="windows" label="windows"/>
 		<summary>Windows has made corrections to the file system.
 204,748,960 KB total disk space.
 101,600 KB in 3,059 hidden files.
@@ -308,7 +308,7 @@ Ja amugy ez csak egy a sok kozul, a taskbar pl. rendszeresen villog meg ablakok 
 120,296,800 KB in 37,286 files.
 32 KB in bad sectors.
 84,135,392 KB are available. Kb. 2-3 hetes Samsung notebook winchi…</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<pre>Windows has made corrections to the file system.<br />
   204,748,960 KB total disk space.<br />
       101,600 KB in 3,059 hidden files.<br />
@@ -320,33 +320,33 @@ Ja amugy ez csak egy a sok kozul, a taskbar pl. rendszeresen villog meg ablakok 
 <p>Kb. 2-3 hetes Samsung notebook winchi&#8230;</p>
 
 <footer>
-    <a title="Permanent link to “Napi káromkodás”" href="https://ktamas.github.io/index.php/2009/03/16/napi_karomkodas/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Napi káromkodás”" href="https://blog.ktamas.com/index.php/2009/03/16/napi_karomkodas/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/agymenes/">agymenes</a></li>
-                <li><a href="https://ktamas.github.io/tags/windows/">windows</a></li>
+                <li><a href="https://blog.ktamas.com/tags/agymenes/">agymenes</a></li>
+                <li><a href="https://blog.ktamas.com/tags/windows/">windows</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2009/03/11/a_mi_eseteink/</id>
+		<id>https://blog.ktamas.com/index.php/2009/03/11/a_mi_eseteink/</id>
 		<title>A mi ESETeink</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/03/11/a_mi_eseteink/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/03/11/a_mi_eseteink/"/>
 		<updated>2009-03-11T20:00:35Z</updated>
 		<published>2009-03-11T20:00:35Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="szerverek" label="szerverek"/>
-		<category scheme="https://ktamas.github.io/tags" term="windows" label="windows"/>
+		<category scheme="https://blog.ktamas.com/tags" term="szerverek" label="szerverek"/>
+		<category scheme="https://blog.ktamas.com/tags" term="windows" label="windows"/>
 		<summary>一 Furcsa hibát kap az egyik kolléga: definíció-frissítés után random program tökéletes exe fájlját véli vírusosnak a Nod. Ezek után rövid úton szétfagy a gép, vagyis megszűnik reagálni mindenre a reset gombon kívül. Újraindítás után szinte azonnal ugyanez, gép szétterhelődik, egy start menü fél óra mire megjelenik.
 Hopp, mégegy gép.
 Hopp, mégegy… óbazdmeg. Felmegyünk a Nod fórumjára, hamar kiderül, nem mi vagyunk az egyetlenek a problémával. Mindeközben több gép használhatatlan, és mivel a kedves Nod service természetesen széf módba is elindul… aztán nagy nehezen sikerül elég gyorsan eljutni a gépeken Serviceshez és letiltani a kis rohadékot, majd átnevezni a Nod32 mappáját, hogy esélye se lehessen elindulni.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p><span style="font-size: 20px">一</span> Furcsa hibát kap az egyik kolléga: definíció-frissítés után random program tökéletes exe fájlját véli vírusosnak a <em>Nod</em>. Ezek után rövid úton szétfagy a gép, vagyis megszűnik reagálni mindenre a reset gombon kívül. Újraindítás után szinte azonnal ugyanez, gép szétterhelődik, egy start menü fél óra mire megjelenik.</p>
 
 <p>Hopp, mégegy gép.</p>
@@ -372,35 +372,35 @@ Hopp, mégegy… óbazdmeg. Felmegyünk a Nod fórumjára, hamar kiderül, nem m
 <p>(A HVG-s címért én kérek elnézést)</p>
 
 <footer>
-    <a title="Permanent link to “A mi ESETeink”" href="https://ktamas.github.io/index.php/2009/03/11/a_mi_eseteink/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “A mi ESETeink”" href="https://blog.ktamas.com/index.php/2009/03/11/a_mi_eseteink/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/szerverek/">szerverek</a></li>
-                <li><a href="https://ktamas.github.io/tags/windows/">windows</a></li>
+                <li><a href="https://blog.ktamas.com/tags/szerverek/">szerverek</a></li>
+                <li><a href="https://blog.ktamas.com/tags/windows/">windows</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2009/02/12/mi_a_bajom_az_osx_szel/</id>
+		<id>https://blog.ktamas.com/index.php/2009/02/12/mi_a_bajom_az_osx_szel/</id>
 		<title>Mi a bajom az OSX-szel?</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/02/12/mi_a_bajom_az_osx_szel/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/02/12/mi_a_bajom_az_osx_szel/"/>
 		<updated>2009-02-12T19:34:43Z</updated>
 		<published>2009-02-12T19:34:43Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="mac" label="mac"/>
-		<category scheme="https://ktamas.github.io/tags" term="switch" label="switch"/>
-		<category scheme="https://ktamas.github.io/tags" term="win7" label="win7"/>
-		<category scheme="https://ktamas.github.io/tags" term="windows" label="windows"/>
+		<category scheme="https://blog.ktamas.com/tags" term="mac" label="mac"/>
+		<category scheme="https://blog.ktamas.com/tags" term="switch" label="switch"/>
+		<category scheme="https://blog.ktamas.com/tags" term="win7" label="win7"/>
+		<category scheme="https://blog.ktamas.com/tags" term="windows" label="windows"/>
 		<summary>Szóval az előző postban már említettem, hogy szeretnék win(7-e)t használni egy darabig, úgyhogy thinkpadra váltottam. Kicsit bővebben is kifejteném a szakítás okait az OSX-szel.
 Miért
 Kezdjük a másik oldalon, mi a jó az OSX-ben? Először is kapunk egy nagyon faszán megcsinált UI-t, valamint egy nagyon jó kis POSIX-implementációt a darwin személyében. Egy mozdulattal előhívhatjuk a Terminalt, és kedvünkre futtathatjuk kedvenc *nixes tooljainkat, programjainkat, ezáltal ideális platform jópár programnyelvhez is. Van nem egy killer app is rá (pl.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Szóval az előző postban már említettem, hogy szeretnék win(7-e)t használni egy darabig, úgyhogy thinkpadra váltottam. Kicsit bővebben is kifejteném a szakítás okait az OSX-szel.</p>
 
 <p><strong>Miért</strong></p>
@@ -438,35 +438,35 @@ Kezdjük a másik oldalon, mi a jó az OSX-ben? Először is kapunk egy nagyon f
 <p>Minden hibája ellenére továbbra is egy alapjába véve jó oprendszernek tartom az OSX-et (bár távolról se tökéletes lásd fentebb), lehet Snow Leo kap majd valamilyen módon egy esélyt, de a fenti okok miatt egyelőre nem hiszem, hogy egyhamar újra primary oprendszer lehetne. Tudom, a Win se tokeletes, de jelenleg teljesen megfelel, amire kell.</p>
 
 <footer>
-    <a title="Permanent link to “Mi a bajom az OSX-szel?”" href="https://ktamas.github.io/index.php/2009/02/12/mi_a_bajom_az_osx_szel/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Mi a bajom az OSX-szel?”" href="https://blog.ktamas.com/index.php/2009/02/12/mi_a_bajom_az_osx_szel/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/mac/">mac</a></li>
-                <li><a href="https://ktamas.github.io/tags/switch/">switch</a></li>
-                <li><a href="https://ktamas.github.io/tags/win7/">win7</a></li>
-                <li><a href="https://ktamas.github.io/tags/windows/">windows</a></li>
+                <li><a href="https://blog.ktamas.com/tags/mac/">mac</a></li>
+                <li><a href="https://blog.ktamas.com/tags/switch/">switch</a></li>
+                <li><a href="https://blog.ktamas.com/tags/win7/">win7</a></li>
+                <li><a href="https://blog.ktamas.com/tags/windows/">windows</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2009/02/11/bye_bye_macbook_hello_x61s_1/</id>
+		<id>https://blog.ktamas.com/index.php/2009/02/11/bye_bye_macbook_hello_x61s_1/</id>
 		<title>Bye-bye Macbook, hello X61s</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/02/11/bye_bye_macbook_hello_x61s_1/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/02/11/bye_bye_macbook_hello_x61s_1/"/>
 		<updated>2009-02-11T19:02:08Z</updated>
 		<published>2009-02-11T19:02:08Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="mac" label="mac"/>
-		<category scheme="https://ktamas.github.io/tags" term="switch" label="switch"/>
-		<category scheme="https://ktamas.github.io/tags" term="win7" label="win7"/>
-		<category scheme="https://ktamas.github.io/tags" term="windows" label="windows"/>
+		<category scheme="https://blog.ktamas.com/tags" term="mac" label="mac"/>
+		<category scheme="https://blog.ktamas.com/tags" term="switch" label="switch"/>
+		<category scheme="https://blog.ktamas.com/tags" term="win7" label="win7"/>
+		<category scheme="https://blog.ktamas.com/tags" term="windows" label="windows"/>
 		<summary>Nagy lépésre szántam el magamat: Eladtam a Macbookomat és vettem egy Thinkpadot, abból is egy X61s-t. Több okból is: egyrészt sosem tudtam teljesen megbarátkozni a borotválkozóView (copyright kelt) kijelzővel, másrészt meg egyelőre szeretnék Win7et használni mint primary oprendszer és erre sokkal alkalmasabb egy olyan gép amin pl. egynél több gomb van az egérhez (igen, windows alatt szar a macbook touchpadja for one). Az x61s szép, jó, a mérete szintén majdnem tökéletes, mert mindenféle akrobatikus mutatványok nélkül tudom elővenni pl.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Nagy lépésre szántam el magamat: Eladtam a Macbookomat és vettem egy Thinkpadot, abból is egy X61s-t. Több okból is: egyrészt sosem tudtam teljesen megbarátkozni a borotválkozóView (copyright kelt) kijelzővel, másrészt meg egyelőre szeretnék Win7et használni mint primary oprendszer és erre sokkal alkalmasabb egy olyan gép amin pl. egynél több gomb van az egérhez (igen, windows alatt szar a macbook touchpadja <em>for one</em>). Az x61s szép, jó, a mérete szintén majdnem tökéletes, mert mindenféle akrobatikus mutatványok nélkül tudom elővenni pl. a vonaton, a szuk ulesen is. Ezen felul a 6x sorozatu notebookok kb. a jelenleg legjobban kinézőek a piacon (szerintem), ami nem fő, de nem is utolsó szempont. Meg izé, new toy and all.</p>
 
 <p>Az OSX-szel a legnagyobb bajom, minden kenyelmessege ellenere, hogy tulsagosan egérközpontú, egy rakat dolog gyorsabban megy Win alatt a billentyűzettel. Ami viszont hiányozni fog, az a *nix integráció, amit egy mozdulattal előhívhat az ember.</p>
@@ -478,15 +478,15 @@ Kezdjük a másik oldalon, mi a jó az OSX-ben? Először is kapunk egy nagyon f
 <p>P.P.S.: Lesz hamarosan egy részletesebb írás is arról, hogy miért hagytam ott az OSX-et. Van is, <a href="http://ktamas.blog.hu/2009/02/12/mi_a_bajom_az_osx_szel" target="_blank">itt</a>.</p>
 
 <footer>
-    <a title="Permanent link to “Bye-bye Macbook, hello X61s”" href="https://ktamas.github.io/index.php/2009/02/11/bye_bye_macbook_hello_x61s_1/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Bye-bye Macbook, hello X61s”" href="https://blog.ktamas.com/index.php/2009/02/11/bye_bye_macbook_hello_x61s_1/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/mac/">mac</a></li>
-                <li><a href="https://ktamas.github.io/tags/switch/">switch</a></li>
-                <li><a href="https://ktamas.github.io/tags/win7/">win7</a></li>
-                <li><a href="https://ktamas.github.io/tags/windows/">windows</a></li>
+                <li><a href="https://blog.ktamas.com/tags/mac/">mac</a></li>
+                <li><a href="https://blog.ktamas.com/tags/switch/">switch</a></li>
+                <li><a href="https://blog.ktamas.com/tags/win7/">win7</a></li>
+                <li><a href="https://blog.ktamas.com/tags/windows/">windows</a></li>
             </ul>
         </div>
 </footer>]]></content>

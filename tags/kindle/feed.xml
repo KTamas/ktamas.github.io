@@ -1,63 +1,63 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
-	<id>https://ktamas.github.io/tags/kindle/</id>
+	<id>https://blog.ktamas.com/tags/kindle/</id>
 	<title>kindle on KTamas&#39; blog</title>
 	<subtitle>An ongoing list of KTamas' blog posts about kindle</subtitle>
 	<updated>2012-10-16T11:03:55Z</updated>
-	<link rel="self" type="application/atom+xml" href="https://ktamas.github.io/tags/kindle/feed.xml"/>
-	<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/kindle/"/>
-	<link rel="alternate" type="application/json" href="https://ktamas.github.io/tags/kindle/feed.json"/>
+	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/kindle/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/kindle/"/>
+	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/kindle/feed.json"/>
 	<author>
 		<name>KTamas</name>
-		<uri>https://ktamas.github.io/</uri>
+		<uri>https://blog.ktamas.com/</uri>
 	</author>
 	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
-	<icon>"https://ktamas.github.io/icon-512x512.png"</icon>
+	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2012/10/16/meg-mindig-kindle-benne-vagyok-az-internetben-rovat/</id>
+		<id>https://blog.ktamas.com/index.php/2012/10/16/meg-mindig-kindle-benne-vagyok-az-internetben-rovat/</id>
 		<title>Még mindig Kindle (benne vagyok az internetben rovat)</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2012/10/16/meg-mindig-kindle-benne-vagyok-az-internetben-rovat/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2012/10/16/meg-mindig-kindle-benne-vagyok-az-internetben-rovat/"/>
 		<updated>2012-10-16T11:03:55Z</updated>
 		<published>2012-10-16T11:03:55Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="bennevagyokazinternetben" label="bennevagyokazinternetben"/>
-		<category scheme="https://ktamas.github.io/tags" term="kindle" label="kindle"/>
+		<category scheme="https://blog.ktamas.com/tags" term="bennevagyokazinternetben" label="bennevagyokazinternetben"/>
+		<category scheme="https://blog.ktamas.com/tags" term="kindle" label="kindle"/>
 		<summary>Írtam egy viszonylag hosszabb tesztet a Kindle 1-ről, az ekönyvolvasó blogon lehet elolvasni. Köszönet Keltnek a szerkesztésért, illetve Dworkyllnak az elő- és utószóért, na meg a lehetőségért.
 Egyébként megjött a Paperwhite-om, le is tesztelte az Origó, én kijátszottam magam, és ma el is adtam. Ha lesz ihletem hozzá, megírom majd, hogy miért.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Írtam egy viszonylag hosszabb tesztet a Kindle 1-ről, <a href="http://ekonyvolvaso.blog.hu/2012/10/15/kindle_amazon_s_original_wireless_reading_device_1st_generation">az ekönyvolvasó blogon lehet elolvasni</a>. Köszönet <a href="http://worldshots.hu">Kelt</a>nek a szerkesztésért, illetve Dworkyllnak az elő- és utószóért, na meg a lehetőségért.</p>
 
 <p>Egyébként megjött a Paperwhite-om, <a href="http://www.origo.hu/techbazis/komment/20121011-kindle-paperwhite-paplan-alatt-is-mehet-a-tronok-harca.html">le is tesztelte az Origó</a>, én kijátszottam magam, és ma el is adtam. Ha lesz ihletem hozzá, megírom majd, hogy miért.</p>
 
 <footer>
-    <a title="Permanent link to “Még mindig Kindle (benne vagyok az internetben rovat)”" href="https://ktamas.github.io/index.php/2012/10/16/meg-mindig-kindle-benne-vagyok-az-internetben-rovat/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Még mindig Kindle (benne vagyok az internetben rovat)”" href="https://blog.ktamas.com/index.php/2012/10/16/meg-mindig-kindle-benne-vagyok-az-internetben-rovat/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/bennevagyokazinternetben/">bennevagyokazinternetben</a></li>
-                <li><a href="https://ktamas.github.io/tags/kindle/">kindle</a></li>
+                <li><a href="https://blog.ktamas.com/tags/bennevagyokazinternetben/">bennevagyokazinternetben</a></li>
+                <li><a href="https://blog.ktamas.com/tags/kindle/">kindle</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2012/09/28/kindle-a-sokadik-de-termeszetesen-nem-az-utolso/</id>
+		<id>https://blog.ktamas.com/index.php/2012/09/28/kindle-a-sokadik-de-termeszetesen-nem-az-utolso/</id>
 		<title>Kindle (a sokadik, de természetesen nem az utolsó)</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2012/09/28/kindle-a-sokadik-de-termeszetesen-nem-az-utolso/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2012/09/28/kindle-a-sokadik-de-termeszetesen-nem-az-utolso/"/>
 		<updated>2012-09-28T11:56:06Z</updated>
 		<published>2012-09-28T11:56:06Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="kindle" label="kindle"/>
+		<category scheme="https://blog.ktamas.com/tags" term="kindle" label="kindle"/>
 		<summary>Miután meghalt/kinyírtam (a kívánt rész aláhúzandó) a harmadik Kindle Keyboardomat is — ezúttal ismételten a képernyő –, úgy döntöttem, hogy ez a generáció nem elég, nos, strapabíró számomra. Ezenfelül amúgyis szerettem volna kicsit kipróbálni, milyen az, ha az ember csak a telefonján/iPaden olvas (spoiler: egészen jó). Úgyhogy a negyedik, csereként érkezett Kindle boldog új tulajdonosa Ildi lett, én pedig eltöltöttem pár hetet úgy, hogy otthon egy második generációs iPaden, útközben pedig a Nexus S-emen olvastam.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p><a href="/wp-content/uploads/2012/09/c48439c4e51311e1a4dd1231380fde52_7.jpg"><img class="aligncenter size-full wp-image-2363299" title="brokenkindle" src="/wp-content/uploads/2012/09/c48439c4e51311e1a4dd1231380fde52_7.jpg" alt="" width="612" height="612" srcset="/wp-content/uploads/2012/09/c48439c4e51311e1a4dd1231380fde52_7.jpg 612w, /wp-content/uploads/2012/09/c48439c4e51311e1a4dd1231380fde52_7-150x150.jpg 150w, /wp-content/uploads/2012/09/c48439c4e51311e1a4dd1231380fde52_7-300x300.jpg 300w" sizes="(max-width: 612px) 100vw, 612px" /></a></p>
 
 <p>Miután meghalt/kinyírtam (a kívánt rész aláhúzandó) a harmadik Kindle Keyboardomat is &#8212; ezúttal ismételten a képernyő &#8211;, úgy döntöttem, hogy ez a generáció nem elég, nos, strapabíró számomra. Ezenfelül amúgyis szerettem volna kicsit kipróbálni, milyen az, ha az ember csak a telefonján/iPaden olvas (spoiler: egészen jó). Úgyhogy a negyedik, csereként érkezett Kindle boldog új tulajdonosa <a href="http://moderatelyawesome.freeblog.hu">Ildi</a> lett, én pedig eltöltöttem pár hetet úgy, hogy otthon egy második generációs iPaden, útközben pedig a Nexus S-emen olvastam.</p>
@@ -69,12 +69,12 @@ Egyébként megjött a Paperwhite-om, le is tesztelte az Origó, én kijátszott
 <p><a href="/wp-content/uploads/2012/09/5c0775ee00b811e283c1123138105975_7.jpg"><img class="aligncenter size-full wp-image-2363300" title="kindle1" src="/wp-content/uploads/2012/09/5c0775ee00b811e283c1123138105975_7.jpg" alt="" width="612" height="612" srcset="/wp-content/uploads/2012/09/5c0775ee00b811e283c1123138105975_7.jpg 612w, /wp-content/uploads/2012/09/5c0775ee00b811e283c1123138105975_7-150x150.jpg 150w, /wp-content/uploads/2012/09/5c0775ee00b811e283c1123138105975_7-300x300.jpg 300w" sizes="(max-width: 612px) 100vw, 612px" /></a></p>
 
 <footer>
-    <a title="Permanent link to “Kindle (a sokadik, de természetesen nem az utolsó)”" href="https://ktamas.github.io/index.php/2012/09/28/kindle-a-sokadik-de-termeszetesen-nem-az-utolso/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Kindle (a sokadik, de természetesen nem az utolsó)”" href="https://blog.ktamas.com/index.php/2012/09/28/kindle-a-sokadik-de-termeszetesen-nem-az-utolso/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/kindle/">kindle</a></li>
+                <li><a href="https://blog.ktamas.com/tags/kindle/">kindle</a></li>
             </ul>
         </div>
 </footer>]]></content>

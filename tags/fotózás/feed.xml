@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
-	<id>https://ktamas.github.io/tags/fot%C3%B3z%C3%A1s/</id>
+	<id>https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/</id>
 	<title>fotózás on KTamas&#39; blog</title>
 	<subtitle>An ongoing list of KTamas' blog posts about fotózás</subtitle>
 	<updated>2015-06-24T10:42:52Z</updated>
-	<link rel="self" type="application/atom+xml" href="https://ktamas.github.io/tags/fot%C3%B3z%C3%A1s/feed.xml"/>
-	<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/fot%C3%B3z%C3%A1s/"/>
-	<link rel="alternate" type="application/json" href="https://ktamas.github.io/tags/fot%C3%B3z%C3%A1s/feed.json"/>
+	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/"/>
+	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/feed.json"/>
 	<author>
 		<name>KTamas</name>
-		<uri>https://ktamas.github.io/</uri>
+		<uri>https://blog.ktamas.com/</uri>
 	</author>
 	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
-	<icon>"https://ktamas.github.io/icon-512x512.png"</icon>
+	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2015/06/24/mid-year-status-update/</id>
+		<id>https://blog.ktamas.com/index.php/2015/06/24/mid-year-status-update/</id>
 		<title>Mid-year status update</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2015/06/24/mid-year-status-update/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2015/06/24/mid-year-status-update/"/>
 		<updated>2015-06-24T10:42:52Z</updated>
 		<published>2015-06-24T10:42:52Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="2015" label="2015"/>
-		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://ktamas.github.io/tags" term="fot%C3%B3z%C3%A1s" label="fotózás"/>
-		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://blog.ktamas.com/tags" term="2015" label="2015"/>
+		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://blog.ktamas.com/tags" term="fot%C3%B3z%C3%A1s" label="fotózás"/>
+		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
 		<summary>Work I quit my day job at the end of last year to become a freelance consultant, and so far it has been going well. The first few months were much harder, than I thought it would be, with the newfound freedom bringing much more free time, but a lot of stress, financial and otherwise. However, now I am six months in, and I have already worked with several clients, sorted out accounting (ugh), realized it’s a really bad idea to have my work e-mail mixed with my personal ones, and I’m heading to Southern Europe for 2 months in a week.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<h1 id="work">Work</h1>
 
 <p>I quit my day job at the end of last year to become a freelance consultant, and so far it has been going well. The first few months were much harder, than I thought it would be, with the newfound freedom bringing much more free time, but a lot of stress, financial and otherwise. However, now I am six months in, and I have already worked with several clients, sorted out accounting (ugh), realized it&#8217;s a really bad idea to have my work e-mail mixed with my personal ones, and I&#8217;m heading to Southern Europe for 2 months in a week.</p>
@@ -67,34 +67,34 @@
 <p>Eventually.</p>
 
 <footer>
-    <a title="Permanent link to “Mid-year status update”" href="https://ktamas.github.io/index.php/2015/06/24/mid-year-status-update/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Mid-year status update”" href="https://blog.ktamas.com/index.php/2015/06/24/mid-year-status-update/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/2015/">2015</a></li>
-                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://ktamas.github.io/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
-                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://blog.ktamas.com/tags/2015/">2015</a></li>
+                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
+                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2014/02/24/photoshop-cc-lightroom-5-most-havi-1229-euroert/</id>
+		<id>https://blog.ktamas.com/index.php/2014/02/24/photoshop-cc-lightroom-5-most-havi-1229-euroert/</id>
 		<title>Photoshop CC &#43; Lightroom 5 most havi 12,29 euróért</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2014/02/24/photoshop-cc-lightroom-5-most-havi-1229-euroert/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2014/02/24/photoshop-cc-lightroom-5-most-havi-1229-euroert/"/>
 		<updated>2014-02-24T13:59:30Z</updated>
 		<published>2014-02-24T13:59:30Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://ktamas.github.io/tags" term="fot%C3%B3z%C3%A1s" label="fotózás"/>
+		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://blog.ktamas.com/tags" term="fot%C3%B3z%C3%A1s" label="fotózás"/>
 		<summary>Még pár hónapja láttam, hogy az Adobe havi tíz dollárért ad Photoshopot meg Lightroomot — azoknak, akik egyszer már megvásároltak legalább egy CS3-at. Kár, gondoltam, mert ennyi pénzért azonnal előfizettem volna, pláne, hogy gyakorlatilag csak ezt a két Adobe szoftvert használom. De ha nem kérik a pénzem, hát nem.
 Ma valamiért ismét felmentem az adobe.com-ra, ahol nagyban hirdették, hogy mostmár, korlátozott akció keretében, [mindenki megveheti a fenti kombinációt](). Persze rájön a dologra a nemvagyamerikában adó meg az áfa, de még így 105 SEK, kábé 3600 HUF a végösszeg itt Svédben (Magyarországon pedig 12,29 EUR), amivel semmi problémám sincs, úgyhogy azonnal elő is fizettem a dolgokra.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p><a href="https://creative.adobe.com/plans/offer/photoshop+lightroom?promoid=KHQFP"><img src="/wp-content/uploads/2014/02/fotosop1.jpg" alt="fotosop" width="657" height="370" class="aligncenter size-full wp-image-2365329" srcset="/wp-content/uploads/2014/02/fotosop1.jpg 657w, /wp-content/uploads/2014/02/fotosop1-300x168.jpg 300w, /wp-content/uploads/2014/02/fotosop1-624x351.jpg 624w" sizes="(max-width: 657px) 100vw, 657px" /></a></p>
 
 <p>Még pár hónapja láttam, hogy az Adobe havi tíz dollárért ad Photoshopot meg Lightroomot &#8212; azoknak, akik egyszer már megvásároltak legalább egy CS3-at. Kár, gondoltam, mert ennyi pénzért azonnal előfizettem volna, pláne, hogy gyakorlatilag csak ezt a két Adobe szoftvert használom. De ha nem kérik a pénzem, hát nem.</p>
@@ -106,33 +106,33 @@ Ma valamiért ismét felmentem az adobe.com-ra, ahol nagyban hirdették, hogy mo
 <p><em>(A posztot az Adobe sajnos nem szponzorálta.)</em></p>
 
 <footer>
-    <a title="Permanent link to “Photoshop CC &#43; Lightroom 5 most havi 12,29 euróért”" href="https://ktamas.github.io/index.php/2014/02/24/photoshop-cc-lightroom-5-most-havi-1229-euroert/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Photoshop CC &#43; Lightroom 5 most havi 12,29 euróért”" href="https://blog.ktamas.com/index.php/2014/02/24/photoshop-cc-lightroom-5-most-havi-1229-euroert/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://ktamas.github.io/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
+                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2014/01/31/random-csapongasok-a-fotozasrol-dddddd-akarom-mondani-6d/</id>
+		<id>https://blog.ktamas.com/index.php/2014/01/31/random-csapongasok-a-fotozasrol-dddddd-akarom-mondani-6d/</id>
 		<title>Random csapongások a fotózásról (DDDDDD, akarom mondani 6D)</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2014/01/31/random-csapongasok-a-fotozasrol-dddddd-akarom-mondani-6d/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2014/01/31/random-csapongasok-a-fotozasrol-dddddd-akarom-mondani-6d/"/>
 		<updated>2014-01-31T10:53:21Z</updated>
 		<published>2014-01-31T10:53:21Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://ktamas.github.io/tags" term="fot%C3%B3z%C3%A1s" label="fotózás"/>
-		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://blog.ktamas.com/tags" term="fot%C3%B3z%C3%A1s" label="fotózás"/>
+		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
 		<summary>Megvan több, mint egy hónapja a 6D, lőttem vele úgy ezer képet, kezd valami véleményem kialakulni róla.
 Az első és a legfontosabb, hogy ez egy piszokjó vas. Még mindig nehezen lépek túl azon, hogy ha nem is simán, de mondjuk okosan jól lehet fotózni ISO12800-on, sőt, ISO25600-on is, elképesztő, ahogy a szenzortechnológia fejlődik. Ha már szenzor, az is durva, hogy (középen) tényleg képes autofókuszálni nevetséges fénykörülmények között is lazán, többnyire pontosan, sokszor nagyon hasznosan jön ez.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Megvan több, mint egy hónapja a 6D, lőttem vele úgy ezer képet, kezd valami véleményem kialakulni róla.</p>
 
 <p>Az első és a legfontosabb, hogy ez egy piszokjó vas. Még mindig nehezen lépek túl azon, hogy ha nem is simán, de mondjuk okosan jól lehet fotózni ISO12800-on, sőt, ISO25600-on is, elképesztő, ahogy a szenzortechnológia fejlődik. Ha már szenzor, az is durva, hogy (középen) tényleg képes autofókuszálni nevetséges fénykörülmények között is lazán, többnyire pontosan, sokszor nagyon hasznosan jön ez.</p>
@@ -158,69 +158,69 @@ Az első és a legfontosabb, hogy ez egy piszokjó vas. Még mindig nehezen lép
 <p>Az éjszakai városi fotózáshoz pedig majd valami 35 és/vagy azalatti fókusztávú objektívet. De nem sietek sehova, szépen, apránként.</p>
 
 <footer>
-    <a title="Permanent link to “Random csapongások a fotózásról (DDDDDD, akarom mondani 6D)”" href="https://ktamas.github.io/index.php/2014/01/31/random-csapongasok-a-fotozasrol-dddddd-akarom-mondani-6d/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Random csapongások a fotózásról (DDDDDD, akarom mondani 6D)”" href="https://blog.ktamas.com/index.php/2014/01/31/random-csapongasok-a-fotozasrol-dddddd-akarom-mondani-6d/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://ktamas.github.io/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
-                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
+                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2014/01/21/kepek-budapest-201401/</id>
+		<id>https://blog.ktamas.com/index.php/2014/01/21/kepek-budapest-201401/</id>
 		<title>Képek (Budapest 2014/01)</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2014/01/21/kepek-budapest-201401/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2014/01/21/kepek-budapest-201401/"/>
 		<updated>2014-01-21T09:46:58Z</updated>
 		<published>2014-01-21T09:46:58Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="budapest" label="budapest"/>
-		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://ktamas.github.io/tags" term="fot%C3%B3z%C3%A1s" label="fotózás"/>
-		<category scheme="https://ktamas.github.io/tags" term="magyarorsz%C3%A1g" label="magyarország"/>
-		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://blog.ktamas.com/tags" term="budapest" label="budapest"/>
+		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://blog.ktamas.com/tags" term="fot%C3%B3z%C3%A1s" label="fotózás"/>
+		<category scheme="https://blog.ktamas.com/tags" term="magyarorsz%C3%A1g" label="magyarország"/>
+		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
 		<summary>Mint már mondtam, vannak képek is, most végre kikerültek Lightroomból, fel az internetre. Illetve beillesztve alább.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p><a href="http://blog.ktamas.com/index.php/2014/01/16/25-1-2013-2014/" title="25, 1, 2013, 2014">Mint már mondtam</a>, vannak képek is, most végre kikerültek Lightroomból, <a href="http://www.flickr.com/photos/tamaskadar/sets/72157639982935053/">fel az internetre</a>. Illetve beillesztve alább.</p>
 
 <p><a data-flickr-embed="true"  href="https://www.flickr.com/photos/tamaskadar/albums/72157639982935053" title="Budapest 2014/01"><img src="https://farm3.staticflickr.com/2887/12056478715_7cd373dcc4_z.jpg" width="640" height="513" alt="Budapest 2014/01"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
 
 <footer>
-    <a title="Permanent link to “Képek (Budapest 2014/01)”" href="https://ktamas.github.io/index.php/2014/01/21/kepek-budapest-201401/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Képek (Budapest 2014/01)”" href="https://blog.ktamas.com/index.php/2014/01/21/kepek-budapest-201401/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/budapest/">budapest</a></li>
-                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://ktamas.github.io/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
-                <li><a href="https://ktamas.github.io/tags/magyarorsz%C3%A1g/">magyarország</a></li>
-                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://blog.ktamas.com/tags/budapest/">budapest</a></li>
+                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
+                <li><a href="https://blog.ktamas.com/tags/magyarorsz%C3%A1g/">magyarország</a></li>
+                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2014/01/03/az-eskuvoi-fotozasrol/</id>
+		<id>https://blog.ktamas.com/index.php/2014/01/03/az-eskuvoi-fotozasrol/</id>
 		<title>Az esküvői fotózásról</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2014/01/03/az-eskuvoi-fotozasrol/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2014/01/03/az-eskuvoi-fotozasrol/"/>
 		<updated>2014-01-03T09:12:03Z</updated>
 		<published>2014-01-03T09:12:03Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://ktamas.github.io/tags" term="fot%C3%B3z%C3%A1s" label="fotózás"/>
-		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://blog.ktamas.com/tags" term="fot%C3%B3z%C3%A1s" label="fotózás"/>
+		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
 		<summary>Közvetlenül azelőtt, hogy megvettem volna a 6D-t”), vicces időzítés, de így jött ki, még végigfotóztam gyorsan egy esküvőt. Illetve hát, magát az esküvői szertartást pont nem, mert éppen hangosítottam, de előtte, és főleg és sokkalinkább utána lőttem képeket. Ehhez egy volt kollégától kértem kölcsön gépet, minden kép egy Nikon D200-zzal és egy 50 f/1.4-es lencsével készült, nagyrészt ISO800-on, mert mégiscsak bent voltunk, és fény az csak korlátozott mennyiségben volt elérhető, bár az időjáráshoz képest viszonylag sok volt belőle.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Közvetlenül azelőtt, hogy <a href="http://blog.ktamas.com/index.php/2013/12/30/a-fotozasrol-megint-sokadszorra-egyaltalan-nem-utoljara-sot-6d/ &quot;A fotózásról, megint, sokadszorra, egyáltalán nem utoljára, sőt (6D">megvettem volna a 6D-t</a>&rdquo;), <em>vicces időzítés, de így jött ki,</em> még végigfotóztam gyorsan egy esküvőt. Illetve hát, magát az esküvői szertartást pont nem, mert éppen hangosítottam, de előtte, és főleg és sokkalinkább utána lőttem képeket. Ehhez egy volt kollégától kértem kölcsön gépet, minden kép egy Nikon D200-zzal és egy 50 f/1.4-es lencsével készült, nagyrészt ISO800-on, mert mégiscsak bent voltunk, és fény az csak korlátozott mennyiségben volt elérhető, bár az időjáráshoz képest viszonylag sok volt belőle. Összesen 772 kép készült, sok óra utómunkával lett belőle 63 <em>és még abból is lehetett volna vágni párat asszem, csak már nem volt hozzá szivem</em>, most pedig az ifjú pár feltöltött belőle egy adagot, <a href="https://www.facebook.com/saran.run.5/media_set?set=a.531728020268336.1073741837.100002934270671&amp;type=1">itten találhatóak meg</a>.</p>
 
 <p>Iszonyat jó móka volt, a jövőben több esküvőt kell fotóznom.</p>
@@ -228,34 +228,34 @@ Az első és a legfontosabb, hogy ez egy piszokjó vas. Még mindig nehezen lép
 <p>(az első és a harmadik kép nem az enyém, valamint az a kettő se, amin én vagyok, természetesen)</p>
 
 <footer>
-    <a title="Permanent link to “Az esküvői fotózásról”" href="https://ktamas.github.io/index.php/2014/01/03/az-eskuvoi-fotozasrol/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Az esküvői fotózásról”" href="https://blog.ktamas.com/index.php/2014/01/03/az-eskuvoi-fotozasrol/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://ktamas.github.io/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
-                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
+                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2013/12/30/a-fotozasrol-megint-sokadszorra-egyaltalan-nem-utoljara-sot-6d/</id>
+		<id>https://blog.ktamas.com/index.php/2013/12/30/a-fotozasrol-megint-sokadszorra-egyaltalan-nem-utoljara-sot-6d/</id>
 		<title>A fotózásról, megint, sokadszorra, egyáltalán nem utoljára, sőt (6D)</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/12/30/a-fotozasrol-megint-sokadszorra-egyaltalan-nem-utoljara-sot-6d/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/12/30/a-fotozasrol-megint-sokadszorra-egyaltalan-nem-utoljara-sot-6d/"/>
 		<updated>2013-12-30T09:36:40Z</updated>
 		<published>2013-12-30T09:36:40Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://ktamas.github.io/tags" term="fot%C3%B3z%C3%A1s" label="fotózás"/>
+		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://blog.ktamas.com/tags" term="fot%C3%B3z%C3%A1s" label="fotózás"/>
 		<summary>Hosszú a lista, soroljam?
 Olympus E-1. Canon S90, filmes Contax 137MD. Minolta Hi-Matic E, aztán Canonet QL19. Mobilfotózás, Nexus S először komolyabban, aztán iPhone 4S, most meg amúgy egy céges 5S. És persze mindig viszket a kezem valami új után…
 Idén December elején volt alkalmam a gyülekezetben fotózni egy Canon 5D Mark II-vel meg egy 50mm f/1.4-es objektívvel, és elképesztően élveztem a dolgot. Akkor döntöttem el, hogy oké, jó volt ez a mobilfotózós időszak, de kezdjünk el újra valami komolyon gondolkozni.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Hosszú a lista, soroljam?</p>
 
 <p><a href="http://blog.ktamas.com/index.php/2009/01/06/az_fotozasrul_avagy_fotozni_jo/" title="Az fotózásrul, avagy fotózni jó">Olympus E-1</a>.  <a href="http://blog.ktamas.com/index.php/2010/09/21/ki_gondolta_volna_9/" title="Ki gondolta volna">Canon S90, filmes Contax 137MD</a>. <a href="http://blog.ktamas.com/index.php/2012/01/23/canonet-ql19/">Minolta Hi-Matic E, aztán Canonet QL19</a>. Mobilfotózás, Nexus S először komolyabban, aztán <a href="http://blog.ktamas.com/index.php/2013/03/27/az-fotozasrul/">iPhone 4S</a>, most meg amúgy egy céges 5S. És persze mindig viszket a kezem valami új után&#8230;</p>
@@ -287,32 +287,32 @@ Idén December elején volt alkalmam a gyülekezetben fotózni egy Canon 5D Mark
 <p>*97%-ban. Ebben kiegyezhetünk.</p>
 
 <footer>
-    <a title="Permanent link to “A fotózásról, megint, sokadszorra, egyáltalán nem utoljára, sőt (6D)”" href="https://ktamas.github.io/index.php/2013/12/30/a-fotozasrol-megint-sokadszorra-egyaltalan-nem-utoljara-sot-6d/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “A fotózásról, megint, sokadszorra, egyáltalán nem utoljára, sőt (6D)”" href="https://blog.ktamas.com/index.php/2013/12/30/a-fotozasrol-megint-sokadszorra-egyaltalan-nem-utoljara-sot-6d/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://ktamas.github.io/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
+                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2013/04/02/felmentem-a-tetore-a-kepek/</id>
+		<id>https://blog.ktamas.com/index.php/2013/04/02/felmentem-a-tetore-a-kepek/</id>
 		<title>Felmentem a tetőre: a képek</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/04/02/felmentem-a-tetore-a-kepek/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/04/02/felmentem-a-tetore-a-kepek/"/>
 		<updated>2013-04-02T11:11:25Z</updated>
 		<published>2013-04-02T11:11:25Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="fot%C3%B3z%C3%A1s" label="fotózás"/>
-		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://blog.ktamas.com/tags" term="fot%C3%B3z%C3%A1s" label="fotózás"/>
+		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
 		<summary>Feldolgoztam végre a tetőn készült képeket a videó után, minden további komment nélkül az alábbi galériában találhatóak. Az biztos, hogy muszáj lesz újra felmenni. Sokszor. A képek nagyobban a jobbklikk -> Open Image in New Tabbal lehet megnézni, vagy ebben a facebookgalériában.
                  </summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Feldolgoztam végre a tetőn készült képeket <a href="http://blog.ktamas.com/index.php/2013/03/29/felmentem-a-tetore-kisszerda/">a videó után</a>, minden további komment nélkül az alábbi galériában találhatóak. Az biztos, hogy muszáj lesz újra felmenni. Sokszor. A képek nagyobban a jobbklikk -&gt; Open Image in New Tabbal lehet megnézni, vagy <a href="https://www.facebook.com/media/set/?set=a.10151319459880146.1073741826.722715145&amp;type=1&amp;l=1602e45b97">ebben a facebookgalériában</a>.</p>
 
 <div id='gallery-10' class='gallery galleryid-2364180 gallery-columns-3 gallery-size-thumbnail'>
@@ -380,35 +380,35 @@ Idén December elején volt alkalmam a gyülekezetben fotózni egy Canon 5D Mark
 </div>
 
 <footer>
-    <a title="Permanent link to “Felmentem a tetőre: a képek”" href="https://ktamas.github.io/index.php/2013/04/02/felmentem-a-tetore-a-kepek/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Felmentem a tetőre: a képek”" href="https://blog.ktamas.com/index.php/2013/04/02/felmentem-a-tetore-a-kepek/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
-                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
+                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2013/03/29/felmentem-a-tetore-kisszerda/</id>
+		<id>https://blog.ktamas.com/index.php/2013/03/29/felmentem-a-tetore-kisszerda/</id>
 		<title>Felmentem a tetőre kisszerda</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/03/29/felmentem-a-tetore-kisszerda/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/03/29/felmentem-a-tetore-kisszerda/"/>
 		<updated>2013-03-29T09:30:48Z</updated>
 		<published>2013-03-29T09:30:48Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://ktamas.github.io/tags" term="fot%C3%B3z%C3%A1s" label="fotózás"/>
-		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
-		<category scheme="https://ktamas.github.io/tags" term="video" label="video"/>
+		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://blog.ktamas.com/tags" term="fot%C3%B3z%C3%A1s" label="fotózás"/>
+		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://blog.ktamas.com/tags" term="video" label="video"/>
 		<summary>A munka és a szociális élet megintcsak a blogolás rovására ment, azért igyekszek most, a hosszúhétvégén pótolni, amit lehet. Itt húsvét alkalmából nem csak a hétfőt, hanem a pénteket is megkapjuk munkaszüneti napnak, sőt, szokás hogy csütörtökön már csak fél napot dolgoznak az embek.
 Kezdetnek megmutatom ezt a videót, amit szerdán lőttem. Felmentem tetőre a cégnél, egyszerűen gyönyörű ott fent, és körbejárkáltam egy kicsit. Lesznek majd képek is.
 Igen, fúj a szél a mikrofonba és helyenként helyenként belelóg az ujjam a képbe, de ennek ellenére szerintem van benne élvezhető tartalom.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>A munka és a szociális élet megintcsak a blogolás rovására ment, azért igyekszek most, a hosszúhétvégén pótolni, amit lehet. Itt húsvét alkalmából nem csak a hétfőt, hanem a pénteket is megkapjuk munkaszüneti napnak, sőt, szokás hogy csütörtökön már csak fél napot dolgoznak az embek.</p>
 
 <p>Kezdetnek megmutatom ezt a videót, amit szerdán lőttem. Felmentem tetőre a cégnél, egyszerűen gyönyörű ott fent, és körbejárkáltam egy kicsit. Lesznek majd képek is.</p>
@@ -422,33 +422,33 @@ Igen, fúj a szél a mikrofonba és helyenként helyenként belelóg az ujjam a 
 <p><a href="/wp-content/uploads/2013/03/2013-03-27-12.57.29.jpg"><img src="/wp-content/uploads/2013/03/2013-03-27-12.57.29-1024x332.jpg" alt="2013-03-27 12.57.29" width="625" height="202" class="aligncenter size-large wp-image-2364160" srcset="/wp-content/uploads/2013/03/2013-03-27-12.57.29-1024x332.jpg 1024w, /wp-content/uploads/2013/03/2013-03-27-12.57.29-300x97.jpg 300w, /wp-content/uploads/2013/03/2013-03-27-12.57.29-624x202.jpg 624w" sizes="(max-width: 625px) 100vw, 625px" /></a></p>
 
 <footer>
-    <a title="Permanent link to “Felmentem a tetőre kisszerda”" href="https://ktamas.github.io/index.php/2013/03/29/felmentem-a-tetore-kisszerda/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Felmentem a tetőre kisszerda”" href="https://blog.ktamas.com/index.php/2013/03/29/felmentem-a-tetore-kisszerda/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://ktamas.github.io/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
-                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
-                <li><a href="https://ktamas.github.io/tags/video/">video</a></li>
+                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
+                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://blog.ktamas.com/tags/video/">video</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2013/03/27/az-fotozasrul/</id>
+		<id>https://blog.ktamas.com/index.php/2013/03/27/az-fotozasrul/</id>
 		<title>Az fotózásrul</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/03/27/az-fotozasrul/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/03/27/az-fotozasrul/"/>
 		<updated>2013-03-27T16:26:58Z</updated>
 		<published>2013-03-27T16:26:58Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="fot%C3%B3z%C3%A1s" label="fotózás"/>
-		<category scheme="https://ktamas.github.io/tags" term="random" label="random"/>
+		<category scheme="https://blog.ktamas.com/tags" term="fot%C3%B3z%C3%A1s" label="fotózás"/>
+		<category scheme="https://blog.ktamas.com/tags" term="random" label="random"/>
 		<summary>Az a legjobb fényképezőgép, ami éppen nálad van, mondja az ezeréves közhely, és ezt módosítanám arra, hogy az, ami a kezedben van: a legelső naptól kezdve a telefonommal fotóztam, mikor megérkeztem Svédországba. Ez nem változott azóta sem: az S90-emet kb. ötször használtam az elmúlt két hónapban, leginkább akkor, amikor kellett valami igazán jó minőségű kép valamiről. A filmes Canonetemmel egy darab képet nem lőttem. A Nexus S-sel azonban fotózgattam folyamatosan, és az egyik ok, ami miatt aztán ájfónt vettem, a kamerája volt: mint azt már korábban leírtam, egyszerűen tényleg elképesztően jó képeket csinál önmagához képest, a mobilfotózással már eljutottunk a 20-30 rugós kompakt gépek minőségéig sok szempontból, sőt, bizonyos szempontból még jobb is náluk.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Az a legjobb fényképezőgép, ami éppen nálad van, mondja az ezeréves közhely, és ezt módosítanám arra, hogy az, ami a kezedben van: a legelső naptól kezdve a telefonommal fotóztam, mikor megérkeztem Svédországba. Ez nem változott azóta sem: az S90-emet kb. ötször használtam az elmúlt két hónapban, leginkább akkor, amikor kellett valami igazán jó minőségű kép valamiről. A filmes Canonetemmel egy darab képet nem lőttem. A Nexus S-sel azonban fotózgattam folyamatosan, és az egyik ok, ami miatt aztán ájfónt vettem, a kamerája volt: mint azt már korábban leírtam, egyszerűen tényleg elképesztően jó képeket csinál önmagához képest, a mobilfotózással már eljutottunk a 20-30 rugós kompakt gépek minőségéig sok szempontból, sőt, bizonyos szempontból még jobb is náluk.</p>
 
 <p>Amióta megvan az ájfón, több, mint 400 képet lőttem vele, ha ebből kivonom a mindenféle duplikátumokat, teszteket, akármiket, még akkor is 200 felett vagyok, mindez egy hónap alatt. Nem tudom, mikor fotóztam utoljára ennyit. Miután végigzongoráztam a különböző fotós appokat, öt maradt meg aktív használatban:</p>
@@ -474,85 +474,85 @@ Igen, fúj a szél a mikrofonba és helyenként helyenként belelóg az ujjam a 
 <p>Ez volt az elmélet és a duma, ma végigfotóztam a céges påsklunchot, majd felmentem a tetőre és csináltam ott is egy csomó képet (gyönyörű a kilátás) meg egy videót, de ezt majd egy másik posztban, hamarosan.</p>
 
 <footer>
-    <a title="Permanent link to “Az fotózásrul”" href="https://ktamas.github.io/index.php/2013/03/27/az-fotozasrul/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Az fotózásrul”" href="https://blog.ktamas.com/index.php/2013/03/27/az-fotozasrul/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
-                <li><a href="https://ktamas.github.io/tags/random/">random</a></li>
+                <li><a href="https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
+                <li><a href="https://blog.ktamas.com/tags/random/">random</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2013/01/14/coffee-oclock/</id>
+		<id>https://blog.ktamas.com/index.php/2013/01/14/coffee-oclock/</id>
 		<title>Coffee o&amp;#8217;clock</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/01/14/coffee-oclock/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/01/14/coffee-oclock/"/>
 		<updated>2013-01-14T15:40:23Z</updated>
 		<published>2013-01-14T15:40:23Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="fot%C3%B3z%C3%A1s" label="fotózás"/>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<category scheme="https://blog.ktamas.com/tags" term="fot%C3%B3z%C3%A1s" label="fotózás"/>
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p><a href="/wp-content/uploads/2013/01/kavehocrop.jpg"><img class="aligncenter size-large wp-image-2363438" alt="Coffee o'clock" src="/wp-content/uploads/2013/01/kavehocrop-818x1024.jpg" width="409" height="512" srcset="/wp-content/uploads/2013/01/kavehocrop-818x1024.jpg 818w, /wp-content/uploads/2013/01/kavehocrop-239x300.jpg 239w, /wp-content/uploads/2013/01/kavehocrop.jpg 1554w" sizes="(max-width: 409px) 100vw, 409px" /></a></p>
 
 <footer>
-    <a title="Permanent link to “Coffee o&amp;#8217;clock”" href="https://ktamas.github.io/index.php/2013/01/14/coffee-oclock/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Coffee o&amp;#8217;clock”" href="https://blog.ktamas.com/index.php/2013/01/14/coffee-oclock/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
+                <li><a href="https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2012/02/22/az-elso-film-a-canonetbol/</id>
+		<id>https://blog.ktamas.com/index.php/2012/02/22/az-elso-film-a-canonetbol/</id>
 		<title>Az első film a canonetből</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2012/02/22/az-elso-film-a-canonetbol/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2012/02/22/az-elso-film-a-canonetbol/"/>
 		<updated>2012-02-22T11:52:17Z</updated>
 		<published>2012-02-22T11:52:17Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="fot%C3%B3z%C3%A1s" label="fotózás"/>
+		<category scheme="https://blog.ktamas.com/tags" term="fot%C3%B3z%C3%A1s" label="fotózás"/>
 		<summary>Ellőttem az első filmet a nemrég vásárolt Canonettel, ezek lettek belőle. ISO 400, ennek ellenére nagyon kellemesen csalódtam az Ilford filmjében, nagyon részletes még így is. A következő filmnek mindenesetre egy 100-as lett belerakva. (edit: az indafotó embed persze nem ment át rssbe, ez a link.)</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Ellőttem az első filmet a <a href="http://blog.ktamas.com/index.php/2012/01/23/canonet-ql19/">nemrég vásárolt</a> Canonettel, ezek lettek belőle. ISO 400, ennek ellenére nagyon kellemesen csalódtam az Ilford filmjében, nagyon részletes még így is. A következő filmnek mindenesetre egy 100-as lett belerakva. (edit: az indafotó embed persze nem ment át rssbe, <a href="http://indafoto.hu/ktamasenty/canonet_ql19_roll_1">ez a link</a>.)</p>
 
 <footer>
-    <a title="Permanent link to “Az első film a canonetből”" href="https://ktamas.github.io/index.php/2012/02/22/az-elso-film-a-canonetbol/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Az első film a canonetből”" href="https://blog.ktamas.com/index.php/2012/02/22/az-elso-film-a-canonetbol/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
+                <li><a href="https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2012/01/23/canonet-ql19/</id>
+		<id>https://blog.ktamas.com/index.php/2012/01/23/canonet-ql19/</id>
 		<title>Canonet QL19</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2012/01/23/canonet-ql19/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2012/01/23/canonet-ql19/"/>
 		<updated>2012-01-23T11:36:46Z</updated>
 		<published>2012-01-23T11:36:46Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://ktamas.github.io/tags" term="fot%C3%B3z%C3%A1s" label="fotózás"/>
+		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://blog.ktamas.com/tags" term="fot%C3%B3z%C3%A1s" label="fotózás"/>
 		<summary>Még a Kalákán fotóztam kollégám Minolta Hi-Matic E-jével, és nagyon beleszerettem a távmérős gépekbe. Aztán kimentünk a múltkor a Pecsára és megláttam Őt.
 
 Nézegettem, próbálgattam, tetszett, aztán csak nem vittem valahogy el. Két héttel később visszamentünk, és még mindig ott volt, akkor már nem tudtam otthagyni. Ma reggel pedig bementem a Soósba, vettem hozzá obisapkát, sárga szűrőt, szíjat és 400-as Ilford filmet, szóval akkor fotózásra fel dolgozzunk.
 (A Contaxszal az történt, hogy a kedvenc objektívem valahogy leöntöttem valami ragacsos dologgal és ki kell tisztíttatni, valamint ezzel párhuzamosan a vázban a rekesz is úgy döntött, hogy beadja az unalmast, szóval komolyabb összeget kéne befektetni, hogy újra életképes legyen a rendszer.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Még a <a href="http://indafoto.hu/ktamasenty/kalaka_2011">Kalákán fotóztam</a> kollégám <a href="http://www.mattdentonphoto.com/cameras/minolta_himatic_e.html">Minolta Hi-Matic E</a>-jével, és nagyon beleszerettem a távmérős gépekbe. Aztán kimentünk a múltkor a <a href="http://www.bolhapiac.com">Pecsára</a> és megláttam Őt.</p>
 
 <p><a href="/wp-content/uploads/2012/01/IMG_1448.jpg"><img class="aligncenter size-full wp-image-2362976" title="IMG_1448" src="/wp-content/uploads/2012/01/IMG_1448.jpg" alt="" width="600" height="394" srcset="/wp-content/uploads/2012/01/IMG_1448.jpg 600w, /wp-content/uploads/2012/01/IMG_1448-300x197.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
@@ -562,229 +562,229 @@ Nézegettem, próbálgattam, tetszett, aztán csak nem vittem valahogy el. Két 
 <p>(A <a href="blog.ktamas.com/index.php/2010/09/21/ki_gondolta_volna_9/">Contaxszal</a> az történt, hogy a kedvenc objektívem valahogy leöntöttem valami ragacsos dologgal és ki kell tisztíttatni, valamint ezzel párhuzamosan a vázban a rekesz is úgy döntött, hogy beadja az unalmast, szóval komolyabb összeget kéne befektetni, hogy újra életképes legyen a rendszer. Ez valószínű meg fog egyszercsak történni, de addig is van mivel filmre fotózni.)</p>
 
 <footer>
-    <a title="Permanent link to “Canonet QL19”" href="https://ktamas.github.io/index.php/2012/01/23/canonet-ql19/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Canonet QL19”" href="https://blog.ktamas.com/index.php/2012/01/23/canonet-ql19/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://ktamas.github.io/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
+                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2011/07/10/szolo-5/</id>
+		<id>https://blog.ktamas.com/index.php/2011/07/10/szolo-5/</id>
 		<title>Szőlő (5)</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2011/07/10/szolo-5/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2011/07/10/szolo-5/"/>
 		<updated>2011-07-10T13:39:49Z</updated>
 		<published>2011-07-10T13:39:49Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="fot%C3%B3z%C3%A1s" label="fotózás"/>
-		<category scheme="https://ktamas.github.io/tags" term="random" label="random"/>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<category scheme="https://blog.ktamas.com/tags" term="fot%C3%B3z%C3%A1s" label="fotózás"/>
+		<category scheme="https://blog.ktamas.com/tags" term="random" label="random"/>
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p><a href="http://indafoto.hu/ktamasenty/image/12325949-9f64e5d9/276039" title="KTamasEnty: 7084564"><img src="http://img3.indafoto.hu/7/1/37531_a003d3c58568435ab3c440f97f1e953e/12325949_9f64e5d9d71c47fbdee506caa4548692_m.jpg" title="KTamasEnty: 7084564" alt="KTamasEnty: 7084564" border="0" /></a></p>
 
 <footer>
-    <a title="Permanent link to “Szőlő (5)”" href="https://ktamas.github.io/index.php/2011/07/10/szolo-5/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Szőlő (5)”" href="https://blog.ktamas.com/index.php/2011/07/10/szolo-5/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
-                <li><a href="https://ktamas.github.io/tags/random/">random</a></li>
+                <li><a href="https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
+                <li><a href="https://blog.ktamas.com/tags/random/">random</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2011/05/12/megyeri-hid-naplemente/</id>
+		<id>https://blog.ktamas.com/index.php/2011/05/12/megyeri-hid-naplemente/</id>
 		<title>Megyeri hid, naplemente</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2011/05/12/megyeri-hid-naplemente/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2011/05/12/megyeri-hid-naplemente/"/>
 		<updated>2011-05-12T13:30:33Z</updated>
 		<published>2011-05-12T13:30:33Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="fot%C3%B3z%C3%A1s" label="fotózás"/>
-		<category scheme="https://ktamas.github.io/tags" term="random" label="random"/>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<category scheme="https://blog.ktamas.com/tags" term="fot%C3%B3z%C3%A1s" label="fotózás"/>
+		<category scheme="https://blog.ktamas.com/tags" term="random" label="random"/>
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p><a href="http://indafoto.hu/ktamasenty/image/11666707-b23b942d/276039" title="KTamasEnty: Megyeri hid, naplemente"><img src="http://img3.indafoto.hu/7/1/37531_a003d3c58568435ab3c440f97f1e953e/11666707_b23b942d97bb5f5654fa6702bfd0a0d1_m.jpg" title="KTamasEnty: Megyeri hid, naplemente" alt="KTamasEnty: Megyeri hid, naplemente" border="0" /></a></p>
 
 <footer>
-    <a title="Permanent link to “Megyeri hid, naplemente”" href="https://ktamas.github.io/index.php/2011/05/12/megyeri-hid-naplemente/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Megyeri hid, naplemente”" href="https://blog.ktamas.com/index.php/2011/05/12/megyeri-hid-naplemente/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
-                <li><a href="https://ktamas.github.io/tags/random/">random</a></li>
+                <li><a href="https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
+                <li><a href="https://blog.ktamas.com/tags/random/">random</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2009/08/12/miner_szuletesnap/</id>
+		<id>https://blog.ktamas.com/index.php/2009/08/12/miner_szuletesnap/</id>
 		<title>Miner születésnap</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/08/12/miner_szuletesnap/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/08/12/miner_szuletesnap/"/>
 		<updated>2009-08-12T20:16:51Z</updated>
 		<published>2009-08-12T20:16:51Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="fot%C3%B3z%C3%A1s" label="fotózás"/>
-		<category scheme="https://ktamas.github.io/tags" term="geekdom" label="geekdom"/>
+		<category scheme="https://blog.ktamas.com/tags" term="fot%C3%B3z%C3%A1s" label="fotózás"/>
+		<category scheme="https://blog.ktamas.com/tags" term="geekdom" label="geekdom"/>
 		<summary>Szóval múlt szombaton a pályán gyűlt össze a miner-rajongók/fejlesztők/érdeklődők csapata, ugyanis óvodáskorba lépett a miner.hu. Ott voltunk, fotóztunk.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Szóval múlt szombaton a pályán gyűlt össze a miner-rajongók/fejlesztők/érdeklődők csapata, ugyanis óvodáskorba lépett a <a href="http://miner.hu/?betaon">miner.hu</a>. Ott voltunk, <a href="http://indafoto.hu/ktamasenty/minerhu_3_szuletesnap">fotóztunk</a>.</p>
 
 <footer>
-    <a title="Permanent link to “Miner születésnap”" href="https://ktamas.github.io/index.php/2009/08/12/miner_szuletesnap/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Miner születésnap”" href="https://blog.ktamas.com/index.php/2009/08/12/miner_szuletesnap/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
-                <li><a href="https://ktamas.github.io/tags/geekdom/">geekdom</a></li>
+                <li><a href="https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
+                <li><a href="https://blog.ktamas.com/tags/geekdom/">geekdom</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2009/07/04/to_people_want_to_people_to/</id>
+		<id>https://blog.ktamas.com/index.php/2009/07/04/to_people_want_to_people_to/</id>
 		<title>To People Want To People To</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/07/04/to_people_want_to_people_to/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/07/04/to_people_want_to_people_to/"/>
 		<updated>2009-07-04T16:35:51Z</updated>
 		<published>2009-07-04T16:35:51Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="fot%C3%B3z%C3%A1s" label="fotózás"/>
-		<category scheme="https://ktamas.github.io/tags" term="random" label="random"/>
+		<category scheme="https://blog.ktamas.com/tags" term="fot%C3%B3z%C3%A1s" label="fotózás"/>
+		<category scheme="https://blog.ktamas.com/tags" term="random" label="random"/>
 		<summary>Ezt meg meg regebben lottem a Westendben valahol, gyonyoru Engrish.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p><a href="http://ktamas.blog.hu/media/image/200907/img010.jpg"><img class="aligncenter size-full wp-image-668" title="img010" src="http://ktamas.blog.hu/media/image/200907/img010.jpg" alt="img010" width="500" height="400" /></a></p>
 
 <p>Ezt meg meg regebben lottem a Westendben valahol, gyonyoru Engrish.</p>
 
 <footer>
-    <a title="Permanent link to “To People Want To People To”" href="https://ktamas.github.io/index.php/2009/07/04/to_people_want_to_people_to/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “To People Want To People To”" href="https://blog.ktamas.com/index.php/2009/07/04/to_people_want_to_people_to/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
-                <li><a href="https://ktamas.github.io/tags/random/">random</a></li>
+                <li><a href="https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
+                <li><a href="https://blog.ktamas.com/tags/random/">random</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2009/07/04/metro_30/</id>
+		<id>https://blog.ktamas.com/index.php/2009/07/04/metro_30/</id>
 		<title>Metro</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/07/04/metro_30/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/07/04/metro_30/"/>
 		<updated>2009-07-04T14:32:20Z</updated>
 		<published>2009-07-04T14:32:20Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="fot%C3%B3z%C3%A1s" label="fotózás"/>
-		<category scheme="https://ktamas.github.io/tags" term="random" label="random"/>
+		<category scheme="https://blog.ktamas.com/tags" term="fot%C3%B3z%C3%A1s" label="fotózás"/>
+		<category scheme="https://blog.ktamas.com/tags" term="random" label="random"/>
 		<summary>Nem hiszem, hogy barmit is hozza kene fuznom. Deak ter, vmikor a heten. Sorry, mobilkamera.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p><a href="http://ktamas.blog.hu/media/image/200907/img028.jpg"><img class="aligncenter size-full wp-image-663" title="img028" src="http://ktamas.blog.hu/media/image/200907/img028.jpg" alt="img028" width="500" height="633" /></a></p>
 
 <p>Nem hiszem, hogy barmit is hozza kene fuznom. Deak ter, vmikor a heten. Sorry, mobilkamera.</p>
 
 <footer>
-    <a title="Permanent link to “Metro”" href="https://ktamas.github.io/index.php/2009/07/04/metro_30/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Metro”" href="https://blog.ktamas.com/index.php/2009/07/04/metro_30/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
-                <li><a href="https://ktamas.github.io/tags/random/">random</a></li>
+                <li><a href="https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
+                <li><a href="https://blog.ktamas.com/tags/random/">random</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2009/06/27/a_yorki_rendorzenekar/</id>
+		<id>https://blog.ktamas.com/index.php/2009/06/27/a_yorki_rendorzenekar/</id>
 		<title>A yorki rendőrzenekar</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/06/27/a_yorki_rendorzenekar/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/06/27/a_yorki_rendorzenekar/"/>
 		<updated>2009-06-27T16:57:29Z</updated>
 		<published>2009-06-27T16:57:29Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="b%C3%A9cs" label="bécs"/>
-		<category scheme="https://ktamas.github.io/tags" term="fot%C3%B3z%C3%A1s" label="fotózás"/>
-		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
+		<category scheme="https://blog.ktamas.com/tags" term="b%C3%A9cs" label="bécs"/>
+		<category scheme="https://blog.ktamas.com/tags" term="fot%C3%B3z%C3%A1s" label="fotózás"/>
+		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
 		<summary>Szóval az úgy volt, hogy bicikliztem Bécsben, és egyszercsak zenét hallottam, jó zenét ráadásul, mint kiderült, pont rendőrzenekar-összeröffenés volt arrafele, ígyhát gépet elő, és fotóztunk, mint az őrült, amit mondjuk nehezített a tömeg, de sikerült kellően közel furakodni, úgyhogy születtek képek. A cropokkal nem vagyok 100%-ig elégedett, de szerintem ígyse lett rossz.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Szóval az úgy volt, hogy bicikliztem Bécsben, és egyszercsak zenét hallottam, jó zenét ráadásul, mint kiderült, pont rendőrzenekar-összeröffenés volt arrafele, ígyhát gépet elő, és fotóztunk, mint az őrült, amit mondjuk nehezített a tömeg, de sikerült kellően közel furakodni, úgyhogy <a href="http://indafoto.hu/ktamasenty/becs_yorki_rendorzenekar/">születtek képek</a>. A cropokkal nem vagyok 100%-ig elégedett, de szerintem ígyse lett rossz.</p>
 
 <footer>
-    <a title="Permanent link to “A yorki rendőrzenekar”" href="https://ktamas.github.io/index.php/2009/06/27/a_yorki_rendorzenekar/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “A yorki rendőrzenekar”" href="https://blog.ktamas.com/index.php/2009/06/27/a_yorki_rendorzenekar/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/b%C3%A9cs/">bécs</a></li>
-                <li><a href="https://ktamas.github.io/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
-                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
+                <li><a href="https://blog.ktamas.com/tags/b%C3%A9cs/">bécs</a></li>
+                <li><a href="https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
+                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2009/03/06/marciusi_meetup_kepek/</id>
+		<id>https://blog.ktamas.com/index.php/2009/03/06/marciusi_meetup_kepek/</id>
 		<title>Márciusi Meetup képek</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/03/06/marciusi_meetup_kepek/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/03/06/marciusi_meetup_kepek/"/>
 		<updated>2009-03-06T12:55:00Z</updated>
 		<published>2009-03-06T12:55:00Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="fot%C3%B3z%C3%A1s" label="fotózás"/>
+		<category scheme="https://blog.ktamas.com/tags" term="fot%C3%B3z%C3%A1s" label="fotózás"/>
 		<summary>Itt vannak a képek a márciusi New Tech Meetupról, jó volt ez, és most el is fértünk.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p><a href="http://indafoto.hu/ktamasenty/newtech_meetup_2009_marcius" target="_blank">Itt vannak</a> a képek a márciusi <a href="http://meetup.hu/" target="_blank">New Tech Meetup</a>ról, jó volt ez, és most el is fértünk.</p>
 
 <footer>
-    <a title="Permanent link to “Márciusi Meetup képek”" href="https://ktamas.github.io/index.php/2009/03/06/marciusi_meetup_kepek/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Márciusi Meetup képek”" href="https://blog.ktamas.com/index.php/2009/03/06/marciusi_meetup_kepek/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
+                <li><a href="https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2009/02/24/olympus_e_620/</id>
+		<id>https://blog.ktamas.com/index.php/2009/02/24/olympus_e_620/</id>
 		<title>Olympus E-620</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/02/24/olympus_e_620/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/02/24/olympus_e_620/"/>
 		<updated>2009-02-24T09:42:48Z</updated>
 		<published>2009-02-24T09:42:48Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="fot%C3%B3z%C3%A1s" label="fotózás"/>
+		<category scheme="https://blog.ktamas.com/tags" term="fot%C3%B3z%C3%A1s" label="fotózás"/>
 		<summary>Szóval nyálcsorgatás ON. 12,3 megapixel, 7-pontos AF (520-ban csak 3), meg áthozták az E-30nak az Art Filtereit, amik engem inkább a kompaktok effektjeire emlékeztetnek, de mindegy. Instant get lenne, de valszeg az E-520 lesz az, ha ez megjelenik, lehet akkor lemegy kicsit az előd ára. Egyedül az időjárásállóságot hiányolom, de tudom, ebbe a kategóriába nincs ilyen (E-3 kéne, de a) nagyon drága b) overkill).
 Edit: ja és egyáltalán nem menő, hogy az Oly szép csendben elhagyta az AF-segédfényt a gépeiről, már az E-3-on sincsen, hanem csak a vaku.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p><img class="aligncenter size-full wp-image-192" title="e_620_frt_lft_540x436" src="http://ktamas.blog.hu/media/image/200902/e_620_frt_lft_540x436.jpg" alt="e_620_frt_lft_540x436" width="540" height="436" />Szóval <a href="http://www.engadget.com/2009/02/24/olympus-e-620-raises-the-bar-for-entry-level-dslrs/#continued" target="_blank">nyálcsorgatás ON</a>. 12,3 megapixel, 7-pontos AF (520-ban csak 3), meg áthozták az E-30nak az Art Filtereit, amik engem inkább a kompaktok effektjeire emlékeztetnek, de mindegy. Instant get lenne, de valszeg az E-520 lesz az, ha ez megjelenik, lehet akkor lemegy kicsit az előd ára. Egyedül az időjárásállóságot hiányolom, de tudom, ebbe a kategóriába nincs ilyen (E-3 kéne, de a) nagyon drága b) overkill).</p>
 
 <p>Edit: ja és egyáltalán nem menő, hogy az Oly szép csendben elhagyta az AF-segédfényt a gépeiről, már az E-3-on sincsen, hanem csak a vaku. És a vakut nem szeretjük.</p>
@@ -792,107 +792,107 @@ Edit: ja és egyáltalán nem menő, hogy az Oly szép csendben elhagyta az AF-s
 <p>Edit 2: A dpreviewos srácok <a href="http://www.dpreview.com/previews/olympuse620/" target="_blank">írtak egy szép previewt</a>, és hát izé. Kicsit még kisebb is az E-520nál amit szintén kicsinek tartok. Tudom, most a kicsi meg kompakt a menő, de sztem egy digigépnek igen is legyen rendes markolata, fogása, és nem bánom, ha súlyosabb darab, mert az erősen segít mondjuk <sup>1</sup>&frasl;<sub>40</sub> alatt stabil képeket csinálni (igaz az 520 meg a 620 csak 100-150 grammal könnyebb az E-1nél). Viszont az E-30 az már nehezebb, úgyhogy egyre szinpatikusabb. A pénztárcámnak mondjuk kevésbé.</p>
 
 <footer>
-    <a title="Permanent link to “Olympus E-620”" href="https://ktamas.github.io/index.php/2009/02/24/olympus_e_620/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Olympus E-620”" href="https://blog.ktamas.com/index.php/2009/02/24/olympus_e_620/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
+                <li><a href="https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2009/02/19/nemonreklamish_kepajanlo/</id>
+		<id>https://blog.ktamas.com/index.php/2009/02/19/nemonreklamish_kepajanlo/</id>
 		<title>Nemönreklámish-képajánló</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/02/19/nemonreklamish_kepajanlo/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/02/19/nemonreklamish_kepajanlo/"/>
 		<updated>2009-02-19T13:00:46Z</updated>
 		<published>2009-02-19T13:00:46Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="fot%C3%B3z%C3%A1s" label="fotózás"/>
+		<category scheme="https://blog.ktamas.com/tags" term="fot%C3%B3z%C3%A1s" label="fotózás"/>
 		<summary>Ez nem pont önreklám lesz, hanem kicsit más: apám elkezdte kicsit komolyabban szortírozni jópár év fotózásának termését (kb. 4 év, kb. 60000 kép). Ennek legelsô állomásaként egy nemrég készült “jeges” sorozatot rakott fel az Indafotóra. Szerintem piszokjó képek, de én elfogult vagyok, szóval ítéljétek ti.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Ez nem pont önreklám lesz, hanem kicsit más: apám elkezdte kicsit komolyabban szortírozni jópár év fotózásának termését (kb. 4 év, kb. 60000 kép). Ennek legelsô állomásaként egy nemrég készült &#8220;jeges&#8221; sorozatot <a href="http://indafoto.hu/Yoshiphoto/jeges" target="_blank">rakott fel az Indafotóra</a>. Szerintem piszokjó képek, de én elfogult vagyok, szóval ítéljétek ti.</p>
 
 <footer>
-    <a title="Permanent link to “Nemönreklámish-képajánló”" href="https://ktamas.github.io/index.php/2009/02/19/nemonreklamish_kepajanlo/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Nemönreklámish-képajánló”" href="https://blog.ktamas.com/index.php/2009/02/19/nemonreklamish_kepajanlo/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
+                <li><a href="https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2009/02/15/snow_13/</id>
+		<id>https://blog.ktamas.com/index.php/2009/02/15/snow_13/</id>
 		<title>Snow</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/02/15/snow_13/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/02/15/snow_13/"/>
 		<updated>2009-02-15T11:21:18Z</updated>
 		<published>2009-02-15T11:21:18Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="fot%C3%B3z%C3%A1s" label="fotózás"/>
+		<category scheme="https://blog.ktamas.com/tags" term="fot%C3%B3z%C3%A1s" label="fotózás"/>
 		<summary>Szoval kedden viszonylag rovid ido alatt esett le szep mennyisegu ho, ugyhogy dacolva a 3-napos influenzaval, harom kabat, negy sapka es ot sal tarsasagaban kimentem fotozni, az eredmeny az indafoton lathato. Direkt hagytam kicsit ilyen kekesen a kepeket, szerintem illik hozzajuk.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Szoval kedden viszonylag rovid ido alatt esett le szep mennyisegu ho, ugyhogy dacolva a 3-napos influenzaval, harom kabat, negy sapka es ot sal tarsasagaban kimentem fotozni, az eredmeny <a href="http://indafoto.hu/ktamasenty/winter" target="_blank">az indafoton lathato</a>. Direkt hagytam kicsit ilyen kekesen a kepeket, szerintem illik hozzajuk.</p>
 
 <footer>
-    <a title="Permanent link to “Snow”" href="https://ktamas.github.io/index.php/2009/02/15/snow_13/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Snow”" href="https://blog.ktamas.com/index.php/2009/02/15/snow_13/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
+                <li><a href="https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2009/02/12/tokaj36/</id>
+		<id>https://blog.ktamas.com/index.php/2009/02/12/tokaj36/</id>
 		<title>Tokaj36</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/02/12/tokaj36/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/02/12/tokaj36/"/>
 		<updated>2009-02-12T20:48:59Z</updated>
 		<published>2009-02-12T20:48:59Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="fot%C3%B3z%C3%A1s" label="fotózás"/>
+		<category scheme="https://blog.ktamas.com/tags" term="fot%C3%B3z%C3%A1s" label="fotózás"/>
 		<summary>Felraktam az indafotora a vasarnapi Tokaj36 fotozas kepeit, semmi postprocess, a Lightroomba csak azert huztam be, hogy valogassak koztuk. Nagyon jol ereztem magam a fotosetan, meg tobb ilyet!</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p><a href="http://indafoto.hu/ktamasenty/tokaj36" target="_blank">Felraktam az indafotora</a> a vasarnapi Tokaj36 fotozas kepeit, semmi postprocess, a Lightroomba csak azert huztam be, hogy valogassak koztuk. Nagyon jol ereztem magam a fotosetan, meg tobb ilyet!</p>
 
 <footer>
-    <a title="Permanent link to “Tokaj36”" href="https://ktamas.github.io/index.php/2009/02/12/tokaj36/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Tokaj36”" href="https://blog.ktamas.com/index.php/2009/02/12/tokaj36/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
+                <li><a href="https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2009/01/06/az_fotozasrul_avagy_fotozni_jo/</id>
+		<id>https://blog.ktamas.com/index.php/2009/01/06/az_fotozasrul_avagy_fotozni_jo/</id>
 		<title>Az fotózásrul, avagy fotózni jó</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/01/06/az_fotozasrul_avagy_fotozni_jo/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/01/06/az_fotozasrul_avagy_fotozni_jo/"/>
 		<updated>2009-01-06T13:56:54Z</updated>
 		<published>2009-01-06T13:56:54Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="fot%C3%B3z%C3%A1s" label="fotózás"/>
+		<category scheme="https://blog.ktamas.com/tags" term="fot%C3%B3z%C3%A1s" label="fotózás"/>
 		<summary>Az egész valószínű azzal kezdődött hogy még zsenge újságíró koromban lehetőségem nyílt tesztelni az akkor megjelent Olympus E-1 digigépet. Pontosabban nem nekem — mert nem értettem semmit a dologhoz –, hanem édesapámnak, aki tud egyet s mást a szakmáról. Így született meg ez a cikk és számára szerelem volt első látásra. Nem sokkal később alkalma is nyílt vásárolni egyet, köszönhetően az akkor futó hihetetlen diákkedvezménynek (asszem 250-ért adtak vázat + a legjobb 14-54mm f2,8-3,5 objektívet) meg persze Istennek.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Az egész valószínű azzal kezdődött hogy még zsenge újságíró koromban lehetőségem nyílt tesztelni az akkor megjelent Olympus E-1 digigépet. Pontosabban nem nekem &#8212; mert nem értettem semmit a dologhoz &#8211;, hanem édesapámnak, aki tud egyet s mást a szakmáról. Így született meg <a href="http://www.hoc.hu/index.php?p=articles&cid=5&y=113" target="_blank">ez a cikk</a> és számára szerelem volt első látásra. Nem sokkal később alkalma is nyílt vásárolni egyet, köszönhetően az akkor futó hihetetlen diákkedvezménynek (asszem 250-ért adtak vázat + a legjobb 14-54mm f2,8-3,5 objektívet) meg persze Istennek. Ebből kifolyólag én is azon a gépen tanultam fotózni.</p>
 
 <p style="text-align: center;">
@@ -908,12 +908,12 @@ Edit: ja és egyáltalán nem menő, hogy az Oly szép csendben elhagyta az AF-s
 <p>Lesz post mindjárt egy-két képről is (önreklám, hihi), de addig is nézegessétek az Indafotó accountomat.</p>
 
 <footer>
-    <a title="Permanent link to “Az fotózásrul, avagy fotózni jó”" href="https://ktamas.github.io/index.php/2009/01/06/az_fotozasrul_avagy_fotozni_jo/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Az fotózásrul, avagy fotózni jó”" href="https://blog.ktamas.com/index.php/2009/01/06/az_fotozasrul_avagy_fotozni_jo/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
+                <li><a href="https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
             </ul>
         </div>
 </footer>]]></content>

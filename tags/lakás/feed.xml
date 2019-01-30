@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
-	<id>https://ktamas.github.io/tags/lak%C3%A1s/</id>
+	<id>https://blog.ktamas.com/tags/lak%C3%A1s/</id>
 	<title>lakás on KTamas&#39; blog</title>
 	<subtitle>An ongoing list of KTamas' blog posts about lakás</subtitle>
 	<updated>2013-08-05T10:10:23Z</updated>
-	<link rel="self" type="application/atom+xml" href="https://ktamas.github.io/tags/lak%C3%A1s/feed.xml"/>
-	<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/lak%C3%A1s/"/>
-	<link rel="alternate" type="application/json" href="https://ktamas.github.io/tags/lak%C3%A1s/feed.json"/>
+	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/lak%C3%A1s/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/lak%C3%A1s/"/>
+	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/lak%C3%A1s/feed.json"/>
 	<author>
 		<name>KTamas</name>
-		<uri>https://ktamas.github.io/</uri>
+		<uri>https://blog.ktamas.com/</uri>
 	</author>
 	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
-	<icon>"https://ktamas.github.io/icon-512x512.png"</icon>
+	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2013/08/05/az-uj-lakasrol/</id>
+		<id>https://blog.ktamas.com/index.php/2013/08/05/az-uj-lakasrol/</id>
 		<title>Az új lakásról</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/08/05/az-uj-lakasrol/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/08/05/az-uj-lakasrol/"/>
 		<updated>2013-08-05T10:10:23Z</updated>
 		<published>2013-08-05T10:10:23Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://ktamas.github.io/tags" term="lak%C3%A1s" label="lakás"/>
-		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://blog.ktamas.com/tags" term="lak%C3%A1s" label="lakás"/>
+		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
 		<summary>Szerdán este átvettem a kulcsokat majd a Kommunicera CEO-jának és CFO-jának a segítségével gyorsan átköltöztem. Még nem pakoltam ki teljesen, ki kell találnom, hova fogom rakni a cuccaimat, mert kicsit kevés a szabad szekrény, ez speciel nem tűnt fel, mikor néztem a helyet, meg az se, hogy nincs mikró. Ez utóbbi nem fáj annyira, mint gondoltam, persze meglátjuk, hosszútávon mekkora szívás. A minap mondta egy kolléganő hogy lesz egy ingyen két hónap múlva, addig szerintem kihúzom.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Szerdán este átvettem a kulcsokat majd a Kommunicera CEO-jának és CFO-jának a segítségével gyorsan átköltöztem. Még nem pakoltam ki teljesen, ki kell találnom, hova fogom rakni a cuccaimat, mert kicsit kevés a szabad szekrény, ez speciel nem tűnt fel, mikor néztem a helyet, meg az se, hogy nincs mikró. Ez utóbbi nem fáj annyira, mint gondoltam, persze meglátjuk, hosszútávon mekkora szívás. A minap mondta egy kolléganő hogy lesz egy ingyen két hónap múlva, addig szerintem kihúzom.</p>
 
 <p>A lakás kicsit kisebb és kicsit kevésbé világos mint a régi (földszinti), ráadásul mindkét ablaka az udvarra néz, szóval kevésbé csendes, de egyik se kiemelten zavaró tényező. Határozott előrelépés, hogy a mosóépületben rögtön két szoba is van, ezért nincs túlterhelve a rendszer, és majdnem akkor mosok amikor akarok. Sőt! A mosógépek mellett szárítógépek is vannak. Ja, és van tévém is, csatornákkal, meg minden, olyan, mint az internet, csak kényelmetlenebb.</p>
@@ -38,14 +38,14 @@
 <p>Az új hely amúgy potom tíz percre van gyalog az irodától, speciel haza tudok járni minden nap ebédelni, ha nagyon akarok. Ha sikerül ezt kombinálni azzal, hogy meghívok kollégákat, akkor több motivációm lesz asszem a főzésre is.</p>
 
 <footer>
-    <a title="Permanent link to “Az új lakásról”" href="https://ktamas.github.io/index.php/2013/08/05/az-uj-lakasrol/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Az új lakásról”" href="https://blog.ktamas.com/index.php/2013/08/05/az-uj-lakasrol/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://ktamas.github.io/tags/lak%C3%A1s/">lakás</a></li>
-                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://blog.ktamas.com/tags/lak%C3%A1s/">lakás</a></li>
+                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
             </ul>
         </div>
 </footer>]]></content>

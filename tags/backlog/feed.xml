@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
-	<id>https://ktamas.github.io/tags/backlog/</id>
+	<id>https://blog.ktamas.com/tags/backlog/</id>
 	<title>backlog on KTamas&#39; blog</title>
 	<subtitle>An ongoing list of KTamas' blog posts about backlog</subtitle>
 	<updated>2011-05-04T09:41:19Z</updated>
-	<link rel="self" type="application/atom+xml" href="https://ktamas.github.io/tags/backlog/feed.xml"/>
-	<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/backlog/"/>
-	<link rel="alternate" type="application/json" href="https://ktamas.github.io/tags/backlog/feed.json"/>
+	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/backlog/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/backlog/"/>
+	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/backlog/feed.json"/>
 	<author>
 		<name>KTamas</name>
-		<uri>https://ktamas.github.io/</uri>
+		<uri>https://blog.ktamas.com/</uri>
 	</author>
 	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
-	<icon>"https://ktamas.github.io/icon-512x512.png"</icon>
+	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2011/05/04/zene-ebedhez-bbc-countdown-compilation-backlog/</id>
+		<id>https://blog.ktamas.com/index.php/2011/05/04/zene-ebedhez-bbc-countdown-compilation-backlog/</id>
 		<title>Zene ebedhez: BBC Countdown Compilation (backlog)</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2011/05/04/zene-ebedhez-bbc-countdown-compilation-backlog/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2011/05/04/zene-ebedhez-bbc-countdown-compilation-backlog/"/>
 		<updated>2011-05-04T09:41:19Z</updated>
 		<published>2011-05-04T09:41:19Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
-		<category scheme="https://ktamas.github.io/tags" term="backlog" label="backlog"/>
-		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
+		<category scheme="https://blog.ktamas.com/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
+		<category scheme="https://blog.ktamas.com/tags" term="backlog" label="backlog"/>
+		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
 		<summary>Nezem a soundcloudomra feltoltott dalokat, es talaltam egy ilyet meg regrol, tizperces mix a BBC countdownjaibol. Gazs anno nagyon jol korbejarta a temat, de pont ez a mix nincs benne (illetve van egy megamix linkelve benne, ami lehet, hogy ez az, de azota lekerult a youtuberol), ugyhogy, itt van, hallgassatok, jo.
  BBC Countdown Compilation</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Nezem a soundcloudomra feltoltott dalokat, es talaltam egy ilyet meg regrol, tizperces mix a BBC countdownjaibol. <a href="http://bergengocia.net/2009/02/this-is-bbc-news.htm">Gazs anno nagyon jol korbejarta a temat</a>, de pont ez a mix nincs benne (illetve van egy megamix linkelve benne, ami lehet, hogy ez az, de azota lekerult a youtuberol), ugyhogy, itt van, hallgassatok, jo.</p>
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/6417194&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
@@ -37,14 +37,14 @@
 <p><span><a href="http://soundcloud.com/ktamasenty/bbc-countdown-compilation">BBC Countdown Compilation</a></span></p>
 
 <footer>
-    <a title="Permanent link to “Zene ebedhez: BBC Countdown Compilation (backlog)”" href="https://ktamas.github.io/index.php/2011/05/04/zene-ebedhez-bbc-countdown-compilation-backlog/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Zene ebedhez: BBC Countdown Compilation (backlog)”" href="https://blog.ktamas.com/index.php/2011/05/04/zene-ebedhez-bbc-countdown-compilation-backlog/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
-                <li><a href="https://ktamas.github.io/tags/backlog/">backlog</a></li>
-                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
+                <li><a href="https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
+                <li><a href="https://blog.ktamas.com/tags/backlog/">backlog</a></li>
+                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>

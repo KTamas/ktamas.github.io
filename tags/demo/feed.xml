@@ -1,66 +1,66 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
-	<id>https://ktamas.github.io/tags/demo/</id>
+	<id>https://blog.ktamas.com/tags/demo/</id>
 	<title>demo on KTamas&#39; blog</title>
 	<subtitle>An ongoing list of KTamas' blog posts about demo</subtitle>
 	<updated>2010-12-19T22:09:15Z</updated>
-	<link rel="self" type="application/atom+xml" href="https://ktamas.github.io/tags/demo/feed.xml"/>
-	<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/demo/"/>
-	<link rel="alternate" type="application/json" href="https://ktamas.github.io/tags/demo/feed.json"/>
+	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/demo/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/demo/"/>
+	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/demo/feed.json"/>
 	<author>
 		<name>KTamas</name>
-		<uri>https://ktamas.github.io/</uri>
+		<uri>https://blog.ktamas.com/</uri>
 	</author>
 	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
-	<icon>"https://ktamas.github.io/icon-512x512.png"</icon>
+	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2010/12/19/esti-loop-aliens-ate-my-demomaker/</id>
+		<id>https://blog.ktamas.com/index.php/2010/12/19/esti-loop-aliens-ate-my-demomaker/</id>
 		<title>Esti loop: Aliens ate my demomaker</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2010/12/19/esti-loop-aliens-ate-my-demomaker/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2010/12/19/esti-loop-aliens-ate-my-demomaker/"/>
 		<updated>2010-12-19T22:09:15Z</updated>
 		<published>2010-12-19T22:09:15Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="demo" label="demo"/>
-		<category scheme="https://ktamas.github.io/tags" term="random" label="random"/>
-		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
+		<category scheme="https://blog.ktamas.com/tags" term="demo" label="demo"/>
+		<category scheme="https://blog.ktamas.com/tags" term="random" label="random"/>
+		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
 		<summary>Meg mindig demo, mar nem amiga, de ut:
  </summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Meg mindig demo, mar nem amiga, de ut:</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qtAljEL6A28" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <footer>
-    <a title="Permanent link to “Esti loop: Aliens ate my demomaker”" href="https://ktamas.github.io/index.php/2010/12/19/esti-loop-aliens-ate-my-demomaker/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Esti loop: Aliens ate my demomaker”" href="https://blog.ktamas.com/index.php/2010/12/19/esti-loop-aliens-ate-my-demomaker/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/demo/">demo</a></li>
-                <li><a href="https://ktamas.github.io/tags/random/">random</a></li>
-                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
+                <li><a href="https://blog.ktamas.com/tags/demo/">demo</a></li>
+                <li><a href="https://blog.ktamas.com/tags/random/">random</a></li>
+                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2010/12/05/amiga-demoscene-meg-amit-akartok/</id>
+		<id>https://blog.ktamas.com/index.php/2010/12/05/amiga-demoscene-meg-amit-akartok/</id>
 		<title>Amiga, Demoscene, meg amit akartok</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2010/12/05/amiga-demoscene-meg-amit-akartok/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2010/12/05/amiga-demoscene-meg-amit-akartok/"/>
 		<updated>2010-12-05T16:38:08Z</updated>
 		<published>2010-12-05T16:38:08Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="demo" label="demo"/>
-		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
+		<category scheme="https://blog.ktamas.com/tags" term="demo" label="demo"/>
+		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
 		<summary>Az ugy kezdodott hogy circa 2002 tajan meg sokat jartam a helyi konyvtarba, ahol, miutan mikozben kiolvastam az osszes erdekes konyvet, belebotlottam abba, hogy egy rakat regi Guru magazinjuk volt, egeszen a 92′-es kezdetektol, amikor meg a PC csak egy negyoldalas rovat volt. Mar akkor lenyugozott az Amiga akkor mar sokeve halott vilaga, kozben fel-felbukkano jatekokkal, amiknek a PC-s portjat jatszottam — es sok masik, amikrol meg csak nem is hallottam.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Az ugy kezdodott hogy circa 2002 tajan meg sokat jartam a helyi konyvtarba, ahol, miutan mikozben kiolvastam az osszes erdekes konyvet, belebotlottam abba, hogy egy rakat regi Guru magazinjuk volt, egeszen a 92&#8242;-es kezdetektol, amikor meg a PC csak egy negyoldalas rovat volt. Mar akkor lenyugozott az Amiga akkor mar sokeve halott vilaga, kozben fel-felbukkano jatekokkal, amiknek a PC-s portjat jatszottam &#8212; es sok masik, amikrol meg csak nem is hallottam. A kovetkezo nyolc evben idorol idore kesztetest ereztem, hogy szerezzek egy Amiga 1200-ast es vegigtoljak egy halom regi jatekot, es/vagy benaztam a WinUAE-vel. Tekerjuk elore az ido fonalat tegnapig, amikor is a Pixelhosok partin a kerekasztalok hallgatassa helyett a masik szobaban alltam leesett allakkal, ahogy a jobbnal jobb amigas demokat neztem es hallgattam, amit raadasul egy CF-kartyarol olvasott be egy igazi A1200, amit rogton ki is kuldott a monitorara, meg egy projektorra. Szoval amigas demok kovetkeznek.</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iGpU3DicbLQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -76,13 +76,13 @@ A vegere pedig itt egy uj demo, mar PC-re, viszont grafikailag is, zeneileg is o
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VBxuiYQ1KqI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <footer>
-    <a title="Permanent link to “Amiga, Demoscene, meg amit akartok”" href="https://ktamas.github.io/index.php/2010/12/05/amiga-demoscene-meg-amit-akartok/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Amiga, Demoscene, meg amit akartok”" href="https://blog.ktamas.com/index.php/2010/12/05/amiga-demoscene-meg-amit-akartok/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/demo/">demo</a></li>
-                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
+                <li><a href="https://blog.ktamas.com/tags/demo/">demo</a></li>
+                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>

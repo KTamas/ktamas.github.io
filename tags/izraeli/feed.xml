@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
-	<id>https://ktamas.github.io/tags/izraeli/</id>
+	<id>https://blog.ktamas.com/tags/izraeli/</id>
 	<title>izraeli on KTamas&#39; blog</title>
 	<subtitle>An ongoing list of KTamas' blog posts about izraeli</subtitle>
 	<updated>2011-05-09T11:24:59Z</updated>
-	<link rel="self" type="application/atom+xml" href="https://ktamas.github.io/tags/izraeli/feed.xml"/>
-	<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/izraeli/"/>
-	<link rel="alternate" type="application/json" href="https://ktamas.github.io/tags/izraeli/feed.json"/>
+	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/izraeli/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/izraeli/"/>
+	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/izraeli/feed.json"/>
 	<author>
 		<name>KTamas</name>
-		<uri>https://ktamas.github.io/</uri>
+		<uri>https://blog.ktamas.com/</uri>
 	</author>
 	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
-	<icon>"https://ktamas.github.io/icon-512x512.png"</icon>
+	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2011/05/09/zene-reggelihez-meg-tobb-moshav-band/</id>
+		<id>https://blog.ktamas.com/index.php/2011/05/09/zene-reggelihez-meg-tobb-moshav-band/</id>
 		<title>Zene reggelihez: meg tobb Moshav Band</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2011/05/09/zene-reggelihez-meg-tobb-moshav-band/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2011/05/09/zene-reggelihez-meg-tobb-moshav-band/"/>
 		<updated>2011-05-09T11:24:59Z</updated>
 		<published>2011-05-09T11:24:59Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
-		<category scheme="https://ktamas.github.io/tags" term="izraeli" label="izraeli"/>
-		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
+		<category scheme="https://blog.ktamas.com/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
+		<category scheme="https://blog.ktamas.com/tags" term="izraeli" label="izraeli"/>
+		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
 		<summary>Meltatlanul keveset lekesedek itt a mar egyszer korabban emlegetett Moshav Bandrol, akiket azota is nagyon sokat hallgatok. Nemreg jott ki uj CD-juk “Dancing in a Dangerous World” cimen, amely, bar nem vett meg elso hallgatasra, de masodik-harmadikra annal inkabb, mostanra nagyon a szivemhez nott es egyre tobbet megy, a tobbi CD-jukkel egyetemben.
 Ugorjunk azonban kicsit vissza az idoben, egy sokkal regebbi szammal inditunk, ez a Come Back, az introjaval azonnal megvesz kilora:</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Meltatlanul keveset lekesedek itt a <a href="http://blog.ktamas.com/index.php/2011/02/07/kis-izraeli-zenei-korkep/">mar egyszer korabban emlegetett</a> Moshav Bandrol, akiket azota is nagyon sokat hallgatok. Nemreg jott ki uj CD-juk &#8220;Dancing in a Dangerous World&#8221; cimen, amely, bar nem vett meg elso hallgatasra, de masodik-harmadikra annal inkabb, mostanra nagyon a szivemhez nott es egyre tobbet megy, a tobbi CD-jukkel egyetemben.</p>
 
 <p>Ugorjunk azonban kicsit vissza az idoben, egy sokkal regebbi szammal inditunk, ez a Come Back, az introjaval azonnal megvesz kilora:</p>
@@ -55,32 +55,32 @@ Ugorjunk azonban kicsit vissza az idoben, egy sokkal regebbi szammal inditunk, e
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3JMS2esFiPg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <footer>
-    <a title="Permanent link to “Zene reggelihez: meg tobb Moshav Band”" href="https://ktamas.github.io/index.php/2011/05/09/zene-reggelihez-meg-tobb-moshav-band/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Zene reggelihez: meg tobb Moshav Band”" href="https://blog.ktamas.com/index.php/2011/05/09/zene-reggelihez-meg-tobb-moshav-band/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
-                <li><a href="https://ktamas.github.io/tags/izraeli/">izraeli</a></li>
-                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
+                <li><a href="https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
+                <li><a href="https://blog.ktamas.com/tags/izraeli/">izraeli</a></li>
+                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2011/03/16/the-maccabeats/</id>
+		<id>https://blog.ktamas.com/index.php/2011/03/16/the-maccabeats/</id>
 		<title>The Maccabeats</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2011/03/16/the-maccabeats/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2011/03/16/the-maccabeats/"/>
 		<updated>2011-03-16T09:17:54Z</updated>
 		<published>2011-03-16T09:17:54Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="izraeli" label="izraeli"/>
-		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
+		<category scheme="https://blog.ktamas.com/tags" term="izraeli" label="izraeli"/>
+		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
 		<summary>A The Daily What (is) linkelte az alabbi videot:  Elsoosztalyu acapellat jatszanak a Yeshiva University diakjai, akik The Maccabeats neven kezdtek zenelni par eve. Elso nagyobb dobasuk a tavaly marciusban kiadott Voices from the Heights CD-juk volt, amin megtalalhato egyebkent Matisyahu One Day c. daljanak sajat valtozata. Az igazi sikert azonban egy tavaly ev vegi slager, a Hanukas Candlelight hozta meg (ami egyebkent egy nagyon rossz Taio Cruz szam fantasztikus atdolgozasa).</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p style="text-align: left;">
   A The Daily What (is) <a href="http://thedailywh.at/2011/03/08/official-purim-theme-song-of-the-day/">linkelte</a> az alabbi videot:
 </p>
@@ -98,31 +98,31 @@ Ugorjunk azonban kicsit vissza az idoben, egy sokkal regebbi szammal inditunk, e
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qSJCSR4MuhU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <footer>
-    <a title="Permanent link to “The Maccabeats”" href="https://ktamas.github.io/index.php/2011/03/16/the-maccabeats/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “The Maccabeats”" href="https://blog.ktamas.com/index.php/2011/03/16/the-maccabeats/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/izraeli/">izraeli</a></li>
-                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
+                <li><a href="https://blog.ktamas.com/tags/izraeli/">izraeli</a></li>
+                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2011/02/07/kis-izraeli-zenei-korkep/</id>
+		<id>https://blog.ktamas.com/index.php/2011/02/07/kis-izraeli-zenei-korkep/</id>
 		<title>Kis izraeli zenei korkep (avagy ezeket hallgatom mostanaban)</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2011/02/07/kis-izraeli-zenei-korkep/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2011/02/07/kis-izraeli-zenei-korkep/"/>
 		<updated>2011-02-07T17:53:40Z</updated>
 		<published>2011-02-07T17:53:40Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="izraeli" label="izraeli"/>
-		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
+		<category scheme="https://blog.ktamas.com/tags" term="izraeli" label="izraeli"/>
+		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
 		<summary>Igazabol mar boldog-boldogtalant es a teljes szocialmediat ketszer oda-vissza spameltem azzal a tennyel, hogy kijott Matisyahu legjobb CD-jenek, a majd’ 6 eves Live at Stubb’s-nak a folytatasa (nagyon kreativ, Live at Stubb’s, Vol. II neven). Magarol a tizszamos CD-rol sajnos lemaradt tobb igen jo szam is (pl. a Jerusalem, vagy mikor Matisyahu beatboxol) es ezeknek joresze csak a hiperszuper 75 dollaros super extreme special turbo editionhoz jar. Csakhogy es de. A masfeloras koncertvideo — ami meg par napig teljes egeszeben meghallgathato a youtube-on — az a masfel ora egyben, az valami egeszen zsenialis, a CD-rol mar el is feledkeztem, es csak ezt hallgatom.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Igazabol mar boldog-boldogtalant es a teljes szocialmediat ketszer oda-vissza spameltem azzal a tennyel, hogy kijott <a href="http://en.wikipedia.org/wiki/Matisyahu">Matisyahu</a> legjobb CD-jenek, a majd&#8217; 6 eves Live at Stubb&#8217;s-nak a folytatasa (nagyon kreativ, <a href="http://www.matisyahuworld.com/stubbsstore">Live at Stubb&#8217;s, Vol. II</a> neven). Magarol a tizszamos CD-rol sajnos lemaradt tobb igen jo szam is (pl. a Jerusalem, vagy mikor Matisyahu beatboxol) es ezeknek joresze csak a hiperszuper 75 dollaros super extreme special turbo editionhoz jar. Csakhogy es de. A masfeloras koncertvideo &#8212; <a href="http://www.youtube.com/watch?v=UDAMm5UkPHQ">ami meg par napig teljes egeszeben meghallgathato a youtube-on</a> &#8212; az a masfel ora egyben, az valami egeszen zsenialis, a CD-rol mar el is feledkeztem, es csak ezt hallgatom. A 480p-s verzioban egy meglepoen hallgathato 96 kbps-es AAC hangsav talalhato, <del>hasznaljatok tehat az ezernyi youtubevideo-letolto szolgaltatast ti is amig meg lehet</del> <a href="http://www.amazon.com/Live-at-Stubbs-Vol-II/dp/B004CT4U7Y/ref=sr_1_3?ie=UTF8&amp;s=music&amp;qid=1297097735&amp;sr=8-3">vegyetek tehat meg a DVD-t</a>. Embedelve pedig szol a Jerusalem CD-s verzioja.</p>
 
 <iframe src="https://open.spotify.com/embed/track/3R9iSdYqV6eFSPtNxvgb7x" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
@@ -138,63 +138,63 @@ Ugorjunk azonban kicsit vissza az idoben, egy sokkal regebbi szammal inditunk, e
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ipJ6BEIeGsU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <footer>
-    <a title="Permanent link to “Kis izraeli zenei korkep (avagy ezeket hallgatom mostanaban)”" href="https://ktamas.github.io/index.php/2011/02/07/kis-izraeli-zenei-korkep/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Kis izraeli zenei korkep (avagy ezeket hallgatom mostanaban)”" href="https://blog.ktamas.com/index.php/2011/02/07/kis-izraeli-zenei-korkep/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/izraeli/">izraeli</a></li>
-                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
+                <li><a href="https://blog.ktamas.com/tags/izraeli/">izraeli</a></li>
+                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2009/09/22/okt_5_the_idan_raichel_acoustic_project_wiener_konzerthause/</id>
+		<id>https://blog.ktamas.com/index.php/2009/09/22/okt_5_the_idan_raichel_acoustic_project_wiener_konzerthause/</id>
 		<title>Okt. 5: The Idan Raichel Acoustic Project @ Wiener Konzerthause</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/09/22/okt_5_the_idan_raichel_acoustic_project_wiener_konzerthause/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/09/22/okt_5_the_idan_raichel_acoustic_project_wiener_konzerthause/"/>
 		<updated>2009-09-22T20:00:39Z</updated>
 		<published>2009-09-22T20:00:39Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="izraeli" label="izraeli"/>
-		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
+		<category scheme="https://blog.ktamas.com/tags" term="izraeli" label="izraeli"/>
+		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
 		<summary>[2019 note: itt volt egyszer egy youtube embed, de nem tudom mar melik dal.]
 Az úgy volt, hogy mivel csakúgy a semmiből az Infected Mushroom fellép nálunk, gondoltam megnéztem, hátha véletlen lesz a közelben koncert a másik kedvenc izraeli csapatomtól is. És lesz is, Bécsben, Október 5-én, ráadásul sikerült potom 15 euróért jegyet venni, és valószínű 1-2 nappal előtte megyek, hogy a Metalabban legalább egy estét kockulhassak.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>[2019 note: itt volt egyszer egy youtube embed, de nem tudom mar melik dal.]</p>
 
 <p>Az úgy volt, hogy mivel csakúgy a semmiből az <a href="http://ktamas.blog.hu/2009/09/10/infected_mushroom_koncert">Infected Mushroom fellép nálunk</a>, gondoltam megnéztem, hátha véletlen lesz a közelben koncert a <a href="http://ktamas.blog.hu/media/image/200909/?p=9">másik kedvenc izraeli csapatomtól</a> is. És lesz is, Bécsben, Október 5-én, ráadásul sikerült potom 15 euróért jegyet venni, és valószínű 1-2 nappal előtte megyek, hogy a <a href="http://metalab.at">Metalab</a>ban legalább egy estét kockulhassak.</p>
 
 <footer>
-    <a title="Permanent link to “Okt. 5: The Idan Raichel Acoustic Project @ Wiener Konzerthause”" href="https://ktamas.github.io/index.php/2009/09/22/okt_5_the_idan_raichel_acoustic_project_wiener_konzerthause/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Okt. 5: The Idan Raichel Acoustic Project @ Wiener Konzerthause”" href="https://blog.ktamas.com/index.php/2009/09/22/okt_5_the_idan_raichel_acoustic_project_wiener_konzerthause/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/izraeli/">izraeli</a></li>
-                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
+                <li><a href="https://blog.ktamas.com/tags/izraeli/">izraeli</a></li>
+                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2009/07/04/izraeli_zenek_feledik_resz_mashina_tachzor_tachzor/</id>
+		<id>https://blog.ktamas.com/index.php/2009/07/04/izraeli_zenek_feledik_resz_mashina_tachzor_tachzor/</id>
 		<title>(Izraeli zenék, feledik rész) Mashina &amp;#8211; Tachzor Tachzor, משינה &amp;#8211; תחזור תחזור</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/07/04/izraeli_zenek_feledik_resz_mashina_tachzor_tachzor/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/07/04/izraeli_zenek_feledik_resz_mashina_tachzor_tachzor/"/>
 		<updated>2009-07-04T10:21:34Z</updated>
 		<published>2009-07-04T10:21:34Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="izraeli" label="izraeli"/>
-		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
+		<category scheme="https://blog.ktamas.com/tags" term="izraeli" label="izraeli"/>
+		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
 		<summary>Ha ismerősen hangzik, ez az előzőleg linkelt dal eredeti (?) verziója (aztán lehet fordítva van a dolog).
 Coming up next: Sarit Chadad.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<iframe width="560" height="315" src="https://www.youtube.com/embed/QkyvyquCtu4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p>Ha ismerősen hangzik, ez az <a href="http://ktamas.blog.hu/2009/05/27/izraeli_zenek_part_0_prelude_meg_ize_zene" target="_blank">előzőleg linkelt</a> dal eredeti (?) verziója (aztán lehet fordítva van a dolog).</p>
@@ -202,43 +202,43 @@ Coming up next: Sarit Chadad.</summary>
 <p>Coming up next: Sarit Chadad.</p>
 
 <footer>
-    <a title="Permanent link to “(Izraeli zenék, feledik rész) Mashina &amp;#8211; Tachzor Tachzor, משינה &amp;#8211; תחזור תחזור”" href="https://ktamas.github.io/index.php/2009/07/04/izraeli_zenek_feledik_resz_mashina_tachzor_tachzor/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “(Izraeli zenék, feledik rész) Mashina &amp;#8211; Tachzor Tachzor, משינה &amp;#8211; תחזור תחזור”" href="https://blog.ktamas.com/index.php/2009/07/04/izraeli_zenek_feledik_resz_mashina_tachzor_tachzor/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/izraeli/">izraeli</a></li>
-                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
+                <li><a href="https://blog.ktamas.com/tags/izraeli/">izraeli</a></li>
+                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2009/05/27/izraeli_zenek_part_0_prelude_meg_ize_zene/</id>
+		<id>https://blog.ktamas.com/index.php/2009/05/27/izraeli_zenek_part_0_prelude_meg_ize_zene/</id>
 		<title>Izraeli zenék, part 0: Prelude (meg izé, zene)</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/05/27/izraeli_zenek_part_0_prelude_meg_ize_zene/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/05/27/izraeli_zenek_part_0_prelude_meg_ize_zene/"/>
 		<updated>2009-05-27T21:32:02Z</updated>
 		<published>2009-05-27T21:32:02Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="izraeli" label="izraeli"/>
-		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
+		<category scheme="https://blog.ktamas.com/tags" term="izraeli" label="izraeli"/>
+		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
 		<summary>Szóval az egész úgy kezdődött, hogy… anno belehallgattam a JP rádióba, meg rákaptam az Idan Raichelre meg a Mushroomra. Később Prezzey összerakott egy fantasztikus kis összeállítást pár dalból, aminek egyenes ági következménye lett, hogy megkérdeztem, van-e még — és volt, nem is kevés (ezúttal is újra köszönet érte). Úgyhogy az elkövetkezendő időkben valószínűleg többet fogok írni az ilyesfajta zenékről, addig is felvezetésképp halgassunk egy kis Subliminal + TACT-ot, mert jó. Rap, de a dallamosabb fajtából.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Szóval az egész úgy kezdődött, hogy&#8230; anno belehallgattam a <a href="http://www.judapest.org/music.htm" target="_blank">JP rádióba</a>, meg <a href="http://ktamas.blog.hu/2009/03/29/zenek_the_idan_raichel_project_within_my_walls" target="_blank">rákaptam</a> az <a href="http://ktamas.blog.hu/2009/01/04/zenekrol_1" target="_blank">Idan Raichelre meg a Mushroomra</a>. Később <a href="http://turulcsirip.hu/user/tzniuswarrior/" target="_blank">Prezzey</a> összerakott egy <a href="http://ktamas.blog.hu/2009/03/25/es_most_zene" target="_blank">fantasztikus kis összeállítást</a> pár dalból, aminek egyenes ági következménye lett, hogy megkérdeztem, van-e még &#8212; és volt, nem is kevés (ezúttal is újra köszönet érte). Úgyhogy az elkövetkezendő időkben valószínűleg többet fogok írni az ilyesfajta zenékről, addig is felvezetésképp halgassunk egy kis <a href="http://en.wikipedia.org/wiki/Subliminal_(rapper)" target="_blank">Subliminal + TACT</a>-ot, mert jó. Rap, de a dallamosabb fajtából.</p>
 
 <p><a href="https://www.dropbox.com/s/v1rwalvkzo9mwr5/ze-katuv-basfarim.mp3?dl=0">ze-katuv-basfarim</a></p>
 
 <footer>
-    <a title="Permanent link to “Izraeli zenék, part 0: Prelude (meg izé, zene)”" href="https://ktamas.github.io/index.php/2009/05/27/izraeli_zenek_part_0_prelude_meg_ize_zene/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Izraeli zenék, part 0: Prelude (meg izé, zene)”" href="https://blog.ktamas.com/index.php/2009/05/27/izraeli_zenek_part_0_prelude_meg_ize_zene/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/izraeli/">izraeli</a></li>
-                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
+                <li><a href="https://blog.ktamas.com/tags/izraeli/">izraeli</a></li>
+                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>

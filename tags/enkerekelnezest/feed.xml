@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
-	<id>https://ktamas.github.io/tags/enkerekelnezest/</id>
+	<id>https://blog.ktamas.com/tags/enkerekelnezest/</id>
 	<title>enkerekelnezest on KTamas&#39; blog</title>
 	<subtitle>An ongoing list of KTamas' blog posts about enkerekelnezest</subtitle>
 	<updated>2009-04-30T20:55:17Z</updated>
-	<link rel="self" type="application/atom+xml" href="https://ktamas.github.io/tags/enkerekelnezest/feed.xml"/>
-	<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/enkerekelnezest/"/>
-	<link rel="alternate" type="application/json" href="https://ktamas.github.io/tags/enkerekelnezest/feed.json"/>
+	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/enkerekelnezest/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/enkerekelnezest/"/>
+	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/enkerekelnezest/feed.json"/>
 	<author>
 		<name>KTamas</name>
-		<uri>https://ktamas.github.io/</uri>
+		<uri>https://blog.ktamas.com/</uri>
 	</author>
 	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
-	<icon>"https://ktamas.github.io/icon-512x512.png"</icon>
+	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2009/04/30/dolgok_amikrol_irni_fogok_ha_osszeszedem_magam/</id>
+		<id>https://blog.ktamas.com/index.php/2009/04/30/dolgok_amikrol_irni_fogok_ha_osszeszedem_magam/</id>
 		<title>Dolgok, amikrol irni fogok ha osszeszedem magam</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/04/30/dolgok_amikrol_irni_fogok_ha_osszeszedem_magam/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/04/30/dolgok_amikrol_irni_fogok_ha_osszeszedem_magam/"/>
 		<updated>2009-04-30T20:55:17Z</updated>
 		<published>2009-04-30T20:55:17Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="enkerekelnezest" label="enkerekelnezest"/>
-		<category scheme="https://ktamas.github.io/tags" term="random" label="random"/>
+		<category scheme="https://blog.ktamas.com/tags" term="enkerekelnezest" label="enkerekelnezest"/>
+		<category scheme="https://blog.ktamas.com/tags" term="random" label="random"/>
 		<summary> Miert rosszak a listajellegu blogpostok Miert vagyok lusta felrakni az ekezetes billkiosztasomat Egy rakat izraeli zene amit prezzeytol kaptam es so far tokjok Win7 RC meg ugy altalaban a Win7 Jaunty Jackalope Mennyire is valt be ez a back to PC switch dolog Twitter esetleg Fotozas meg esetleg Miert nincs meg ket temam hogy tizelemes legyen a lista  </summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<ol>
 <li>Miert rosszak a listajellegu blogpostok</li>
 <li>Miert vagyok lusta felrakni az ekezetes billkiosztasomat</li>
@@ -42,13 +42,13 @@
 </ol>
 
 <footer>
-    <a title="Permanent link to “Dolgok, amikrol irni fogok ha osszeszedem magam”" href="https://ktamas.github.io/index.php/2009/04/30/dolgok_amikrol_irni_fogok_ha_osszeszedem_magam/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Dolgok, amikrol irni fogok ha osszeszedem magam”" href="https://blog.ktamas.com/index.php/2009/04/30/dolgok_amikrol_irni_fogok_ha_osszeszedem_magam/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/enkerekelnezest/">enkerekelnezest</a></li>
-                <li><a href="https://ktamas.github.io/tags/random/">random</a></li>
+                <li><a href="https://blog.ktamas.com/tags/enkerekelnezest/">enkerekelnezest</a></li>
+                <li><a href="https://blog.ktamas.com/tags/random/">random</a></li>
             </ul>
         </div>
 </footer>]]></content>

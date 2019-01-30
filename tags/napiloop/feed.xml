@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
-	<id>https://ktamas.github.io/tags/napiloop/</id>
+	<id>https://blog.ktamas.com/tags/napiloop/</id>
 	<title>napiloop on KTamas&#39; blog</title>
 	<subtitle>An ongoing list of KTamas' blog posts about napiloop</subtitle>
 	<updated>2014-12-16T12:07:03Z</updated>
-	<link rel="self" type="application/atom+xml" href="https://ktamas.github.io/tags/napiloop/feed.xml"/>
-	<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/napiloop/"/>
-	<link rel="alternate" type="application/json" href="https://ktamas.github.io/tags/napiloop/feed.json"/>
+	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/napiloop/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/napiloop/"/>
+	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/napiloop/feed.json"/>
 	<author>
 		<name>KTamas</name>
-		<uri>https://ktamas.github.io/</uri>
+		<uri>https://blog.ktamas.com/</uri>
 	</author>
 	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
-	<icon>"https://ktamas.github.io/icon-512x512.png"</icon>
+	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2014/12/16/gaudete-redux-es-remix/</id>
+		<id>https://blog.ktamas.com/index.php/2014/12/16/gaudete-redux-es-remix/</id>
 		<title>Gaudete redux és remix</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2014/12/16/gaudete-redux-es-remix/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2014/12/16/gaudete-redux-es-remix/"/>
 		<updated>2014-12-16T12:07:03Z</updated>
 		<published>2014-12-16T12:07:03Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="napiloop" label="napiloop"/>
-		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
+		<category scheme="https://blog.ktamas.com/tags" term="napiloop" label="napiloop"/>
+		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
 		<summary>Három éve a céges karácsonyos kórusozás kapcsán rákattantam erre a dalra. Azóta sok centit haladt a gleccser a norvég fjordokon, és idén Luca napján (Dec 13), az itt hagyományos koncerten megint elhangzott, fel is vettem videóra. Az első pár másodperc sajnos lemaradt, illetve az utolsó sorból videóztam ISO25600-zzal a szenzor számára siralmas fényviszonyok között, kézből a 6D-vel. Ennek ellenére nyomokban látszanak rajta embere, és a lényeg, a hang teljesen okés lett:</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p><a href="http://blog.ktamas.com/index.php/2011/12/09/napi-loop-gaudete/">Három éve</a> a céges karácsonyos kórusozás kapcsán rákattantam erre a dalra. Azóta sok centit haladt a gleccser a norvég fjordokon, és idén Luca napján (Dec 13), az itt hagyományos koncerten megint elhangzott, fel is vettem videóra. Az első pár másodperc sajnos lemaradt, illetve az utolsó sorból videóztam ISO25600-zzal a szenzor számára siralmas fényviszonyok között, kézből a 6D-vel. Ennek ellenére nyomokban látszanak rajta embere, és a lényeg, a hang teljesen okés lett:</p>
 
 <p><iframe src="//www.youtube.com/embed/ZLc8zUVRSd8?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
@@ -37,66 +37,66 @@
 <p><iframe src="https://embed.spotify.com/?uri=spotify:track:5gBYveQNXKWqyrdQNsxSVX" width="300" height="380" frameborder="0"></iframe></p>
 
 <footer>
-    <a title="Permanent link to “Gaudete redux és remix”" href="https://ktamas.github.io/index.php/2014/12/16/gaudete-redux-es-remix/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Gaudete redux és remix”" href="https://blog.ktamas.com/index.php/2014/12/16/gaudete-redux-es-remix/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/napiloop/">napiloop</a></li>
-                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
+                <li><a href="https://blog.ktamas.com/tags/napiloop/">napiloop</a></li>
+                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2014/06/07/napi-loopok-es-svedzene-kobojsarna/</id>
+		<id>https://blog.ktamas.com/index.php/2014/06/07/napi-loopok-es-svedzene-kobojsarna/</id>
 		<title>Napi loopok és Svédzene: Kobojsarna</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2014/06/07/napi-loopok-es-svedzene-kobojsarna/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2014/06/07/napi-loopok-es-svedzene-kobojsarna/"/>
 		<updated>2014-06-07T20:05:08Z</updated>
 		<published>2014-06-07T20:05:08Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="napiloop" label="napiloop"/>
-		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dzene" label="svédzene"/>
-		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
+		<category scheme="https://blog.ktamas.com/tags" term="napiloop" label="napiloop"/>
+		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dzene" label="svédzene"/>
+		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
 		<summary>Mit lehet írni egy olyan zenekarról, akik simán írnak egy olyan dalt, aminek az a címe, hogy Sång om ingenting (Dal a semmiről), és tényleg nem szól semmiről? Leginkább azt, hogy ez kiváló Eurodance, ahol a dalszöveg gyakorlatilag tényleg semmit se számít. És akkor nem a legjobb dalt emeltem ki, mert például a La Perla meg az Unbeleivable jobb. A Kobojsarna 2003-ban alakult Malmőben, szóval még csak nem is kilencvenes évek, ez az igazi bátorság.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Mit lehet írni egy olyan zenekarról, akik simán írnak egy olyan dalt, aminek az a címe, hogy Sång om ingenting (Dal a semmiről), és tényleg nem szól semmiről? Leginkább azt, hogy ez kiváló Eurodance, ahol a dalszöveg gyakorlatilag tényleg semmit se számít. És akkor nem a legjobb dalt emeltem ki, mert például a La Perla meg az Unbeleivable jobb. A Kobojsarna 2003-ban alakult Malmőben, szóval még csak nem is kilencvenes évek, ez az igazi bátorság. Playlist alább.</p>
 
 <p><iframe src="https://embed.spotify.com/?uri=spotify:user:ktamas:playlist:4Uutv2qD2OAneeJrDZgjzV" width="300" height="380" frameborder="0"></iframe></p>
 
 <footer>
-    <a title="Permanent link to “Napi loopok és Svédzene: Kobojsarna”" href="https://ktamas.github.io/index.php/2014/06/07/napi-loopok-es-svedzene-kobojsarna/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Napi loopok és Svédzene: Kobojsarna”" href="https://blog.ktamas.com/index.php/2014/06/07/napi-loopok-es-svedzene-kobojsarna/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/napiloop/">napiloop</a></li>
-                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dzene/">svédzene</a></li>
-                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
+                <li><a href="https://blog.ktamas.com/tags/napiloop/">napiloop</a></li>
+                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dzene/">svédzene</a></li>
+                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2014/03/31/napi-loop-foreigner-juke-box-hero/</id>
+		<id>https://blog.ktamas.com/index.php/2014/03/31/napi-loop-foreigner-juke-box-hero/</id>
 		<title>Napi loop: Foreigner &amp;#8211; Juke Box Hero</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2014/03/31/napi-loop-foreigner-juke-box-hero/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2014/03/31/napi-loop-foreigner-juke-box-hero/"/>
 		<updated>2014-03-31T09:39:26Z</updated>
 		<published>2014-03-31T09:39:26Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="napiloop" label="napiloop"/>
-		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
+		<category scheme="https://blog.ktamas.com/tags" term="napiloop" label="napiloop"/>
+		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
 		<summary>Az egész ezzel a remek youtubevideóval kezdődött:
 
 Fallon iszonyat jól csinálja ezt a Late Night dolgot, érdemes belenézni a többi videojába is.
 Ebben a videoban hangzott el az alábbi dal.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Az egész ezzel a remek youtubevideóval kezdődött:</p>
 
 <p><iframe src="//www.youtube.com/embed/4LvMeYEwWGQ" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
@@ -108,63 +108,63 @@ Ebben a videoban hangzott el az alábbi dal.</summary>
 <p><iframe src="https://embed.spotify.com/?uri=spotify:track:00qOE7OjRl0BpYiCiweZB2" width="300" height="380" frameborder="0"></iframe></p>
 
 <footer>
-    <a title="Permanent link to “Napi loop: Foreigner &amp;#8211; Juke Box Hero”" href="https://ktamas.github.io/index.php/2014/03/31/napi-loop-foreigner-juke-box-hero/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Napi loop: Foreigner &amp;#8211; Juke Box Hero”" href="https://blog.ktamas.com/index.php/2014/03/31/napi-loop-foreigner-juke-box-hero/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/napiloop/">napiloop</a></li>
-                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
+                <li><a href="https://blog.ktamas.com/tags/napiloop/">napiloop</a></li>
+                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2014/03/30/napi-loop-sufjan-stevens-chicago/</id>
+		<id>https://blog.ktamas.com/index.php/2014/03/30/napi-loop-sufjan-stevens-chicago/</id>
 		<title>Napi loop: Sufjan Stevens &amp;#8211; Chicago</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2014/03/30/napi-loop-sufjan-stevens-chicago/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2014/03/30/napi-loop-sufjan-stevens-chicago/"/>
 		<updated>2014-03-30T18:18:24Z</updated>
 		<published>2014-03-30T18:18:24Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="napiloop" label="napiloop"/>
-		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
+		<category scheme="https://blog.ktamas.com/tags" term="napiloop" label="napiloop"/>
+		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
 		<summary>Az úgy volt, hogy természetesen megnéztem a Veronica Mars mozifilmet (a sorozatról, még évekkel ezelőtt lelkendeztem spoileresen). Nem volt jó, de ez a poszt most nem erről szól, hanem arról, hogy megfogott benne egy dal, Sufjan Stevens Chicagója, amit a Chiddy Bang remixelt is nagyon remeken, én azt a verziót hallottam először.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Az úgy volt, hogy természetesen megnéztem a Veronica Mars mozifilmet (a sorozatról, még évekkel ezelőtt <a href="http://blog.ktamas.com/index.php/2009/08/09/veronica_mars_1/" title="Veronica Mars">lelkendeztem spoileresen</a>). Nem volt jó, de ez a poszt most nem erről szól, hanem arról, hogy megfogott benne egy dal, Sufjan Stevens Chicagója, amit a Chiddy Bang <a href="http://open.spotify.com/track/7oqFD0dazBj3efKygcIZlB">remixelt is nagyon remeken</a>, én azt a verziót hallottam először.</p>
 
 <p><iframe src="https://embed.spotify.com/?uri=spotify:track:6WzAjOZfTwFBtyX7apVMUN" width="300" height="380" frameborder="0"></iframe></p>
 
 <footer>
-    <a title="Permanent link to “Napi loop: Sufjan Stevens &amp;#8211; Chicago”" href="https://ktamas.github.io/index.php/2014/03/30/napi-loop-sufjan-stevens-chicago/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Napi loop: Sufjan Stevens &amp;#8211; Chicago”" href="https://blog.ktamas.com/index.php/2014/03/30/napi-loop-sufjan-stevens-chicago/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/napiloop/">napiloop</a></li>
-                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
+                <li><a href="https://blog.ktamas.com/tags/napiloop/">napiloop</a></li>
+                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2014/03/25/napi-loop-pharell-williams-gust-of-wind/</id>
+		<id>https://blog.ktamas.com/index.php/2014/03/25/napi-loop-pharell-williams-gust-of-wind/</id>
 		<title>Napi loop: Pharell Williams &amp;#8211; Gust Of Wind</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2014/03/25/napi-loop-pharell-williams-gust-of-wind/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2014/03/25/napi-loop-pharell-williams-gust-of-wind/"/>
 		<updated>2014-03-25T08:29:22Z</updated>
 		<published>2014-03-25T08:29:22Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="napiloop" label="napiloop"/>
-		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
+		<category scheme="https://blog.ktamas.com/tags" term="napiloop" label="napiloop"/>
+		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
 		<summary>Bármikor beismerem hogy ez egy semmilyen dal, viszont a refrén kegyetlen jó, ami meg persze Daft Punk. Ez ment körbekörbe, mikor reggel hosszú hónapok után újra biciklivel mentem dolgozni. Meg most is.
 
 Youtube mert van, akinek a Spotify nem megy:</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Bármikor beismerem hogy ez egy semmilyen dal, viszont a refrén kegyetlen jó, ami meg persze Daft Punk. Ez ment körbekörbe, mikor reggel hosszú hónapok után újra biciklivel mentem dolgozni. Meg most is.</p>
 
 <p><iframe src="https://embed.spotify.com/?uri=spotify:track:1DylszI7qE7CB0yNugUxV6" width="300" height="380" frameborder="0"></iframe></p>
@@ -174,62 +174,62 @@ Youtube mert van, akinek a Spotify nem megy:</summary>
 <p><iframe src="//www.youtube.com/embed/5IKwHYuYS-U?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 
 <footer>
-    <a title="Permanent link to “Napi loop: Pharell Williams &amp;#8211; Gust Of Wind”" href="https://ktamas.github.io/index.php/2014/03/25/napi-loop-pharell-williams-gust-of-wind/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Napi loop: Pharell Williams &amp;#8211; Gust Of Wind”" href="https://blog.ktamas.com/index.php/2014/03/25/napi-loop-pharell-williams-gust-of-wind/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/napiloop/">napiloop</a></li>
-                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
+                <li><a href="https://blog.ktamas.com/tags/napiloop/">napiloop</a></li>
+                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2014/02/17/napi-loop-snow-patrol-take-back-the-city/</id>
+		<id>https://blog.ktamas.com/index.php/2014/02/17/napi-loop-snow-patrol-take-back-the-city/</id>
 		<title>Napi loop: Snow Patrol &amp;#8211; Take Back The City</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2014/02/17/napi-loop-snow-patrol-take-back-the-city/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2014/02/17/napi-loop-snow-patrol-take-back-the-city/"/>
 		<updated>2014-02-17T09:02:17Z</updated>
 		<published>2014-02-17T09:02:17Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="napiloop" label="napiloop"/>
-		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
+		<category scheme="https://blog.ktamas.com/tags" term="napiloop" label="napiloop"/>
+		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
 		<summary>Még a Guitar Hero akármennyiben szerettem meg ezt a dalt, aztán most újra előkerült, és most emiatt megint nagyon hiányzik a gitárhősözés.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Még a Guitar Hero akármennyiben szerettem meg ezt a dalt, aztán most újra előkerült, és most emiatt megint nagyon hiányzik a gitárhősözés.</p>
 
 <p><iframe src="https://embed.spotify.com/?uri=spotify:track:5Zw4PQhBnt04Xs9gjEG26z" width="300" height="380" frameborder="0"></iframe></p>
 
 <footer>
-    <a title="Permanent link to “Napi loop: Snow Patrol &amp;#8211; Take Back The City”" href="https://ktamas.github.io/index.php/2014/02/17/napi-loop-snow-patrol-take-back-the-city/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Napi loop: Snow Patrol &amp;#8211; Take Back The City”" href="https://blog.ktamas.com/index.php/2014/02/17/napi-loop-snow-patrol-take-back-the-city/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/napiloop/">napiloop</a></li>
-                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
+                <li><a href="https://blog.ktamas.com/tags/napiloop/">napiloop</a></li>
+                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2014/02/16/napi-loop-the-script-hall-of-fame/</id>
+		<id>https://blog.ktamas.com/index.php/2014/02/16/napi-loop-the-script-hall-of-fame/</id>
 		<title>Napi loop: The Script &amp;#8211; Hall of Fame</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2014/02/16/napi-loop-the-script-hall-of-fame/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2014/02/16/napi-loop-the-script-hall-of-fame/"/>
 		<updated>2014-02-16T07:13:54Z</updated>
 		<published>2014-02-16T07:13:54Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="napiloop" label="napiloop"/>
-		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
+		<category scheme="https://blog.ktamas.com/tags" term="napiloop" label="napiloop"/>
+		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
 		<summary>Apropó napiloop, az megvan hogy a Spotifyba végre raktak Repeat One-t? A mobilkliensbe még nem sajnos, de ha ott is lesz akkor végre kidobhatom az egydalos playlistjeimet.
 Közben meg szól a The Script.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Apropó napiloop, az megvan hogy a <a href="http://news.spotify.com/se/2014/02/07/repeat-once/">Spotifyba végre raktak Repeat One-t</a>? A mobilkliensbe még nem sajnos, de ha ott is lesz akkor végre kidobhatom az egydalos playlistjeimet.</p>
 
 <p>Közben meg szól a The Script.</p>
@@ -237,32 +237,32 @@ Közben meg szól a The Script.</summary>
 <p><iframe src="https://embed.spotify.com/?uri=spotify:track:7wMq5n8mYSKlQIGECKUgTX" width="300" height="380" frameborder="0"></iframe></p>
 
 <footer>
-    <a title="Permanent link to “Napi loop: The Script &amp;#8211; Hall of Fame”" href="https://ktamas.github.io/index.php/2014/02/16/napi-loop-the-script-hall-of-fame/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Napi loop: The Script &amp;#8211; Hall of Fame”" href="https://blog.ktamas.com/index.php/2014/02/16/napi-loop-the-script-hall-of-fame/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/napiloop/">napiloop</a></li>
-                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
+                <li><a href="https://blog.ktamas.com/tags/napiloop/">napiloop</a></li>
+                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2014/01/24/loituma/</id>
+		<id>https://blog.ktamas.com/index.php/2014/01/24/loituma/</id>
 		<title>Loituma</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2014/01/24/loituma/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2014/01/24/loituma/"/>
 		<updated>2014-01-24T21:30:54Z</updated>
 		<published>2014-01-24T21:30:54Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="napiloop" label="napiloop"/>
-		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
+		<category scheme="https://blog.ktamas.com/tags" term="napiloop" label="napiloop"/>
+		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
 		<summary>A poszt címe elég is, ugye? Én még emlékszem, középiskola, harmadik osztály, tizen állunk egy gép előtt a gépterembe és nézzük az ötköckás animációt, meg hallgatjuk hozzá a zenét, én azt a 30 másodpercet belőle később gyakorlatilag fejből bármikor le tudtam tolni, ezzel idegesítve a fentebb említett osztálytársaimat. Ide kattintva lehet nosztalgiázni.
 És akkor ma küld egy ilyet Kelt cseten, ment is körbe egy darabig:</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>A poszt címe elég is, ugye? Én még emlékszem, középiskola, harmadik osztály, tizen állunk egy gép előtt a gépterembe és nézzük az ötköckás animációt, meg hallgatjuk hozzá a zenét, én azt a 30 másodpercet belőle később gyakorlatilag fejből bármikor le tudtam tolni, ezzel idegesítve a fentebb említett osztálytársaimat. <a href="http://dagobah.net/flash/loituma.swf">Ide kattintva lehet nosztalgiázni</a>.</p>
 
 <p>És akkor ma küld egy ilyet Kelt cseten, ment is körbe egy darabig:</p>
@@ -270,66 +270,66 @@ Közben meg szól a The Script.</summary>
 <p><iframe src="https://embed.spotify.com/?uri=spotify:track:5Ua7FnzpePVpZtl9AIYrRT" width="300" height="380" frameborder="0"></iframe></p>
 
 <footer>
-    <a title="Permanent link to “Loituma”" href="https://ktamas.github.io/index.php/2014/01/24/loituma/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Loituma”" href="https://blog.ktamas.com/index.php/2014/01/24/loituma/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/napiloop/">napiloop</a></li>
-                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
+                <li><a href="https://blog.ktamas.com/tags/napiloop/">napiloop</a></li>
+                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2014/01/16/sved-zenek-lillasyster-roar/</id>
+		<id>https://blog.ktamas.com/index.php/2014/01/16/sved-zenek-lillasyster-roar/</id>
 		<title>Svéd zenék: Lillasyster &amp;#8211; Roar</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2014/01/16/sved-zenek-lillasyster-roar/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2014/01/16/sved-zenek-lillasyster-roar/"/>
 		<updated>2014-01-16T09:09:05Z</updated>
 		<published>2014-01-16T09:09:05Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="napiloop" label="napiloop"/>
-		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
-		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dzenes" label="svédzenes"/>
-		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
+		<category scheme="https://blog.ktamas.com/tags" term="napiloop" label="napiloop"/>
+		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dzenes" label="svédzenes"/>
+		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
 		<summary>Ezt jáccák a helyi rádiók orrba-szájba, merthát helyi együttes meg minden gondolom, de amúgy a szám is jó.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Ezt jáccák a helyi rádiók orrba-szájba, merthát helyi együttes meg minden gondolom, de amúgy a szám is jó.</p>
 
 <p><iframe src="https://embed.spotify.com/?uri=spotify:track:30cmQLBpopRA6KLI2OsP9U" width="300" height="380" frameborder="0"></iframe></p>
 
 <footer>
-    <a title="Permanent link to “Svéd zenék: Lillasyster &amp;#8211; Roar”" href="https://ktamas.github.io/index.php/2014/01/16/sved-zenek-lillasyster-roar/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Svéd zenék: Lillasyster &amp;#8211; Roar”" href="https://blog.ktamas.com/index.php/2014/01/16/sved-zenek-lillasyster-roar/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/napiloop/">napiloop</a></li>
-                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
-                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dzenes/">svédzenes</a></li>
-                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
+                <li><a href="https://blog.ktamas.com/tags/napiloop/">napiloop</a></li>
+                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dzenes/">svédzenes</a></li>
+                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2014/01/11/napi-tegnapi-tegnapelotti-loop-journey-remember-me-armageddon/</id>
+		<id>https://blog.ktamas.com/index.php/2014/01/11/napi-tegnapi-tegnapelotti-loop-journey-remember-me-armageddon/</id>
 		<title>Napi (tegnapi (tegnapelőtti)) loop: Journey &amp;#8211; Remember Me (Armageddon)</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2014/01/11/napi-tegnapi-tegnapelotti-loop-journey-remember-me-armageddon/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2014/01/11/napi-tegnapi-tegnapelotti-loop-journey-remember-me-armageddon/"/>
 		<updated>2014-01-11T09:15:08Z</updated>
 		<published>2014-01-11T09:15:08Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="film" label="film"/>
-		<category scheme="https://ktamas.github.io/tags" term="napiloop" label="napiloop"/>
-		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
+		<category scheme="https://blog.ktamas.com/tags" term="film" label="film"/>
+		<category scheme="https://blog.ktamas.com/tags" term="napiloop" label="napiloop"/>
+		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
 		<summary>Az úgy volt, hogy valamiért késztetést éreztem arra, hogy újranézzem az Armageddont, amit eleve asszem másfél éve láttam csak először. Már akkor konstatáltam, hogy ez egészen jó volt, de most másodszorra, ha lehet, csak mégjobban élveztem: bár a sztorit valószínű össze lehetne ollózni kizárólag tvtropes linkekből, egy igazi nyári blockbusterről beszélünk, aminek az ilyesfajta hiányosságát, és azt, hogy egészen végig hihetetlenül over-the-top az egész, kompenzálja egy rakat remek szinésszel és karakterrel, iszonyat jó zenével, es hihetetlenül gyönyörű kép világgal.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Az úgy volt, hogy valamiért késztetést éreztem arra, hogy újranézzem az <a href="en.wikipedia.org/wiki/Armageddon_(1998_film)">Armageddon</a>t, amit eleve asszem másfél éve láttam csak először. Már akkor konstatáltam, hogy ez egészen jó volt, de most másodszorra, ha lehet, csak mégjobban élveztem: bár a sztorit valószínű össze lehetne ollózni kizárólag tvtropes linkekből, egy igazi nyári blockbusterről beszélünk, aminek az ilyesfajta hiányosságát, és azt, hogy egészen végig hihetetlenül over-the-top az egész, kompenzálja egy rakat remek szinésszel és karakterrel, iszonyat jó zenével, es hihetetlenül gyönyörű kép világgal. A film egyszerűen egy nagybetűs ÉLMÉNY.</p>
 
 <p>Szóval az Armageddon soundtrackjéről szól a Remember Me a fejemben több napja:</p>
@@ -337,35 +337,35 @@ Közben meg szól a The Script.</summary>
 <p><iframe src="https://embed.spotify.com/?uri=spotify:track:5LtcaeznPdGln8YafkV8bh" width="300" height="380" frameborder="0" allowtransparency="true"></iframe></p>
 
 <footer>
-    <a title="Permanent link to “Napi (tegnapi (tegnapelőtti)) loop: Journey &amp;#8211; Remember Me (Armageddon)”" href="https://ktamas.github.io/index.php/2014/01/11/napi-tegnapi-tegnapelotti-loop-journey-remember-me-armageddon/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Napi (tegnapi (tegnapelőtti)) loop: Journey &amp;#8211; Remember Me (Armageddon)”" href="https://blog.ktamas.com/index.php/2014/01/11/napi-tegnapi-tegnapelotti-loop-journey-remember-me-armageddon/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/film/">film</a></li>
-                <li><a href="https://ktamas.github.io/tags/napiloop/">napiloop</a></li>
-                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
+                <li><a href="https://blog.ktamas.com/tags/film/">film</a></li>
+                <li><a href="https://blog.ktamas.com/tags/napiloop/">napiloop</a></li>
+                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2013/12/01/sved-zenek-avicii-wake-me-up/</id>
+		<id>https://blog.ktamas.com/index.php/2013/12/01/sved-zenek-avicii-wake-me-up/</id>
 		<title>Svéd zenék: Avicii &amp;#8211; Wake Me Up</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/12/01/sved-zenek-avicii-wake-me-up/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/12/01/sved-zenek-avicii-wake-me-up/"/>
 		<updated>2013-12-01T06:30:29Z</updated>
 		<published>2013-12-01T06:30:29Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://ktamas.github.io/tags" term="napiloop" label="napiloop"/>
-		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
-		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
+		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://blog.ktamas.com/tags" term="napiloop" label="napiloop"/>
+		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
 		<summary>Szépjóreggelt, itt a december, kezdődik a karácsonyi szezon, advent első vasárnapja, ami mint kiderült, itt Svédországban meglepően fontos nap.
 Mint mindig, most is el vagyok maradva a blogolással, ez a zene vagy’ egy hónapja ment körbekörbe egy jó adagot, de azért rakjuk el, emlékezzünk meg róla, a zunokáknak.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Szépjóreggelt, itt a december, kezdődik a karácsonyi szezon, advent első vasárnapja, ami mint kiderült, itt Svédországban meglepően fontos nap.</p>
 
 <p>Mint mindig, most is el vagyok maradva a blogolással, ez a zene vagy&#8217; egy hónapja ment körbekörbe egy jó adagot, de azért rakjuk el, emlékezzünk meg róla, a zunokáknak.</p>
@@ -373,67 +373,67 @@ Mint mindig, most is el vagyok maradva a blogolással, ez a zene vagy’ egy hó
 <p><iframe width="640" height="360" src="//www.youtube.com/embed/IcrbM1l_BoI?rel=0" frameborder="0" allowfullscreen=""></iframe></p>
 
 <footer>
-    <a title="Permanent link to “Svéd zenék: Avicii &amp;#8211; Wake Me Up”" href="https://ktamas.github.io/index.php/2013/12/01/sved-zenek-avicii-wake-me-up/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Svéd zenék: Avicii &amp;#8211; Wake Me Up”" href="https://blog.ktamas.com/index.php/2013/12/01/sved-zenek-avicii-wake-me-up/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://ktamas.github.io/tags/napiloop/">napiloop</a></li>
-                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
-                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
+                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://blog.ktamas.com/tags/napiloop/">napiloop</a></li>
+                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2013/08/15/napi-loop-anna-kendrick-cups-when-im-gone/</id>
+		<id>https://blog.ktamas.com/index.php/2013/08/15/napi-loop-anna-kendrick-cups-when-im-gone/</id>
 		<title>Napi loop: Anna Kendrick &amp;#8211; Cups (When I&amp;#8217;m Gone)</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/08/15/napi-loop-anna-kendrick-cups-when-im-gone/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/08/15/napi-loop-anna-kendrick-cups-when-im-gone/"/>
 		<updated>2013-08-15T10:48:44Z</updated>
 		<published>2013-08-15T10:48:44Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="napiloop" label="napiloop"/>
-		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
+		<category scheme="https://blog.ktamas.com/tags" term="napiloop" label="napiloop"/>
+		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
 		<summary>Még jó régen néztem meg a Pitch Perfect című filmet, ami egyébként egy teljesen jó énekelős-acapellás guiltypleasure film. Aztán ma szembejött RSS-olvasás közben Sesam posztja és előkerült ez, ami azóta is megy körbe és körbe és körbe…</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Még jó régen néztem meg a <a href="http://www.imdb.com/title/tt1981677/">Pitch Perfect</a> című filmet, ami egyébként egy teljesen jó énekelős-acapellás guiltypleasure film. Aztán ma szembejött RSS-olvasás közben <a href="http://sesam.hu/2013/08/13/when-im-gone/">Sesam posztja</a> és előkerült ez, ami azóta is megy körbe és körbe és körbe&#8230;</p>
 
 <p><iframe src="//www.youtube.com/embed/cmSbXsFE3l8?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 
 <footer>
-    <a title="Permanent link to “Napi loop: Anna Kendrick &amp;#8211; Cups (When I&amp;#8217;m Gone)”" href="https://ktamas.github.io/index.php/2013/08/15/napi-loop-anna-kendrick-cups-when-im-gone/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Napi loop: Anna Kendrick &amp;#8211; Cups (When I&amp;#8217;m Gone)”" href="https://blog.ktamas.com/index.php/2013/08/15/napi-loop-anna-kendrick-cups-when-im-gone/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/napiloop/">napiloop</a></li>
-                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
+                <li><a href="https://blog.ktamas.com/tags/napiloop/">napiloop</a></li>
+                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2013/07/13/elozo-napok-loopjai-swedish-house-mafia/</id>
+		<id>https://blog.ktamas.com/index.php/2013/07/13/elozo-napok-loopjai-swedish-house-mafia/</id>
 		<title>Előző napok loopjai: Swedish House Mafia</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/07/13/elozo-napok-loopjai-swedish-house-mafia/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/07/13/elozo-napok-loopjai-swedish-house-mafia/"/>
 		<updated>2013-07-13T16:03:16Z</updated>
 		<published>2013-07-13T16:03:16Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="napiloop" label="napiloop"/>
-		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
+		<category scheme="https://blog.ktamas.com/tags" term="napiloop" label="napiloop"/>
+		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
 		<summary>Kezdjük a hamarosan mozikba kerülő Monsters Universityhez készült zenével, amit a Swedish House Mafia kétharmada készített:
 
 Folytassuk pedig a teljes zenekar Greyhound című számával, amit Ulrikánál láttam, ez azért is említendő, mert a zenei izlésünknek nagyon ritkán van közös metszete. A klip kicsit lassan indul be, cserébe látványos, még úgy is, hogy egy egészen pofátlan vodkareklámot is elrejtettek benne.
 
 Zárásképpen meg itt van a hosszabb verzió is a dalból, ami szerintem mégjobb:</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Kezdjük a hamarosan mozikba kerülő Monsters Universityhez készült zenével, amit a Swedish House Mafia kétharmada készített:</p>
 
 <p><iframe width="640" height="360" src="//www.youtube.com/embed/hSy1agqhI7I?rel=0" frameborder="0" allowfullscreen=""></iframe></p>
@@ -447,126 +447,126 @@ Zárásképpen meg itt van a hosszabb verzió is a dalból, ami szerintem mégjo
 <p><iframe width="640" height="360" src="//www.youtube.com/embed/f3XlIQ5pmdQ?rel=0" frameborder="0" allowfullscreen=""></iframe></p>
 
 <footer>
-    <a title="Permanent link to “Előző napok loopjai: Swedish House Mafia”" href="https://ktamas.github.io/index.php/2013/07/13/elozo-napok-loopjai-swedish-house-mafia/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Előző napok loopjai: Swedish House Mafia”" href="https://blog.ktamas.com/index.php/2013/07/13/elozo-napok-loopjai-swedish-house-mafia/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/napiloop/">napiloop</a></li>
-                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
+                <li><a href="https://blog.ktamas.com/tags/napiloop/">napiloop</a></li>
+                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2013/06/27/elmult-napok-loopjai-lady-gaga-alejandro/</id>
+		<id>https://blog.ktamas.com/index.php/2013/06/27/elmult-napok-loopjai-lady-gaga-alejandro/</id>
 		<title>Elmúlt napok loopjai: Lady Gaga &amp;#8211; Alejandro</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/06/27/elmult-napok-loopjai-lady-gaga-alejandro/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/06/27/elmult-napok-loopjai-lady-gaga-alejandro/"/>
 		<updated>2013-06-27T14:27:35Z</updated>
 		<published>2013-06-27T14:27:35Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="napiloop" label="napiloop"/>
-		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
+		<category scheme="https://blog.ktamas.com/tags" term="napiloop" label="napiloop"/>
+		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
 		<summary>Ez a dal konkrétan ebéd közben szólt az egyik kedvenc pizzázómban, ahol nagyon remek a spagetti, és pont kifogytam a zenéből, aztán ez megfogott.
  </summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Ez a dal konkrétan ebéd közben szólt az egyik kedvenc pizzázómban, ahol nagyon remek a spagetti, és pont kifogytam a zenéből, aztán ez megfogott.</p>
 
 <iframe src="https://open.spotify.com/embed/track/3t4i2ZrrPcIZLgK7VNqD36" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 <footer>
-    <a title="Permanent link to “Elmúlt napok loopjai: Lady Gaga &amp;#8211; Alejandro”" href="https://ktamas.github.io/index.php/2013/06/27/elmult-napok-loopjai-lady-gaga-alejandro/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Elmúlt napok loopjai: Lady Gaga &amp;#8211; Alejandro”" href="https://blog.ktamas.com/index.php/2013/06/27/elmult-napok-loopjai-lady-gaga-alejandro/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/napiloop/">napiloop</a></li>
-                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
+                <li><a href="https://blog.ktamas.com/tags/napiloop/">napiloop</a></li>
+                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2013/06/26/elmult-napok-loopjai-mat-kearney-sooner-or-later/</id>
+		<id>https://blog.ktamas.com/index.php/2013/06/26/elmult-napok-loopjai-mat-kearney-sooner-or-later/</id>
 		<title>Elmúlt napok loopjai: Mat Kearney &amp;#8211; Sooner or Later</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/06/26/elmult-napok-loopjai-mat-kearney-sooner-or-later/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/06/26/elmult-napok-loopjai-mat-kearney-sooner-or-later/"/>
 		<updated>2013-06-26T14:25:04Z</updated>
 		<published>2013-06-26T14:25:04Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="napiloop" label="napiloop"/>
-		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
+		<category scheme="https://blog.ktamas.com/tags" term="napiloop" label="napiloop"/>
+		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
 		<summary>Ez a dal még a WWDC-közvetítés előtti percekben szólt, van egy erős Coldplayes beütése, ennek ellenére (vagy emellett) nekem nagyon tetszik.
  </summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Ez a dal még a WWDC-közvetítés előtti percekben szólt, van egy erős Coldplayes beütése, ennek ellenére (vagy emellett) nekem nagyon tetszik.</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K-QQekBc0wY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <footer>
-    <a title="Permanent link to “Elmúlt napok loopjai: Mat Kearney &amp;#8211; Sooner or Later”" href="https://ktamas.github.io/index.php/2013/06/26/elmult-napok-loopjai-mat-kearney-sooner-or-later/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Elmúlt napok loopjai: Mat Kearney &amp;#8211; Sooner or Later”" href="https://blog.ktamas.com/index.php/2013/06/26/elmult-napok-loopjai-mat-kearney-sooner-or-later/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/napiloop/">napiloop</a></li>
-                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
+                <li><a href="https://blog.ktamas.com/tags/napiloop/">napiloop</a></li>
+                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2013/06/25/elmult-napok-loopjai-pink-god-is-a-dj/</id>
+		<id>https://blog.ktamas.com/index.php/2013/06/25/elmult-napok-loopjai-pink-god-is-a-dj/</id>
 		<title>Elmúlt napok loopjai: Pink &amp;#8211; God is a DJ</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/06/25/elmult-napok-loopjai-pink-god-is-a-dj/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/06/25/elmult-napok-loopjai-pink-god-is-a-dj/"/>
 		<updated>2013-06-25T14:12:55Z</updated>
 		<published>2013-06-25T14:12:55Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="napiloop" label="napiloop"/>
-		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
+		<category scheme="https://blog.ktamas.com/tags" term="napiloop" label="napiloop"/>
+		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
 		<summary>Az úgy volt, hogy újranéztem a Mean Girlst, ami egy remek film, és aztán beakadt a benne lévő Pink dal. So fetch.
  </summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Az úgy volt, hogy újranéztem a <a href="http://www.imdb.com/title/tt0377092/">Mean Girls</a>t, ami egy remek film, és aztán beakadt a benne lévő Pink dal. <small><em>So fetch.</em></small></p>
 
 <iframe src="https://open.spotify.com/embed/track/528upPM5D1jiSGMoS7z1Pd" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 <footer>
-    <a title="Permanent link to “Elmúlt napok loopjai: Pink &amp;#8211; God is a DJ”" href="https://ktamas.github.io/index.php/2013/06/25/elmult-napok-loopjai-pink-god-is-a-dj/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Elmúlt napok loopjai: Pink &amp;#8211; God is a DJ”" href="https://blog.ktamas.com/index.php/2013/06/25/elmult-napok-loopjai-pink-god-is-a-dj/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/napiloop/">napiloop</a></li>
-                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
+                <li><a href="https://blog.ktamas.com/tags/napiloop/">napiloop</a></li>
+                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2013/05/21/napi-loopok-eurovision-2013/</id>
+		<id>https://blog.ktamas.com/index.php/2013/05/21/napi-loopok-eurovision-2013/</id>
 		<title>Napi loopok: Eurovision 2013</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/05/21/napi-loopok-eurovision-2013/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/05/21/napi-loopok-eurovision-2013/"/>
 		<updated>2013-05-21T09:42:31Z</updated>
 		<published>2013-05-21T09:42:31Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://ktamas.github.io/tags" term="napiloop" label="napiloop"/>
-		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
-		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
+		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://blog.ktamas.com/tags" term="napiloop" label="napiloop"/>
+		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
 		<summary>Idén itt, Malmöben volt a páneurópai zenei giccsparádé, úgyhogy a csapból is ez folyt, legalábbis a kollégáim szerint, nekem az a szerencsém, hogy nem nézek helyi tévét, és a helyi újságokat se követem (még), szóval kimaradtam a nagyrészéből. Pont a döntőig bírtam ellenállni annak, hogy foglalkozzak az egésszel, úgy volt, hogy barátokkal együtt nézzük meg a döntőt, ez végül nekem különféle okokból elmaradt, otthon voltam, és a Doctor Who évadzárója után pont következett a BBC-n.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Idén itt, Malmöben volt a páneurópai zenei giccsparádé, úgyhogy a csapból is ez folyt, legalábbis a kollégáim szerint, nekem az a szerencsém, hogy nem nézek helyi tévét, és a helyi újságokat se követem (még), szóval kimaradtam a nagyrészéből. Pont a döntőig bírtam ellenállni annak, hogy foglalkozzak az egésszel, úgy volt, hogy barátokkal együtt nézzük meg a döntőt, ez végül nekem különféle okokból elmaradt, otthon voltam, és a Doctor Who évadzárója után pont következett a BBC-n. Gondoltam megnézem az elejét, aztán lefekszek aludni, természetesen az lett a vége, hogy végignéztem. Egyrészt remek volt a britek közvetítése, a kommentátor szórakoztató volt, másrészt a Guardiannak is volt egy végtelenül szórakoztató liveblogja, arról nem is beszélve, hogy a twitteren is végig lett trollkodva minden dal. A vége persze az lett, hogy a dánok majdnem szó szerint <a href="http://en.wikipedia.org/wiki/%C3%98resund_Bridge">átjöttek a hídon</a> megnyerni az egészet, valahol megérdemelten, mert szerintem a mezőnyből ez volt az egyik legjobb dal.</p>
 
 <p>(zárójel, szórakoztató volt látni, mennyire politika az egész szavazás, egyetlen kérdésem volna csak, miért szavazott bárki is az egészen borzalmas azerbajdzsáni produkcióra?)</p>
@@ -578,273 +578,273 @@ Zárásképpen meg itt van a hosszabb verzió is a dalból, ami szerintem mégjo
 <iframe width="560" height="315" src="https://www.youtube.com/embed/p3f9v8ebuD4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <footer>
-    <a title="Permanent link to “Napi loopok: Eurovision 2013”" href="https://ktamas.github.io/index.php/2013/05/21/napi-loopok-eurovision-2013/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Napi loopok: Eurovision 2013”" href="https://blog.ktamas.com/index.php/2013/05/21/napi-loopok-eurovision-2013/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://ktamas.github.io/tags/napiloop/">napiloop</a></li>
-                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
-                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
+                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://blog.ktamas.com/tags/napiloop/">napiloop</a></li>
+                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2013/04/24/napi-loop-avishai-cohen-live-at-paleo-festival-2012/</id>
+		<id>https://blog.ktamas.com/index.php/2013/04/24/napi-loop-avishai-cohen-live-at-paleo-festival-2012/</id>
 		<title>Napi loop: Avishai Cohen &amp;#8211; Live at Paleo Festival 2012</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/04/24/napi-loop-avishai-cohen-live-at-paleo-festival-2012/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/04/24/napi-loop-avishai-cohen-live-at-paleo-festival-2012/"/>
 		<updated>2013-04-24T17:30:00Z</updated>
 		<published>2013-04-24T17:30:00Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="napiloop" label="napiloop"/>
-		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
+		<category scheme="https://blog.ktamas.com/tags" term="napiloop" label="napiloop"/>
+		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
 		<summary>Most rakom be harmadszorra két napon belül ezt a remek koncertfelvételt Avishai Cohentől, akit már emlegettem, de nem lehet eleget.
  </summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Most rakom be harmadszorra két napon belül ezt a remek koncertfelvételt Avishai Cohentől, akit már <a href="http://blog.ktamas.com/index.php/2013/04/05/napi-eloado-avishai-cohen/">emlegettem</a>, de nem lehet eleget.</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H-ZYxftpsak" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <footer>
-    <a title="Permanent link to “Napi loop: Avishai Cohen &amp;#8211; Live at Paleo Festival 2012”" href="https://ktamas.github.io/index.php/2013/04/24/napi-loop-avishai-cohen-live-at-paleo-festival-2012/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Napi loop: Avishai Cohen &amp;#8211; Live at Paleo Festival 2012”" href="https://blog.ktamas.com/index.php/2013/04/24/napi-loop-avishai-cohen-live-at-paleo-festival-2012/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/napiloop/">napiloop</a></li>
-                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
+                <li><a href="https://blog.ktamas.com/tags/napiloop/">napiloop</a></li>
+                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2013/03/21/sok-nappal-ezelotti-loop-lindsay-sterling-and-pentatonix-radioactive-cover/</id>
+		<id>https://blog.ktamas.com/index.php/2013/03/21/sok-nappal-ezelotti-loop-lindsay-sterling-and-pentatonix-radioactive-cover/</id>
 		<title>Sok nappal ezelőtti loop: Lindsay Sterling and Pentatonix &amp;#8211; Radioactive (Cover)</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/03/21/sok-nappal-ezelotti-loop-lindsay-sterling-and-pentatonix-radioactive-cover/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/03/21/sok-nappal-ezelotti-loop-lindsay-sterling-and-pentatonix-radioactive-cover/"/>
 		<updated>2013-03-21T21:30:38Z</updated>
 		<published>2013-03-21T21:30:38Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="napiloop" label="napiloop"/>
-		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
+		<category scheme="https://blog.ktamas.com/tags" term="napiloop" label="napiloop"/>
+		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
 		<summary>A mai poszt csúszik holnapra, kicsit elcsúsztam az idővel, ihletem is éppen kevés van, ajánlok ellenben remek zenét, amit SeSam blogján találtam még egy hete, és utána járattam is körbe jó sokszor, ahogy kell.
  </summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>A mai poszt csúszik holnapra, kicsit elcsúsztam az idővel, ihletem is éppen kevés van, ajánlok ellenben remek zenét, amit <a href="http://sesam.hu/2013/03/14/radioactive/">SeSam blogján találtam</a> még egy hete, és utána járattam is körbe jó sokszor, ahogy kell.</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aE2GCa-_nyU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <footer>
-    <a title="Permanent link to “Sok nappal ezelőtti loop: Lindsay Sterling and Pentatonix &amp;#8211; Radioactive (Cover)”" href="https://ktamas.github.io/index.php/2013/03/21/sok-nappal-ezelotti-loop-lindsay-sterling-and-pentatonix-radioactive-cover/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Sok nappal ezelőtti loop: Lindsay Sterling and Pentatonix &amp;#8211; Radioactive (Cover)”" href="https://blog.ktamas.com/index.php/2013/03/21/sok-nappal-ezelotti-loop-lindsay-sterling-and-pentatonix-radioactive-cover/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/napiloop/">napiloop</a></li>
-                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
+                <li><a href="https://blog.ktamas.com/tags/napiloop/">napiloop</a></li>
+                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2013/02/05/napi-loop-liquido-narcotic/</id>
+		<id>https://blog.ktamas.com/index.php/2013/02/05/napi-loop-liquido-narcotic/</id>
 		<title>Napi loop: Liquido &amp;#8211; Narcotic</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/02/05/napi-loop-liquido-narcotic/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/02/05/napi-loop-liquido-narcotic/"/>
 		<updated>2013-02-05T13:28:33Z</updated>
 		<published>2013-02-05T13:28:33Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="napiloop" label="napiloop"/>
-		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<category scheme="https://blog.ktamas.com/tags" term="napiloop" label="napiloop"/>
+		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p><iframe src="//www.youtube.com/embed/0JSXCfGWjqA" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 
 <footer>
-    <a title="Permanent link to “Napi loop: Liquido &amp;#8211; Narcotic”" href="https://ktamas.github.io/index.php/2013/02/05/napi-loop-liquido-narcotic/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Napi loop: Liquido &amp;#8211; Narcotic”" href="https://blog.ktamas.com/index.php/2013/02/05/napi-loop-liquido-narcotic/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/napiloop/">napiloop</a></li>
-                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
+                <li><a href="https://blog.ktamas.com/tags/napiloop/">napiloop</a></li>
+                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2013/02/03/esti-loop-alice-cooper-poison/</id>
+		<id>https://blog.ktamas.com/index.php/2013/02/03/esti-loop-alice-cooper-poison/</id>
 		<title>Esti loop: Alice Cooper &amp;#8211; Poison</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/02/03/esti-loop-alice-cooper-poison/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/02/03/esti-loop-alice-cooper-poison/"/>
 		<updated>2013-02-03T22:03:35Z</updated>
 		<published>2013-02-03T22:03:35Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="napiloop" label="napiloop"/>
-		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
+		<category scheme="https://blog.ktamas.com/tags" term="napiloop" label="napiloop"/>
+		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
 		<summary>Belebotlottam es bekattant, ez megy körbe már egy órája.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Belebotlottam es bekattant, ez megy körbe már egy órája.</p>
 
 <p><iframe width="640" height="360" src="//www.youtube.com/embed/Qq4j1LtCdww?rel=0" frameborder="0" allowfullscreen=""></iframe></p>
 
 <footer>
-    <a title="Permanent link to “Esti loop: Alice Cooper &amp;#8211; Poison”" href="https://ktamas.github.io/index.php/2013/02/03/esti-loop-alice-cooper-poison/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Esti loop: Alice Cooper &amp;#8211; Poison”" href="https://blog.ktamas.com/index.php/2013/02/03/esti-loop-alice-cooper-poison/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/napiloop/">napiloop</a></li>
-                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
+                <li><a href="https://blog.ktamas.com/tags/napiloop/">napiloop</a></li>
+                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2013/01/09/napi-guiltypleasure-loop-girls-aloud-something-new/</id>
+		<id>https://blog.ktamas.com/index.php/2013/01/09/napi-guiltypleasure-loop-girls-aloud-something-new/</id>
 		<title>Napi guiltypleasure loop: Girls Aloud &amp;#8211; Something New</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/01/09/napi-guiltypleasure-loop-girls-aloud-something-new/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/01/09/napi-guiltypleasure-loop-girls-aloud-something-new/"/>
 		<updated>2013-01-09T11:27:50Z</updated>
 		<published>2013-01-09T11:27:50Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="napiloop" label="napiloop"/>
-		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<category scheme="https://blog.ktamas.com/tags" term="napiloop" label="napiloop"/>
+		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p><iframe width="640" height="360" src="//www.youtube.com/embed/ZHSFTrcJYmM?rel=0" frameborder="0" allowfullscreen=""></iframe></p>
 
 <footer>
-    <a title="Permanent link to “Napi guiltypleasure loop: Girls Aloud &amp;#8211; Something New”" href="https://ktamas.github.io/index.php/2013/01/09/napi-guiltypleasure-loop-girls-aloud-something-new/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Napi guiltypleasure loop: Girls Aloud &amp;#8211; Something New”" href="https://blog.ktamas.com/index.php/2013/01/09/napi-guiltypleasure-loop-girls-aloud-something-new/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/napiloop/">napiloop</a></li>
-                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
+                <li><a href="https://blog.ktamas.com/tags/napiloop/">napiloop</a></li>
+                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2012/06/13/napi-loop-bon-jovi-you-give-love-a-bad-name-backlog/</id>
+		<id>https://blog.ktamas.com/index.php/2012/06/13/napi-loop-bon-jovi-you-give-love-a-bad-name-backlog/</id>
 		<title>Napi loop: Bon Jovi &amp;#8211; You Give Love a Bad Name (backlog)</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2012/06/13/napi-loop-bon-jovi-you-give-love-a-bad-name-backlog/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2012/06/13/napi-loop-bon-jovi-you-give-love-a-bad-name-backlog/"/>
 		<updated>2012-06-13T10:22:22Z</updated>
 		<published>2012-06-13T10:22:22Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="napiloop" label="napiloop"/>
-		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
+		<category scheme="https://blog.ktamas.com/tags" term="napiloop" label="napiloop"/>
+		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
 		<summary>Vissza még kicsit a gitárhíró ötre, egy kis Bon Jovi, amikor még többnyire jó számokat csináltak:</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Vissza még kicsit a gitárhíró ötre, egy kis Bon Jovi, amikor még többnyire jó számokat csináltak:</p>
 
 <p><iframe width="600" height="450" src="//www.youtube.com/embed/KrZHPOeOxQQ" frameborder="0" allowfullscreen=""></iframe></p>
 
 <footer>
-    <a title="Permanent link to “Napi loop: Bon Jovi &amp;#8211; You Give Love a Bad Name (backlog)”" href="https://ktamas.github.io/index.php/2012/06/13/napi-loop-bon-jovi-you-give-love-a-bad-name-backlog/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Napi loop: Bon Jovi &amp;#8211; You Give Love a Bad Name (backlog)”" href="https://blog.ktamas.com/index.php/2012/06/13/napi-loop-bon-jovi-you-give-love-a-bad-name-backlog/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/napiloop/">napiloop</a></li>
-                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
+                <li><a href="https://blog.ktamas.com/tags/napiloop/">napiloop</a></li>
+                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2012/06/12/napi-loop-spice-girls-wannabe-guilty-pleasure-backlog/</id>
+		<id>https://blog.ktamas.com/index.php/2012/06/12/napi-loop-spice-girls-wannabe-guilty-pleasure-backlog/</id>
 		<title>Napi loop: Spice Girls &amp;#8211; Wannabe (guilty pleasure backlog)</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2012/06/12/napi-loop-spice-girls-wannabe-guilty-pleasure-backlog/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2012/06/12/napi-loop-spice-girls-wannabe-guilty-pleasure-backlog/"/>
 		<updated>2012-06-12T10:20:06Z</updated>
 		<published>2012-06-12T10:20:06Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="napiloop" label="napiloop"/>
-		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
+		<category scheme="https://blog.ktamas.com/tags" term="napiloop" label="napiloop"/>
+		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
 		<summary>A gitárhíró ötnek van egy sötét oldala, ez a Band Hero, ide kerültek azok a számok amik többnyire vállalhatatlanok, de legalábbis rockzenének semmiképp se minősülnek. Szóval, további kommentár nélkül.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>A gitárhíró ötnek van egy sötét oldala, ez a Band Hero, ide kerültek azok a számok amik többnyire vállalhatatlanok, de legalábbis rockzenének semmiképp se minősülnek. Szóval, további kommentár nélkül.</p>
 
 <p><iframe width="600" height="450" src="http://www.youtube.com/embed/gJLIiF15wjQ" frameborder="0" allowfullscreen=""></iframe></p>
 
 <footer>
-    <a title="Permanent link to “Napi loop: Spice Girls &amp;#8211; Wannabe (guilty pleasure backlog)”" href="https://ktamas.github.io/index.php/2012/06/12/napi-loop-spice-girls-wannabe-guilty-pleasure-backlog/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Napi loop: Spice Girls &amp;#8211; Wannabe (guilty pleasure backlog)”" href="https://blog.ktamas.com/index.php/2012/06/12/napi-loop-spice-girls-wannabe-guilty-pleasure-backlog/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/napiloop/">napiloop</a></li>
-                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
+                <li><a href="https://blog.ktamas.com/tags/napiloop/">napiloop</a></li>
+                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2012/06/11/napi-loop-kiss-shout-it-out-loud-backlog/</id>
+		<id>https://blog.ktamas.com/index.php/2012/06/11/napi-loop-kiss-shout-it-out-loud-backlog/</id>
 		<title>Napi loop: Kiss &amp;#8211; Shout It Out Loud (backlog)</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2012/06/11/napi-loop-kiss-shout-it-out-loud-backlog/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2012/06/11/napi-loop-kiss-shout-it-out-loud-backlog/"/>
 		<updated>2012-06-11T11:17:29Z</updated>
 		<published>2012-06-11T11:17:29Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="napiloop" label="napiloop"/>
-		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
+		<category scheme="https://blog.ktamas.com/tags" term="napiloop" label="napiloop"/>
+		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
 		<summary>Még mindig gitárhíró, még mindig az ötösről:</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Még mindig gitárhíró, még mindig az ötösről:</p>
 
 <p><iframe width="600" height="450" src="//www.youtube.com/embed/sohB922c2uQ" frameborder="0" allowfullscreen=""></iframe></p>
 
 <footer>
-    <a title="Permanent link to “Napi loop: Kiss &amp;#8211; Shout It Out Loud (backlog)”" href="https://ktamas.github.io/index.php/2012/06/11/napi-loop-kiss-shout-it-out-loud-backlog/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Napi loop: Kiss &amp;#8211; Shout It Out Loud (backlog)”" href="https://blog.ktamas.com/index.php/2012/06/11/napi-loop-kiss-shout-it-out-loud-backlog/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/napiloop/">napiloop</a></li>
-                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
+                <li><a href="https://blog.ktamas.com/tags/napiloop/">napiloop</a></li>
+                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2012/06/09/napi-loopok-carly-rae-jepsen-call-me-maybe-x3/</id>
+		<id>https://blog.ktamas.com/index.php/2012/06/09/napi-loopok-carly-rae-jepsen-call-me-maybe-x3/</id>
 		<title>Napi loop(ok): Carly Rae Jepsen &amp;#8211; Call me maybe (x3)</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2012/06/09/napi-loopok-carly-rae-jepsen-call-me-maybe-x3/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2012/06/09/napi-loopok-carly-rae-jepsen-call-me-maybe-x3/"/>
 		<updated>2012-06-09T13:12:10Z</updated>
 		<published>2012-06-09T13:12:10Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="napiloop" label="napiloop"/>
-		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
+		<category scheme="https://blog.ktamas.com/tags" term="napiloop" label="napiloop"/>
+		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
 		<summary>Az egész egy iszolyat catchy popszámmal kezdődik (a klipben ügyes twist endinggel):
 
 Aztán a csaj ellátogatott az egyébként is kiváló Jimmy Fallonhoz, ahol backstage előadták a számot olyan hangszerekkel, amiket egy random általános iskolába találhatsz, kötelező darab:
 
 Végül pedig egy másfajta feldolgozás, komolyra véve ezúttal a dalt, mégis működik, hajjaj, de még mennyire (zárójel: részben vonós dolgokra hangszerelve. Régi petpeeve-m, hogy a populáris zenébe több vonóshangszer kell):</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Az egész egy iszolyat catchy popszámmal kezdődik (a klipben ügyes twist endinggel):</p>
 
 <p><iframe width="601" height="338" src="//www.youtube.com/embed/fWNaR-rxAic" frameborder="0" allowfullscreen=""></iframe></p>
@@ -860,196 +860,196 @@ Végül pedig egy másfajta feldolgozás, komolyra véve ezúttal a dalt, mégis
 <p>Mindenkinek további szép szombat délutánt, irány a könyvhét.</p>
 
 <footer>
-    <a title="Permanent link to “Napi loop(ok): Carly Rae Jepsen &amp;#8211; Call me maybe (x3)”" href="https://ktamas.github.io/index.php/2012/06/09/napi-loopok-carly-rae-jepsen-call-me-maybe-x3/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Napi loop(ok): Carly Rae Jepsen &amp;#8211; Call me maybe (x3)”" href="https://blog.ktamas.com/index.php/2012/06/09/napi-loopok-carly-rae-jepsen-call-me-maybe-x3/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/napiloop/">napiloop</a></li>
-                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
+                <li><a href="https://blog.ktamas.com/tags/napiloop/">napiloop</a></li>
+                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2012/06/08/napi-loop-the-raconteurs-steady-as-she-goes-backlog/</id>
+		<id>https://blog.ktamas.com/index.php/2012/06/08/napi-loop-the-raconteurs-steady-as-she-goes-backlog/</id>
 		<title>Napi loop: The Raconteurs &amp;#8211; Steady, as She Goes (backlog)</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2012/06/08/napi-loop-the-raconteurs-steady-as-she-goes-backlog/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2012/06/08/napi-loop-the-raconteurs-steady-as-she-goes-backlog/"/>
 		<updated>2012-06-08T10:12:05Z</updated>
 		<published>2012-06-08T10:12:05Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="napiloop" label="napiloop"/>
-		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
+		<category scheme="https://blog.ktamas.com/tags" term="napiloop" label="napiloop"/>
+		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
 		<summary>Még mindig gitárhíró, ez már az ötösről:</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Még mindig gitárhíró, ez már az ötösről:</p>
 
 <p><iframe src="//www.youtube.com/embed/C5m6PLjUKBY" width="601" height="338" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 
 <footer>
-    <a title="Permanent link to “Napi loop: The Raconteurs &amp;#8211; Steady, as She Goes (backlog)”" href="https://ktamas.github.io/index.php/2012/06/08/napi-loop-the-raconteurs-steady-as-she-goes-backlog/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Napi loop: The Raconteurs &amp;#8211; Steady, as She Goes (backlog)”" href="https://blog.ktamas.com/index.php/2012/06/08/napi-loop-the-raconteurs-steady-as-she-goes-backlog/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/napiloop/">napiloop</a></li>
-                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
+                <li><a href="https://blog.ktamas.com/tags/napiloop/">napiloop</a></li>
+                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2012/06/07/napi-loop-kaiser-chiefs-ruby-backlog/</id>
+		<id>https://blog.ktamas.com/index.php/2012/06/07/napi-loop-kaiser-chiefs-ruby-backlog/</id>
 		<title>Napi loop: Kaiser Chiefs &amp;#8211; Ruby (backlog)</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2012/06/07/napi-loop-kaiser-chiefs-ruby-backlog/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2012/06/07/napi-loop-kaiser-chiefs-ruby-backlog/"/>
 		<updated>2012-06-07T12:10:37Z</updated>
 		<published>2012-06-07T12:10:37Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="napiloop" label="napiloop"/>
-		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
+		<category scheme="https://blog.ktamas.com/tags" term="napiloop" label="napiloop"/>
+		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
 		<summary>Olyan gyönyörű riffek vannak a számba, hogycsak, és milyen jó játszani őket!</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Olyan gyönyörű riffek vannak a számba, hogycsak, és milyen jó játszani őket!</p>
 
 <p><iframe src="//www.youtube.com/embed/qObzgUfCl28" width="600" height="450" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 
 <footer>
-    <a title="Permanent link to “Napi loop: Kaiser Chiefs &amp;#8211; Ruby (backlog)”" href="https://ktamas.github.io/index.php/2012/06/07/napi-loop-kaiser-chiefs-ruby-backlog/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Napi loop: Kaiser Chiefs &amp;#8211; Ruby (backlog)”" href="https://blog.ktamas.com/index.php/2012/06/07/napi-loop-kaiser-chiefs-ruby-backlog/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/napiloop/">napiloop</a></li>
-                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
+                <li><a href="https://blog.ktamas.com/tags/napiloop/">napiloop</a></li>
+                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2012/06/06/napi-loop-kansas-carry-on-wayward-son/</id>
+		<id>https://blog.ktamas.com/index.php/2012/06/06/napi-loop-kansas-carry-on-wayward-son/</id>
 		<title>Napi loop: Kansas &amp;#8211; Carry On Wayward Son (backlog)</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2012/06/06/napi-loop-kansas-carry-on-wayward-son/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2012/06/06/napi-loop-kansas-carry-on-wayward-son/"/>
 		<updated>2012-06-06T10:07:21Z</updated>
 		<published>2012-06-06T10:07:21Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="napiloop" label="napiloop"/>
-		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
+		<category scheme="https://blog.ktamas.com/tags" term="napiloop" label="napiloop"/>
+		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
 		<summary>Mindenki tisztán emlészik az elsőre, na, nekem ez volt az első gitárhírós szám, ami napokig be volt ragadva:</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Mindenki tisztán emlészik az <em>elsőre</em>, na, nekem ez volt az első gitárhírós szám, ami napokig be volt ragadva:</p>
 
 <p><iframe width="600" height="450" src="//www.youtube.com/embed/CB17uWuBrL0" frameborder="0" allowfullscreen=""></iframe></p>
 
 <footer>
-    <a title="Permanent link to “Napi loop: Kansas &amp;#8211; Carry On Wayward Son (backlog)”" href="https://ktamas.github.io/index.php/2012/06/06/napi-loop-kansas-carry-on-wayward-son/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Napi loop: Kansas &amp;#8211; Carry On Wayward Son (backlog)”" href="https://blog.ktamas.com/index.php/2012/06/06/napi-loop-kansas-carry-on-wayward-son/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/napiloop/">napiloop</a></li>
-                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
+                <li><a href="https://blog.ktamas.com/tags/napiloop/">napiloop</a></li>
+                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2012/06/05/napi-loopok-metric-gold-guns-girls-gimme-sympathy/</id>
+		<id>https://blog.ktamas.com/index.php/2012/06/05/napi-loopok-metric-gold-guns-girls-gimme-sympathy/</id>
 		<title>Napi loop(ok): Metric &amp;#8211; Gold Guns Girls / Gimme Sympathy (backlog)</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2012/06/05/napi-loopok-metric-gold-guns-girls-gimme-sympathy/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2012/06/05/napi-loopok-metric-gold-guns-girls-gimme-sympathy/"/>
 		<updated>2012-06-05T10:04:01Z</updated>
 		<published>2012-06-05T10:04:01Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="napiloop" label="napiloop"/>
-		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
+		<category scheme="https://blog.ktamas.com/tags" term="napiloop" label="napiloop"/>
+		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
 		<summary>Folytassuk az elmaradásokat, következzen a Metric, amit még JWZ-nél találtam:</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Folytassuk az elmaradásokat, következzen a Metric, amit még <a href="http://www.jwz.org/blog/2012/04/i-have-fallen-down-a-gold-guns-girls-hole/">JWZ</a>-nél találtam:</p>
 
 <p><iframe src="//www.youtube.com/embed/FRtd8ArvH_s" width="600" height="450" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 <p><iframe src="//www.youtube.com/embed/jq3-wZs64n4" width="601" height="338" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 
 <footer>
-    <a title="Permanent link to “Napi loop(ok): Metric &amp;#8211; Gold Guns Girls / Gimme Sympathy (backlog)”" href="https://ktamas.github.io/index.php/2012/06/05/napi-loopok-metric-gold-guns-girls-gimme-sympathy/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Napi loop(ok): Metric &amp;#8211; Gold Guns Girls / Gimme Sympathy (backlog)”" href="https://blog.ktamas.com/index.php/2012/06/05/napi-loopok-metric-gold-guns-girls-gimme-sympathy/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/napiloop/">napiloop</a></li>
-                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
+                <li><a href="https://blog.ktamas.com/tags/napiloop/">napiloop</a></li>
+                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2012/06/04/napi-loopok-freezepop-less-talk-more-rokk-get-ready-2-rokk-backlog/</id>
+		<id>https://blog.ktamas.com/index.php/2012/06/04/napi-loopok-freezepop-less-talk-more-rokk-get-ready-2-rokk-backlog/</id>
 		<title>Napi loop(ok): Freezepop &amp;#8211; Less Talk More Rokk / Get Ready 2 Rokk (backlog)</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2012/06/04/napi-loopok-freezepop-less-talk-more-rokk-get-ready-2-rokk-backlog/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2012/06/04/napi-loopok-freezepop-less-talk-more-rokk-get-ready-2-rokk-backlog/"/>
 		<updated>2012-06-04T12:03:53Z</updated>
 		<published>2012-06-04T12:03:53Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="napiloop" label="napiloop"/>
-		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
+		<category scheme="https://blog.ktamas.com/tags" term="napiloop" label="napiloop"/>
+		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
 		<summary>Az úgy volt, hogy lett gitárhírónk, úgyhogy azóta orrvérzésig nyomjuk a fake plastic rockot. Az egyik legjobb dolog a játékokon pedig ez a két Freezepop szám. Sajnos a másodikból nem találtam igazán jóminőségű jútúbverziót.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Az úgy volt, hogy lett gitárhírónk, úgyhogy azóta orrvérzésig nyomjuk a fake plastic rockot. Az egyik legjobb dolog a játékokon pedig ez a két Freezepop szám. Sajnos a másodikból nem találtam igazán jóminőségű jútúbverziót.</p>
 
 <p><iframe width="601" height="338" src="http://www.youtube.com/embed/WcAFkYUnSjg" frameborder="0" allowfullscreen=""></iframe></p>
 <p><iframe width="600" height="450" src="http://www.youtube.com/embed/ZbpxNnJaHjA" frameborder="0" allowfullscreen=""></iframe></p>
 
 <footer>
-    <a title="Permanent link to “Napi loop(ok): Freezepop &amp;#8211; Less Talk More Rokk / Get Ready 2 Rokk (backlog)”" href="https://ktamas.github.io/index.php/2012/06/04/napi-loopok-freezepop-less-talk-more-rokk-get-ready-2-rokk-backlog/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Napi loop(ok): Freezepop &amp;#8211; Less Talk More Rokk / Get Ready 2 Rokk (backlog)”" href="https://blog.ktamas.com/index.php/2012/06/04/napi-loopok-freezepop-less-talk-more-rokk-get-ready-2-rokk-backlog/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/napiloop/">napiloop</a></li>
-                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
+                <li><a href="https://blog.ktamas.com/tags/napiloop/">napiloop</a></li>
+                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2012/05/13/i-dont-need-to-see-you-to-know-how-beautiful-you-are/</id>
+		<id>https://blog.ktamas.com/index.php/2012/05/13/i-dont-need-to-see-you-to-know-how-beautiful-you-are/</id>
 		<title>I don&amp;#8217;t need to see you to know how beautiful you are</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2012/05/13/i-dont-need-to-see-you-to-know-how-beautiful-you-are/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2012/05/13/i-dont-need-to-see-you-to-know-how-beautiful-you-are/"/>
 		<updated>2012-05-13T21:24:34Z</updated>
 		<published>2012-05-13T21:24:34Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="napiloop" label="napiloop"/>
-		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
+		<category scheme="https://blog.ktamas.com/tags" term="napiloop" label="napiloop"/>
+		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
 		<summary>Kijött az új King Charles CD, és ez a dal ragadt be belőle, egészen jó ez a youtubevideó mert soundboard mix (bár a CD-verzió kicsit jobb):</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Kijött az <a href="http://itunes.apple.com/gb/album/loveblood-deluxe-version/id514273535">új King Charles CD</a>, és ez a dal ragadt be belőle, egészen jó ez a youtubevideó mert soundboard mix (bár a CD-verzió kicsit jobb):</p>
 
 <p></p>
 <p><iframe src="//www.youtube.com/embed/F-8hvKh_Y4A" width="600" height="305" frameborder="0"></iframe></p></p>
 
 <footer>
-    <a title="Permanent link to “I don&amp;#8217;t need to see you to know how beautiful you are”" href="https://ktamas.github.io/index.php/2012/05/13/i-dont-need-to-see-you-to-know-how-beautiful-you-are/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “I don&amp;#8217;t need to see you to know how beautiful you are”" href="https://blog.ktamas.com/index.php/2012/05/13/i-dont-need-to-see-you-to-know-how-beautiful-you-are/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/napiloop/">napiloop</a></li>
-                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
+                <li><a href="https://blog.ktamas.com/tags/napiloop/">napiloop</a></li>
+                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>

@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
-	<id>https://ktamas.github.io/tags/fog%C3%A1szat/</id>
+	<id>https://blog.ktamas.com/tags/fog%C3%A1szat/</id>
 	<title>fogászat on KTamas&#39; blog</title>
 	<subtitle>An ongoing list of KTamas' blog posts about fogászat</subtitle>
 	<updated>2013-09-29T10:31:59Z</updated>
-	<link rel="self" type="application/atom+xml" href="https://ktamas.github.io/tags/fog%C3%A1szat/feed.xml"/>
-	<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/fog%C3%A1szat/"/>
-	<link rel="alternate" type="application/json" href="https://ktamas.github.io/tags/fog%C3%A1szat/feed.json"/>
+	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/fog%C3%A1szat/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/fog%C3%A1szat/"/>
+	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/fog%C3%A1szat/feed.json"/>
 	<author>
 		<name>KTamas</name>
-		<uri>https://ktamas.github.io/</uri>
+		<uri>https://blog.ktamas.com/</uri>
 	</author>
 	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
-	<icon>"https://ktamas.github.io/icon-512x512.png"</icon>
+	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2013/09/29/pesten-csutortokon/</id>
+		<id>https://blog.ktamas.com/index.php/2013/09/29/pesten-csutortokon/</id>
 		<title>Pesten, csütörtökön</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/09/29/pesten-csutortokon/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/09/29/pesten-csutortokon/"/>
 		<updated>2013-09-29T10:31:59Z</updated>
 		<published>2013-09-29T10:31:59Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://ktamas.github.io/tags" term="fog%C3%A1szat" label="fogászat"/>
-		<category scheme="https://ktamas.github.io/tags" term="magyarorsz%C3%A1g" label="magyarország"/>
+		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://blog.ktamas.com/tags" term="fog%C3%A1szat" label="fogászat"/>
+		<category scheme="https://blog.ktamas.com/tags" term="magyarorsz%C3%A1g" label="magyarország"/>
 		<summary>Csütörtök reggel a fogorvosnál kezdtem, sikerült sajnos kicsit elkésnem, mert a buszom is lassú volt, én pedig elnéztem az átszállást. Valamint megtudtam, hogy üres gyomorral nem jó ötlet fogorvoshoz menni, mert akkor nem hat rendesen a helyi érzéstelenítő. Ezt a problémát mindenesetre helyben áthidaltuk.
 A nap legjobb híre mindenképpen az volt, hogy a helyzet a számban egyáltalán nem olyan súlyos, mint ahogy gondoltam, illetve leginkább máshogyan rossz, de ami a lényeg, hogy most rövidtávon nem sok művelet szükséges, és mindez éppen hogy csak, de belefér az anyagi keretembe.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Csütörtök reggel a fogorvosnál kezdtem, sikerült sajnos kicsit elkésnem, mert a buszom is lassú volt, én pedig elnéztem az átszállást. Valamint megtudtam, hogy üres gyomorral nem jó ötlet fogorvoshoz menni, mert akkor nem hat rendesen a helyi érzéstelenítő. Ezt a problémát mindenesetre helyben áthidaltuk.</p>
 
 <p>A nap legjobb híre mindenképpen az volt, hogy a helyzet a számban egyáltalán nem olyan súlyos, mint ahogy gondoltam, illetve leginkább máshogyan rossz, de ami a lényeg, hogy most rövidtávon nem sok művelet szükséges, és mindez éppen hogy csak, de belefér az anyagi keretembe. Külön öröm, hogy a tegnapi fogkőleszedésnek és egy kisebbfajta csodának hála azok a dolgok, amik még a panorámán lyuknak tűntek, másnap már egyáltalán nem voltak azok. Így aznap sikerült mindent megcsinálni: két fogamon kicserélni-megerősíteni a tömést, egy harmadikon meg megerősíteni a tizenkevés éve készült pótlást, illetve két kicsit egymásba dőlt fogat szétválasztani.</p>
@@ -41,14 +41,14 @@ A nap legjobb híre mindenképpen az volt, hogy a helyzet a számban egyáltalá
 <p>Kaptam kölcsön egyébként Krisztiántól többek között egy elsőgenerációs Kindle Fire-t pár napra, leginkább játszani vele, meg megnézni, hol is tart ez az androidos tablet dolog. Felraktam rá a legfrissebb CyanogenModot, meg egy jó adag appot, és az összkép, nos, továbbra is siralmas. Mert ha kivonom az egészből a hardver limitációit (kevés memória, alacsony felbontású kijelző), akkor is az marad, hogy az appok túlnyomó többsége nincs rendesen tabletre optimalizálva, ami igen, azt is lehetne sokkal jobban. Így, bár szemezgettem egy Nexus 7-ttel, csak az lesz, hogy megvárom az októberi új iPadeket, és reménykedek, hogy lesz retinás mini.</p>
 
 <footer>
-    <a title="Permanent link to “Pesten, csütörtökön”" href="https://ktamas.github.io/index.php/2013/09/29/pesten-csutortokon/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Pesten, csütörtökön”" href="https://blog.ktamas.com/index.php/2013/09/29/pesten-csutortokon/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://ktamas.github.io/tags/fog%C3%A1szat/">fogászat</a></li>
-                <li><a href="https://ktamas.github.io/tags/magyarorsz%C3%A1g/">magyarország</a></li>
+                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://blog.ktamas.com/tags/fog%C3%A1szat/">fogászat</a></li>
+                <li><a href="https://blog.ktamas.com/tags/magyarorsz%C3%A1g/">magyarország</a></li>
             </ul>
         </div>
 </footer>]]></content>

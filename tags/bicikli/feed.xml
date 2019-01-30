@@ -1,66 +1,66 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
-	<id>https://ktamas.github.io/tags/bicikli/</id>
+	<id>https://blog.ktamas.com/tags/bicikli/</id>
 	<title>bicikli on KTamas&#39; blog</title>
 	<subtitle>An ongoing list of KTamas' blog posts about bicikli</subtitle>
 	<updated>2009-06-06T20:53:30Z</updated>
-	<link rel="self" type="application/atom+xml" href="https://ktamas.github.io/tags/bicikli/feed.xml"/>
-	<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/bicikli/"/>
-	<link rel="alternate" type="application/json" href="https://ktamas.github.io/tags/bicikli/feed.json"/>
+	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/bicikli/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/bicikli/"/>
+	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/bicikli/feed.json"/>
 	<author>
 		<name>KTamas</name>
-		<uri>https://ktamas.github.io/</uri>
+		<uri>https://blog.ktamas.com/</uri>
 	</author>
 	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
-	<icon>"https://ktamas.github.io/icon-512x512.png"</icon>
+	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2009/06/06/nagy_6/</id>
+		<id>https://blog.ktamas.com/index.php/2009/06/06/nagy_6/</id>
 		<title>Nagy</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/06/06/nagy_6/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/06/06/nagy_6/"/>
 		<updated>2009-06-06T20:53:30Z</updated>
 		<published>2009-06-06T20:53:30Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="b%C3%A9cs" label="bécs"/>
-		<category scheme="https://ktamas.github.io/tags" term="bicikli" label="bicikli"/>
+		<category scheme="https://blog.ktamas.com/tags" term="b%C3%A9cs" label="bécs"/>
+		<category scheme="https://blog.ktamas.com/tags" term="bicikli" label="bicikli"/>
 		<summary>[](http://ktamas.blog.hu/media/image/200906/_6044532.jpg)Ezt a Mariahilferen lőttük... [](http://ktamas.blog.hu/media/image/200906/_6044515.jpg)...ezt meg Schönbrunn előtt. </summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<figure id="attachment_567" style="width: 500px" class="wp-caption aligncenter">[<img class="size-full wp-image-567" title="_6044532" src="http://ktamas.blog.hu/media/image/200906/_6044532.jpg" alt="_6044532" width="500" height="375" />](http://ktamas.blog.hu/media/image/200906/_6044532.jpg)<figcaption class="wp-caption-text">Ezt a Mariahilferen lőttük...</figcaption></figure> <figure id="attachment_569" style="width: 500px" class="wp-caption aligncenter">[<img class="size-full wp-image-569" title="_6044515" src="http://ktamas.blog.hu/media/image/200906/_6044515.jpg" alt="_6044515" width="500" height="375" />](http://ktamas.blog.hu/media/image/200906/_6044515.jpg)<figcaption class="wp-caption-text">...ezt meg Schönbrunn előtt.</figcaption></figure>
 
 <footer>
-    <a title="Permanent link to “Nagy”" href="https://ktamas.github.io/index.php/2009/06/06/nagy_6/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Nagy”" href="https://blog.ktamas.com/index.php/2009/06/06/nagy_6/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/b%C3%A9cs/">bécs</a></li>
-                <li><a href="https://ktamas.github.io/tags/bicikli/">bicikli</a></li>
+                <li><a href="https://blog.ktamas.com/tags/b%C3%A9cs/">bécs</a></li>
+                <li><a href="https://blog.ktamas.com/tags/bicikli/">bicikli</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2009/05/25/30_km/</id>
+		<id>https://blog.ktamas.com/index.php/2009/05/25/30_km/</id>
 		<title>30 km</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/05/25/30_km/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/05/25/30_km/"/>
 		<updated>2009-05-25T09:56:41Z</updated>
 		<published>2009-05-25T09:56:41Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="bicikli" label="bicikli"/>
-		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://blog.ktamas.com/tags" term="bicikli" label="bicikli"/>
+		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
 		<summary>Szoval ma biciklivel mentunk munkaba — otthonrol. Itt a terkep, utana az adatok:
  Tav: 30 km (tenyleg, meterre pontosan!, haztol hazig)
 Atlagsebesseg: 17,76 km/h (Bp-en kivul 19 felett volt, kozeptavu cel ennek megtartasa Pesten belul is)
 Ido: 101 perc
 Mondjuk nem kellett volna feltetlenul Rakospalota fele elmennem, de nem banom, jo egy kis valtozatossag, multkor (1 eve, hehe) Ujpest fele mentem amugy is.
 Mindenesetre legalabb heti egyszer ezt meg kene csinalni, illetve akar tobbszor is, csak ra kell vennem magam valahogy, onnantol mar konnyu.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Szoval ma biciklivel mentunk munkaba &#8212; otthonrol. Itt a terkep, utana az adatok:</p>
 
 <iframe src="https://www.google.com/maps/d/embed?mid=19GlRBXvZRPw6L15ewXA5w-R0gJc&hl=en" width="640" height="480"></iframe>
@@ -83,31 +83,31 @@ Mindenesetre legalabb heti egyszer ezt meg kene csinalni, illetve akar tobbszor 
 <p>(P.P.P.S.: Na meg majd persze hosszabb tavok, pl. Augusztusban lehet egy ujabb Bp-Rackeve, ilyesmi)</p>
 
 <footer>
-    <a title="Permanent link to “30 km”" href="https://ktamas.github.io/index.php/2009/05/25/30_km/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “30 km”" href="https://blog.ktamas.com/index.php/2009/05/25/30_km/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/bicikli/">bicikli</a></li>
-                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://blog.ktamas.com/tags/bicikli/">bicikli</a></li>
+                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2009/04/22/bicikli_ut/</id>
+		<id>https://blog.ktamas.com/index.php/2009/04/22/bicikli_ut/</id>
 		<title>Bicikli-út</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/04/22/bicikli_ut/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/04/22/bicikli_ut/"/>
 		<updated>2009-04-22T10:35:07Z</updated>
 		<published>2009-04-22T10:35:07Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="bicikli" label="bicikli"/>
+		<category scheme="https://blog.ktamas.com/tags" term="bicikli" label="bicikli"/>
 		<summary>Szóval erre jöttem ma, először, de nem utoljára (ok, Andrássyn végül végigmentem de megbántam, télleg Dob utca lesz legközelebb):
  Ja, és lesz céges biciklitároló is, ami menő.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Szóval erre jöttem ma, először, de nem utoljára (ok, Andrássyn végül végigmentem de megbántam, télleg Dob utca lesz legközelebb):</p>
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d43102.659401525016!2d19.050420865493574!3d47.53049421986817!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x4741da434d0f36f7%3A0xd0f6cd3813edb38b!2sR%C3%A1kospalota-%C3%9Ajpest%2C+Budapest%2C+1151!3m2!1d47.565778099999996!2d19.1120199!4m5!1s0x4741dc4254e9da63%3A0x7e2ce5a8b7d6eba0!2sK%C3%A1roly+krt.+3%2C+Budapest%2C+1075!3m2!1d47.495247!2d19.0596471!5e0!3m2!1sen!2shu!4v1548856066055" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
@@ -115,12 +115,12 @@ Mindenesetre legalabb heti egyszer ezt meg kene csinalni, illetve akar tobbszor 
 <p>Ja, és lesz céges biciklitároló is, ami menő.</p>
 
 <footer>
-    <a title="Permanent link to “Bicikli-út”" href="https://ktamas.github.io/index.php/2009/04/22/bicikli_ut/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Bicikli-út”" href="https://blog.ktamas.com/index.php/2009/04/22/bicikli_ut/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/bicikli/">bicikli</a></li>
+                <li><a href="https://blog.ktamas.com/tags/bicikli/">bicikli</a></li>
             </ul>
         </div>
 </footer>]]></content>

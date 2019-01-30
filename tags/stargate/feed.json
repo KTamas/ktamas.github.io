@@ -2,27 +2,27 @@
 	"version": "https://jsonfeed.org/version/1",
 	"title": "stargate on KTamas' blog",
 	"description": "An ongoing list of KTamas' blog posts about stargate",
-	"home_page_url": "https://ktamas.github.io/tags/stargate/",
-	"feed_url": "https://ktamas.github.io/tags/stargate/feed.json",
-	"icon": "https://ktamas.github.io/icon-512x512.png",
-	"favicon": "https://ktamas.github.io/icon-64x64.png",
+	"home_page_url": "https://blog.ktamas.com/tags/stargate/",
+	"feed_url": "https://blog.ktamas.com/tags/stargate/feed.json",
+	"icon": "https://blog.ktamas.com/icon-512x512.png",
+	"favicon": "https://blog.ktamas.com/icon-64x64.png",
 	"author": {
 		"name": "KTamas",
-		"url": "https://ktamas.github.io/"
+		"url": "https://blog.ktamas.com/"
 	},
 	"items": [
 		{
-			"id": "https://ktamas.github.io/index.php/2011/02/02/groundhog-day-legjobbabb/",
-			"url": "https://ktamas.github.io/index.php/2011/02/02/groundhog-day-legjobbabb/",
+			"id": "https://blog.ktamas.com/index.php/2011/02/02/groundhog-day-legjobbabb/",
+			"url": "https://blog.ktamas.com/index.php/2011/02/02/groundhog-day-legjobbabb/",
 			"title": "Groundhog Day (legjobbabb)",
 			"date_published": "2011-02-02T22:28:24Z",
 			"author": {
 				"name": "KTamas",
-				"url": "https://ktamas.github.io/"
+				"url": "https://blog.ktamas.com/"
 			},
 			"tags": ["random","sorozat","stargate"],
-			"content_html": "\u003cp\u003e\u003ca href=\"/wp-content/uploads/2011/02/stargatehog2.png\"\u003e\u003cimg src=\"/wp-content/uploads/2011/02/stargatehog2.png\" alt=\"\" title=\"stargatehog2\" width=\"640\" height=\"360\" class=\"aligncenter size-full wp-image-2362371\" srcset=\"/wp-content/uploads/2011/02/stargatehog2.png 640w, /wp-content/uploads/2011/02/stargatehog2-300x168.png 300w\" sizes=\"(max-width: 640px) 100vw, 640px\" /\u003e\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003eJack: How far is Alaris anyway?\u003c/p\u003e\n\n\u003cp\u003eTeal\u0026#8217;c: Several billions miles away.\u003c/p\u003e\n\n\u003cp\u003eJack: It\u0026#8217;s gotta be a record!\u003c/p\u003e\n\n\u003cfooter\u003e\n    \u003ca title=\"Permanent link to “Groundhog Day (legjobbabb)”\" href=\"https://ktamas.github.io/index.php/2011/02/02/groundhog-day-legjobbabb/\"\u003e\u0026nbsp;\u0026nbsp;\u003c/a\u003e\n    By KTamas for \u003ca href=\"https://ktamas.github.io/\"\u003eKTamas\u0026#39; blog\u003c/a\u003e\n        \u003cdiv class=\"tags\"\u003e\n            \u003ch5\u003eMore about…\u003c/h5\u003e\n            \u003cul\u003e\n                \u003cli\u003e\u003ca href=\"https://ktamas.github.io/tags/random/\"\u003erandom\u003c/a\u003e\u003c/li\u003e\n                \u003cli\u003e\u003ca href=\"https://ktamas.github.io/tags/sorozat/\"\u003esorozat\u003c/a\u003e\u003c/li\u003e\n                \u003cli\u003e\u003ca href=\"https://ktamas.github.io/tags/stargate/\"\u003estargate\u003c/a\u003e\u003c/li\u003e\n            \u003c/ul\u003e\n        \u003c/div\u003e\n\u003c/footer\u003e",
-			"content_text": "[\u003cimg src=\"/wp-content/uploads/2011/02/stargatehog2.png\" alt=\"\" title=\"stargatehog2\" width=\"640\" height=\"360\" class=\"aligncenter size-full wp-image-2362371\" srcset=\"/wp-content/uploads/2011/02/stargatehog2.png 640w, /wp-content/uploads/2011/02/stargatehog2-300x168.png 300w\" sizes=\"(max-width: 640px) 100vw, 640px\" /\u003e](/wp-content/uploads/2011/02/stargatehog2.png)\n\nJack: How far is Alaris anyway?\n  \nTeal\u0026#8217;c: Several billions miles away.\n  \nJack: It\u0026#8217;s gotta be a record!\n\n-------------------------------------------------------------------------------\n\n Wednesday, 2 Feb 2011\nBy KTamas\nhttps://ktamas.github.io/index.php/2011/02/02/groundhog-day-legjobbabb/\n\nMore about...\n\n* random:   https://ktamas.github.io/tags/random/\n* sorozat:  https://ktamas.github.io/tags/sorozat/\n* stargate: https://ktamas.github.io/tags/stargate/"
+			"content_html": "\u003cp\u003e\u003ca href=\"/wp-content/uploads/2011/02/stargatehog2.png\"\u003e\u003cimg src=\"/wp-content/uploads/2011/02/stargatehog2.png\" alt=\"\" title=\"stargatehog2\" width=\"640\" height=\"360\" class=\"aligncenter size-full wp-image-2362371\" srcset=\"/wp-content/uploads/2011/02/stargatehog2.png 640w, /wp-content/uploads/2011/02/stargatehog2-300x168.png 300w\" sizes=\"(max-width: 640px) 100vw, 640px\" /\u003e\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003eJack: How far is Alaris anyway?\u003c/p\u003e\n\n\u003cp\u003eTeal\u0026#8217;c: Several billions miles away.\u003c/p\u003e\n\n\u003cp\u003eJack: It\u0026#8217;s gotta be a record!\u003c/p\u003e\n\n\u003cfooter\u003e\n    \u003ca title=\"Permanent link to “Groundhog Day (legjobbabb)”\" href=\"https://blog.ktamas.com/index.php/2011/02/02/groundhog-day-legjobbabb/\"\u003e\u0026nbsp;\u0026nbsp;\u003c/a\u003e\n    By KTamas for \u003ca href=\"https://blog.ktamas.com/\"\u003eKTamas\u0026#39; blog\u003c/a\u003e\n        \u003cdiv class=\"tags\"\u003e\n            \u003ch5\u003eMore about…\u003c/h5\u003e\n            \u003cul\u003e\n                \u003cli\u003e\u003ca href=\"https://blog.ktamas.com/tags/random/\"\u003erandom\u003c/a\u003e\u003c/li\u003e\n                \u003cli\u003e\u003ca href=\"https://blog.ktamas.com/tags/sorozat/\"\u003esorozat\u003c/a\u003e\u003c/li\u003e\n                \u003cli\u003e\u003ca href=\"https://blog.ktamas.com/tags/stargate/\"\u003estargate\u003c/a\u003e\u003c/li\u003e\n            \u003c/ul\u003e\n        \u003c/div\u003e\n\u003c/footer\u003e",
+			"content_text": "[\u003cimg src=\"/wp-content/uploads/2011/02/stargatehog2.png\" alt=\"\" title=\"stargatehog2\" width=\"640\" height=\"360\" class=\"aligncenter size-full wp-image-2362371\" srcset=\"/wp-content/uploads/2011/02/stargatehog2.png 640w, /wp-content/uploads/2011/02/stargatehog2-300x168.png 300w\" sizes=\"(max-width: 640px) 100vw, 640px\" /\u003e](/wp-content/uploads/2011/02/stargatehog2.png)\n\nJack: How far is Alaris anyway?\n  \nTeal\u0026#8217;c: Several billions miles away.\n  \nJack: It\u0026#8217;s gotta be a record!\n\n-------------------------------------------------------------------------------\n\n Wednesday, 2 Feb 2011\nBy KTamas\nhttps://blog.ktamas.com/index.php/2011/02/02/groundhog-day-legjobbabb/\n\nMore about...\n\n* random:   https://blog.ktamas.com/tags/random/\n* sorozat:  https://blog.ktamas.com/tags/sorozat/\n* stargate: https://blog.ktamas.com/tags/stargate/"
 		}
 	]
 }

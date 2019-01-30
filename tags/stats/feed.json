@@ -2,27 +2,27 @@
 	"version": "https://jsonfeed.org/version/1",
 	"title": "stats on KTamas' blog",
 	"description": "An ongoing list of KTamas' blog posts about stats",
-	"home_page_url": "https://ktamas.github.io/tags/stats/",
-	"feed_url": "https://ktamas.github.io/tags/stats/feed.json",
-	"icon": "https://ktamas.github.io/icon-512x512.png",
-	"favicon": "https://ktamas.github.io/icon-64x64.png",
+	"home_page_url": "https://blog.ktamas.com/tags/stats/",
+	"feed_url": "https://blog.ktamas.com/tags/stats/feed.json",
+	"icon": "https://blog.ktamas.com/icon-512x512.png",
+	"favicon": "https://blog.ktamas.com/icon-64x64.png",
 	"author": {
 		"name": "KTamas",
-		"url": "https://ktamas.github.io/"
+		"url": "https://blog.ktamas.com/"
 	},
 	"items": [
 		{
-			"id": "https://ktamas.github.io/index.php/2009/03/05/februari_statisztikak/",
-			"url": "https://ktamas.github.io/index.php/2009/03/05/februari_statisztikak/",
+			"id": "https://blog.ktamas.com/index.php/2009/03/05/februari_statisztikak/",
+			"url": "https://blog.ktamas.com/index.php/2009/03/05/februari_statisztikak/",
 			"title": "Februári statisztikák",
 			"date_published": "2009-03-05T09:00:28Z",
 			"author": {
 				"name": "KTamas",
-				"url": "https://ktamas.github.io/"
+				"url": "https://blog.ktamas.com/"
 			},
 			"tags": ["stats"],
-			"content_html": "\u003cp\u003eMivel a statisztika-junkie vagyok, ezért jöjjön pár szám februárból. Because I can.\u003c/p\u003e\n\n\u003cp\u003eAz oldalon \u003cstrong\u003e568\u003c/strong\u003e látogatás volt (ebből \u003cstrong\u003e404\u003c/strong\u003e szuperegyedi látogató) \u003cstrong\u003e1013\u003c/strong\u003e oldalletöltéssel. A látogatók \u003cstrong\u003e71,5%\u003c/strong\u003e-a Firefoxot használ (!!), további \u003cstrong\u003e8%\u003c/strong\u003e IE-t, \u003cstrong\u003e7,5%\u003c/strong\u003e Chrome-ot, \u003cstrong\u003e7%\u003c/strong\u003e meg Safarit. Operációs rendszeren tekintetében \u003cstrong\u003e80%\u003c/strong\u003e-otok használ Windowst, \u003cstrong\u003e12%\u003c/strong\u003e OSX-et, a maradékon osztozik a Linux (\u003cstrong\u003e6%\u003c/strong\u003e), a szifon, meg 1 db Symbian.\u003c/p\u003e\n\n\u003cp\u003eIdióta keresőszavakkal sajnos nem tudok szolgálni, egyedül talán a \u0026#8220;mi a kő tyúkanyó angolul\u0026#8221; furcsa\u0026#8230;\u003c/p\u003e\n\n\u003cp\u003eJa és a Feedburner szerint van épp 9 RSS olvasóm, de mivel ez a szám rendszerint leesik pl. 0-ra, nem tekintem túlságosan reprezentatívnak\u0026#8230;\u003c/p\u003e\n\n\u003cfooter\u003e\n    \u003ca title=\"Permanent link to “Februári statisztikák”\" href=\"https://ktamas.github.io/index.php/2009/03/05/februari_statisztikak/\"\u003e\u0026nbsp;\u0026nbsp;\u003c/a\u003e\n    By KTamas for \u003ca href=\"https://ktamas.github.io/\"\u003eKTamas\u0026#39; blog\u003c/a\u003e\n        \u003cdiv class=\"tags\"\u003e\n            \u003ch5\u003eMore about…\u003c/h5\u003e\n            \u003cul\u003e\n                \u003cli\u003e\u003ca href=\"https://ktamas.github.io/tags/stats/\"\u003estats\u003c/a\u003e\u003c/li\u003e\n            \u003c/ul\u003e\n        \u003c/div\u003e\n\u003c/footer\u003e",
-			"content_text": "Mivel a statisztika-junkie vagyok, ezért jöjjön pár szám februárból. Because I can. \n\nAz oldalon **568** látogatás volt (ebből **404** szuperegyedi látogató) **1013** oldalletöltéssel. A látogatók **71,5%**-a Firefoxot használ (!!), további **8%** IE-t, **7,5%** Chrome-ot, **7%** meg Safarit. Operációs rendszeren tekintetében **80%**-otok használ Windowst, **12%** OSX-et, a maradékon osztozik a Linux (**6%**), a szifon, meg 1 db Symbian. \n\nIdióta keresőszavakkal sajnos nem tudok szolgálni, egyedül talán a \u0026#8220;mi a kő tyúkanyó angolul\u0026#8221; furcsa\u0026#8230; \n\nJa és a Feedburner szerint van épp 9 RSS olvasóm, de mivel ez a szám rendszerint leesik pl. 0-ra, nem tekintem túlságosan reprezentatívnak\u0026#8230;\n\n-------------------------------------------------------------------------------\n\n Thursday, 5 Mar 2009\nBy KTamas\nhttps://ktamas.github.io/index.php/2009/03/05/februari_statisztikak/\n\nMore about...\n\n* stats: https://ktamas.github.io/tags/stats/"
+			"content_html": "\u003cp\u003eMivel a statisztika-junkie vagyok, ezért jöjjön pár szám februárból. Because I can.\u003c/p\u003e\n\n\u003cp\u003eAz oldalon \u003cstrong\u003e568\u003c/strong\u003e látogatás volt (ebből \u003cstrong\u003e404\u003c/strong\u003e szuperegyedi látogató) \u003cstrong\u003e1013\u003c/strong\u003e oldalletöltéssel. A látogatók \u003cstrong\u003e71,5%\u003c/strong\u003e-a Firefoxot használ (!!), további \u003cstrong\u003e8%\u003c/strong\u003e IE-t, \u003cstrong\u003e7,5%\u003c/strong\u003e Chrome-ot, \u003cstrong\u003e7%\u003c/strong\u003e meg Safarit. Operációs rendszeren tekintetében \u003cstrong\u003e80%\u003c/strong\u003e-otok használ Windowst, \u003cstrong\u003e12%\u003c/strong\u003e OSX-et, a maradékon osztozik a Linux (\u003cstrong\u003e6%\u003c/strong\u003e), a szifon, meg 1 db Symbian.\u003c/p\u003e\n\n\u003cp\u003eIdióta keresőszavakkal sajnos nem tudok szolgálni, egyedül talán a \u0026#8220;mi a kő tyúkanyó angolul\u0026#8221; furcsa\u0026#8230;\u003c/p\u003e\n\n\u003cp\u003eJa és a Feedburner szerint van épp 9 RSS olvasóm, de mivel ez a szám rendszerint leesik pl. 0-ra, nem tekintem túlságosan reprezentatívnak\u0026#8230;\u003c/p\u003e\n\n\u003cfooter\u003e\n    \u003ca title=\"Permanent link to “Februári statisztikák”\" href=\"https://blog.ktamas.com/index.php/2009/03/05/februari_statisztikak/\"\u003e\u0026nbsp;\u0026nbsp;\u003c/a\u003e\n    By KTamas for \u003ca href=\"https://blog.ktamas.com/\"\u003eKTamas\u0026#39; blog\u003c/a\u003e\n        \u003cdiv class=\"tags\"\u003e\n            \u003ch5\u003eMore about…\u003c/h5\u003e\n            \u003cul\u003e\n                \u003cli\u003e\u003ca href=\"https://blog.ktamas.com/tags/stats/\"\u003estats\u003c/a\u003e\u003c/li\u003e\n            \u003c/ul\u003e\n        \u003c/div\u003e\n\u003c/footer\u003e",
+			"content_text": "Mivel a statisztika-junkie vagyok, ezért jöjjön pár szám februárból. Because I can. \n\nAz oldalon **568** látogatás volt (ebből **404** szuperegyedi látogató) **1013** oldalletöltéssel. A látogatók **71,5%**-a Firefoxot használ (!!), további **8%** IE-t, **7,5%** Chrome-ot, **7%** meg Safarit. Operációs rendszeren tekintetében **80%**-otok használ Windowst, **12%** OSX-et, a maradékon osztozik a Linux (**6%**), a szifon, meg 1 db Symbian. \n\nIdióta keresőszavakkal sajnos nem tudok szolgálni, egyedül talán a \u0026#8220;mi a kő tyúkanyó angolul\u0026#8221; furcsa\u0026#8230; \n\nJa és a Feedburner szerint van épp 9 RSS olvasóm, de mivel ez a szám rendszerint leesik pl. 0-ra, nem tekintem túlságosan reprezentatívnak\u0026#8230;\n\n-------------------------------------------------------------------------------\n\n Thursday, 5 Mar 2009\nBy KTamas\nhttps://blog.ktamas.com/index.php/2009/03/05/februari_statisztikak/\n\nMore about...\n\n* stats: https://blog.ktamas.com/tags/stats/"
 		}
 	]
 }

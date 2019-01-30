@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
-	<id>https://ktamas.github.io/tags/bennevagyokazinternetben/</id>
+	<id>https://blog.ktamas.com/tags/bennevagyokazinternetben/</id>
 	<title>bennevagyokazinternetben on KTamas&#39; blog</title>
 	<subtitle>An ongoing list of KTamas' blog posts about bennevagyokazinternetben</subtitle>
 	<updated>2012-10-16T15:24:43Z</updated>
-	<link rel="self" type="application/atom+xml" href="https://ktamas.github.io/tags/bennevagyokazinternetben/feed.xml"/>
-	<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/bennevagyokazinternetben/"/>
-	<link rel="alternate" type="application/json" href="https://ktamas.github.io/tags/bennevagyokazinternetben/feed.json"/>
+	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/bennevagyokazinternetben/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/bennevagyokazinternetben/"/>
+	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/bennevagyokazinternetben/feed.json"/>
 	<author>
 		<name>KTamas</name>
-		<uri>https://ktamas.github.io/</uri>
+		<uri>https://blog.ktamas.com/</uri>
 	</author>
 	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
-	<icon>"https://ktamas.github.io/icon-512x512.png"</icon>
+	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2012/10/16/my-adventures-in-the-world-of-bookmarklets-meg-mindig-benne-vagyok-az-internetben-rovat/</id>
+		<id>https://blog.ktamas.com/index.php/2012/10/16/my-adventures-in-the-world-of-bookmarklets-meg-mindig-benne-vagyok-az-internetben-rovat/</id>
 		<title>My adventures in the world of bookmarklets (még mindig benne vagyok az internetben rovat)</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2012/10/16/my-adventures-in-the-world-of-bookmarklets-meg-mindig-benne-vagyok-az-internetben-rovat/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2012/10/16/my-adventures-in-the-world-of-bookmarklets-meg-mindig-benne-vagyok-az-internetben-rovat/"/>
 		<updated>2012-10-16T15:24:43Z</updated>
 		<published>2012-10-16T15:24:43Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="bennevagyokazinternetben" label="bennevagyokazinternetben"/>
+		<category scheme="https://blog.ktamas.com/tags" term="bennevagyokazinternetben" label="bennevagyokazinternetben"/>
 		<summary>Szóval, mint azt korábban beharangoztam, előadtam a Budapest.js-en a bookmarkletekről. Lastminute kérésként érkezett, hogy mondjam angolul, merthogy lesz egy külföldi vendég, és én örömmel mondtam igent, mert úgyis ki akartam már próbálni ezt az egész public speaking dolgot angolul is. Az eredmény egyrészt a lentebb embedelt videóban található, másrészt az összes hozzá kapcsolódó link megtalálható ebben a workflowyban.
 Mindenesetre, előadni jó, és angolul előadni nekem mégjobb. Sokkal kevésbé voltam így lámpalázas a prezentáció alatt, nem tudom, lehet szimplán azért mert én nagyon szeretem angolul hallatni a hangomat és ez egy hatványozottan jó alkalom volt rá.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Szóval, <a href="http://blog.ktamas.com/index.php/2012/09/21/javascript-meetup-eloadas-a-bookmarkletekrol/">mint azt korábban beharangoztam</a>, előadtam a Budapest.js-en a bookmarkletekről. Lastminute kérésként érkezett, hogy mondjam angolul, merthogy lesz egy külföldi vendég, és én örömmel mondtam igent, mert úgyis ki akartam már próbálni ezt az egész public speaking dolgot angolul is. Az eredmény egyrészt a lentebb embedelt videóban található, másrészt az összes hozzá kapcsolódó link megtalálható <a href="https://workflowy.com/shared/7b910ce0-a66a-d412-14c9-bcc7e4f9ecc2/">ebben a workflowyban</a>.</p>
 
 <p>Mindenesetre, előadni jó, és angolul előadni nekem mégjobb. Sokkal kevésbé voltam így lámpalázas a prezentáció alatt, nem tudom, lehet szimplán azért mert én nagyon szeretem angolul hallatni a hangomat és ez egy hatványozottan jó alkalom volt rá.</p>
@@ -39,62 +39,62 @@ Mindenesetre, előadni jó, és angolul előadni nekem mégjobb. Sokkal kevésb�
 <p><iframe src="//www.youtube.com/embed/NwKjZPtH_h4" frameborder="0" width="560" height="315"></iframe></p>
 
 <footer>
-    <a title="Permanent link to “My adventures in the world of bookmarklets (még mindig benne vagyok az internetben rovat)”" href="https://ktamas.github.io/index.php/2012/10/16/my-adventures-in-the-world-of-bookmarklets-meg-mindig-benne-vagyok-az-internetben-rovat/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “My adventures in the world of bookmarklets (még mindig benne vagyok az internetben rovat)”" href="https://blog.ktamas.com/index.php/2012/10/16/my-adventures-in-the-world-of-bookmarklets-meg-mindig-benne-vagyok-az-internetben-rovat/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/bennevagyokazinternetben/">bennevagyokazinternetben</a></li>
+                <li><a href="https://blog.ktamas.com/tags/bennevagyokazinternetben/">bennevagyokazinternetben</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2012/10/16/meg-mindig-kindle-benne-vagyok-az-internetben-rovat/</id>
+		<id>https://blog.ktamas.com/index.php/2012/10/16/meg-mindig-kindle-benne-vagyok-az-internetben-rovat/</id>
 		<title>Még mindig Kindle (benne vagyok az internetben rovat)</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2012/10/16/meg-mindig-kindle-benne-vagyok-az-internetben-rovat/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2012/10/16/meg-mindig-kindle-benne-vagyok-az-internetben-rovat/"/>
 		<updated>2012-10-16T11:03:55Z</updated>
 		<published>2012-10-16T11:03:55Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="bennevagyokazinternetben" label="bennevagyokazinternetben"/>
-		<category scheme="https://ktamas.github.io/tags" term="kindle" label="kindle"/>
+		<category scheme="https://blog.ktamas.com/tags" term="bennevagyokazinternetben" label="bennevagyokazinternetben"/>
+		<category scheme="https://blog.ktamas.com/tags" term="kindle" label="kindle"/>
 		<summary>Írtam egy viszonylag hosszabb tesztet a Kindle 1-ről, az ekönyvolvasó blogon lehet elolvasni. Köszönet Keltnek a szerkesztésért, illetve Dworkyllnak az elő- és utószóért, na meg a lehetőségért.
 Egyébként megjött a Paperwhite-om, le is tesztelte az Origó, én kijátszottam magam, és ma el is adtam. Ha lesz ihletem hozzá, megírom majd, hogy miért.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Írtam egy viszonylag hosszabb tesztet a Kindle 1-ről, <a href="http://ekonyvolvaso.blog.hu/2012/10/15/kindle_amazon_s_original_wireless_reading_device_1st_generation">az ekönyvolvasó blogon lehet elolvasni</a>. Köszönet <a href="http://worldshots.hu">Kelt</a>nek a szerkesztésért, illetve Dworkyllnak az elő- és utószóért, na meg a lehetőségért.</p>
 
 <p>Egyébként megjött a Paperwhite-om, <a href="http://www.origo.hu/techbazis/komment/20121011-kindle-paperwhite-paplan-alatt-is-mehet-a-tronok-harca.html">le is tesztelte az Origó</a>, én kijátszottam magam, és ma el is adtam. Ha lesz ihletem hozzá, megírom majd, hogy miért.</p>
 
 <footer>
-    <a title="Permanent link to “Még mindig Kindle (benne vagyok az internetben rovat)”" href="https://ktamas.github.io/index.php/2012/10/16/meg-mindig-kindle-benne-vagyok-az-internetben-rovat/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Még mindig Kindle (benne vagyok az internetben rovat)”" href="https://blog.ktamas.com/index.php/2012/10/16/meg-mindig-kindle-benne-vagyok-az-internetben-rovat/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/bennevagyokazinternetben/">bennevagyokazinternetben</a></li>
-                <li><a href="https://ktamas.github.io/tags/kindle/">kindle</a></li>
+                <li><a href="https://blog.ktamas.com/tags/bennevagyokazinternetben/">bennevagyokazinternetben</a></li>
+                <li><a href="https://blog.ktamas.com/tags/kindle/">kindle</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2012/09/21/javascript-meetup-eloadas-a-bookmarkletekrol/</id>
+		<id>https://blog.ktamas.com/index.php/2012/09/21/javascript-meetup-eloadas-a-bookmarkletekrol/</id>
 		<title>Javascript Meetup előadás a bookmarkletekről</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2012/09/21/javascript-meetup-eloadas-a-bookmarkletekrol/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2012/09/21/javascript-meetup-eloadas-a-bookmarkletekrol/"/>
 		<updated>2012-09-21T10:48:42Z</updated>
 		<published>2012-09-21T10:48:42Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="bennevagyokazinternetben" label="bennevagyokazinternetben"/>
+		<category scheme="https://blog.ktamas.com/tags" term="bennevagyokazinternetben" label="bennevagyokazinternetben"/>
 		<summary>Ha már annyit játszottam most bookmarkletekkel (najó, csak eggyel), gondoltam előadok róluk egyet a javascript meetupon, szóval, izé, gyertek el, természetesen a rukkolás bookmarkletről lesz szó főleg, de cameozni fog a régi, már-már elfeledett netpincéres is.
 Amúgy is úgy vagyok vele, hogy szeretném megtanulni ezt az emberek előtt beszélés nevű dolgot, ez kiváló alkalom lesz a gyakorlására.
 (valójában ez a post csak azért született, hogy rugdossam magam, és elkezdjem megcsinálni az előadást amit előző nap fogok összedobni)</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Ha már annyit játszottam most bookmarkletekkel (najó, csak eggyel), <a href="http://www.meetup.com/budapest-js/events/82524862/">gondoltam előadok róluk egyet a javascript meetupon</a>, szóval, izé, gyertek el, természetesen a <a href="http://blog.ktamas.com/index.php/rukkola-bookmarklet">rukkolás bookmarklet</a>ről lesz szó főleg, de cameozni fog a régi, már-már elfeledett <a href="http://blog.ktamas.com/index.php/2010/02/19/hacking_netpincer/">netpincéres</a> is.</p>
 
 <p>Amúgy is úgy vagyok vele, hogy szeretném megtanulni ezt az emberek előtt beszélés nevű dolgot, ez kiváló alkalom lesz a gyakorlására.</p>
@@ -102,12 +102,12 @@ Amúgy is úgy vagyok vele, hogy szeretném megtanulni ezt az emberek előtt bes
 <p><small>(valójában ez a post csak azért született, hogy rugdossam magam, és elkezdjem megcsinálni az előadást <del datetime="2012-09-21T08:40:35+00:00"><small>amit előző nap fogok összedobni</small></del>)</small></p>
 
 <footer>
-    <a title="Permanent link to “Javascript Meetup előadás a bookmarkletekről”" href="https://ktamas.github.io/index.php/2012/09/21/javascript-meetup-eloadas-a-bookmarkletekrol/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Javascript Meetup előadás a bookmarkletekről”" href="https://blog.ktamas.com/index.php/2012/09/21/javascript-meetup-eloadas-a-bookmarkletekrol/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/bennevagyokazinternetben/">bennevagyokazinternetben</a></li>
+                <li><a href="https://blog.ktamas.com/tags/bennevagyokazinternetben/">bennevagyokazinternetben</a></li>
             </ul>
         </div>
 </footer>]]></content>

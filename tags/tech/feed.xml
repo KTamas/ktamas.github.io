@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
-	<id>https://ktamas.github.io/tags/tech/</id>
+	<id>https://blog.ktamas.com/tags/tech/</id>
 	<title>tech on KTamas&#39; blog</title>
 	<subtitle>An ongoing list of KTamas' blog posts about tech</subtitle>
 	<updated>2011-11-04T09:32:37Z</updated>
-	<link rel="self" type="application/atom+xml" href="https://ktamas.github.io/tags/tech/feed.xml"/>
-	<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/tech/"/>
-	<link rel="alternate" type="application/json" href="https://ktamas.github.io/tags/tech/feed.json"/>
+	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/tech/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/tech/"/>
+	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/tech/feed.json"/>
 	<author>
 		<name>KTamas</name>
-		<uri>https://ktamas.github.io/</uri>
+		<uri>https://blog.ktamas.com/</uri>
 	</author>
 	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
-	<icon>"https://ktamas.github.io/icon-512x512.png"</icon>
+	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2011/11/04/internetmegosztas/</id>
+		<id>https://blog.ktamas.com/index.php/2011/11/04/internetmegosztas/</id>
 		<title>Internetmegosztás</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2011/11/04/internetmegosztas/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2011/11/04/internetmegosztas/"/>
 		<updated>2011-11-04T09:32:37Z</updated>
 		<published>2011-11-04T09:32:37Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="random" label="random"/>
-		<category scheme="https://ktamas.github.io/tags" term="tech" label="tech"/>
+		<category scheme="https://blog.ktamas.com/tags" term="random" label="random"/>
+		<category scheme="https://blog.ktamas.com/tags" term="tech" label="tech"/>
 		<summary>Mit csinál az ember, ha elvágják az épületben a koaxot és hirtelen egy egész iroda marad internet nélkül? 40 ember nem tud éppen dolgozni, valamit muszáj kezdeni a helyzettel. Mobilnetünk van, és a céges routeren van külön USB port ennek — de pont a mi modemünket nem támogatja. Pánikra azonban semmi ok: mobilnetet be a gépünkbe, fel vele az világhálóra, majd azt azt továbbosztjuk rögtön a gép hálókártyájára. Ezután a kábelmodem WAN portjából átdugjuk a hálókábelt a gépbe, és már csak a routernek kell megmondani, hogy az internetet DHCP-n kérje, és hirtelen az egész irodában újra van net.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Mit csinál az ember, ha elvágják az épületben a koaxot és hirtelen egy egész iroda marad internet nélkül? 40 ember nem tud éppen dolgozni, valamit muszáj kezdeni a helyzettel. Mobilnetünk van, és a céges routeren van külön USB port ennek &#8212; de pont a mi modemünket nem támogatja. Pánikra azonban semmi ok: mobilnetet be a gépünkbe, fel vele az világhálóra, majd azt azt továbbosztjuk rögtön a gép hálókártyájára. Ezután a kábelmodem WAN portjából átdugjuk a hálókábelt a gépbe, és már csak a routernek kell megmondani, hogy az internetet DHCP-n kérje, és hirtelen az egész irodában újra van net. Távolról sem olyan gyors ugyan, mint 120 megabites UPC, de arra a fél órára tökéletes&#8230;</p>
 
 <footer>
-    <a title="Permanent link to “Internetmegosztás”" href="https://ktamas.github.io/index.php/2011/11/04/internetmegosztas/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Internetmegosztás”" href="https://blog.ktamas.com/index.php/2011/11/04/internetmegosztas/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/random/">random</a></li>
-                <li><a href="https://ktamas.github.io/tags/tech/">tech</a></li>
+                <li><a href="https://blog.ktamas.com/tags/random/">random</a></li>
+                <li><a href="https://blog.ktamas.com/tags/tech/">tech</a></li>
             </ul>
         </div>
 </footer>]]></content>

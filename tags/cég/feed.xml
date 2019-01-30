@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
-	<id>https://ktamas.github.io/tags/c%C3%A9g/</id>
+	<id>https://blog.ktamas.com/tags/c%C3%A9g/</id>
 	<title>cég on KTamas&#39; blog</title>
 	<subtitle>An ongoing list of KTamas' blog posts about cég</subtitle>
 	<updated>2013-05-23T13:29:13Z</updated>
-	<link rel="self" type="application/atom+xml" href="https://ktamas.github.io/tags/c%C3%A9g/feed.xml"/>
-	<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/c%C3%A9g/"/>
-	<link rel="alternate" type="application/json" href="https://ktamas.github.io/tags/c%C3%A9g/feed.json"/>
+	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/c%C3%A9g/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/c%C3%A9g/"/>
+	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/c%C3%A9g/feed.json"/>
 	<author>
 		<name>KTamas</name>
-		<uri>https://ktamas.github.io/</uri>
+		<uri>https://blog.ktamas.com/</uri>
 	</author>
 	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
-	<icon>"https://ktamas.github.io/icon-512x512.png"</icon>
+	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2013/05/23/megtorve-a-csendet/</id>
+		<id>https://blog.ktamas.com/index.php/2013/05/23/megtorve-a-csendet/</id>
 		<title>Megtörve a csendet</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/05/23/megtorve-a-csendet/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/05/23/megtorve-a-csendet/"/>
 		<updated>2013-05-23T13:29:13Z</updated>
 		<published>2013-05-23T13:29:13Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="c%C3%A9g" label="cég"/>
-		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://blog.ktamas.com/tags" term="c%C3%A9g" label="cég"/>
+		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
 		<summary>Azért nem volt leginkább blog az elmúlt pár napban, mert ekkor dőlt el a nagybetűs Jövőm, vagy legalábbis annak az iránya.
 A sztori lényeges és publikus része az, hogy már hosszabb ideje játszottam a gondolattal, hogy munkaszempontból a jövőm valamiféle szabadúszó-consultant (vö. tanácsandó) szerepben van. Ráadásképpen több ember, akiknek nagyon adok véleményére mondta ugyanezt, egymástól függetlenül, és mivel úgyis terítéken volt, hogy a kicsit kevesebb, mint 6 hónapos szerződésem lejárta után mi lesz, a következő deal lett kialakítva.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Azért nem volt leginkább blog az elmúlt pár napban, mert ekkor dőlt el a nagybetűs Jövőm, vagy legalábbis annak az iránya.</p>
 
 <p>A sztori lényeges és publikus része az, hogy már hosszabb ideje játszottam a gondolattal, hogy munkaszempontból a jövőm valamiféle szabadúszó-consultant (vö. tanácsandó) szerepben van. Ráadásképpen több ember, akiknek nagyon adok véleményére mondta ugyanezt, egymástól függetlenül, és mivel úgyis terítéken volt, hogy a kicsit kevesebb, mint 6 hónapos szerződésem lejárta után mi lesz, a következő deal lett kialakítva.</p>
@@ -41,14 +41,14 @@ A sztori lényeges és publikus része az, hogy már hosszabb ideje játszottam 
 <p><em>Ön milyen cégnevet választana?</em></p>
 
 <footer>
-    <a title="Permanent link to “Megtörve a csendet”" href="https://ktamas.github.io/index.php/2013/05/23/megtorve-a-csendet/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Megtörve a csendet”" href="https://blog.ktamas.com/index.php/2013/05/23/megtorve-a-csendet/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/c%C3%A9g/">cég</a></li>
-                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://blog.ktamas.com/tags/c%C3%A9g/">cég</a></li>
+                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
             </ul>
         </div>
 </footer>]]></content>

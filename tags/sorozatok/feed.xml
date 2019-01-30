@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
-	<id>https://ktamas.github.io/tags/sorozatok/</id>
+	<id>https://blog.ktamas.com/tags/sorozatok/</id>
 	<title>sorozatok on KTamas&#39; blog</title>
 	<subtitle>An ongoing list of KTamas' blog posts about sorozatok</subtitle>
 	<updated>2013-07-25T10:29:53Z</updated>
-	<link rel="self" type="application/atom+xml" href="https://ktamas.github.io/tags/sorozatok/feed.xml"/>
-	<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/sorozatok/"/>
-	<link rel="alternate" type="application/json" href="https://ktamas.github.io/tags/sorozatok/feed.json"/>
+	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/sorozatok/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/sorozatok/"/>
+	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/sorozatok/feed.json"/>
 	<author>
 		<name>KTamas</name>
-		<uri>https://ktamas.github.io/</uri>
+		<uri>https://blog.ktamas.com/</uri>
 	</author>
 	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
-	<icon>"https://ktamas.github.io/icon-512x512.png"</icon>
+	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2013/07/25/allapotjelentes-es-wallander/</id>
+		<id>https://blog.ktamas.com/index.php/2013/07/25/allapotjelentes-es-wallander/</id>
 		<title>Állapotjelentés és Wallander</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/07/25/allapotjelentes-es-wallander/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/07/25/allapotjelentes-es-wallander/"/>
 		<updated>2013-07-25T10:29:53Z</updated>
 		<published>2013-07-25T10:29:53Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://ktamas.github.io/tags" term="sorozatok" label="sorozatok"/>
-		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://blog.ktamas.com/tags" term="sorozatok" label="sorozatok"/>
+		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
 		<summary>Csütörtök reggel van, itt ülök és várok a város egyetlen bevásárlóközpontjában, ma jön Bencze és Hanna pár napra látogatóba, vártam már nagyon. Ha lakásavatót nem is tartottam, úgy tűnik, velük tartok lakásbúcsúztatót, bár még mindig nincs meg az új albérlet, de még van egy szűk hetem, addig annyi minden történhet még. Például van már egy papíron remeknek látszó lakás, jó a méret, iszonyat jó környéken, pofátlanul olcsón, már csak az kéne, hogy a tulaj felvegye a telefonját.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Csütörtök reggel van, itt ülök és várok a város egyetlen bevásárlóközpontjában, ma jön Bencze és Hanna pár napra látogatóba, vártam már nagyon. Ha lakásavatót nem is tartottam, úgy tűnik, velük tartok lakásbúcsúztatót, bár még mindig nincs meg az új albérlet, de még van egy szűk hetem, addig annyi minden történhet még. Például van már egy papíron remeknek látszó lakás, jó a méret, iszonyat jó környéken, pofátlanul olcsón, már csak az kéne, hogy a tulaj felvegye a telefonját.</p>
 
 <p>Wallander mindenkinek megvan? Henning Mankell <a href="http://en.wikipedia.org/wiki/Henning_Mankell#Crime_fiction">könyvsorozata</a>, jó kis krimi, főszereplője <del datetime="2013-07-25T08:11:11+00:00">Kenneth Branagh</del> Kurt Wallander, svéd nyomozó, aki borostás, kicsit elhízott, magánéleti problémája és úgy általában rossz napja van. Ezen csak rontanak az Ystad városában történő bűnesetek. A könyvsorozatból készült három feldolgozás is: <a href="http://en.wikipedia.org/wiki/Wallander_(film_series)">svéd mozifilmek</a>, <a href="http://en.wikipedia.org/wiki/Wallander_(Swedish_TV_series)">svéd tévésorozat</a>, <a href="http://en.wikipedia.org/wiki/Wallander_(UK_TV_series)">brit tévésorozat</a>. Ebből még anno a legutóbbit sózta rám Gazs, és az nagyon remek: leginkább <a href="http://en.wikipedia.org/wiki/Kenneth_Branagh">Kenneth Branagh</a> miatt, aki közel tökéletesen alakítja a borostás, elhízott, magánéleti problémákkal rendelkező Wallandert, akinek nagyon rossz napja van.</p>
@@ -38,14 +38,14 @@
 <p>Írok a svéd verzióról is hamarosan.</p>
 
 <footer>
-    <a title="Permanent link to “Állapotjelentés és Wallander”" href="https://ktamas.github.io/index.php/2013/07/25/allapotjelentes-es-wallander/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Állapotjelentés és Wallander”" href="https://blog.ktamas.com/index.php/2013/07/25/allapotjelentes-es-wallander/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://ktamas.github.io/tags/sorozatok/">sorozatok</a></li>
-                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://blog.ktamas.com/tags/sorozatok/">sorozatok</a></li>
+                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
             </ul>
         </div>
 </footer>]]></content>

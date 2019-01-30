@@ -1,101 +1,101 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
-	<id>https://ktamas.github.io/tags/aj%C3%A1nl%C3%B3/</id>
+	<id>https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/</id>
 	<title>ajánló on KTamas&#39; blog</title>
 	<subtitle>An ongoing list of KTamas' blog posts about ajánló</subtitle>
 	<updated>2011-10-20T15:00:07Z</updated>
-	<link rel="self" type="application/atom+xml" href="https://ktamas.github.io/tags/aj%C3%A1nl%C3%B3/feed.xml"/>
-	<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/aj%C3%A1nl%C3%B3/"/>
-	<link rel="alternate" type="application/json" href="https://ktamas.github.io/tags/aj%C3%A1nl%C3%B3/feed.json"/>
+	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/"/>
+	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/feed.json"/>
 	<author>
 		<name>KTamas</name>
-		<uri>https://ktamas.github.io/</uri>
+		<uri>https://blog.ktamas.com/</uri>
 	</author>
 	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
-	<icon>"https://ktamas.github.io/icon-512x512.png"</icon>
+	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2011/10/20/napi-loop-florence-and-the-machine-what-the-water-gave-me/</id>
+		<id>https://blog.ktamas.com/index.php/2011/10/20/napi-loop-florence-and-the-machine-what-the-water-gave-me/</id>
 		<title>Napi loop: Florence and the Machine &amp;#8211; What The Water Gave Me</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2011/10/20/napi-loop-florence-and-the-machine-what-the-water-gave-me/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2011/10/20/napi-loop-florence-and-the-machine-what-the-water-gave-me/"/>
 		<updated>2011-10-20T15:00:07Z</updated>
 		<published>2011-10-20T15:00:07Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
-		<category scheme="https://ktamas.github.io/tags" term="napiloop" label="napiloop"/>
-		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
+		<category scheme="https://blog.ktamas.com/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
+		<category scheme="https://blog.ktamas.com/tags" term="napiloop" label="napiloop"/>
+		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
 		<summary> </summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<iframe width="560" height="315" src="https://www.youtube.com/embed/am6rArVPip8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <footer>
-    <a title="Permanent link to “Napi loop: Florence and the Machine &amp;#8211; What The Water Gave Me”" href="https://ktamas.github.io/index.php/2011/10/20/napi-loop-florence-and-the-machine-what-the-water-gave-me/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Napi loop: Florence and the Machine &amp;#8211; What The Water Gave Me”" href="https://blog.ktamas.com/index.php/2011/10/20/napi-loop-florence-and-the-machine-what-the-water-gave-me/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
-                <li><a href="https://ktamas.github.io/tags/napiloop/">napiloop</a></li>
-                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
+                <li><a href="https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
+                <li><a href="https://blog.ktamas.com/tags/napiloop/">napiloop</a></li>
+                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2011/08/08/napiloop-the-idan-raichel-project-ima-aba-vekol-hashar/</id>
+		<id>https://blog.ktamas.com/index.php/2011/08/08/napiloop-the-idan-raichel-project-ima-aba-vekol-hashar/</id>
 		<title>Napi loop: The Idan Raichel Project &amp;#8211; Ima, Aba VeKol HaShar</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2011/08/08/napiloop-the-idan-raichel-project-ima-aba-vekol-hashar/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2011/08/08/napiloop-the-idan-raichel-project-ima-aba-vekol-hashar/"/>
 		<updated>2011-08-08T18:42:51Z</updated>
 		<published>2011-08-08T18:42:51Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
-		<category scheme="https://ktamas.github.io/tags" term="napiloop" label="napiloop"/>
-		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
+		<category scheme="https://blog.ktamas.com/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
+		<category scheme="https://blog.ktamas.com/tags" term="napiloop" label="napiloop"/>
+		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
 		<summary>Kijött a Traveling Home, koncerttriplacédé, végigment vagy kétszer, aztán harmadszorra csak megragadtam egy dalnál, mint azt szoktam, illetve többnél is, de most épp ez megy körbekörbe. Amúgy az egész jó, egy csomó dal pl. sokkal jobban hangzik élőben. Lesz szeptemberben koncertjük, az akusztikus felállás, voltam rajta másfél éve Bécsben, nagyon jó volt.
  </summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Kijött a <a href="http://itunes.apple.com/us/album/traveling-home-deluxe-edition/id451156516">Traveling Home</a>, koncerttriplacédé, végigment vagy kétszer, aztán harmadszorra csak megragadtam egy dalnál, mint azt szoktam, illetve többnél is, de most épp ez megy körbekörbe. Amúgy az egész jó, egy csomó dal pl. sokkal jobban hangzik élőben. <a href="http://zsidonyarifesztival.hu/idan.html">Lesz szeptemberben koncertjük</a>, az akusztikus felállás, voltam rajta másfél éve Bécsben, nagyon jó volt.</p>
 
 <iframe src="https://open.spotify.com/embed/track/5EKZ2ZDctNX65cx3O4iph7" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 <footer>
-    <a title="Permanent link to “Napi loop: The Idan Raichel Project &amp;#8211; Ima, Aba VeKol HaShar”" href="https://ktamas.github.io/index.php/2011/08/08/napiloop-the-idan-raichel-project-ima-aba-vekol-hashar/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Napi loop: The Idan Raichel Project &amp;#8211; Ima, Aba VeKol HaShar”" href="https://blog.ktamas.com/index.php/2011/08/08/napiloop-the-idan-raichel-project-ima-aba-vekol-hashar/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
-                <li><a href="https://ktamas.github.io/tags/napiloop/">napiloop</a></li>
-                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
+                <li><a href="https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
+                <li><a href="https://blog.ktamas.com/tags/napiloop/">napiloop</a></li>
+                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2011/07/04/duck-tales/</id>
+		<id>https://blog.ktamas.com/index.php/2011/07/04/duck-tales/</id>
 		<title>Duck Tales</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2011/07/04/duck-tales/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2011/07/04/duck-tales/"/>
 		<updated>2011-07-04T20:22:39Z</updated>
 		<published>2011-07-04T20:22:39Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
-		<category scheme="https://ktamas.github.io/tags" term="random" label="random"/>
-		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
+		<category scheme="https://blog.ktamas.com/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
+		<category scheme="https://blog.ktamas.com/tags" term="random" label="random"/>
+		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
 		<summary>Tegye fel a kezét, aki a Kacsameséken nőtt fel?
 o/
 (nem, az antaljóskás részt nem láttam, ahhoz asszem pont túl fiatal vagyok.)
 Szóval még áprilisban raktam el az Ars cikkjét a Duck Tales NES-es játékról, és most elővettem, hogy megnézzem, tényleg olyan jó-e, mint ahogy írják. Sajnos nem jutottam túl a nyitóképernyőn, ahol bitangjó 8bitben szól a sorozat introzenéje. Így, ni:
  (Ezt a postot a Nestopia zenefelvevo szolgaltatasa tamogatta.)</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Tegye fel a kezét, aki a Kacsameséken nőtt fel?</p>
 
 <p>o/</p>
@@ -109,33 +109,33 @@ Szóval még áprilisban raktam el az Ars cikkjét a Duck Tales NES-es játékr�
 <p>(Ezt a postot a Nestopia zenefelvevo szolgaltatasa tamogatta.)</p>
 
 <footer>
-    <a title="Permanent link to “Duck Tales”" href="https://ktamas.github.io/index.php/2011/07/04/duck-tales/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Duck Tales”" href="https://blog.ktamas.com/index.php/2011/07/04/duck-tales/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
-                <li><a href="https://ktamas.github.io/tags/random/">random</a></li>
-                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
+                <li><a href="https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
+                <li><a href="https://blog.ktamas.com/tags/random/">random</a></li>
+                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2011/07/04/szazegynehany-kultursokk-ti-magyarok-feketeszemmel/</id>
+		<id>https://blog.ktamas.com/index.php/2011/07/04/szazegynehany-kultursokk-ti-magyarok-feketeszemmel/</id>
 		<title>Százegynéhány kultúrsokk (Ti! Magyarok, feketeszemmel)</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2011/07/04/szazegynehany-kultursokk-ti-magyarok-feketeszemmel/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2011/07/04/szazegynehany-kultursokk-ti-magyarok-feketeszemmel/"/>
 		<updated>2011-07-04T16:19:37Z</updated>
 		<published>2011-07-04T16:19:37Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
-		<category scheme="https://ktamas.github.io/tags" term="k%C3%B6nyv" label="könyv"/>
+		<category scheme="https://blog.ktamas.com/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
+		<category scheme="https://blog.ktamas.com/tags" term="k%C3%B6nyv" label="könyv"/>
 		<summary>Az egész ezzel a tumbliposzttal kezdődött:
  Van Toddal egy közös barátunk, így ma este megint összefutottunk tök véletlenül és hihetetlen hogy még mindig változatlan rajongással beszél a magyarokról és Budapestről. A könyvét sosem olvastam, de az online könyvesportálok összefoglalói alapján már akkoriban is rajongással írt rólunk. Most pedig szerinte az utóbbi években rohamosan lett ez itt egyre jobb hely. Ritkán jár haza Kaliforniába de olyankor rövid időn belül újra urrá lesz rajta az a megszokott, mindenkit elnehezítő és folyton jelenlévő félelem amitől megszállottként menekül vissza Magyarországra.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Az egész <a href="http://tastelike.tumblr.com/post/7021035962">ezzel a tumbliposzttal</a> kezdődött:</p>
 
 <blockquote>
@@ -151,32 +151,32 @@ Szóval még áprilisban raktam el az Ars cikkjét a Duck Tales NES-es játékr�
 <p>(A könyvről bővebb információ <a href="http://www.trottel.hu/timagyarok.html">itt található</a>.)</p>
 
 <footer>
-    <a title="Permanent link to “Százegynéhány kultúrsokk (Ti! Magyarok, feketeszemmel)”" href="https://ktamas.github.io/index.php/2011/07/04/szazegynehany-kultursokk-ti-magyarok-feketeszemmel/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Százegynéhány kultúrsokk (Ti! Magyarok, feketeszemmel)”" href="https://blog.ktamas.com/index.php/2011/07/04/szazegynehany-kultursokk-ti-magyarok-feketeszemmel/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
-                <li><a href="https://ktamas.github.io/tags/k%C3%B6nyv/">könyv</a></li>
+                <li><a href="https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
+                <li><a href="https://blog.ktamas.com/tags/k%C3%B6nyv/">könyv</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2011/06/25/jacquard-ejszakaja/</id>
+		<id>https://blog.ktamas.com/index.php/2011/06/25/jacquard-ejszakaja/</id>
 		<title>Jacquard éjszakája</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2011/06/25/jacquard-ejszakaja/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2011/06/25/jacquard-ejszakaja/"/>
 		<updated>2011-06-25T11:39:14Z</updated>
 		<published>2011-06-25T11:39:14Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
-		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://blog.ktamas.com/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
+		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
 		<summary>Az, hogy a múzeumok éjszakáját óbudán a Textilmúzeumba kezdjük, valószínűleg a tegnapi nap legjobb ötlete volt Ádám Gazs részéről. A mindenféle nyomástechnika és egyéb érdekes dolog mellett ugyanis láthattunk működés közben egy igazi Jacquard-szövőszéket, az informatika egyik alapkövét, egy egyébként már több, mint 80 éve működő darabot, amiről ráadásul nagyon lelkesen mesélt az ottani szövőmester. Videóm is van róla:
  Ezután visszahéveztünk a városba, és bevetettünk magunkat az Elektrotechnikai Múzeumba, ahol a kötelező statikuselektromosság-generálás (öt és fél centi szikra, lemértük) mellett sok más érdekes dolgot is megcsodálhattunk (wobblescope!</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Az, hogy a múzeumok éjszakáját óbudán a Textilmúzeumba kezdjük, valószínűleg a tegnapi nap legjobb ötlete volt <del datetime="2011-06-25T17:37:54+00:00"><a href="http://worldshots.hu/">Ádám</a></del> <a href="http://bergengocia.net">Gazs</a> részéről. A mindenféle nyomástechnika és egyéb érdekes dolog mellett ugyanis láthattunk működés közben egy igazi <a href="http://en.wikipedia.org/wiki/Jacquard_loom">Jacquard-szövőszéket</a>, az informatika egyik alapkövét, egy egyébként már több, mint 80 éve működő darabot, amiről ráadásul nagyon lelkesen mesélt az ottani szövőmester. Videóm is van róla:</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KOm18iXF4D0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -187,94 +187,94 @@ Szóval még áprilisban raktam el az Ars cikkjét a Duck Tales NES-es játékr�
 <p>Természetesen <a href="http://indafoto.hu/ktamasenty/muzeumok_ejszakaja_2011">fotóztam</a>, leginkább a &#8216;makrózzunk rá mindenre ami nem él és nem mozog&#8217; jegyében.</p>
 
 <footer>
-    <a title="Permanent link to “Jacquard éjszakája”" href="https://ktamas.github.io/index.php/2011/06/25/jacquard-ejszakaja/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Jacquard éjszakája”" href="https://blog.ktamas.com/index.php/2011/06/25/jacquard-ejszakaja/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
-                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
+                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2011/06/08/tenth-avenue-north-healing-begins/</id>
+		<id>https://blog.ktamas.com/index.php/2011/06/08/tenth-avenue-north-healing-begins/</id>
 		<title>Tenth Avenue North &amp;#8211; Healing Begins</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2011/06/08/tenth-avenue-north-healing-begins/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2011/06/08/tenth-avenue-north-healing-begins/"/>
 		<updated>2011-06-08T10:02:13Z</updated>
 		<published>2011-06-08T10:02:13Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
-		<category scheme="https://ktamas.github.io/tags" term="random" label="random"/>
-		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
+		<category scheme="https://blog.ktamas.com/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
+		<category scheme="https://blog.ktamas.com/tags" term="random" label="random"/>
+		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
 		<summary>Az van, hogy belehallgattam az idei WOW-ba — minden évben kiadott CCM (keresztény könnyűzenei) válogatás –, és bár az utóbbi pár évben mintha ellaposodott volna, a mostaniban egyelőre kellemesen csalódtam, jópár dal tetszett, de a loop ezen állt meg, ez megy körbe-körbe egy ideje.
  </summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Az van, hogy belehallgattam az idei WOW-ba &#8212; minden évben kiadott CCM (keresztény könnyűzenei) válogatás &#8211;, és bár az utóbbi pár évben mintha ellaposodott volna, a mostaniban egyelőre kellemesen csalódtam, jópár dal tetszett, de a loop ezen állt meg, ez megy körbe-körbe egy ideje.</p>
 
 <iframe src="https://open.spotify.com/embed/track/0PjyOURxQ6wiHaBYXf53G2" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 <footer>
-    <a title="Permanent link to “Tenth Avenue North &amp;#8211; Healing Begins”" href="https://ktamas.github.io/index.php/2011/06/08/tenth-avenue-north-healing-begins/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Tenth Avenue North &amp;#8211; Healing Begins”" href="https://blog.ktamas.com/index.php/2011/06/08/tenth-avenue-north-healing-begins/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
-                <li><a href="https://ktamas.github.io/tags/random/">random</a></li>
-                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
+                <li><a href="https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
+                <li><a href="https://blog.ktamas.com/tags/random/">random</a></li>
+                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2011/06/06/azt-gondoltam-eso-esik/</id>
+		<id>https://blog.ktamas.com/index.php/2011/06/06/azt-gondoltam-eso-esik/</id>
 		<title>Azt gondoltam, eső esik</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2011/06/06/azt-gondoltam-eso-esik/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2011/06/06/azt-gondoltam-eso-esik/"/>
 		<updated>2011-06-06T16:20:11Z</updated>
 		<published>2011-06-06T16:20:11Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
-		<category scheme="https://ktamas.github.io/tags" term="random" label="random"/>
-		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
+		<category scheme="https://blog.ktamas.com/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
+		<category scheme="https://blog.ktamas.com/tags" term="random" label="random"/>
+		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
 		<summary> </summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<iframe src="https://open.spotify.com/embed/track/3UEs5rsYclSJipjZpRAvbY" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 <footer>
-    <a title="Permanent link to “Azt gondoltam, eső esik”" href="https://ktamas.github.io/index.php/2011/06/06/azt-gondoltam-eso-esik/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Azt gondoltam, eső esik”" href="https://blog.ktamas.com/index.php/2011/06/06/azt-gondoltam-eso-esik/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
-                <li><a href="https://ktamas.github.io/tags/random/">random</a></li>
-                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
+                <li><a href="https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
+                <li><a href="https://blog.ktamas.com/tags/random/">random</a></li>
+                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2011/06/05/pho/</id>
+		<id>https://blog.ktamas.com/index.php/2011/06/05/pho/</id>
 		<title>Phở (Büfé Đăng Mười)</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2011/06/05/pho/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2011/06/05/pho/"/>
 		<updated>2011-06-05T11:40:30Z</updated>
 		<published>2011-06-05T11:40:30Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
-		<category scheme="https://ktamas.github.io/tags" term="gasztro" label="gasztro"/>
+		<category scheme="https://blog.ktamas.com/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
+		<category scheme="https://blog.ktamas.com/tags" term="gasztro" label="gasztro"/>
 		<summary>Úgy történt, hogy kelt fülest kapott, hogy a józsefvárosi piacon mindenféle érdekes mobiltelefonok vannak, ki is mentünk hát múlt szombaton viával hármasban. Érdekes mobiltelefonokat ugyan nem találtunk, de átverekedve magunkat a tucatnyi ruhaáruson, villogó napszemüvegeken és rózsaszín szőrös bilincseken, egyszercsak egy vietnámi kajálda előtt találtuk magunkat, ahol magyarul csak a legfontosabb helyeken voltak kiírva többé-kevésbé az ételek nevei, és a helyi erők is jelentősen képviselték magukat, egyszóval autenikus hely volt, bizonyítékként le is fotóztam nektek az étlapot:Étlap</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Úgy történt, hogy <a href="http://worldshots.hu/">kelt</a> fülest kapott, hogy a józsefvárosi piacon mindenféle érdekes mobiltelefonok vannak, ki is mentünk hát múlt szombaton <a href="http://sirubia.net/">viával</a> hármasban. Érdekes mobiltelefonokat ugyan nem találtunk, de átverekedve magunkat a tucatnyi ruhaáruson, villogó napszemüvegeken és rózsaszín szőrös bilincseken, egyszercsak egy vietnámi kajálda előtt találtuk magunkat, ahol magyarul csak a legfontosabb helyeken voltak kiírva többé-kevésbé az ételek nevei, és a helyi erők is jelentősen képviselték magukat, egyszóval autenikus hely volt, bizonyítékként le is fotóztam nektek az étlapot:<figure id="attachment_2362608" style="width: 410px" class="wp-caption aligncenter"></p>
 
 <p><a href="/wp-content/uploads/2011/06/IMG_20110604_115003.jpg"><img class="size-large wp-image-2362608  " title="Étlap" src="/wp-content/uploads/2011/06/IMG_20110604_115003-768x1024.jpg" alt="Étlap" width="410" height="546" srcset="/wp-content/uploads/2011/06/IMG_20110604_115003-768x1024.jpg 768w, /wp-content/uploads/2011/06/IMG_20110604_115003-225x300.jpg 225w, /wp-content/uploads/2011/06/IMG_20110604_115003.jpg 1536w" sizes="(max-width: 410px) 100vw, 410px" /></a><figcaption class="wp-caption-text">Étlap</figcaption></figure></p>
@@ -306,29 +306,29 @@ Szóval még áprilisban raktam el az Ars cikkjét a Duck Tales NES-es játékr�
 <p>(A lelkesedést a kép épp nem hozza át, a sakkot viszont igen.)</p>
 
 <footer>
-    <a title="Permanent link to “Phở (Büfé Đăng Mười)”" href="https://ktamas.github.io/index.php/2011/06/05/pho/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Phở (Büfé Đăng Mười)”" href="https://blog.ktamas.com/index.php/2011/06/05/pho/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
-                <li><a href="https://ktamas.github.io/tags/gasztro/">gasztro</a></li>
+                <li><a href="https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
+                <li><a href="https://blog.ktamas.com/tags/gasztro/">gasztro</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2011/06/01/addendum-a-desktoplinuxos-temahoz/</id>
+		<id>https://blog.ktamas.com/index.php/2011/06/01/addendum-a-desktoplinuxos-temahoz/</id>
 		<title>Addendum a desktoplinuxos temahoz</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2011/06/01/addendum-a-desktoplinuxos-temahoz/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2011/06/01/addendum-a-desktoplinuxos-temahoz/"/>
 		<updated>2011-06-01T14:51:41Z</updated>
 		<published>2011-06-01T14:51:41Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
-		<category scheme="https://ktamas.github.io/tags" term="linux" label="linux"/>
+		<category scheme="https://blog.ktamas.com/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
+		<category scheme="https://blog.ktamas.com/tags" term="linux" label="linux"/>
 		<summary>The most irritating example in GNOME 3.0 is the deliberate decision to leave the reboot and shutdown options off of the system menu by default.
 […]
 Fortunately, there is an easy fix. You simply have to install the gnome-shell-extensions-alternative-status-menu package from the Fedora repository.
@@ -336,7 +336,7 @@ Fortunately, there is an easy fix. You simply have to install the gnome-shell-e
 In the default configuration, users can no longer see files and folders on their desktop.
 […]
 One of the most controversial design decisions in GNOME 3.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<blockquote>
 <p>The most irritating example in GNOME 3.0 is the deliberate decision to leave the reboot and shutdown options off of the system menu by default.</p>
 
@@ -360,35 +360,35 @@ One of the most controversial design decisions in GNOME 3.</summary>
 <p>(az &#8216;easy&#8217; kiemelese tolem. yum install nagyon-hosszu-pekizsnev, easy fix, mi?)</p>
 
 <footer>
-    <a title="Permanent link to “Addendum a desktoplinuxos temahoz”" href="https://ktamas.github.io/index.php/2011/06/01/addendum-a-desktoplinuxos-temahoz/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Addendum a desktoplinuxos temahoz”" href="https://blog.ktamas.com/index.php/2011/06/01/addendum-a-desktoplinuxos-temahoz/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
-                <li><a href="https://ktamas.github.io/tags/linux/">linux</a></li>
+                <li><a href="https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
+                <li><a href="https://blog.ktamas.com/tags/linux/">linux</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2011/05/31/lenka/</id>
+		<id>https://blog.ktamas.com/index.php/2011/05/31/lenka/</id>
 		<title>Lenka</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2011/05/31/lenka/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2011/05/31/lenka/"/>
 		<updated>2011-05-31T12:00:48Z</updated>
 		<published>2011-05-31T12:00:48Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
-		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
+		<category scheme="https://blog.ktamas.com/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
+		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
 		<summary>Mostanaban ilyesfajta indiepopot hallgatok.
 Lenka mix
 Tracklist:
  Bring Me Down Don’t Let Me Fall Dangerous and Sweet Trouble is a Friend Two My Heart Skips a Beat Roll with the Punches Here to Stay You Will Be Mine Shock Me Into Love  Guiltypleasure rovatunkat hallhattak.
 (Zarojel, lassan mixsorozatot tudnek csinalni azokbol a zenei mufajokbol, amikre eletem egy korabbi pontjan meg azt mondatam, hogy “aaa ilyet sose fogok hallgatni”)</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p><a href="http://last.fm/user/KTamasEnty">Mostanaban</a> ilyesfajta indiepopot hallgatok.</p>
 
 <p><a href="https://www.dropbox.com/s/hkp0bltkveevys1/lenka_mix.mp3?dl=0">Lenka mix</a></p>
@@ -413,60 +413,60 @@ Tracklist:
 <p>(Zarojel, lassan mixsorozatot tudnek csinalni azokbol a zenei mufajokbol, amikre eletem egy korabbi pontjan meg azt mondatam, hogy &#8220;aaa ilyet sose fogok hallgatni&#8221;)</p>
 
 <footer>
-    <a title="Permanent link to “Lenka”" href="https://ktamas.github.io/index.php/2011/05/31/lenka/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Lenka”" href="https://blog.ktamas.com/index.php/2011/05/31/lenka/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
-                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
+                <li><a href="https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
+                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2011/05/19/ez-van-kern/</id>
+		<id>https://blog.ktamas.com/index.php/2011/05/19/ez-van-kern/</id>
 		<title>Ez van (Kern)</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2011/05/19/ez-van-kern/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2011/05/19/ez-van-kern/"/>
 		<updated>2011-05-19T15:27:15Z</updated>
 		<published>2011-05-19T15:27:15Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
-		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
+		<category scheme="https://blog.ktamas.com/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
+		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
 		<summary>Hallottam tegnap egy nem tul jo Lovolde Ter feldolgozast, emiatt rogton elovettem az eredetit, es mire eszbe kaptam, mar a Hungaroton oldalan talaltam magam, ahol egy iTunes CD araert hamar meg lett vasarolva a 90-ben kiadott Ez Van CD (ami ket regebbi vinyl osszedolgozasa, ha jol ertem). Alabb embedelem a jelenlegi kedvenc szamot rola, szol tehat Kern Andrastol a Pesten Szulettem:
  </summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Hallottam tegnap egy nem tul jo Lovolde Ter feldolgozast, emiatt rogton elovettem az <a href="http://www.youtube.com/watch?v=XCc2-yJvBCM">eredetit</a>, es mire eszbe kaptam, mar a <a href="http://www.hungarotonmusic.com/pop/ez-van-p2426.html">Hungaroton oldalan</a> talaltam magam, ahol egy iTunes CD araert hamar meg lett vasarolva a 90-ben kiadott Ez Van CD (ami ket regebbi vinyl osszedolgozasa, ha jol ertem). Alabb embedelem a jelenlegi kedvenc szamot rola, szol tehat Kern Andrastol a Pesten Szulettem:</p>
 
 <iframe src="https://open.spotify.com/embed/track/0xZUjXzNolDjH1FE4Ff6nv" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 <footer>
-    <a title="Permanent link to “Ez van (Kern)”" href="https://ktamas.github.io/index.php/2011/05/19/ez-van-kern/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Ez van (Kern)”" href="https://blog.ktamas.com/index.php/2011/05/19/ez-van-kern/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
-                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
+                <li><a href="https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
+                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2011/05/16/szamoljuk-a-napokat/</id>
+		<id>https://blog.ktamas.com/index.php/2011/05/16/szamoljuk-a-napokat/</id>
 		<title>Szamoljuk a napokat</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2011/05/16/szamoljuk-a-napokat/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2011/05/16/szamoljuk-a-napokat/"/>
 		<updated>2011-05-16T14:37:59Z</updated>
 		<published>2011-05-16T14:37:59Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
-		<category scheme="https://ktamas.github.io/tags" term="k%C3%B6nyv" label="könyv"/>
+		<category scheme="https://blog.ktamas.com/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
+		<category scheme="https://blog.ktamas.com/tags" term="k%C3%B6nyv" label="könyv"/>
 		<summary>Az Alexandra ONLINE a következő termékek megrendelését regisztrálta:
 *Budapest romokban
 Kondor Vilmos
@@ -479,7 +479,7 @@ ISSN:
  Es akkor mostantol szamoljuk a napokat.
  Kondor Vilmos: Budapest romokban
 1946 emlékezetesen forró nyarán véres merényletet követnek el a Teréz körúton, a rendőrség a Vörös Hadsereg segítségével, nagy erőkkel nyomozni kezd. Gordon Zsigmond közelről igyekszik követni az eseményeket, ez azonban nehezebb, mint gondolta volna.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<blockquote>
 <p>Az Alexandra ONLINE a következő termékek megrendelését regisztrálta:</p>
 
@@ -509,65 +509,65 @@ ISSN:
 </blockquote>
 
 <footer>
-    <a title="Permanent link to “Szamoljuk a napokat”" href="https://ktamas.github.io/index.php/2011/05/16/szamoljuk-a-napokat/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Szamoljuk a napokat”" href="https://blog.ktamas.com/index.php/2011/05/16/szamoljuk-a-napokat/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
-                <li><a href="https://ktamas.github.io/tags/k%C3%B6nyv/">könyv</a></li>
+                <li><a href="https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
+                <li><a href="https://blog.ktamas.com/tags/k%C3%B6nyv/">könyv</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2011/05/15/zene-delutanra-lmfao-party-rock-anthem/</id>
+		<id>https://blog.ktamas.com/index.php/2011/05/15/zene-delutanra-lmfao-party-rock-anthem/</id>
 		<title>Zene délutánra: LMFAO &amp;#8211; Party Rock Anthem</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2011/05/15/zene-delutanra-lmfao-party-rock-anthem/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2011/05/15/zene-delutanra-lmfao-party-rock-anthem/"/>
 		<updated>2011-05-15T16:29:49Z</updated>
 		<published>2011-05-15T16:29:49Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
-		<category scheme="https://ktamas.github.io/tags" term="random" label="random"/>
-		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
+		<category scheme="https://blog.ktamas.com/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
+		<category scheme="https://blog.ktamas.com/tags" term="random" label="random"/>
+		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
 		<summary>Folytatjuk electros időszakunkat, a péntek esti grillezés emlékére szól az LMFAO-tól az új Party Rock Anthem:
  </summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Folytatjuk electros időszakunkat, a péntek esti grillezés emlékére szól az LMFAO-tól az új Party Rock Anthem:</p>
 
 <iframe src="https://open.spotify.com/embed/track/7mitXLIMCflkhZiD34uEQI" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 <footer>
-    <a title="Permanent link to “Zene délutánra: LMFAO &amp;#8211; Party Rock Anthem”" href="https://ktamas.github.io/index.php/2011/05/15/zene-delutanra-lmfao-party-rock-anthem/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Zene délutánra: LMFAO &amp;#8211; Party Rock Anthem”" href="https://blog.ktamas.com/index.php/2011/05/15/zene-delutanra-lmfao-party-rock-anthem/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
-                <li><a href="https://ktamas.github.io/tags/random/">random</a></li>
-                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
+                <li><a href="https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
+                <li><a href="https://blog.ktamas.com/tags/random/">random</a></li>
+                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2011/05/13/doctor-who-redux/</id>
+		<id>https://blog.ktamas.com/index.php/2011/05/13/doctor-who-redux/</id>
 		<title>Doctor Who: Redux</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2011/05/13/doctor-who-redux/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2011/05/13/doctor-who-redux/"/>
 		<updated>2011-05-13T09:46:01Z</updated>
 		<published>2011-05-13T09:46:01Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
-		<category scheme="https://ktamas.github.io/tags" term="doctorwho" label="doctorwho"/>
+		<category scheme="https://blog.ktamas.com/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
+		<category scheme="https://blog.ktamas.com/tags" term="doctorwho" label="doctorwho"/>
 		<summary>Egyre inkabb ket taborra szakad a Doctor Who nezokozonsege, a legutolso resz nekem speciel kicsit jobban tetszett, mint a lenti cikk irojanak, de osszessegeben egyetertek:
  It’s worth restating here just how significant TiA/TDotM have been. In two episodes, Stephen Moffat gave the show the biggest kick up the arse it’s had since 2005. It’s arguably even bigger. What I was left with was a very different view of what I want Doctor Who to be, and I was thinking radically.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Egyre inkabb ket taborra szakad a Doctor Who nezokozonsege, a legutolso resz nekem speciel kicsit jobban tetszett, mint a lenti cikk irojanak, de osszessegeben egyetertek:</p>
 
 <blockquote>
@@ -577,34 +577,34 @@ ISSN:
 </blockquote>
 
 <footer>
-    <a title="Permanent link to “Doctor Who: Redux”" href="https://ktamas.github.io/index.php/2011/05/13/doctor-who-redux/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Doctor Who: Redux”" href="https://blog.ktamas.com/index.php/2011/05/13/doctor-who-redux/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
-                <li><a href="https://ktamas.github.io/tags/doctorwho/">doctorwho</a></li>
+                <li><a href="https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
+                <li><a href="https://blog.ktamas.com/tags/doctorwho/">doctorwho</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2011/05/12/zene-egesz-napra-electroloop/</id>
+		<id>https://blog.ktamas.com/index.php/2011/05/12/zene-egesz-napra-electroloop/</id>
 		<title>Zene egesz napra: Electroloop</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2011/05/12/zene-egesz-napra-electroloop/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2011/05/12/zene-egesz-napra-electroloop/"/>
 		<updated>2011-05-12T09:42:29Z</updated>
 		<published>2011-05-12T09:42:29Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
-		<category scheme="https://ktamas.github.io/tags" term="mix" label="mix"/>
-		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
+		<category scheme="https://blog.ktamas.com/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
+		<category scheme="https://blog.ktamas.com/tags" term="mix" label="mix"/>
+		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
 		<summary>Szoval tegnapelott newtech meetup volt, az egyik valaha volt legjobb, es jatszottam egy orat szantog Red Bull RPM HD appjaval az ipadjen, a vilag egyik legmenobb dolga, de tenyleg, szoval kozben volt ket szam, ami megtetszett, azota az megy korbe es korbe es korbe, alabb embedelem.
 Electroloop
 Tracklist: 1. Mord Fustang – The Electric Dream 2. Rip &amp; Barbara Tucker – RESPECT</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Szoval tegnapelott newtech meetup volt, az egyik valaha volt legjobb, es jatszottam egy orat <a href="http://szantog.com/">szantog</a> <a href="http://www.redbull.com/cs/Satellite/en_INT/Red-Bull-BPM-HD/001242901768754">Red Bull RPM HD</a> appjaval az ipadjen, a vilag egyik legmenobb dolga, de tenyleg, szoval kozben volt ket szam, ami megtetszett, azota az megy korbe es korbe es korbe, alabb embedelem.</p>
 
 <p><a href="https://www.dropbox.com/s/qtvtgq56ebkguhy/electroloop.mp3?dl=0">Electroloop</a></p>
@@ -614,34 +614,34 @@ Tracklist: 1. Mord Fustang – The Electric Dream 2. Rip &amp; Barbara Tucker �
 2. Rip &amp; Barbara Tucker &#8211; RESPECT</p>
 
 <footer>
-    <a title="Permanent link to “Zene egesz napra: Electroloop”" href="https://ktamas.github.io/index.php/2011/05/12/zene-egesz-napra-electroloop/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Zene egesz napra: Electroloop”" href="https://blog.ktamas.com/index.php/2011/05/12/zene-egesz-napra-electroloop/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
-                <li><a href="https://ktamas.github.io/tags/mix/">mix</a></li>
-                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
+                <li><a href="https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
+                <li><a href="https://blog.ktamas.com/tags/mix/">mix</a></li>
+                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2011/05/09/zene-reggelihez-meg-tobb-moshav-band/</id>
+		<id>https://blog.ktamas.com/index.php/2011/05/09/zene-reggelihez-meg-tobb-moshav-band/</id>
 		<title>Zene reggelihez: meg tobb Moshav Band</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2011/05/09/zene-reggelihez-meg-tobb-moshav-band/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2011/05/09/zene-reggelihez-meg-tobb-moshav-band/"/>
 		<updated>2011-05-09T11:24:59Z</updated>
 		<published>2011-05-09T11:24:59Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
-		<category scheme="https://ktamas.github.io/tags" term="izraeli" label="izraeli"/>
-		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
+		<category scheme="https://blog.ktamas.com/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
+		<category scheme="https://blog.ktamas.com/tags" term="izraeli" label="izraeli"/>
+		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
 		<summary>Meltatlanul keveset lekesedek itt a mar egyszer korabban emlegetett Moshav Bandrol, akiket azota is nagyon sokat hallgatok. Nemreg jott ki uj CD-juk “Dancing in a Dangerous World” cimen, amely, bar nem vett meg elso hallgatasra, de masodik-harmadikra annal inkabb, mostanra nagyon a szivemhez nott es egyre tobbet megy, a tobbi CD-jukkel egyetemben.
 Ugorjunk azonban kicsit vissza az idoben, egy sokkal regebbi szammal inditunk, ez a Come Back, az introjaval azonnal megvesz kilora:</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Meltatlanul keveset lekesedek itt a <a href="http://blog.ktamas.com/index.php/2011/02/07/kis-izraeli-zenei-korkep/">mar egyszer korabban emlegetett</a> Moshav Bandrol, akiket azota is nagyon sokat hallgatok. Nemreg jott ki uj CD-juk &#8220;Dancing in a Dangerous World&#8221; cimen, amely, bar nem vett meg elso hallgatasra, de masodik-harmadikra annal inkabb, mostanra nagyon a szivemhez nott es egyre tobbet megy, a tobbi CD-jukkel egyetemben.</p>
 
 <p>Ugorjunk azonban kicsit vissza az idoben, egy sokkal regebbi szammal inditunk, ez a Come Back, az introjaval azonnal megvesz kilora:</p>
@@ -667,65 +667,65 @@ Ugorjunk azonban kicsit vissza az idoben, egy sokkal regebbi szammal inditunk, e
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3JMS2esFiPg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <footer>
-    <a title="Permanent link to “Zene reggelihez: meg tobb Moshav Band”" href="https://ktamas.github.io/index.php/2011/05/09/zene-reggelihez-meg-tobb-moshav-band/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Zene reggelihez: meg tobb Moshav Band”" href="https://blog.ktamas.com/index.php/2011/05/09/zene-reggelihez-meg-tobb-moshav-band/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
-                <li><a href="https://ktamas.github.io/tags/izraeli/">izraeli</a></li>
-                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
+                <li><a href="https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
+                <li><a href="https://blog.ktamas.com/tags/izraeli/">izraeli</a></li>
+                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2011/05/07/john-boutte-the-treme-song/</id>
+		<id>https://blog.ktamas.com/index.php/2011/05/07/john-boutte-the-treme-song/</id>
 		<title>John Boutte &amp;#8211; The Treme Song</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2011/05/07/john-boutte-the-treme-song/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2011/05/07/john-boutte-the-treme-song/"/>
 		<updated>2011-05-07T14:51:58Z</updated>
 		<published>2011-05-07T14:51:58Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
-		<category scheme="https://ktamas.github.io/tags" term="sorozat" label="sorozat"/>
-		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
+		<category scheme="https://blog.ktamas.com/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
+		<category scheme="https://blog.ktamas.com/tags" term="sorozat" label="sorozat"/>
+		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
 		<summary>Volt tavaly egy igen kivalo HBO-s sorozat, a Treme, ami a Katrina utani New Orleansrol szol. A The Wire-rel hiresse valt David Simon csinalta, es a sorozat igenjo karakterdrama lett, jobbnal jobb zenekkel fuszerezve, a masodik evad nemreg kezdodott, hallgassuk is meg az egeszen kivalo introzenet: John Buotte – The Treme Song</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Volt tavaly egy igen kivalo HBO-s sorozat, a Treme, ami a Katrina utani New Orleansrol szol. A The Wire-rel hiresse valt David Simon csinalta, es a sorozat igenjo karakterdrama lett, jobbnal jobb zenekkel fuszerezve, a masodik evad nemreg kezdodott, hallgassuk is meg az egeszen kivalo introzenet: <a href="http://soundcloud.com/tomspeed-1/12-treme-song">John Buotte &#8211; The Treme Song</a></p>
 
 <footer>
-    <a title="Permanent link to “John Boutte &amp;#8211; The Treme Song”" href="https://ktamas.github.io/index.php/2011/05/07/john-boutte-the-treme-song/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “John Boutte &amp;#8211; The Treme Song”" href="https://blog.ktamas.com/index.php/2011/05/07/john-boutte-the-treme-song/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
-                <li><a href="https://ktamas.github.io/tags/sorozat/">sorozat</a></li>
-                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
+                <li><a href="https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
+                <li><a href="https://blog.ktamas.com/tags/sorozat/">sorozat</a></li>
+                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2011/05/06/tree63-megamix/</id>
+		<id>https://blog.ktamas.com/index.php/2011/05/06/tree63-megamix/</id>
 		<title>Tree63 megamix</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2011/05/06/tree63-megamix/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2011/05/06/tree63-megamix/"/>
 		<updated>2011-05-06T11:07:54Z</updated>
 		<published>2011-05-06T11:07:54Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
-		<category scheme="https://ktamas.github.io/tags" term="mix" label="mix"/>
-		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
+		<category scheme="https://blog.ktamas.com/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
+		<category scheme="https://blog.ktamas.com/tags" term="mix" label="mix"/>
+		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
 		<summary>A last.fm statjaim szerint nagyon sok Tree 63-et hallgatok mostanaban, nem veletlenul, iszonyat jo dalokat csinaltak.
 Leginkabb ezek mennek.
  </summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>A <a href="http://www.last.fm/user/KTamasEnty">last.fm statjaim</a> szerint nagyon sok Tree 63-et hallgatok mostanaban, nem veletlenul, iszonyat jo dalokat csinaltak.</p>
 
 <p>Leginkabb ezek mennek.</p>
@@ -733,34 +733,34 @@ Leginkabb ezek mennek.
 <iframe src="https://open.spotify.com/embed/user/ktamas/playlist/4lnePparXskGJKJqcK6ZaW" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 <footer>
-    <a title="Permanent link to “Tree63 megamix”" href="https://ktamas.github.io/index.php/2011/05/06/tree63-megamix/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Tree63 megamix”" href="https://blog.ktamas.com/index.php/2011/05/06/tree63-megamix/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
-                <li><a href="https://ktamas.github.io/tags/mix/">mix</a></li>
-                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
+                <li><a href="https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
+                <li><a href="https://blog.ktamas.com/tags/mix/">mix</a></li>
+                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2011/05/05/vim/</id>
+		<id>https://blog.ktamas.com/index.php/2011/05/05/vim/</id>
 		<title>vim</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2011/05/05/vim/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2011/05/05/vim/"/>
 		<updated>2011-05-05T09:48:23Z</updated>
 		<published>2011-05-05T09:48:23Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
-		<category scheme="https://ktamas.github.io/tags" term="programoz%C3%A1s" label="programozás"/>
-		<category scheme="https://ktamas.github.io/tags" term="vim" label="vim"/>
+		<category scheme="https://blog.ktamas.com/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
+		<category scheme="https://blog.ktamas.com/tags" term="programoz%C3%A1s" label="programozás"/>
+		<category scheme="https://blog.ktamas.com/tags" term="vim" label="vim"/>
 		<summary>Nem tudom mikor kezdodott igazabol. Regen, maces koromban en is TextMatet hasznaltam persze, like all the cool kids in town, akkor foleg Rubyhoz, meg a Railses kiserletezeshez. Kesobb jott a Windows es Ubuntu kozott orlodo korszakom, amikor leginkabb semmit, mert sokkal keveset programoztam, de talan akkor talaltam meg ezt a ket blogpostot: Rails on VIM illetve Rails on Windows.
 (wow, ez tenyleg ket eve volt mar? Repulazido es egyeb kozhelyek.)</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Nem tudom mikor kezdodott igazabol. Regen, maces koromban en is TextMatet hasznaltam persze, <em>like all the cool kids in town</em>, akkor foleg Rubyhoz, meg a Railses kiserletezeshez. Kesobb jott a Windows es Ubuntu kozott orlodo korszakom, amikor leginkabb semmit, mert sokkal keveset programoztam, de talan akkor talaltam meg ezt a ket blogpostot: <a href="http://akitaonrails.com/2009/01/04/rails-on-vim-in-english">Rails on VIM</a> illetve <a href="http://www.akitaonrails.com/2009/01/13/the-best-environment-for-rails-on-windows">Rails on Windows</a>.</p>
 
 <p>(wow, ez tenyleg ket eve volt mar? Repulazido es egyeb kozhelyek.)</p>
@@ -786,34 +786,34 @@ Leginkabb ezek mennek.
 <p><ESC>:wq</p>
 
 <footer>
-    <a title="Permanent link to “vim”" href="https://ktamas.github.io/index.php/2011/05/05/vim/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “vim”" href="https://blog.ktamas.com/index.php/2011/05/05/vim/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
-                <li><a href="https://ktamas.github.io/tags/programoz%C3%A1s/">programozás</a></li>
-                <li><a href="https://ktamas.github.io/tags/vim/">vim</a></li>
+                <li><a href="https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
+                <li><a href="https://blog.ktamas.com/tags/programoz%C3%A1s/">programozás</a></li>
+                <li><a href="https://blog.ktamas.com/tags/vim/">vim</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2011/05/04/zene-ebedhez-bbc-countdown-compilation-backlog/</id>
+		<id>https://blog.ktamas.com/index.php/2011/05/04/zene-ebedhez-bbc-countdown-compilation-backlog/</id>
 		<title>Zene ebedhez: BBC Countdown Compilation (backlog)</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2011/05/04/zene-ebedhez-bbc-countdown-compilation-backlog/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2011/05/04/zene-ebedhez-bbc-countdown-compilation-backlog/"/>
 		<updated>2011-05-04T09:41:19Z</updated>
 		<published>2011-05-04T09:41:19Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
-		<category scheme="https://ktamas.github.io/tags" term="backlog" label="backlog"/>
-		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
+		<category scheme="https://blog.ktamas.com/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
+		<category scheme="https://blog.ktamas.com/tags" term="backlog" label="backlog"/>
+		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
 		<summary>Nezem a soundcloudomra feltoltott dalokat, es talaltam egy ilyet meg regrol, tizperces mix a BBC countdownjaibol. Gazs anno nagyon jol korbejarta a temat, de pont ez a mix nincs benne (illetve van egy megamix linkelve benne, ami lehet, hogy ez az, de azota lekerult a youtuberol), ugyhogy, itt van, hallgassatok, jo.
  BBC Countdown Compilation</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Nezem a soundcloudomra feltoltott dalokat, es talaltam egy ilyet meg regrol, tizperces mix a BBC countdownjaibol. <a href="http://bergengocia.net/2009/02/this-is-bbc-news.htm">Gazs anno nagyon jol korbejarta a temat</a>, de pont ez a mix nincs benne (illetve van egy megamix linkelve benne, ami lehet, hogy ez az, de azota lekerult a youtuberol), ugyhogy, itt van, hallgassatok, jo.</p>
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/6417194&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
@@ -821,34 +821,34 @@ Leginkabb ezek mennek.
 <p><span><a href="http://soundcloud.com/ktamasenty/bbc-countdown-compilation">BBC Countdown Compilation</a></span></p>
 
 <footer>
-    <a title="Permanent link to “Zene ebedhez: BBC Countdown Compilation (backlog)”" href="https://ktamas.github.io/index.php/2011/05/04/zene-ebedhez-bbc-countdown-compilation-backlog/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Zene ebedhez: BBC Countdown Compilation (backlog)”" href="https://blog.ktamas.com/index.php/2011/05/04/zene-ebedhez-bbc-countdown-compilation-backlog/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
-                <li><a href="https://ktamas.github.io/tags/backlog/">backlog</a></li>
-                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
+                <li><a href="https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
+                <li><a href="https://blog.ktamas.com/tags/backlog/">backlog</a></li>
+                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2011/05/02/6-avagy-zene-hetfo-reggelre-meg-ugy-altalaban-barmikorra/</id>
+		<id>https://blog.ktamas.com/index.php/2011/05/02/6-avagy-zene-hetfo-reggelre-meg-ugy-altalaban-barmikorra/</id>
 		<title>#6, avagy zene hetfo reggelre meg ugy altalaban barmikorra</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2011/05/02/6-avagy-zene-hetfo-reggelre-meg-ugy-altalaban-barmikorra/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2011/05/02/6-avagy-zene-hetfo-reggelre-meg-ugy-altalaban-barmikorra/"/>
 		<updated>2011-05-02T07:42:05Z</updated>
 		<published>2011-05-02T07:42:05Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
-		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
+		<category scheme="https://blog.ktamas.com/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
+		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
 		<summary>Az orok, a megunhatatlan, a tokeletes, a kozepen levo (update: szandekos!) glitchcsel szeretett, Cloneshit Podcast #6, amely fel oraban foglalja ossze tokeletesen a nyolvanas eveket.
 *tisztelges*
 Cloneshit Podcast #6</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Az orok, a megunhatatlan, a tokeletes, a kozepen levo (update: <a href="http://www.cloneshit.hu/2005/05/16/cloneshit-podcast-6#comment-36106">szandekos!</a>) glitchcsel szeretett, <a href="http://www.cloneshit.hu/2005/05/16/cloneshit-podcast-6">Cloneshit Podcast #6</a>, amely fel oraban foglalja ossze tokeletesen a nyolvanas eveket.</p>
 
 <p>*tisztelges*</p>
@@ -856,34 +856,34 @@ Cloneshit Podcast #6</summary>
 <p><a href="https://archive.org/details/cloneshit-podcast-archive/cloneshitpodcast_06-thetornado-yachtkokainesafelautomatafegyverek.mp3">Cloneshit Podcast #6</a></p>
 
 <footer>
-    <a title="Permanent link to “#6, avagy zene hetfo reggelre meg ugy altalaban barmikorra”" href="https://ktamas.github.io/index.php/2011/05/02/6-avagy-zene-hetfo-reggelre-meg-ugy-altalaban-barmikorra/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “#6, avagy zene hetfo reggelre meg ugy altalaban barmikorra”" href="https://blog.ktamas.com/index.php/2011/05/02/6-avagy-zene-hetfo-reggelre-meg-ugy-altalaban-barmikorra/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
-                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
+                <li><a href="https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
+                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2011/04/17/access-main-computer-file/</id>
+		<id>https://blog.ktamas.com/index.php/2011/04/17/access-main-computer-file/</id>
 		<title>Access Main Computer File</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2011/04/17/access-main-computer-file/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2011/04/17/access-main-computer-file/"/>
 		<updated>2011-04-17T20:21:00Z</updated>
 		<published>2011-04-17T20:21:00Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
-		<category scheme="https://ktamas.github.io/tags" term="random" label="random"/>
-		<category scheme="https://ktamas.github.io/tags" term="sorozat" label="sorozat"/>
+		<category scheme="https://blog.ktamas.com/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
+		<category scheme="https://blog.ktamas.com/tags" term="random" label="random"/>
+		<category scheme="https://blog.ktamas.com/tags" term="sorozat" label="sorozat"/>
 		<summary>A “kiblogolom hogy meglegyen” iskola jegyeben az utobbi idok egyik legjobb tumblija egyertelmuen az Access Main Computer File, ami a kulonbozo filmekben levo hamis szamitogepkepernyoket gyujti, mar most egeszen elkepeszto kollekcioja van.
 Csak reszben kapcsolodik, de nem maradhat ki a mindenfele vegtelensegig elesen zoomolo szamitogepes jelenetek zsenialis parodiaja sem, amit a Red Dwarf kovetett el. UNCROP!
 [ez a video mar nincs.]</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>A &#8220;kiblogolom hogy meglegyen&#8221; iskola jegyeben az utobbi idok egyik legjobb tumblija egyertelmuen az <a href="http://accessmaincomputerfile.net/">Access Main Computer File</a>, ami a kulonbozo filmekben levo hamis szamitogepkepernyoket gyujti, mar most egeszen elkepeszto kollekcioja van.</p>
 
 <p>Csak reszben kapcsolodik, de nem maradhat ki a mindenfele vegtelensegig elesen zoomolo szamitogepes jelenetek zsenialis parodiaja sem, amit a <a href="http://en.wikipedia.org/wiki/Red_Dwarf">Red Dwarf</a> kovetett el. UNCROP!</p>
@@ -891,97 +891,97 @@ Csak reszben kapcsolodik, de nem maradhat ki a mindenfele vegtelensegig elesen z
 <p>[ez a video mar nincs.]</p>
 
 <footer>
-    <a title="Permanent link to “Access Main Computer File”" href="https://ktamas.github.io/index.php/2011/04/17/access-main-computer-file/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Access Main Computer File”" href="https://blog.ktamas.com/index.php/2011/04/17/access-main-computer-file/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
-                <li><a href="https://ktamas.github.io/tags/random/">random</a></li>
-                <li><a href="https://ktamas.github.io/tags/sorozat/">sorozat</a></li>
+                <li><a href="https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
+                <li><a href="https://blog.ktamas.com/tags/random/">random</a></li>
+                <li><a href="https://blog.ktamas.com/tags/sorozat/">sorozat</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2011/03/25/katzenjammer-a-bar-in-amsterdam/</id>
+		<id>https://blog.ktamas.com/index.php/2011/03/25/katzenjammer-a-bar-in-amsterdam/</id>
 		<title>Katzenjammer &amp;#8211; A Bar in Amsterdam</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2011/03/25/katzenjammer-a-bar-in-amsterdam/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2011/03/25/katzenjammer-a-bar-in-amsterdam/"/>
 		<updated>2011-03-25T16:35:24Z</updated>
 		<published>2011-03-25T16:35:24Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
-		<category scheme="https://ktamas.github.io/tags" term="random" label="random"/>
-		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
+		<category scheme="https://blog.ktamas.com/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
+		<category scheme="https://blog.ktamas.com/tags" term="random" label="random"/>
+		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
 		<summary>Damage igen remek harmadik sarkanykazettas mixtapejeben akadtam erre a dalra, ami azota is megy korbe es korbe es korbe es korbe es korbe es…
  </summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Damage igen remek <a href="http://www.planetdamage.com/2011/03/25/damages-razor-coated-candies-03-venus-in-rock/">harmadik sarkanykazettas mixtapejeben</a> akadtam erre a dalra, ami azota is megy korbe es korbe es korbe es korbe es korbe es&#8230;</p>
 
 <iframe src="https://open.spotify.com/embed/track/0ytvlQNCJmSY6l6a840U5A" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 <footer>
-    <a title="Permanent link to “Katzenjammer &amp;#8211; A Bar in Amsterdam”" href="https://ktamas.github.io/index.php/2011/03/25/katzenjammer-a-bar-in-amsterdam/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Katzenjammer &amp;#8211; A Bar in Amsterdam”" href="https://blog.ktamas.com/index.php/2011/03/25/katzenjammer-a-bar-in-amsterdam/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
-                <li><a href="https://ktamas.github.io/tags/random/">random</a></li>
-                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
+                <li><a href="https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
+                <li><a href="https://blog.ktamas.com/tags/random/">random</a></li>
+                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2011/03/15/m3/</id>
+		<id>https://blog.ktamas.com/index.php/2011/03/15/m3/</id>
 		<title>Magyar Meetup Manifeszto (M3)</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2011/03/15/m3/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2011/03/15/m3/"/>
 		<updated>2011-03-15T19:53:19Z</updated>
 		<published>2011-03-15T19:53:19Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
-		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://blog.ktamas.com/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
+		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
 		<summary>Nem tudom nem megorokiteni itt — kicsit a gyerekemnek erzem, az alapjait meg en irtam le tavaly osszel –, hogy kikerult a publikus az internetre az M3, avagy a Magyar Meetup Manifesto neven futo projekt. Adam irt a hattererol, a lenyeg az, hogy leirtuk — osszessegeben majd’ egy tucat ember dolgozott rajta –, hogy szerintunk hogyan erdemes csinalni egy meetupot. Olvassatok, terjesszetek, hasznaljatok egeszseggel, ilyesmi, sot, meg irni is lehet bele, csak kerni kell.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Nem tudom nem megorokiteni itt &#8212; kicsit a gyerekemnek erzem, az alapjait meg en irtam le tavaly osszel &#8211;, hogy kikerult a publikus az internetre az M3, avagy a Magyar Meetup Manifesto neven futo projekt. <a href="http://worldshots.hu/2011-03/meetup-manifesto/">Adam irt a hattererol</a>, a lenyeg az, hogy leirtuk &#8212; osszessegeben majd&#8217; egy tucat ember dolgozott rajta &#8211;, hogy szerintunk hogyan erdemes csinalni egy meetupot. Olvassatok, terjesszetek, hasznaljatok egeszseggel, ilyesmi, sot, meg irni is lehet bele, csak kerni kell.</p>
 
 <p><a href="https://docs.google.com/document/d/1wE847qiHzeSpqfg-km_MXc5Nf5b3aP-PynzR5_qsSZ8/edit?hl=hu#">M3 &#8211; Magyar Meetup Manifeszto</a></p>
 
 <footer>
-    <a title="Permanent link to “Magyar Meetup Manifeszto (M3)”" href="https://ktamas.github.io/index.php/2011/03/15/m3/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Magyar Meetup Manifeszto (M3)”" href="https://blog.ktamas.com/index.php/2011/03/15/m3/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
-                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
+                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2010/12/26/fanboysag/</id>
+		<id>https://blog.ktamas.com/index.php/2010/12/26/fanboysag/</id>
 		<title>Doctor Who</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2010/12/26/fanboysag/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2010/12/26/fanboysag/"/>
 		<updated>2010-12-26T16:44:03Z</updated>
 		<published>2010-12-26T16:44:03Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
-		<category scheme="https://ktamas.github.io/tags" term="doctorwho" label="doctorwho"/>
-		<category scheme="https://ktamas.github.io/tags" term="sorozat" label="sorozat"/>
+		<category scheme="https://blog.ktamas.com/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
+		<category scheme="https://blog.ktamas.com/tags" term="doctorwho" label="doctorwho"/>
+		<category scheme="https://blog.ktamas.com/tags" term="sorozat" label="sorozat"/>
 		<summary>A Doctor Whoban az az érdekes dolog, hogy mindenkinek sokszor mereven más a véleménye róla, ez ki is jött madélután a twitteren, emiatt jutott eszembe, h még nem írtam le az enyémet, pedig meg akartam tenni anno, mikor befejeztem a sorozat első négy évadját.
 Utazzunk is vissza az időben cca másfél évet, mikor felfigyelve, hogy több barátom is lelkes Doctor Who rajongó, úgy gondoltam, bepróbálom, leszedtem az első rész, és megnéztem.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>A Doctor Whoban az az érdekes dolog, hogy mindenkinek sokszor mereven más a véleménye róla, ez ki is jött madélután a twitteren, emiatt jutott eszembe, h még nem írtam le az enyémet, pedig meg akartam tenni anno, mikor befejeztem a sorozat első négy évadját.</p>
 
 <p>Utazzunk is vissza az időben cca másfél évet, mikor felfigyelve, hogy több barátom is lelkes Doctor Who rajongó, úgy gondoltam, bepróbálom, leszedtem az első rész, és megnéztem. &#8220;Mi ez a gagyi izé és mit esz rajta ennyi ember?&#8221; &#8211; jegyeztem meg, majd ott is hagytam az egészet. Aztán eltelt egy év, és kijött a Waters of Mars c. negyedik évadbeli special amit valamiért leszedtem (még egy esélyt megérdemelt), és egészen jó volt, és akkor már jött a nagy évadzáró End of Time, ami szintén nem volt rossz (annak ellenére h kb semmit se értettem belőle, naaagy évadzáró, ugye) így leszedtem utána a második évadot (az elsővel rossz emlékeim voltak, de azt is pótoltam később).</p>
@@ -995,35 +995,35 @@ Utazzunk is vissza az időben cca másfél évet, mikor felfigyelve, hogy több 
 <p>És biztos kihagytam még egy rakat dolgot ami utólag fog csak eszembe jutni, de legfeljebb írok mégegy kört, vagy valami.</p>
 
 <footer>
-    <a title="Permanent link to “Doctor Who”" href="https://ktamas.github.io/index.php/2010/12/26/fanboysag/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Doctor Who”" href="https://blog.ktamas.com/index.php/2010/12/26/fanboysag/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
-                <li><a href="https://ktamas.github.io/tags/doctorwho/">doctorwho</a></li>
-                <li><a href="https://ktamas.github.io/tags/sorozat/">sorozat</a></li>
+                <li><a href="https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
+                <li><a href="https://blog.ktamas.com/tags/doctorwho/">doctorwho</a></li>
+                <li><a href="https://blog.ktamas.com/tags/sorozat/">sorozat</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2010/12/25/best-of-def-con-18/</id>
+		<id>https://blog.ktamas.com/index.php/2010/12/25/best-of-def-con-18/</id>
 		<title>Best of DEF CON 18</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2010/12/25/best-of-def-con-18/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2010/12/25/best-of-def-con-18/"/>
 		<updated>2010-12-25T14:25:25Z</updated>
 		<published>2010-12-25T14:25:25Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
+		<category scheme="https://blog.ktamas.com/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
 		<summary>Az történt, hogy Gazs elkövette a hibát, hogy linkelt nekem egy DEF CON 18-as videot. Ennek az lett az eredménye, hogy azokat nézem azóta is. Úgyhogy itt egy teljesen szubjektív gyűjtés pár érdekes előadasrol.
 [Dennis Brown: How Hackers Won the Zombie Apocalypse
 ](https://www.defcon.org/html/links/dc-archives/dc-18-archive.html#Brown_D2) A hackelhető badge-ek minden tisztességesebb hackerkonferencia kellékei, de mi történik akkor, ha ezt kombináljuk egy emberek vs. zombik játékkal?
  **John Curran: IPv6: No Longer Optional
 ** Bevallom, néha én is röhögtem a jaj-el-fog-jönni-az-IPv4-apokalipszis premisszajú cikkeken, főleg, hogy már tíz éve írják, hogy mindjárt el fognak fogyni a címek.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Az történt, hogy <a href="http://bergengocia.net">Gazs</a> elkövette a hibát, hogy linkelt nekem egy DEF CON 18-as videot. Ennek az lett az eredménye, hogy azokat nézem azóta is. Úgyhogy itt egy teljesen szubjektív gyűjtés pár érdekes előadasrol.</p>
 
 <p>[<strong>Dennis Brown: How Hackers Won the Zombie Apocalypse</strong></p>
@@ -1050,31 +1050,31 @@ Utazzunk is vissza az időben cca másfél évet, mikor felfigyelve, hogy több 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jwpg-AwJ0Jc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <footer>
-    <a title="Permanent link to “Best of DEF CON 18”" href="https://ktamas.github.io/index.php/2010/12/25/best-of-def-con-18/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Best of DEF CON 18”" href="https://blog.ktamas.com/index.php/2010/12/25/best-of-def-con-18/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
+                <li><a href="https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2010/10/24/mindennapi-gasztro/</id>
+		<id>https://blog.ktamas.com/index.php/2010/10/24/mindennapi-gasztro/</id>
 		<title>Mindennapi &lt;del&gt;gasztro&lt;/del&gt; FMCG</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2010/10/24/mindennapi-gasztro/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2010/10/24/mindennapi-gasztro/"/>
 		<updated>2010-10-24T15:36:34Z</updated>
 		<published>2010-10-24T15:36:34Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
-		<category scheme="https://ktamas.github.io/tags" term="gasztro" label="gasztro"/>
+		<category scheme="https://blog.ktamas.com/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
+		<category scheme="https://blog.ktamas.com/tags" term="gasztro" label="gasztro"/>
 		<summary>A fenti cimmel majdnem csinaltam nemreg egy blogot, csak hamar ravilagitottak emberek arra, hogy ezt hosszutavon kene megtolteni kontenttel, amit — egyelore — nem tudok, de nem kizart, hogy lesznek itt ehhez hasonlo posztok a jovoben.
 Meg regebben irtam a Culinarisrol, akik mindenfele importkajakat arulnak pofatlanul dragan, mar vagy fel eve ellen tudok allni a kisertesnek, hogy megint elmenjek, mert a fizetesem ijeszto hanyadat tudnam egeszen konnyen otthagyni egy kisebbfajta bevasarlassal.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>A fenti cimmel majdnem csinaltam nemreg egy blogot, csak hamar ravilagitottak emberek arra, hogy ezt hosszutavon kene megtolteni kontenttel, amit &#8212; egyelore &#8212; nem tudok, de nem kizart, hogy lesznek itt ehhez hasonlo posztok a jovoben.</p>
 
 <p>Meg <a href="http://blog.ktamas.com/index.php/2009/01/20/culinaris/">regebben</a> <a href="http://blog.ktamas.com/index.php/2009/05/08/culinaris_round_zwei_igazabol_voltam_mar_tobbszor_de_ez_most_mindegy/">irtam</a> a <a href="http://www.culinaris.hu">Culinaris</a>rol, akik mindenfele importkajakat arulnak pofatlanul dragan, mar vagy fel eve ellen tudok allni a kisertesnek, hogy megint elmenjek, mert a fizetesem ijeszto hanyadat tudnam egeszen konnyen otthagyni egy kisebbfajta bevasarlassal. Viszont uj jelenseg van kibontakozoban: az eddig csak a Culinarisban kaphato termekek elkeztek megjeleni azon kivul is.</p>
@@ -1088,63 +1088,63 @@ Meg regebben irtam a Culinarisrol, akik mindenfele importkajakat arulnak pofatla
 <p><a href="/wp-content/uploads/2010/10/nissinsmackcup-e1287934232613.jpg"><img class="aligncenter size-full wp-image-2362313" title="nissinsmackcup" src="/wp-content/uploads/2010/10/nissinsmackcup-e1287934232613.jpg" alt="" width="500" height="375" /></a>Ki akar kek(crispy) M&amp;Ms-et importalni? Na, valaki? Na?</p>
 
 <footer>
-    <a title="Permanent link to “Mindennapi &lt;del&gt;gasztro&lt;/del&gt; FMCG”" href="https://ktamas.github.io/index.php/2010/10/24/mindennapi-gasztro/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Mindennapi &lt;del&gt;gasztro&lt;/del&gt; FMCG”" href="https://blog.ktamas.com/index.php/2010/10/24/mindennapi-gasztro/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
-                <li><a href="https://ktamas.github.io/tags/gasztro/">gasztro</a></li>
+                <li><a href="https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
+                <li><a href="https://blog.ktamas.com/tags/gasztro/">gasztro</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2010/10/17/clear-eyes-full-hearts-cant-lose/</id>
+		<id>https://blog.ktamas.com/index.php/2010/10/17/clear-eyes-full-hearts-cant-lose/</id>
 		<title>Clear eyes, Full hearts, Can&amp;#8217;t lose!</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2010/10/17/clear-eyes-full-hearts-cant-lose/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2010/10/17/clear-eyes-full-hearts-cant-lose/"/>
 		<updated>2010-10-17T10:40:05Z</updated>
 		<published>2010-10-17T10:40:05Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
-		<category scheme="https://ktamas.github.io/tags" term="sorozat" label="sorozat"/>
+		<category scheme="https://blog.ktamas.com/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
+		<category scheme="https://blog.ktamas.com/tags" term="sorozat" label="sorozat"/>
 		<summary>Az FNL meg mindig a legjobb drama a TV-ben. (Es meg van 4 reszem hatra az evadbol)</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p><a href="/wp-content/uploads/2010/10/vlcsnap-2010-10-17-12h34m11s228-e1287311956145.png"><img class="aligncenter size-full wp-image-2362301" title="vlcsnap-2010-10-17-12h34m11s228" src="/wp-content/uploads/2010/10/vlcsnap-2010-10-17-12h34m11s228-e1287311956145.png" alt="" width="500" height="275" /></a></p>
 
 <p>Az FNL meg mindig a legjobb drama a TV-ben. (Es meg van 4 reszem hatra az evadbol)</p>
 
 <footer>
-    <a title="Permanent link to “Clear eyes, Full hearts, Can&amp;#8217;t lose!”" href="https://ktamas.github.io/index.php/2010/10/17/clear-eyes-full-hearts-cant-lose/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Clear eyes, Full hearts, Can&amp;#8217;t lose!”" href="https://blog.ktamas.com/index.php/2010/10/17/clear-eyes-full-hearts-cant-lose/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
-                <li><a href="https://ktamas.github.io/tags/sorozat/">sorozat</a></li>
+                <li><a href="https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
+                <li><a href="https://blog.ktamas.com/tags/sorozat/">sorozat</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2010/03/25/blackberry_bold_es_az_os5/</id>
+		<id>https://blog.ktamas.com/index.php/2010/03/25/blackberry_bold_es_az_os5/</id>
 		<title>Blackberry Bold (9000) és az OS5</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2010/03/25/blackberry_bold_es_az_os5/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2010/03/25/blackberry_bold_es_az_os5/"/>
 		<updated>2010-03-25T20:00:00Z</updated>
 		<published>2010-03-25T20:00:00Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
-		<category scheme="https://ktamas.github.io/tags" term="blackberry" label="blackberry"/>
-		<category scheme="https://ktamas.github.io/tags" term="szeder" label="szeder"/>
+		<category scheme="https://blog.ktamas.com/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
+		<category scheme="https://blog.ktamas.com/tags" term="blackberry" label="blackberry"/>
+		<category scheme="https://blog.ktamas.com/tags" term="szeder" label="szeder"/>
 		<summary>Már egy jó ideje szivárogtatja a RIM szivárognak ki az újabbnál újabb OS5 buildeket mindenféle Berryhez, köztük az én 9000-emhez is, sőt, egy-egy szolgáltató már hivatalos verziókat is kiad, így egyszercsak meguntam a várakozást, hogy majd fél év múlva megjön a magyar T-hez (jó esetben), utánaolvastam a megfelelő threadekben a crackberryn, letöltöttem a legújabb Desktop Managert, és a frissítést, és nekiláttam a mellékelt instrukciók szerint, ami egyébként a következő:
  Kijelentkezünk mindenből a Berryn, különösen a Google Syncből és a Facebookból.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Már egy jó ideje <strike>szivárogtatja a RIM</strike> szivárognak ki az újabbnál újabb OS5 buildeket mindenféle Berryhez, köztük az én 9000-emhez is, sőt, egy-egy szolgáltató már hivatalos verziókat is kiad, így egyszercsak meguntam a várakozást, hogy majd fél év múlva megjön a magyar T-hez (jó esetben), utánaolvastam a <a href="http://forums.crackberry.com/f3/how-wipe-jl_cmder-53502/">megfelelő</a> <a href="http://forums.crackberry.com/f83/newest-official-os-5-0-0-509-blackberry-bold-9000-wind-hellas-431443/">threadekben</a> a crackberryn, letöltöttem a legújabb Desktop Managert, és a frissítést, és nekiláttam a mellékelt instrukciók szerint, ami egyébként a következő:</p>
 
 <ol>
@@ -1182,34 +1182,34 @@ Meg regebben irtam a Culinarisrol, akik mindenfele importkajakat arulnak pofatla
 <p><img src="http://ktamas.blog.hu/media/image/BBScreenShot.png" alt="" /></p>
 
 <footer>
-    <a title="Permanent link to “Blackberry Bold (9000) és az OS5”" href="https://ktamas.github.io/index.php/2010/03/25/blackberry_bold_es_az_os5/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Blackberry Bold (9000) és az OS5”" href="https://blog.ktamas.com/index.php/2010/03/25/blackberry_bold_es_az_os5/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
-                <li><a href="https://ktamas.github.io/tags/blackberry/">blackberry</a></li>
-                <li><a href="https://ktamas.github.io/tags/szeder/">szeder</a></li>
+                <li><a href="https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
+                <li><a href="https://blog.ktamas.com/tags/blackberry/">blackberry</a></li>
+                <li><a href="https://blog.ktamas.com/tags/szeder/">szeder</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2009/06/15/legjobb_gmaps_mashup_ever/</id>
+		<id>https://blog.ktamas.com/index.php/2009/06/15/legjobb_gmaps_mashup_ever/</id>
 		<title>Legjobb gmaps-mashup EVER</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/06/15/legjobb_gmaps_mashup_ever/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/06/15/legjobb_gmaps_mashup_ever/"/>
 		<updated>2009-06-15T19:55:43Z</updated>
 		<published>2009-06-15T19:55:43Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
-		<category scheme="https://ktamas.github.io/tags" term="hit" label="hit"/>
+		<category scheme="https://blog.ktamas.com/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
+		<category scheme="https://blog.ktamas.com/tags" term="hit" label="hit"/>
 		<summary>A biblemap.org, ami egy igen egyszerű, de annál nagyszerűbb mesápp: a biblia mellé odarakták az adott fejezethez tartozó összes földrajzi helyet a guglitérképen, amikhez ráadásul különféle bibliai enciklopédiákból pluszinformáció is jár. Csillagos ötös.
 (gazs twittelte be)
 ((disclaimer: e post írója erősen térképbuzi))</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>A <a href="http://www.biblemap.org" target="_blank">biblemap.org</a>, ami egy igen egyszerű, de annál nagyszerűbb mesápp: a biblia mellé odarakták az adott fejezethez tartozó összes földrajzi helyet a guglitérképen, amikhez ráadásul különféle bibliai enciklopédiákból pluszinformáció is jár. Csillagos ötös.</p>
 
 <p>(<a href="http://bergengocia.net/" target="_blank">gazs</a> <a href="http://twitter.com/gazs" target="_blank">twittelte be</a>)</p>
@@ -1217,32 +1217,32 @@ Meg regebben irtam a Culinarisrol, akik mindenfele importkajakat arulnak pofatla
 <p>((disclaimer: e post írója erősen térképbuzi))</p>
 
 <footer>
-    <a title="Permanent link to “Legjobb gmaps-mashup EVER”" href="https://ktamas.github.io/index.php/2009/06/15/legjobb_gmaps_mashup_ever/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Legjobb gmaps-mashup EVER”" href="https://blog.ktamas.com/index.php/2009/06/15/legjobb_gmaps_mashup_ever/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
-                <li><a href="https://ktamas.github.io/tags/hit/">hit</a></li>
+                <li><a href="https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
+                <li><a href="https://blog.ktamas.com/tags/hit/">hit</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2009/06/07/one_vote/</id>
+		<id>https://blog.ktamas.com/index.php/2009/06/07/one_vote/</id>
 		<title>One Vote</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/06/07/one_vote/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/06/07/one_vote/"/>
 		<updated>2009-06-07T17:07:07Z</updated>
 		<published>2009-06-07T17:07:07Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
-		<category scheme="https://ktamas.github.io/tags" term="random" label="random"/>
+		<category scheme="https://blog.ktamas.com/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
+		<category scheme="https://blog.ktamas.com/tags" term="random" label="random"/>
 		<summary>Ez a kisfilm, ez egyszerűen brilliáns, leginkább mert annyira realisztikus.
  (A kajmánszigeten találtuk.)</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Ez a kisfilm, ez egyszerűen brilliáns, leginkább mert annyira realisztikus.</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/33ucR4T3VbU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -1250,43 +1250,43 @@ Meg regebben irtam a Culinarisrol, akik mindenfele importkajakat arulnak pofatla
 <p>(<a href="http://kajmansziget.tumblr.com/post/118889989/kamp-nycsend-s-rt-s-a-kajm-nszigeten-edit-n-ni" target="_blank">A kajmánszigeten találtuk.</a>)</p></p>
 
 <footer>
-    <a title="Permanent link to “One Vote”" href="https://ktamas.github.io/index.php/2009/06/07/one_vote/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “One Vote”" href="https://blog.ktamas.com/index.php/2009/06/07/one_vote/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
-                <li><a href="https://ktamas.github.io/tags/random/">random</a></li>
+                <li><a href="https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
+                <li><a href="https://blog.ktamas.com/tags/random/">random</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2009/05/15/windows_7_plus/</id>
+		<id>https://blog.ktamas.com/index.php/2009/05/15/windows_7_plus/</id>
 		<title>Windows 7 Plus!</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/05/15/windows_7_plus/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/05/15/windows_7_plus/"/>
 		<updated>2009-05-15T22:50:41Z</updated>
 		<published>2009-05-15T22:50:41Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
-		<category scheme="https://ktamas.github.io/tags" term="windows" label="windows"/>
+		<category scheme="https://blog.ktamas.com/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
+		<category scheme="https://blog.ktamas.com/tags" term="windows" label="windows"/>
 		<summary>[](http://ktamas.blog.hu/media/image/200905/space.jpg)Klikkre nagyobb Valaki megcsinalta az osszes Win98 Plus! temat Windows 7-re, ikonokkal, kurzorokkal, hangokkal, hatterkepekkel. Nosztagia felsofokon, tovabbi infok itten talalhatoak.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<figure id="attachment_456" style="width: 500px" class="wp-caption aligncenter">[<img class="size-full wp-image-456" title="space_small" src="http://ktamas.blog.hu/media/image/200905/space_small.jpg" alt="space_small" width="500" height="375" />](http://ktamas.blog.hu/media/image/200905/space.jpg)<figcaption class="wp-caption-text">Klikkre nagyobb</figcaption></figure> 
 
 <p>Valaki megcsinalta az osszes Win98 Plus! temat Windows 7-re, ikonokkal, kurzorokkal, hangokkal, hatterkepekkel. Nosztagia felsofokon, tovabbi infok <a href="http://www.beingmanan.com/wp/2009/04/windows-98-plus-themes-for-windows-7/" target="_blank">itten talalhatoak</a>.</p>
 
 <footer>
-    <a title="Permanent link to “Windows 7 Plus!”" href="https://ktamas.github.io/index.php/2009/05/15/windows_7_plus/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Windows 7 Plus!”" href="https://blog.ktamas.com/index.php/2009/05/15/windows_7_plus/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
-                <li><a href="https://ktamas.github.io/tags/windows/">windows</a></li>
+                <li><a href="https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
+                <li><a href="https://blog.ktamas.com/tags/windows/">windows</a></li>
             </ul>
         </div>
 </footer>]]></content>

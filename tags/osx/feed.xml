@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
-	<id>https://ktamas.github.io/tags/osx/</id>
+	<id>https://blog.ktamas.com/tags/osx/</id>
 	<title>osx on KTamas&#39; blog</title>
 	<subtitle>An ongoing list of KTamas' blog posts about osx</subtitle>
 	<updated>2013-08-09T11:01:47Z</updated>
-	<link rel="self" type="application/atom+xml" href="https://ktamas.github.io/tags/osx/feed.xml"/>
-	<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/osx/"/>
-	<link rel="alternate" type="application/json" href="https://ktamas.github.io/tags/osx/feed.json"/>
+	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/osx/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/osx/"/>
+	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/osx/feed.json"/>
 	<author>
 		<name>KTamas</name>
-		<uri>https://ktamas.github.io/</uri>
+		<uri>https://blog.ktamas.com/</uri>
 	</author>
 	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
-	<icon>"https://ktamas.github.io/icon-512x512.png"</icon>
+	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2013/08/09/kozerdeku-kozlemeny-service-order-avagy-a-halozati-kapcsolatok-prioritasa/</id>
+		<id>https://blog.ktamas.com/index.php/2013/08/09/kozerdeku-kozlemeny-service-order-avagy-a-halozati-kapcsolatok-prioritasa/</id>
 		<title>Közérdekű közlemény: Service Order, avagy a hálózati kapcsolatok prioritása</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/08/09/kozerdeku-kozlemeny-service-order-avagy-a-halozati-kapcsolatok-prioritasa/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/08/09/kozerdeku-kozlemeny-service-order-avagy-a-halozati-kapcsolatok-prioritasa/"/>
 		<updated>2013-08-09T11:01:47Z</updated>
 		<published>2013-08-09T11:01:47Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="osx" label="osx"/>
-		<category scheme="https://ktamas.github.io/tags" term="random" label="random"/>
-		<category scheme="https://ktamas.github.io/tags" term="windows" label="windows"/>
+		<category scheme="https://blog.ktamas.com/tags" term="osx" label="osx"/>
+		<category scheme="https://blog.ktamas.com/tags" term="random" label="random"/>
+		<category scheme="https://blog.ktamas.com/tags" term="windows" label="windows"/>
 		<summary>Mivel most szívom meg többedszerre ezzel, leírom, hátha segít valaki másnak is. Szóval, adott az a helyzet, amikor az embernek egynél több hálózati kapcsolata aktív: egyszerre van fent céges hálózaton wifivel meg kábellel, esetleg bekapcsolva hagyta az ájfónján a Personal Hotspotot és bedugta szinkronizálni, vagy éppen 3G/4G-ről internetezik, és felkapcsolódik a céges VPN-re.
 Oké, de ilyenkor mi kap prioritást? Az, ami feljebb van a listán. Milyen listán?
 Windows 7 alatt is, meg OSX alatt is jól el van rejtve ez.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Mivel most szívom meg többedszerre ezzel, leírom, hátha segít valaki másnak is. Szóval, adott az a helyzet, amikor az embernek egynél több hálózati kapcsolata aktív: egyszerre van fent céges hálózaton wifivel meg kábellel, esetleg bekapcsolva hagyta az ájfónján a Personal Hotspotot és bedugta szinkronizálni, vagy éppen 3G/4G-ről internetezik, és felkapcsolódik a céges VPN-re.</p>
 
 <p>Oké, de ilyenkor mi kap prioritást? Az, ami feljebb van a listán. Milyen listán?</p>
@@ -38,32 +38,32 @@ Windows 7 alatt is, meg OSX alatt is jól el van rejtve ez.</summary>
 <p>Windows 7 alatt is, meg OSX alatt is jól el van rejtve ez. Az előbbi alatt az <a href="http://windows.microsoft.com/en-us/windows7/change-the-order-of-network-protocol-bindings">itt található leírást</a> kell követni a megfelelő ablak eléréséig, míg OSX alatt a System Preferences &#8211; Network &#8211; fogaskerék ikon baloldalt lent &#8211; Set Service order&#8230; menüpont alatt lehet beállítani a megfelelő sorrendet. Ezzel elkerülhető az, amibe például legutóbb futottam, hogy a céges VPN-re kapcsolódva 3G/4G-ről hirtelen elment az internetem, mert magasabb volt a prioritása a kapcsolatnak, míg wifin ez nem jött elő, mert azt még régebben a megfelelő helyre ráncigáltam az említett listán&#8230;</p>
 
 <footer>
-    <a title="Permanent link to “Közérdekű közlemény: Service Order, avagy a hálózati kapcsolatok prioritása”" href="https://ktamas.github.io/index.php/2013/08/09/kozerdeku-kozlemeny-service-order-avagy-a-halozati-kapcsolatok-prioritasa/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Közérdekű közlemény: Service Order, avagy a hálózati kapcsolatok prioritása”" href="https://blog.ktamas.com/index.php/2013/08/09/kozerdeku-kozlemeny-service-order-avagy-a-halozati-kapcsolatok-prioritasa/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/osx/">osx</a></li>
-                <li><a href="https://ktamas.github.io/tags/random/">random</a></li>
-                <li><a href="https://ktamas.github.io/tags/windows/">windows</a></li>
+                <li><a href="https://blog.ktamas.com/tags/osx/">osx</a></li>
+                <li><a href="https://blog.ktamas.com/tags/random/">random</a></li>
+                <li><a href="https://blog.ktamas.com/tags/windows/">windows</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2013/06/13/hasznos-osx-es-cuccok-grabbox/</id>
+		<id>https://blog.ktamas.com/index.php/2013/06/13/hasznos-osx-es-cuccok-grabbox/</id>
 		<title>Hasznos OSX-es cuccok: Grabbox</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/06/13/hasznos-osx-es-cuccok-grabbox/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/06/13/hasznos-osx-es-cuccok-grabbox/"/>
 		<updated>2013-06-13T13:37:44Z</updated>
 		<published>2013-06-13T13:37:44Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="mac" label="mac"/>
-		<category scheme="https://ktamas.github.io/tags" term="osx" label="osx"/>
+		<category scheme="https://blog.ktamas.com/tags" term="mac" label="mac"/>
+		<category scheme="https://blog.ktamas.com/tags" term="osx" label="osx"/>
 		<summary>Screenshotok megosztására OSX-en temérdek megoldás van, én a Grabboxnál kötöttem ki. Kicsi, ingyenes, beépül a menüsorba és nem kér enni, egyszer belövi az ember, és működik. A nevében lévő “box” nem véletlen: a vele készült screenshotok bekerülnek egy kívánt Dropbox mappába (a Public mappánkon belül), és a vágólapra kerül a képnek a linkje, megosztásra képen. A legszebb az egészben pedig az, hogy screenshotokat pontosan ugyanúgy készítünk, mint eddig: Command-Shift-3⁄4. Két apró kényelmetlenség: nekem a felbukkanó Growl értesítésre kattintás valamiért nem megy nekem (az utóbbi fél évben nem használtam ezt egyszer se igazából), illetve ha több képernyője van az embernek, akkor mindkettőről készül screenshot, de csak a második linkje kerül automatán vágólapra.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p><a href="/wp-content/uploads/2013/06/h0.png"><img src="/wp-content/uploads/2013/06/h0.png" alt="h0" width="316" height="119" class="aligncenter size-full wp-image-2364833" srcset="/wp-content/uploads/2013/06/h0.png 316w, /wp-content/uploads/2013/06/h0-300x112.png 300w" sizes="(max-width: 316px) 100vw, 316px" /></a></p>
 
 <p>Screenshotok megosztására OSX-en temérdek megoldás van, én a <a href="http://grabbox.devsoft.no/">Grabbox</a>nál kötöttem ki. Kicsi, ingyenes, beépül a menüsorba és nem kér enni, egyszer belövi az ember, és működik. A nevében lévő &#8220;box&#8221; nem véletlen: a vele készült screenshotok bekerülnek egy kívánt Dropbox mappába (a Public mappánkon belül), és a vágólapra kerül a képnek a linkje, megosztásra képen. A legszebb az egészben pedig az, hogy screenshotokat pontosan ugyanúgy készítünk, mint eddig: Command-Shift-<sup>3</sup>&frasl;<sub>4</sub>. Két apró kényelmetlenség: nekem a felbukkanó Growl értesítésre kattintás valamiért nem megy nekem (az utóbbi fél évben nem használtam ezt egyszer se igazából), illetve ha több képernyője van az embernek, akkor mindkettőről készül screenshot, de csak a második linkje kerül automatán vágólapra.</p>
@@ -71,33 +71,33 @@ Windows 7 alatt is, meg OSX alatt is jól el van rejtve ez.</summary>
 <p><a href="/wp-content/uploads/2013/06/gw.png"><img src="/wp-content/uploads/2013/06/gw.png" alt="gw" width="579" height="293" class="aligncenter size-full wp-image-2364830" srcset="/wp-content/uploads/2013/06/gw.png 579w, /wp-content/uploads/2013/06/gw-300x151.png 300w" sizes="(max-width: 579px) 100vw, 579px" /></a></p>
 
 <footer>
-    <a title="Permanent link to “Hasznos OSX-es cuccok: Grabbox”" href="https://ktamas.github.io/index.php/2013/06/13/hasznos-osx-es-cuccok-grabbox/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Hasznos OSX-es cuccok: Grabbox”" href="https://blog.ktamas.com/index.php/2013/06/13/hasznos-osx-es-cuccok-grabbox/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/mac/">mac</a></li>
-                <li><a href="https://ktamas.github.io/tags/osx/">osx</a></li>
+                <li><a href="https://blog.ktamas.com/tags/mac/">mac</a></li>
+                <li><a href="https://blog.ktamas.com/tags/osx/">osx</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2013/06/11/hasznos-osx-es-cuccok-day-o/</id>
+		<id>https://blog.ktamas.com/index.php/2013/06/11/hasznos-osx-es-cuccok-day-o/</id>
 		<title>Hasznos OSX-es cuccok: Day-O</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/06/11/hasznos-osx-es-cuccok-day-o/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/06/11/hasznos-osx-es-cuccok-day-o/"/>
 		<updated>2013-06-11T15:29:55Z</updated>
 		<published>2013-06-11T15:29:55Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="mac" label="mac"/>
-		<category scheme="https://ktamas.github.io/tags" term="osx" label="osx"/>
+		<category scheme="https://blog.ktamas.com/tags" term="mac" label="mac"/>
+		<category scheme="https://blog.ktamas.com/tags" term="osx" label="osx"/>
 		<summary>A Microsoftnál elég korán felismerték, hogy az emberek a dátumbeállító ablakot sokszor naptárnak használják, olyannyira, hogy a Windows 7-re* ez egyenesen feature lett, a jobb alsó sarokban lévő órára és/vagy naptárra kattintva előjön egy pontosan erre használható naptár.
 
 Ez a szolgáltatás sajnos teljesen hiányzik az OSX-ből, szerencsére élelmes fejlesztők felismerték rá az igényt, én erre a Day-O-t használom. Pontosan annyit tud, hogy feldob egy naptárat, ami között lehet navigálni, visszatérni az aktuális hónapra, és nem mellesleg kijelzi az időt és/vagy dátumot a kívánt formában.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>A Microsoftnál <a href="http://blogs.msdn.com/b/oldnewthing/archive/2005/06/21/431054.aspx">elég korán felismerték</a>, hogy az emberek a dátumbeállító ablakot sokszor naptárnak használják, olyannyira, hogy a Windows 7-re* ez egyenesen feature lett, a jobb alsó sarokban lévő órára és/vagy naptárra kattintva előjön egy pontosan erre használható naptár.</p>
 
 <p><a href="/wp-content/uploads/2013/06/gn.png"><img src="/wp-content/uploads/2013/06/gn.png" alt="day-o" width="232" height="302" class="aligncenter size-full wp-image-2364764" srcset="/wp-content/uploads/2013/06/gn.png 232w, /wp-content/uploads/2013/06/gn-230x300.png 230w" sizes="(max-width: 232px) 100vw, 232px" /></a></p>
@@ -109,33 +109,33 @@ Ez a szolgáltatás sajnos teljesen hiányzik az OSX-ből, szerencsére élelmes
 <p><small>* Asszem valójában Vista óta, de mint az köztudott, a Vista nem történt meg</small></p>
 
 <footer>
-    <a title="Permanent link to “Hasznos OSX-es cuccok: Day-O”" href="https://ktamas.github.io/index.php/2013/06/11/hasznos-osx-es-cuccok-day-o/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Hasznos OSX-es cuccok: Day-O”" href="https://blog.ktamas.com/index.php/2013/06/11/hasznos-osx-es-cuccok-day-o/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/mac/">mac</a></li>
-                <li><a href="https://ktamas.github.io/tags/osx/">osx</a></li>
+                <li><a href="https://blog.ktamas.com/tags/mac/">mac</a></li>
+                <li><a href="https://blog.ktamas.com/tags/osx/">osx</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2013/06/10/hasznos-osx-es-cuccok-jumpcut/</id>
+		<id>https://blog.ktamas.com/index.php/2013/06/10/hasznos-osx-es-cuccok-jumpcut/</id>
 		<title>Hasznos OSX-es cuccok: Jumpcut</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/06/10/hasznos-osx-es-cuccok-jumpcut/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/06/10/hasznos-osx-es-cuccok-jumpcut/"/>
 		<updated>2013-06-10T15:50:38Z</updated>
 		<published>2013-06-10T15:50:38Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="mac" label="mac"/>
-		<category scheme="https://ktamas.github.io/tags" term="osx" label="osx"/>
+		<category scheme="https://blog.ktamas.com/tags" term="mac" label="mac"/>
+		<category scheme="https://blog.ktamas.com/tags" term="osx" label="osx"/>
 		<summary>Régebben már írtam a Moomról, ami az egyik kedvenc OSX-es segédprogramom, most itt egy másik, ami nélkül szintén nem tudok élni: ez pedig a Jumpcut.
 
 A Jumpcut egy kőegyszerű vágólap-kezelő: eltárolja nekünk az utolsó x (maximum 99) szöveget, amit oda másoltunk, amit aztán egyszerűen előhozhatunk vagy a felső menüsori ikonjára kattintva, vagy, ami szerintem sokkal kényelmesebb, és nem szükséges hozzá az egér használata, egy tetszőleges billentyűparanccsal (nekem ^⌥V lett, de kinek mi) fel tud dobni egy ablakot a képernyő közepére, ahonnan gyorsan és egyszerűen ki tudjuk választani a szöveget a kurzorgombokkal, amit keresünk.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Régebben <a href="http://blog.ktamas.com/index.php/2012/03/23/hasznos-osx-es-cuccok-moom/">már írtam a Moomról</a>, ami az egyik kedvenc OSX-es segédprogramom, most itt egy másik, ami nélkül szintén nem tudok élni: ez pedig a <a href="http://jumpcut.sourceforge.net/">Jumpcut</a>.</p>
 
 <p><a href="/wp-content/uploads/2013/06/gl.png"><img src="/wp-content/uploads/2013/06/gl.png" alt="gl" width="549" height="295" class="aligncenter size-full wp-image-2364758" srcset="/wp-content/uploads/2013/06/gl.png 549w, /wp-content/uploads/2013/06/gl-300x161.png 300w" sizes="(max-width: 549px) 100vw, 549px" /></a></p>
@@ -149,63 +149,63 @@ A Jumpcut egy kőegyszerű vágólap-kezelő: eltárolja nekünk az utolsó x (m
 <p>Ja, és ne ijesszen el senkit az, hogy nem volt több, mint 4 éve frissítve, a mai napig hibátlanul üzemel a legújabb OSX verzió alatt is.</p>
 
 <footer>
-    <a title="Permanent link to “Hasznos OSX-es cuccok: Jumpcut”" href="https://ktamas.github.io/index.php/2013/06/10/hasznos-osx-es-cuccok-jumpcut/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Hasznos OSX-es cuccok: Jumpcut”" href="https://blog.ktamas.com/index.php/2013/06/10/hasznos-osx-es-cuccok-jumpcut/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/mac/">mac</a></li>
-                <li><a href="https://ktamas.github.io/tags/osx/">osx</a></li>
+                <li><a href="https://blog.ktamas.com/tags/mac/">mac</a></li>
+                <li><a href="https://blog.ktamas.com/tags/osx/">osx</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2013/06/07/valtas-a-billentyukiosztasok-kozott-caps-lockkal-osx-alatt/</id>
+		<id>https://blog.ktamas.com/index.php/2013/06/07/valtas-a-billentyukiosztasok-kozott-caps-lockkal-osx-alatt/</id>
 		<title>Hasznos OSX-es cuccok: váltás a billentyűkiosztások között Caps Lockkal</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/06/07/valtas-a-billentyukiosztasok-kozott-caps-lockkal-osx-alatt/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/06/07/valtas-a-billentyukiosztasok-kozott-caps-lockkal-osx-alatt/"/>
 		<updated>2013-06-07T14:25:19Z</updated>
 		<published>2013-06-07T14:25:19Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="mac" label="mac"/>
-		<category scheme="https://ktamas.github.io/tags" term="osx" label="osx"/>
+		<category scheme="https://blog.ktamas.com/tags" term="mac" label="mac"/>
+		<category scheme="https://blog.ktamas.com/tags" term="osx" label="osx"/>
 		<summary>Rakjuk el rovatunk következik: itt van leírva, hogy kell belőni OSX alatt azt, hogy a Caps Lockkal tudjunk a billentyűzetkiosztások között váltani. Nekem ez különösen hasznos, mert hármat használok egyszerre: alapból egy mezei amerikai kiosztást, de a blogoláshoz, meg mikor néha ékezetek kellenek, átváltok a magyarra (abból is a Hungarian QWERTY kiosztást használom), és amióta kiköltöztem Svédoszágba, azóta előkerül rendszeresen a svéd kiosztás is. Régebben csináltam magamnak egy hibrid kiosztást az Ukulele segítségével, de ez valahogy jobban bevált, és így nem kell AltGr-t használnom a különböző ékezetes karakterekhez, hanem csak egy (vagy két) gombnyomásra van a kívánt kiosztás.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p><a href="https://www.google.com/search?q=rakjuk+el+site%3Aworldshots.hu">Rakjuk el</a> rovatunk következik: <a href="http://d43.me/blog/593/select-input-language-by-caps-lock-in-mac-os-x/">itt van leírva</a>, hogy kell belőni OSX alatt azt, hogy a Caps Lockkal tudjunk a billentyűzetkiosztások között váltani. Nekem ez különösen hasznos, mert hármat használok egyszerre: alapból egy mezei amerikai kiosztást, de a blogoláshoz, meg mikor néha ékezetek kellenek, átváltok a magyarra (abból is a <a href="http://neuromancer.hu/HunQWERTY/">Hungarian QWERTY</a> kiosztást használom), és amióta kiköltöztem Svédoszágba, azóta előkerül rendszeresen a svéd kiosztás is. Régebben csináltam magamnak egy hibrid kiosztást az <a href="http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&amp;id=ukelele">Ukulele</a> segítségével, de ez valahogy jobban bevált, és így nem kell AltGr-t használnom a különböző ékezetes karakterekhez, hanem csak egy (vagy két) gombnyomásra van a kívánt kiosztás. Egyetlen módosítást eszközöltem az eredeti cikkhez képest: úgy lőttem be, hogy mindig a <strong>következő</strong> kiosztásra ugorjon, mert így tudok váltogatni kényelmesen mindhárom között.</p>
 
 <p><a href="/wp-content/uploads/2013/06/gp.png"><img src="/wp-content/uploads/2013/06/gp.png" alt="gp" width="668" height="598" class="aligncenter size-full wp-image-2364773" srcset="/wp-content/uploads/2013/06/gp.png 668w, /wp-content/uploads/2013/06/gp-300x268.png 300w, /wp-content/uploads/2013/06/gp-624x558.png 624w" sizes="(max-width: 668px) 100vw, 668px" /></a></p>
 
 <footer>
-    <a title="Permanent link to “Hasznos OSX-es cuccok: váltás a billentyűkiosztások között Caps Lockkal”" href="https://ktamas.github.io/index.php/2013/06/07/valtas-a-billentyukiosztasok-kozott-caps-lockkal-osx-alatt/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Hasznos OSX-es cuccok: váltás a billentyűkiosztások között Caps Lockkal”" href="https://blog.ktamas.com/index.php/2013/06/07/valtas-a-billentyukiosztasok-kozott-caps-lockkal-osx-alatt/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/mac/">mac</a></li>
-                <li><a href="https://ktamas.github.io/tags/osx/">osx</a></li>
+                <li><a href="https://blog.ktamas.com/tags/mac/">mac</a></li>
+                <li><a href="https://blog.ktamas.com/tags/osx/">osx</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2012/08/07/rdp-osx-alatt/</id>
+		<id>https://blog.ktamas.com/index.php/2012/08/07/rdp-osx-alatt/</id>
 		<title>RDP OSX alatt</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2012/08/07/rdp-osx-alatt/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2012/08/07/rdp-osx-alatt/"/>
 		<updated>2012-08-07T13:19:22Z</updated>
 		<published>2012-08-07T13:19:22Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="commandline" label="commandline"/>
-		<category scheme="https://ktamas.github.io/tags" term="mac" label="mac"/>
-		<category scheme="https://ktamas.github.io/tags" term="osx" label="osx"/>
+		<category scheme="https://blog.ktamas.com/tags" term="commandline" label="commandline"/>
+		<category scheme="https://blog.ktamas.com/tags" term="mac" label="mac"/>
+		<category scheme="https://blog.ktamas.com/tags" term="osx" label="osx"/>
 		<summary>Valószínű nem én vagyok az egyetlen, akinek a munkája miatt be kell RDP-znie különböző Windowsos gépekre — és OSX-et használ.
 A rendes felhasználó természetesen először a hivatalos megoldással próbálkozik, a Microsoftnak van egy Remote Desktop Connection Client nevű szoftvere, letölt, felrak, minden megy. Kivéve persze, hogy nem, mert másfél éve nem frissült, és már 10.6 alatt is szeretett kifagyni pl. kilépéskor, 10.7 alatt még instabilabb lett, most így 10.8-ra már fel se rakom.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Valószínű nem én vagyok az egyetlen, akinek a munkája miatt be kell RDP-znie különböző Windowsos gépekre &#8212; és OSX-et használ.</p>
 
 <p>A rendes felhasználó természetesen először a hivatalos megoldással próbálkozik, a Microsoftnak van egy <a href="http://www.microsoft.com/mac/remote-desktop-client">Remote Desktop Connection Client</a> nevű szoftvere, letölt, felrak, minden megy. Kivéve persze, hogy nem, mert <a href="http://www.microsoft.com/mac/downloads?pid=Mactopia_RDC&amp;fid=68346E0D-44D3-4065-99BB-B664B27EE1F0#viewer">másfél éve nem frissült</a>, és már 10.6 alatt is szeretett kifagyni pl. kilépéskor, 10.7 alatt még instabilabb lett, most így 10.8-ra már fel se rakom. Arról nem is beszélve, hogy például csak egyetlen fix felhasználónév-jelszó-domain triót tud megjegyezni, és ha megjegyeztetjük vele, akkor az összes szervernél ezzel fog próbálkozni. Szóval ez az opció sajnos kiesik, és az ember elkezd alternatívákat keresni.</p>
@@ -223,14 +223,14 @@ A rendes felhasználó természetesen először a hivatalos megoldással próbá
 <p>(igen tudom hogy lassan kéne csinálnom egy külön blogot a tech dolgoknak)</p>
 
 <footer>
-    <a title="Permanent link to “RDP OSX alatt”" href="https://ktamas.github.io/index.php/2012/08/07/rdp-osx-alatt/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “RDP OSX alatt”" href="https://blog.ktamas.com/index.php/2012/08/07/rdp-osx-alatt/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/commandline/">commandline</a></li>
-                <li><a href="https://ktamas.github.io/tags/mac/">mac</a></li>
-                <li><a href="https://ktamas.github.io/tags/osx/">osx</a></li>
+                <li><a href="https://blog.ktamas.com/tags/commandline/">commandline</a></li>
+                <li><a href="https://blog.ktamas.com/tags/mac/">mac</a></li>
+                <li><a href="https://blog.ktamas.com/tags/osx/">osx</a></li>
             </ul>
         </div>
 </footer>]]></content>

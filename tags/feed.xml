@@ -1,991 +1,991 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
-	<id>https://ktamas.github.io/tags/</id>
+	<id>https://blog.ktamas.com/tags/</id>
 	<title>Just a Theory Tags</title>
 	<subtitle>Bringing you irregular content since 2009. By KTamas.</subtitle>
 	<updated>2015-06-24T10:42:52Z</updated>
-	<link rel="self" type="application/atom+xml" href="https://ktamas.github.io/tags/feed.xml"/>
-	<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/"/>
-	<link rel="alternate" type="application/json" href="https://ktamas.github.io/tags/feed.json"/>
+	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/"/>
+	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/feed.json"/>
 	<author>
 		<name>KTamas</name>
-		<uri>https://ktamas.github.io/</uri>
+		<uri>https://blog.ktamas.com/</uri>
 	</author>
 	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
-	<icon>"https://ktamas.github.io/icon-512x512.png"</icon>
+	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
 	<entry>
-		<id>https://ktamas.github.io/tags/2015/</id>
+		<id>https://blog.ktamas.com/tags/2015/</id>
 		<title>2015</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/2015/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/2015/"/>
 		<updated>2015-06-24T10:42:52Z</updated>
 		<published>2015-06-24T10:42:52Z</published>
 		<summary>Posts about 2015</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/agymenes/</id>
+		<id>https://blog.ktamas.com/tags/agymenes/</id>
 		<title>agymenes</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/agymenes/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/agymenes/"/>
 		<updated>2011-11-01T21:52:17Z</updated>
 		<published>2011-11-01T21:52:17Z</published>
 		<summary>Posts about agymenes</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/aj%C3%A1nl%C3%B3/</id>
+		<id>https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/</id>
 		<title>ajánló</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/aj%C3%A1nl%C3%B3/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/"/>
 		<updated>2011-10-20T15:00:07Z</updated>
 		<published>2011-10-20T15:00:07Z</published>
 		<summary>Posts about ajánló</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/android/</id>
+		<id>https://blog.ktamas.com/tags/android/</id>
 		<title>android</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/android/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/android/"/>
 		<updated>2010-12-19T12:20:21Z</updated>
 		<published>2010-12-19T12:20:21Z</published>
 		<summary>Posts about android</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/anime/</id>
+		<id>https://blog.ktamas.com/tags/anime/</id>
 		<title>anime</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/anime/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/anime/"/>
 		<updated>2009-07-16T08:33:12Z</updated>
 		<published>2009-07-16T08:33:12Z</published>
 		<summary>Posts about anime</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/apple/</id>
+		<id>https://blog.ktamas.com/tags/apple/</id>
 		<title>apple</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/apple/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/apple/"/>
 		<updated>2010-12-19T12:20:21Z</updated>
 		<published>2010-12-19T12:20:21Z</published>
 		<summary>Posts about apple</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/backlog/</id>
+		<id>https://blog.ktamas.com/tags/backlog/</id>
 		<title>backlog</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/backlog/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/backlog/"/>
 		<updated>2011-05-04T09:41:19Z</updated>
 		<published>2011-05-04T09:41:19Z</published>
 		<summary>Posts about backlog</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/balkan/</id>
+		<id>https://blog.ktamas.com/tags/balkan/</id>
 		<title>balkan</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/balkan/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/balkan/"/>
 		<updated>2009-12-16T19:58:02Z</updated>
 		<published>2009-12-16T19:58:02Z</published>
 		<summary>Posts about balkan</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/bennevagyokazinternetben/</id>
+		<id>https://blog.ktamas.com/tags/bennevagyokazinternetben/</id>
 		<title>bennevagyokazinternetben</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/bennevagyokazinternetben/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/bennevagyokazinternetben/"/>
 		<updated>2012-10-16T15:24:43Z</updated>
 		<published>2012-10-16T15:24:43Z</published>
 		<summary>Posts about bennevagyokazinternetben</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/bicikli/</id>
+		<id>https://blog.ktamas.com/tags/bicikli/</id>
 		<title>bicikli</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/bicikli/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/bicikli/"/>
 		<updated>2009-06-06T20:53:30Z</updated>
 		<published>2009-06-06T20:53:30Z</published>
 		<summary>Posts about bicikli</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/blackberry/</id>
+		<id>https://blog.ktamas.com/tags/blackberry/</id>
 		<title>blackberry</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/blackberry/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/blackberry/"/>
 		<updated>2010-12-19T12:20:21Z</updated>
 		<published>2010-12-19T12:20:21Z</published>
 		<summary>Posts about blackberry</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/bor/</id>
+		<id>https://blog.ktamas.com/tags/bor/</id>
 		<title>bor</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/bor/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/bor/"/>
 		<updated>2013-08-09T10:35:50Z</updated>
 		<published>2013-08-09T10:35:50Z</published>
 		<summary>Posts about bor</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/bsg/</id>
+		<id>https://blog.ktamas.com/tags/bsg/</id>
 		<title>bsg</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/bsg/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/bsg/"/>
 		<updated>2009-03-24T10:00:39Z</updated>
 		<published>2009-03-24T10:00:39Z</published>
 		<summary>Posts about bsg</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/budapest/</id>
+		<id>https://blog.ktamas.com/tags/budapest/</id>
 		<title>budapest</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/budapest/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/budapest/"/>
 		<updated>2014-01-21T09:46:58Z</updated>
 		<published>2014-01-21T09:46:58Z</published>
 		<summary>Posts about budapest</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/b%C3%A9cs/</id>
+		<id>https://blog.ktamas.com/tags/b%C3%A9cs/</id>
 		<title>bécs</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/b%C3%A9cs/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/b%C3%A9cs/"/>
 		<updated>2009-06-27T16:57:29Z</updated>
 		<published>2009-06-27T16:57:29Z</published>
 		<summary>Posts about bécs</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/chat/</id>
+		<id>https://blog.ktamas.com/tags/chat/</id>
 		<title>chat</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/chat/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/chat/"/>
 		<updated>2010-04-18T01:19:00Z</updated>
 		<published>2010-04-18T01:19:00Z</published>
 		<summary>Posts about chat</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/commandline/</id>
+		<id>https://blog.ktamas.com/tags/commandline/</id>
 		<title>commandline</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/commandline/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/commandline/"/>
 		<updated>2012-08-07T13:19:22Z</updated>
 		<published>2012-08-07T13:19:22Z</published>
 		<summary>Posts about commandline</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/c%C3%A9g/</id>
+		<id>https://blog.ktamas.com/tags/c%C3%A9g/</id>
 		<title>cég</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/c%C3%A9g/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/c%C3%A9g/"/>
 		<updated>2013-05-23T13:29:13Z</updated>
 		<published>2013-05-23T13:29:13Z</published>
 		<summary>Posts about cég</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/demo/</id>
+		<id>https://blog.ktamas.com/tags/demo/</id>
 		<title>demo</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/demo/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/demo/"/>
 		<updated>2010-12-19T22:09:15Z</updated>
 		<published>2010-12-19T22:09:15Z</published>
 		<summary>Posts about demo</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/desktop/</id>
+		<id>https://blog.ktamas.com/tags/desktop/</id>
 		<title>desktop</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/desktop/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/desktop/"/>
 		<updated>2009-09-24T09:54:05Z</updated>
 		<published>2009-09-24T09:54:05Z</published>
 		<summary>Posts about desktop</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/die_outlook_die/</id>
+		<id>https://blog.ktamas.com/tags/die_outlook_die/</id>
 		<title>die_outlook_die</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/die_outlook_die/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/die_outlook_die/"/>
 		<updated>2009-05-17T18:16:35Z</updated>
 		<published>2009-05-17T18:16:35Z</published>
 		<summary>Posts about die_outlook_die</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/doctorwho/</id>
+		<id>https://blog.ktamas.com/tags/doctorwho/</id>
 		<title>doctorwho</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/doctorwho/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/doctorwho/"/>
 		<updated>2011-05-13T09:46:01Z</updated>
 		<published>2011-05-13T09:46:01Z</published>
 		<summary>Posts about doctorwho</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/ebook/</id>
+		<id>https://blog.ktamas.com/tags/ebook/</id>
 		<title>ebook</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/ebook/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/ebook/"/>
 		<updated>2009-07-24T22:09:24Z</updated>
 		<published>2009-07-24T22:09:24Z</published>
 		<summary>Posts about ebook</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/el%C5%91ad%C3%A1s/</id>
+		<id>https://blog.ktamas.com/tags/el%C5%91ad%C3%A1s/</id>
 		<title>előadás</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/el%C5%91ad%C3%A1s/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/el%C5%91ad%C3%A1s/"/>
 		<updated>2011-10-12T12:38:33Z</updated>
 		<published>2011-10-12T12:38:33Z</published>
 		<summary>Posts about előadás</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/enkerekelnezest/</id>
+		<id>https://blog.ktamas.com/tags/enkerekelnezest/</id>
 		<title>enkerekelnezest</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/enkerekelnezest/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/enkerekelnezest/"/>
 		<updated>2009-04-30T20:55:17Z</updated>
 		<published>2009-04-30T20:55:17Z</published>
 		<summary>Posts about enkerekelnezest</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/fagyi/</id>
+		<id>https://blog.ktamas.com/tags/fagyi/</id>
 		<title>fagyi</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/fagyi/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/fagyi/"/>
 		<updated>2013-08-08T14:39:49Z</updated>
 		<published>2013-08-08T14:39:49Z</published>
 		<summary>Posts about fagyi</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/film/</id>
+		<id>https://blog.ktamas.com/tags/film/</id>
 		<title>film</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/film/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/film/"/>
 		<updated>2014-02-08T10:45:19Z</updated>
 		<published>2014-02-08T10:45:19Z</published>
 		<summary>Posts about film</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/flamebait/</id>
+		<id>https://blog.ktamas.com/tags/flamebait/</id>
 		<title>flamebait</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/flamebait/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/flamebait/"/>
 		<updated>2014-03-07T18:37:35Z</updated>
 		<published>2014-03-07T18:37:35Z</published>
 		<summary>Posts about flamebait</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/fogorvos/</id>
+		<id>https://blog.ktamas.com/tags/fogorvos/</id>
 		<title>fogorvos</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/fogorvos/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/fogorvos/"/>
 		<updated>2013-09-28T12:23:16Z</updated>
 		<published>2013-09-28T12:23:16Z</published>
 		<summary>Posts about fogorvos</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/fog%C3%A1szat/</id>
+		<id>https://blog.ktamas.com/tags/fog%C3%A1szat/</id>
 		<title>fogászat</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/fog%C3%A1szat/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/fog%C3%A1szat/"/>
 		<updated>2013-09-29T10:31:59Z</updated>
 		<published>2013-09-29T10:31:59Z</published>
 		<summary>Posts about fogászat</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/fot%C3%B3z%C3%A1s/</id>
+		<id>https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/</id>
 		<title>fotózás</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/fot%C3%B3z%C3%A1s/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/"/>
 		<updated>2015-06-24T10:42:52Z</updated>
 		<published>2015-06-24T10:42:52Z</published>
 		<summary>Posts about fotózás</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/furcsak%C3%A9p/</id>
+		<id>https://blog.ktamas.com/tags/furcsak%C3%A9p/</id>
 		<title>furcsakép</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/furcsak%C3%A9p/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/furcsak%C3%A9p/"/>
 		<updated>2009-01-05T14:21:51Z</updated>
 		<published>2009-01-05T14:21:51Z</published>
 		<summary>Posts about furcsakép</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/futurama/</id>
+		<id>https://blog.ktamas.com/tags/futurama/</id>
 		<title>futurama</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/futurama/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/futurama/"/>
 		<updated>2009-08-02T15:24:01Z</updated>
 		<published>2009-08-02T15:24:01Z</published>
 		<summary>Posts about futurama</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/f%C3%BCles/</id>
+		<id>https://blog.ktamas.com/tags/f%C3%BCles/</id>
 		<title>füles</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/f%C3%BCles/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/f%C3%BCles/"/>
 		<updated>2009-07-03T10:00:27Z</updated>
 		<published>2009-07-03T10:00:27Z</published>
 		<summary>Posts about füles</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/gasztro/</id>
+		<id>https://blog.ktamas.com/tags/gasztro/</id>
 		<title>gasztro</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/gasztro/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/gasztro/"/>
 		<updated>2011-06-05T11:40:30Z</updated>
 		<published>2011-06-05T11:40:30Z</published>
 		<summary>Posts about gasztro</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/geekdom/</id>
+		<id>https://blog.ktamas.com/tags/geekdom/</id>
 		<title>geekdom</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/geekdom/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/geekdom/"/>
 		<updated>2010-06-12T11:00:00Z</updated>
 		<published>2010-06-12T11:00:00Z</published>
 		<summary>Posts about geekdom</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/hit/</id>
+		<id>https://blog.ktamas.com/tags/hit/</id>
 		<title>hit</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/hit/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/hit/"/>
 		<updated>2011-05-18T13:25:03Z</updated>
 		<published>2011-05-18T13:25:03Z</published>
 		<summary>Posts about hit</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/hurr%C3%A1nyaralunk/</id>
+		<id>https://blog.ktamas.com/tags/hurr%C3%A1nyaralunk/</id>
 		<title>hurrányaralunk</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/hurr%C3%A1nyaralunk/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/hurr%C3%A1nyaralunk/"/>
 		<updated>2009-08-02T15:07:29Z</updated>
 		<published>2009-08-02T15:07:29Z</published>
 		<summary>Posts about hurrányaralunk</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/id%C3%A9zet/</id>
+		<id>https://blog.ktamas.com/tags/id%C3%A9zet/</id>
 		<title>idézet</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/id%C3%A9zet/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/id%C3%A9zet/"/>
 		<updated>2009-01-13T09:40:59Z</updated>
 		<published>2009-01-13T09:40:59Z</published>
 		<summary>Posts about idézet</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/ige/</id>
+		<id>https://blog.ktamas.com/tags/ige/</id>
 		<title>ige</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/ige/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/ige/"/>
 		<updated>2009-05-24T19:55:56Z</updated>
 		<published>2009-05-24T19:55:56Z</published>
 		<summary>Posts about ige</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/imap/</id>
+		<id>https://blog.ktamas.com/tags/imap/</id>
 		<title>imap</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/imap/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/imap/"/>
 		<updated>2009-05-24T12:16:24Z</updated>
 		<published>2009-05-24T12:16:24Z</published>
 		<summary>Posts about imap</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/irrit%C3%A1l/</id>
+		<id>https://blog.ktamas.com/tags/irrit%C3%A1l/</id>
 		<title>irritál</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/irrit%C3%A1l/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/irrit%C3%A1l/"/>
 		<updated>2013-04-20T11:40:25Z</updated>
 		<published>2013-04-20T11:40:25Z</published>
 		<summary>Posts about irritál</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/it/</id>
+		<id>https://blog.ktamas.com/tags/it/</id>
 		<title>it</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/it/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/it/"/>
 		<updated>2009-03-24T20:46:58Z</updated>
 		<published>2009-03-24T20:46:58Z</published>
 		<summary>Posts about it</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/izraeli/</id>
+		<id>https://blog.ktamas.com/tags/izraeli/</id>
 		<title>izraeli</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/izraeli/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/izraeli/"/>
 		<updated>2011-05-09T11:24:59Z</updated>
 		<published>2011-05-09T11:24:59Z</published>
 		<summary>Posts about izraeli</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/jap%C3%A1n/</id>
+		<id>https://blog.ktamas.com/tags/jap%C3%A1n/</id>
 		<title>japán</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/jap%C3%A1n/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/jap%C3%A1n/"/>
 		<updated>2009-06-26T13:23:17Z</updated>
 		<published>2009-06-26T13:23:17Z</published>
 		<summary>Posts about japán</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/javascript/</id>
+		<id>https://blog.ktamas.com/tags/javascript/</id>
 		<title>javascript</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/javascript/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/javascript/"/>
 		<updated>2011-05-05T23:58:46Z</updated>
 		<published>2011-05-05T23:58:46Z</published>
 		<summary>Posts about javascript</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/kaja/</id>
+		<id>https://blog.ktamas.com/tags/kaja/</id>
 		<title>kaja</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/kaja/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/kaja/"/>
 		<updated>2013-08-10T11:31:41Z</updated>
 		<published>2013-08-10T11:31:41Z</published>
 		<summary>Posts about kaja</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/kerdes/</id>
+		<id>https://blog.ktamas.com/tags/kerdes/</id>
 		<title>kerdes</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/kerdes/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/kerdes/"/>
 		<updated>2009-02-15T13:40:32Z</updated>
 		<published>2009-02-15T13:40:32Z</published>
 		<summary>Posts about kerdes</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/keyboard/</id>
+		<id>https://blog.ktamas.com/tags/keyboard/</id>
 		<title>keyboard</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/keyboard/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/keyboard/"/>
 		<updated>2009-09-03T14:18:37Z</updated>
 		<published>2009-09-03T14:18:37Z</published>
 		<summary>Posts about keyboard</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/kindle/</id>
+		<id>https://blog.ktamas.com/tags/kindle/</id>
 		<title>kindle</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/kindle/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/kindle/"/>
 		<updated>2012-10-16T11:03:55Z</updated>
 		<published>2012-10-16T11:03:55Z</published>
 		<summary>Posts about kindle</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/koncert/</id>
+		<id>https://blog.ktamas.com/tags/koncert/</id>
 		<title>koncert</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/koncert/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/koncert/"/>
 		<updated>2009-09-10T23:54:58Z</updated>
 		<published>2009-09-10T23:54:58Z</published>
 		<summary>Posts about koncert</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/krikett/</id>
+		<id>https://blog.ktamas.com/tags/krikett/</id>
 		<title>krikett</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/krikett/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/krikett/"/>
 		<updated>2009-07-13T19:57:12Z</updated>
 		<published>2009-07-13T19:57:12Z</published>
 		<summary>Posts about krikett</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/k%C3%B3rus/</id>
+		<id>https://blog.ktamas.com/tags/k%C3%B3rus/</id>
 		<title>kórus</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/k%C3%B3rus/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/k%C3%B3rus/"/>
 		<updated>2013-12-24T17:22:54Z</updated>
 		<published>2013-12-24T17:22:54Z</published>
 		<summary>Posts about kórus</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/k%C3%B6nyv/</id>
+		<id>https://blog.ktamas.com/tags/k%C3%B6nyv/</id>
 		<title>könyv</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/k%C3%B6nyv/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/k%C3%B6nyv/"/>
 		<updated>2012-02-27T19:33:02Z</updated>
 		<published>2012-02-27T19:33:02Z</published>
 		<summary>Posts about könyv</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/k%C3%BCl%C3%B6nkiad%C3%A1s/</id>
+		<id>https://blog.ktamas.com/tags/k%C3%BCl%C3%B6nkiad%C3%A1s/</id>
 		<title>különkiadás</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/k%C3%BCl%C3%B6nkiad%C3%A1s/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/k%C3%BCl%C3%B6nkiad%C3%A1s/"/>
 		<updated>2013-04-14T12:05:36Z</updated>
 		<published>2013-04-14T12:05:36Z</published>
 		<summary>Posts about különkiadás</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/lak%C3%A1s/</id>
+		<id>https://blog.ktamas.com/tags/lak%C3%A1s/</id>
 		<title>lakás</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/lak%C3%A1s/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/lak%C3%A1s/"/>
 		<updated>2013-08-05T10:10:23Z</updated>
 		<published>2013-08-05T10:10:23Z</published>
 		<summary>Posts about lakás</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/linkblog/</id>
+		<id>https://blog.ktamas.com/tags/linkblog/</id>
 		<title>linkblog</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/linkblog/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/linkblog/"/>
 		<updated>2016-06-23T22:33:21Z</updated>
 		<published>2016-06-23T22:33:21Z</published>
 		<summary>Posts about linkblog</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/linux/</id>
+		<id>https://blog.ktamas.com/tags/linux/</id>
 		<title>linux</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/linux/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/linux/"/>
 		<updated>2011-06-01T14:51:41Z</updated>
 		<published>2011-06-01T14:51:41Z</published>
 		<summary>Posts about linux</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/lol/</id>
+		<id>https://blog.ktamas.com/tags/lol/</id>
 		<title>lol</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/lol/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/lol/"/>
 		<updated>2009-07-20T09:30:03Z</updated>
 		<published>2009-07-20T09:30:03Z</published>
 		<summary>Posts about lol</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/mac/</id>
+		<id>https://blog.ktamas.com/tags/mac/</id>
 		<title>mac</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/mac/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/mac/"/>
 		<updated>2013-06-13T13:37:44Z</updated>
 		<published>2013-06-13T13:37:44Z</published>
 		<summary>Posts about mac</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/magyarorsz%C3%A1g/</id>
+		<id>https://blog.ktamas.com/tags/magyarorsz%C3%A1g/</id>
 		<title>magyarország</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/magyarorsz%C3%A1g/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/magyarorsz%C3%A1g/"/>
 		<updated>2014-01-21T09:46:58Z</updated>
 		<published>2014-01-21T09:46:58Z</published>
 		<summary>Posts about magyarország</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/mail/</id>
+		<id>https://blog.ktamas.com/tags/mail/</id>
 		<title>mail</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/mail/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/mail/"/>
 		<updated>2009-05-24T12:16:24Z</updated>
 		<published>2009-05-24T12:16:24Z</published>
 		<summary>Posts about mail</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/megoszt%C3%A1sok/</id>
+		<id>https://blog.ktamas.com/tags/megoszt%C3%A1sok/</id>
 		<title>megosztások</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/megoszt%C3%A1sok/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/megoszt%C3%A1sok/"/>
 		<updated>2013-04-03T13:39:18Z</updated>
 		<published>2013-04-03T13:39:18Z</published>
 		<summary>Posts about megosztások</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/meta/</id>
+		<id>https://blog.ktamas.com/tags/meta/</id>
 		<title>meta</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/meta/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/meta/"/>
 		<updated>2011-04-30T18:17:56Z</updated>
 		<published>2011-04-30T18:17:56Z</published>
 		<summary>Posts about meta</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/mix/</id>
+		<id>https://blog.ktamas.com/tags/mix/</id>
 		<title>mix</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/mix/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/mix/"/>
 		<updated>2011-05-12T09:42:29Z</updated>
 		<published>2011-05-12T09:42:29Z</published>
 		<summary>Posts about mix</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/mozi/</id>
+		<id>https://blog.ktamas.com/tags/mozi/</id>
 		<title>mozi</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/mozi/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/mozi/"/>
 		<updated>2009-11-19T22:54:57Z</updated>
 		<published>2009-11-19T22:54:57Z</published>
 		<summary>Posts about mozi</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/munka/</id>
+		<id>https://blog.ktamas.com/tags/munka/</id>
 		<title>munka</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/munka/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/munka/"/>
 		<updated>2013-10-19T20:40:38Z</updated>
 		<published>2013-10-19T20:40:38Z</published>
 		<summary>Posts about munka</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/musthave/</id>
+		<id>https://blog.ktamas.com/tags/musthave/</id>
 		<title>musthave</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/musthave/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/musthave/"/>
 		<updated>2009-03-07T21:37:41Z</updated>
 		<published>2009-03-07T21:37:41Z</published>
 		<summary>Posts about musthave</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/napiloop/</id>
+		<id>https://blog.ktamas.com/tags/napiloop/</id>
 		<title>napiloop</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/napiloop/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/napiloop/"/>
 		<updated>2014-12-16T12:07:03Z</updated>
 		<published>2014-12-16T12:07:03Z</published>
 		<summary>Posts about napiloop</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/netpinc%C3%A9r/</id>
+		<id>https://blog.ktamas.com/tags/netpinc%C3%A9r/</id>
 		<title>netpincér</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/netpinc%C3%A9r/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/netpinc%C3%A9r/"/>
 		<updated>2010-02-19T19:24:00Z</updated>
 		<published>2010-02-19T19:24:00Z</published>
 		<summary>Posts about netpincér</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/nightwish/</id>
+		<id>https://blog.ktamas.com/tags/nightwish/</id>
 		<title>nightwish</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/nightwish/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/nightwish/"/>
 		<updated>2009-07-17T12:13:51Z</updated>
 		<published>2009-07-17T12:13:51Z</published>
 		<summary>Posts about nightwish</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/nocomment/</id>
+		<id>https://blog.ktamas.com/tags/nocomment/</id>
 		<title>nocomment</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/nocomment/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/nocomment/"/>
 		<updated>2009-05-01T09:33:11Z</updated>
 		<published>2009-05-01T09:33:11Z</published>
 		<summary>Posts about nocomment</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/norv%C3%A9gia/</id>
+		<id>https://blog.ktamas.com/tags/norv%C3%A9gia/</id>
 		<title>norvégia</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/norv%C3%A9gia/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/norv%C3%A9gia/"/>
 		<updated>2014-02-08T10:45:19Z</updated>
 		<published>2014-02-08T10:45:19Z</published>
 		<summary>Posts about norvégia</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/nyelvtanul%C3%A1s/</id>
+		<id>https://blog.ktamas.com/tags/nyelvtanul%C3%A1s/</id>
 		<title>nyelvtanulás</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/nyelvtanul%C3%A1s/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/nyelvtanul%C3%A1s/"/>
 		<updated>2013-07-12T10:59:44Z</updated>
 		<published>2013-07-12T10:59:44Z</published>
 		<summary>Posts about nyelvtanulás</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/nyelv%C3%A9szet/</id>
+		<id>https://blog.ktamas.com/tags/nyelv%C3%A9szet/</id>
 		<title>nyelvészet</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/nyelv%C3%A9szet/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/nyelv%C3%A9szet/"/>
 		<updated>2009-02-15T13:32:53Z</updated>
 		<published>2009-02-15T13:32:53Z</published>
 		<summary>Posts about nyelvészet</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/olvas%C3%A1s/</id>
+		<id>https://blog.ktamas.com/tags/olvas%C3%A1s/</id>
 		<title>olvasás</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/olvas%C3%A1s/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/olvas%C3%A1s/"/>
 		<updated>2014-05-11T10:49:22Z</updated>
 		<published>2014-05-11T10:49:22Z</published>
 		<summary>Posts about olvasás</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/ontheroad/</id>
+		<id>https://blog.ktamas.com/tags/ontheroad/</id>
 		<title>ontheroad</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/ontheroad/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/ontheroad/"/>
 		<updated>2015-02-19T15:06:39Z</updated>
 		<published>2015-02-19T15:06:39Z</published>
 		<summary>Posts about ontheroad</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/osx/</id>
+		<id>https://blog.ktamas.com/tags/osx/</id>
 		<title>osx</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/osx/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/osx/"/>
 		<updated>2013-08-09T11:01:47Z</updated>
 		<published>2013-08-09T11:01:47Z</published>
 		<summary>Posts about osx</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/pda/</id>
+		<id>https://blog.ktamas.com/tags/pda/</id>
 		<title>pda</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/pda/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/pda/"/>
 		<updated>2010-12-19T12:20:21Z</updated>
 		<published>2010-12-19T12:20:21Z</published>
 		<summary>Posts about pda</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/politika/</id>
+		<id>https://blog.ktamas.com/tags/politika/</id>
 		<title>politika</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/politika/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/politika/"/>
 		<updated>2009-03-30T11:14:13Z</updated>
 		<published>2009-03-30T11:14:13Z</published>
 		<summary>Posts about politika</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/programoz%C3%A1s/</id>
+		<id>https://blog.ktamas.com/tags/programoz%C3%A1s/</id>
 		<title>programozás</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/programoz%C3%A1s/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/programoz%C3%A1s/"/>
 		<updated>2012-08-11T18:31:15Z</updated>
 		<published>2012-08-11T18:31:15Z</published>
 		<summary>Posts about programozás</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/rails/</id>
+		<id>https://blog.ktamas.com/tags/rails/</id>
 		<title>rails</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/rails/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/rails/"/>
 		<updated>2009-01-19T10:45:37Z</updated>
 		<published>2009-01-19T10:45:37Z</published>
 		<summary>Posts about rails</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/random/</id>
+		<id>https://blog.ktamas.com/tags/random/</id>
 		<title>random</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/random/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/random/"/>
 		<updated>2013-08-09T11:01:47Z</updated>
 		<published>2013-08-09T11:01:47Z</published>
 		<summary>Posts about random</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/rss/</id>
+		<id>https://blog.ktamas.com/tags/rss/</id>
 		<title>rss</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/rss/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/rss/"/>
 		<updated>2013-04-03T13:39:18Z</updated>
 		<published>2013-04-03T13:39:18Z</published>
 		<summary>Posts about rss</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/ruby/</id>
+		<id>https://blog.ktamas.com/tags/ruby/</id>
 		<title>ruby</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/ruby/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/ruby/"/>
 		<updated>2009-06-18T21:00:41Z</updated>
 		<published>2009-06-18T21:00:41Z</published>
 		<summary>Posts about ruby</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/rukkola/</id>
+		<id>https://blog.ktamas.com/tags/rukkola/</id>
 		<title>rukkola</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/rukkola/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/rukkola/"/>
 		<updated>2013-05-14T08:55:13Z</updated>
 		<published>2013-05-14T08:55:13Z</published>
 		<summary>Posts about rukkola</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/sharewood/</id>
+		<id>https://blog.ktamas.com/tags/sharewood/</id>
 		<title>sharewood</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/sharewood/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/sharewood/"/>
 		<updated>2014-05-12T15:07:12Z</updated>
 		<published>2014-05-12T15:07:12Z</published>
 		<summary>Posts about sharewood</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/sinatra/</id>
+		<id>https://blog.ktamas.com/tags/sinatra/</id>
 		<title>sinatra</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/sinatra/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/sinatra/"/>
 		<updated>2009-05-19T20:48:48Z</updated>
 		<published>2009-05-19T20:48:48Z</published>
 		<summary>Posts about sinatra</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/sorozat/</id>
+		<id>https://blog.ktamas.com/tags/sorozat/</id>
 		<title>sorozat</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/sorozat/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/sorozat/"/>
 		<updated>2013-07-23T11:20:45Z</updated>
 		<published>2013-07-23T11:20:45Z</published>
 		<summary>Posts about sorozat</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/sorozatok/</id>
+		<id>https://blog.ktamas.com/tags/sorozatok/</id>
 		<title>sorozatok</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/sorozatok/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/sorozatok/"/>
 		<updated>2013-07-25T10:29:53Z</updated>
 		<published>2013-07-25T10:29:53Z</published>
 		<summary>Posts about sorozatok</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/stargate/</id>
+		<id>https://blog.ktamas.com/tags/stargate/</id>
 		<title>stargate</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/stargate/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/stargate/"/>
 		<updated>2011-02-02T22:28:24Z</updated>
 		<published>2011-02-02T22:28:24Z</published>
 		<summary>Posts about stargate</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/startrek/</id>
+		<id>https://blog.ktamas.com/tags/startrek/</id>
 		<title>startrek</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/startrek/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/startrek/"/>
 		<updated>2009-05-12T12:00:29Z</updated>
 		<published>2009-05-12T12:00:29Z</published>
 		<summary>Posts about startrek</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/stats/</id>
+		<id>https://blog.ktamas.com/tags/stats/</id>
 		<title>stats</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/stats/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/stats/"/>
 		<updated>2009-03-05T09:00:28Z</updated>
 		<published>2009-03-05T09:00:28Z</published>
 		<summary>Posts about stats</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/</id>
+		<id>https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/</id>
 		<title>svédország</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/"/>
 		<updated>2015-06-24T10:42:52Z</updated>
 		<published>2015-06-24T10:42:52Z</published>
 		<summary>Posts about svédország</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/sv%C3%A9dzene/</id>
+		<id>https://blog.ktamas.com/tags/sv%C3%A9dzene/</id>
 		<title>svédzene</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/sv%C3%A9dzene/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/sv%C3%A9dzene/"/>
 		<updated>2014-06-07T20:05:08Z</updated>
 		<published>2014-06-07T20:05:08Z</published>
 		<summary>Posts about svédzene</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/sv%C3%A9dzenes/</id>
+		<id>https://blog.ktamas.com/tags/sv%C3%A9dzenes/</id>
 		<title>svédzenes</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/sv%C3%A9dzenes/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/sv%C3%A9dzenes/"/>
 		<updated>2014-01-16T09:09:05Z</updated>
 		<published>2014-01-16T09:09:05Z</published>
 		<summary>Posts about svédzenes</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/switch/</id>
+		<id>https://blog.ktamas.com/tags/switch/</id>
 		<title>switch</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/switch/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/switch/"/>
 		<updated>2010-12-19T12:20:21Z</updated>
 		<published>2010-12-19T12:20:21Z</published>
 		<summary>Posts about switch</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/szakma/</id>
+		<id>https://blog.ktamas.com/tags/szakma/</id>
 		<title>szakma</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/szakma/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/szakma/"/>
 		<updated>2011-10-12T12:38:33Z</updated>
 		<published>2011-10-12T12:38:33Z</published>
 		<summary>Posts about szakma</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/szeder/</id>
+		<id>https://blog.ktamas.com/tags/szeder/</id>
 		<title>szeder</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/szeder/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/szeder/"/>
 		<updated>2010-03-25T20:00:00Z</updated>
 		<published>2010-03-25T20:00:00Z</published>
 		<summary>Posts about szeder</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/szerverek/</id>
+		<id>https://blog.ktamas.com/tags/szerverek/</id>
 		<title>szerverek</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/szerverek/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/szerverek/"/>
 		<updated>2011-04-30T18:17:56Z</updated>
 		<published>2011-04-30T18:17:56Z</published>
 		<summary>Posts about szerverek</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/szlovenia/</id>
+		<id>https://blog.ktamas.com/tags/szlovenia/</id>
 		<title>szlovenia</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/szlovenia/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/szlovenia/"/>
 		<updated>2009-03-18T13:14:16Z</updated>
 		<published>2009-03-18T13:14:16Z</published>
 		<summary>Posts about szlovenia</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/tech/</id>
+		<id>https://blog.ktamas.com/tags/tech/</id>
 		<title>tech</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/tech/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/tech/"/>
 		<updated>2011-11-04T09:32:37Z</updated>
 		<published>2011-11-04T09:32:37Z</published>
 		<summary>Posts about tech</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/telefon/</id>
+		<id>https://blog.ktamas.com/tags/telefon/</id>
 		<title>telefon</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/telefon/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/telefon/"/>
 		<updated>2014-03-07T18:37:35Z</updated>
 		<published>2014-03-07T18:37:35Z</published>
 		<summary>Posts about telefon</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/t%C3%A1rsasj%C3%A1t%C3%A9k/</id>
+		<id>https://blog.ktamas.com/tags/t%C3%A1rsasj%C3%A1t%C3%A9k/</id>
 		<title>társasjáték</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/t%C3%A1rsasj%C3%A1t%C3%A9k/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/t%C3%A1rsasj%C3%A1t%C3%A9k/"/>
 		<updated>2013-07-13T11:37:15Z</updated>
 		<published>2013-07-13T11:37:15Z</published>
 		<summary>Posts about társasjáték</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/ubuntu/</id>
+		<id>https://blog.ktamas.com/tags/ubuntu/</id>
 		<title>ubuntu</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/ubuntu/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/ubuntu/"/>
 		<updated>2009-05-09T10:30:35Z</updated>
 		<published>2009-05-09T10:30:35Z</published>
 		<summary>Posts about ubuntu</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/vend%C3%A9gek/</id>
+		<id>https://blog.ktamas.com/tags/vend%C3%A9gek/</id>
 		<title>vendégek</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/vend%C3%A9gek/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/vend%C3%A9gek/"/>
 		<updated>2013-08-08T14:39:49Z</updated>
 		<published>2013-08-08T14:39:49Z</published>
 		<summary>Posts about vendégek</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/video/</id>
+		<id>https://blog.ktamas.com/tags/video/</id>
 		<title>video</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/video/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/video/"/>
 		<updated>2013-03-29T09:30:48Z</updated>
 		<published>2013-03-29T09:30:48Z</published>
 		<summary>Posts about video</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/vim/</id>
+		<id>https://blog.ktamas.com/tags/vim/</id>
 		<title>vim</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/vim/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/vim/"/>
 		<updated>2011-05-05T09:48:23Z</updated>
 		<published>2011-05-05T09:48:23Z</published>
 		<summary>Posts about vim</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/vm/</id>
+		<id>https://blog.ktamas.com/tags/vm/</id>
 		<title>vm</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/vm/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/vm/"/>
 		<updated>2011-09-11T21:02:32Z</updated>
 		<published>2011-09-11T21:02:32Z</published>
 		<summary>Posts about vm</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/v%C3%A1llalkozunk/</id>
+		<id>https://blog.ktamas.com/tags/v%C3%A1llalkozunk/</id>
 		<title>vállalkozunk</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/v%C3%A1llalkozunk/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/v%C3%A1llalkozunk/"/>
 		<updated>2013-07-22T10:30:25Z</updated>
 		<published>2013-07-22T10:30:25Z</published>
 		<summary>Posts about vállalkozunk</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/wallpaper/</id>
+		<id>https://blog.ktamas.com/tags/wallpaper/</id>
 		<title>wallpaper</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/wallpaper/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/wallpaper/"/>
 		<updated>2011-05-15T09:13:21Z</updated>
 		<published>2011-05-15T09:13:21Z</published>
 		<summary>Posts about wallpaper</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/win7/</id>
+		<id>https://blog.ktamas.com/tags/win7/</id>
 		<title>win7</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/win7/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/win7/"/>
 		<updated>2009-05-01T09:33:11Z</updated>
 		<published>2009-05-01T09:33:11Z</published>
 		<summary>Posts about win7</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/wind/</id>
+		<id>https://blog.ktamas.com/tags/wind/</id>
 		<title>wind</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/wind/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/wind/"/>
 		<updated>2009-01-26T09:43:08Z</updated>
 		<published>2009-01-26T09:43:08Z</published>
 		<summary>Posts about wind</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/windows/</id>
+		<id>https://blog.ktamas.com/tags/windows/</id>
 		<title>windows</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/windows/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/windows/"/>
 		<updated>2013-08-09T11:01:47Z</updated>
 		<published>2013-08-09T11:01:47Z</published>
 		<summary>Posts about windows</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/winmobile/</id>
+		<id>https://blog.ktamas.com/tags/winmobile/</id>
 		<title>winmobile</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/winmobile/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/winmobile/"/>
 		<updated>2010-12-19T12:20:21Z</updated>
 		<published>2010-12-19T12:20:21Z</published>
 		<summary>Posts about winmobile</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/woohoo/</id>
+		<id>https://blog.ktamas.com/tags/woohoo/</id>
 		<title>woohoo</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/woohoo/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/woohoo/"/>
 		<updated>2009-04-21T19:20:05Z</updated>
 		<published>2009-04-21T19:20:05Z</published>
 		<summary>Posts about woohoo</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/wtf/</id>
+		<id>https://blog.ktamas.com/tags/wtf/</id>
 		<title>wtf</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/wtf/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/wtf/"/>
 		<updated>2009-07-13T16:00:42Z</updated>
 		<published>2009-07-13T16:00:42Z</published>
 		<summary>Posts about wtf</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/zene/</id>
+		<id>https://blog.ktamas.com/tags/zene/</id>
 		<title>zene</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/zene/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/zene/"/>
 		<updated>2014-12-16T12:07:03Z</updated>
 		<published>2014-12-16T12:07:03Z</published>
 		<summary>Posts about zene</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/%C3%A9n/</id>
+		<id>https://blog.ktamas.com/tags/%C3%A9n/</id>
 		<title>én</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/%C3%A9n/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/%C3%A9n/"/>
 		<updated>2014-05-19T10:10:08Z</updated>
 		<published>2014-05-19T10:10:08Z</published>
 		<summary>Posts about én</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/%C3%A9nblog/</id>
+		<id>https://blog.ktamas.com/tags/%C3%A9nblog/</id>
 		<title>énblog</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/%C3%A9nblog/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/%C3%A9nblog/"/>
 		<updated>2015-06-24T10:42:52Z</updated>
 		<published>2015-06-24T10:42:52Z</published>
 		<summary>Posts about énblog</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/%C3%A9vfordul%C3%B3/</id>
+		<id>https://blog.ktamas.com/tags/%C3%A9vfordul%C3%B3/</id>
 		<title>évforduló</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/%C3%A9vfordul%C3%B3/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/%C3%A9vfordul%C3%B3/"/>
 		<updated>2014-01-29T22:23:14Z</updated>
 		<published>2014-01-29T22:23:14Z</published>
 		<summary>Posts about évforduló</summary>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/tags/%C3%BAjs%C3%A1g%C3%ADr%C3%A1s/</id>
+		<id>https://blog.ktamas.com/tags/%C3%BAjs%C3%A1g%C3%ADr%C3%A1s/</id>
 		<title>újságírás</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/%C3%BAjs%C3%A1g%C3%ADr%C3%A1s/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/%C3%BAjs%C3%A1g%C3%ADr%C3%A1s/"/>
 		<updated>2009-04-14T16:15:43Z</updated>
 		<published>2009-04-14T16:15:43Z</published>
 		<summary>Posts about újságírás</summary>

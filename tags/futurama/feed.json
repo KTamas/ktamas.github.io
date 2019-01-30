@@ -2,53 +2,53 @@
 	"version": "https://jsonfeed.org/version/1",
 	"title": "futurama on KTamas' blog",
 	"description": "An ongoing list of KTamas' blog posts about futurama",
-	"home_page_url": "https://ktamas.github.io/tags/futurama/",
-	"feed_url": "https://ktamas.github.io/tags/futurama/feed.json",
-	"icon": "https://ktamas.github.io/icon-512x512.png",
-	"favicon": "https://ktamas.github.io/icon-64x64.png",
+	"home_page_url": "https://blog.ktamas.com/tags/futurama/",
+	"feed_url": "https://blog.ktamas.com/tags/futurama/feed.json",
+	"icon": "https://blog.ktamas.com/icon-512x512.png",
+	"favicon": "https://blog.ktamas.com/icon-64x64.png",
 	"author": {
 		"name": "KTamas",
-		"url": "https://ktamas.github.io/"
+		"url": "https://blog.ktamas.com/"
 	},
 	"items": [
 		{
-			"id": "https://ktamas.github.io/index.php/2009/08/02/na_azert_6/",
-			"url": "https://ktamas.github.io/index.php/2009/08/02/na_azert_6/",
+			"id": "https://blog.ktamas.com/index.php/2009/08/02/na_azert_6/",
+			"url": "https://blog.ktamas.com/index.php/2009/08/02/na_azert_6/",
 			"title": "Na azert\u0026#8230;",
 			"date_published": "2009-08-02T15:24:01Z",
 			"author": {
 				"name": "KTamas",
-				"url": "https://ktamas.github.io/"
+				"url": "https://blog.ktamas.com/"
 			},
 			"tags": ["futurama"],
-			"content_html": "\u003cblockquote\u003e\n\u003cp\u003eAfter the scare from two weeks ago (\u0026#8216;Futurama\u0026#8217; cast in limbo), TheStar announces that the whole cast has signed up for the new Futurama seasons.\u003c/p\u003e\n\n\u003cp\u003e[T]he entire voice cast of Futurama has just signed a new contract with Fox after weeks of intense salary negotiations. [\u0026#8230;] The compromise agreement, with the studio paying more and the actors accepting less, comes after the announcement of a 26-episode pick-up here by Comedy Central.\u003c/p\u003e\n\n\u003cp\u003evia \u003ca href=\"http://www.gotfuturama.com/Futurama/News/1249112340,59973,/Old_Futurama_Cast_is_New_Futurama_Cast.html#\"\u003eCan\u0026#8217;t Get Enough Futurama: News: Old Futurama Cast is New Futurama Cast\u003c/a\u003e.\u003c/p\u003e\n\u003c/blockquote\u003e\n\n\u003cp\u003e*whew*\u003c/p\u003e\n\n\u003cfooter\u003e\n    \u003ca title=\"Permanent link to “Na azert\u0026amp;#8230;”\" href=\"https://ktamas.github.io/index.php/2009/08/02/na_azert_6/\"\u003e\u0026nbsp;\u0026nbsp;\u003c/a\u003e\n    By KTamas for \u003ca href=\"https://ktamas.github.io/\"\u003eKTamas\u0026#39; blog\u003c/a\u003e\n        \u003cdiv class=\"tags\"\u003e\n            \u003ch5\u003eMore about…\u003c/h5\u003e\n            \u003cul\u003e\n                \u003cli\u003e\u003ca href=\"https://ktamas.github.io/tags/futurama/\"\u003efuturama\u003c/a\u003e\u003c/li\u003e\n            \u003c/ul\u003e\n        \u003c/div\u003e\n\u003c/footer\u003e",
-			"content_text": "\u003e After the scare from two weeks ago (\u0026#8216;Futurama\u0026#8217; cast in limbo), TheStar announces that the whole cast has signed up for the new Futurama seasons. \n\u003e \n\u003e [T]he entire voice cast of Futurama has just signed a new contract with Fox after weeks of intense salary negotiations. [\u0026#8230;] The compromise agreement, with the studio paying more and the actors accepting less, comes after the announcement of a 26-episode pick-up here by Comedy Central. \n\u003e \n\u003e via [Can\u0026#8217;t Get Enough Futurama: News: Old Futurama Cast is New Futurama Cast](http://www.gotfuturama.com/Futurama/News/1249112340,59973,/Old_Futurama_Cast_is_New_Futurama_Cast.html#).\n\n\\*whew\\*\n\n-------------------------------------------------------------------------------\n\n Sunday, 2 Aug 2009\nBy KTamas\nhttps://ktamas.github.io/index.php/2009/08/02/na_azert_6/\n\nMore about...\n\n* futurama: https://ktamas.github.io/tags/futurama/"
+			"content_html": "\u003cblockquote\u003e\n\u003cp\u003eAfter the scare from two weeks ago (\u0026#8216;Futurama\u0026#8217; cast in limbo), TheStar announces that the whole cast has signed up for the new Futurama seasons.\u003c/p\u003e\n\n\u003cp\u003e[T]he entire voice cast of Futurama has just signed a new contract with Fox after weeks of intense salary negotiations. [\u0026#8230;] The compromise agreement, with the studio paying more and the actors accepting less, comes after the announcement of a 26-episode pick-up here by Comedy Central.\u003c/p\u003e\n\n\u003cp\u003evia \u003ca href=\"http://www.gotfuturama.com/Futurama/News/1249112340,59973,/Old_Futurama_Cast_is_New_Futurama_Cast.html#\"\u003eCan\u0026#8217;t Get Enough Futurama: News: Old Futurama Cast is New Futurama Cast\u003c/a\u003e.\u003c/p\u003e\n\u003c/blockquote\u003e\n\n\u003cp\u003e*whew*\u003c/p\u003e\n\n\u003cfooter\u003e\n    \u003ca title=\"Permanent link to “Na azert\u0026amp;#8230;”\" href=\"https://blog.ktamas.com/index.php/2009/08/02/na_azert_6/\"\u003e\u0026nbsp;\u0026nbsp;\u003c/a\u003e\n    By KTamas for \u003ca href=\"https://blog.ktamas.com/\"\u003eKTamas\u0026#39; blog\u003c/a\u003e\n        \u003cdiv class=\"tags\"\u003e\n            \u003ch5\u003eMore about…\u003c/h5\u003e\n            \u003cul\u003e\n                \u003cli\u003e\u003ca href=\"https://blog.ktamas.com/tags/futurama/\"\u003efuturama\u003c/a\u003e\u003c/li\u003e\n            \u003c/ul\u003e\n        \u003c/div\u003e\n\u003c/footer\u003e",
+			"content_text": "\u003e After the scare from two weeks ago (\u0026#8216;Futurama\u0026#8217; cast in limbo), TheStar announces that the whole cast has signed up for the new Futurama seasons. \n\u003e \n\u003e [T]he entire voice cast of Futurama has just signed a new contract with Fox after weeks of intense salary negotiations. [\u0026#8230;] The compromise agreement, with the studio paying more and the actors accepting less, comes after the announcement of a 26-episode pick-up here by Comedy Central. \n\u003e \n\u003e via [Can\u0026#8217;t Get Enough Futurama: News: Old Futurama Cast is New Futurama Cast](http://www.gotfuturama.com/Futurama/News/1249112340,59973,/Old_Futurama_Cast_is_New_Futurama_Cast.html#).\n\n\\*whew\\*\n\n-------------------------------------------------------------------------------\n\n Sunday, 2 Aug 2009\nBy KTamas\nhttps://blog.ktamas.com/index.php/2009/08/02/na_azert_6/\n\nMore about...\n\n* futurama: https://blog.ktamas.com/tags/futurama/"
 		}, 
 		{
-			"id": "https://ktamas.github.io/index.php/2009/06/10/good_news_everyone_1/",
-			"url": "https://ktamas.github.io/index.php/2009/06/10/good_news_everyone_1/",
+			"id": "https://blog.ktamas.com/index.php/2009/06/10/good_news_everyone_1/",
+			"url": "https://blog.ktamas.com/index.php/2009/06/10/good_news_everyone_1/",
 			"title": "Good news, everyone",
 			"date_published": "2009-06-10T07:45:13Z",
 			"author": {
 				"name": "KTamas",
-				"url": "https://ktamas.github.io/"
+				"url": "https://blog.ktamas.com/"
 			},
 			"tags": ["futurama","random"],
-			"content_html": "\u003cblockquote\u003e\n\u003cp\u003e\u003ca href=\"http://ausiellofiles.ew.com/2009/06/its-official-futurama-returns.html?cnn=yes\" target=\"_blank\"\u003eA spokesperson for 20th Century Fox Television confirms that the cable net has ordered  26 \u003cem\u003enew \u003c/em\u003eepisodes of Matt Groening and David X. Cohen\u0026#8217;s late, great animated series to air beginning in 2010. \u003c/a\u003e\u003c/p\u003e\n\u003c/blockquote\u003e\n\n\u003cfooter\u003e\n    \u003ca title=\"Permanent link to “Good news, everyone”\" href=\"https://ktamas.github.io/index.php/2009/06/10/good_news_everyone_1/\"\u003e\u0026nbsp;\u0026nbsp;\u003c/a\u003e\n    By KTamas for \u003ca href=\"https://ktamas.github.io/\"\u003eKTamas\u0026#39; blog\u003c/a\u003e\n        \u003cdiv class=\"tags\"\u003e\n            \u003ch5\u003eMore about…\u003c/h5\u003e\n            \u003cul\u003e\n                \u003cli\u003e\u003ca href=\"https://ktamas.github.io/tags/futurama/\"\u003efuturama\u003c/a\u003e\u003c/li\u003e\n                \u003cli\u003e\u003ca href=\"https://ktamas.github.io/tags/random/\"\u003erandom\u003c/a\u003e\u003c/li\u003e\n            \u003c/ul\u003e\n        \u003c/div\u003e\n\u003c/footer\u003e",
-			"content_text": "\u003e \u003ca href=\"http://ausiellofiles.ew.com/2009/06/its-official-futurama-returns.html?cnn=yes\" target=\"_blank\"\u003eA spokesperson for 20th Century Fox Television confirms that the cable net has ordered  26 \u003cem\u003enew \u003c/em\u003eepisodes of Matt Groening and David X. Cohen\u0026#8217;s late, great animated series to air beginning in 2010. \u003c/a\u003e\n\n-------------------------------------------------------------------------------\n\n Wednesday, 10 Jun 2009\nBy KTamas\nhttps://ktamas.github.io/index.php/2009/06/10/good_news_everyone_1/\n\nMore about...\n\n* futurama: https://ktamas.github.io/tags/futurama/\n* random:   https://ktamas.github.io/tags/random/"
+			"content_html": "\u003cblockquote\u003e\n\u003cp\u003e\u003ca href=\"http://ausiellofiles.ew.com/2009/06/its-official-futurama-returns.html?cnn=yes\" target=\"_blank\"\u003eA spokesperson for 20th Century Fox Television confirms that the cable net has ordered  26 \u003cem\u003enew \u003c/em\u003eepisodes of Matt Groening and David X. Cohen\u0026#8217;s late, great animated series to air beginning in 2010. \u003c/a\u003e\u003c/p\u003e\n\u003c/blockquote\u003e\n\n\u003cfooter\u003e\n    \u003ca title=\"Permanent link to “Good news, everyone”\" href=\"https://blog.ktamas.com/index.php/2009/06/10/good_news_everyone_1/\"\u003e\u0026nbsp;\u0026nbsp;\u003c/a\u003e\n    By KTamas for \u003ca href=\"https://blog.ktamas.com/\"\u003eKTamas\u0026#39; blog\u003c/a\u003e\n        \u003cdiv class=\"tags\"\u003e\n            \u003ch5\u003eMore about…\u003c/h5\u003e\n            \u003cul\u003e\n                \u003cli\u003e\u003ca href=\"https://blog.ktamas.com/tags/futurama/\"\u003efuturama\u003c/a\u003e\u003c/li\u003e\n                \u003cli\u003e\u003ca href=\"https://blog.ktamas.com/tags/random/\"\u003erandom\u003c/a\u003e\u003c/li\u003e\n            \u003c/ul\u003e\n        \u003c/div\u003e\n\u003c/footer\u003e",
+			"content_text": "\u003e \u003ca href=\"http://ausiellofiles.ew.com/2009/06/its-official-futurama-returns.html?cnn=yes\" target=\"_blank\"\u003eA spokesperson for 20th Century Fox Television confirms that the cable net has ordered  26 \u003cem\u003enew \u003c/em\u003eepisodes of Matt Groening and David X. Cohen\u0026#8217;s late, great animated series to air beginning in 2010. \u003c/a\u003e\n\n-------------------------------------------------------------------------------\n\n Wednesday, 10 Jun 2009\nBy KTamas\nhttps://blog.ktamas.com/index.php/2009/06/10/good_news_everyone_1/\n\nMore about...\n\n* futurama: https://blog.ktamas.com/tags/futurama/\n* random:   https://blog.ktamas.com/tags/random/"
 		}, 
 		{
-			"id": "https://ktamas.github.io/index.php/2009/06/08/woohoo_1/",
-			"url": "https://ktamas.github.io/index.php/2009/06/08/woohoo_1/",
+			"id": "https://blog.ktamas.com/index.php/2009/06/08/woohoo_1/",
+			"url": "https://blog.ktamas.com/index.php/2009/06/08/woohoo_1/",
 			"title": "WOOHOO",
 			"date_published": "2009-06-08T23:23:34Z",
 			"author": {
 				"name": "KTamas",
-				"url": "https://ktamas.github.io/"
+				"url": "https://blog.ktamas.com/"
 			},
 			"tags": ["futurama","random"],
-			"content_html": "\u003cblockquote\u003e\n\u003cp\u003e\u003ca href=\"http://www.tvsquad.com/2009/06/08/benders-back-baby-new-futurama-episodes-are-in-our-future/\" target=\"_blank\"\u003eComedy Central has ordered all brand new episodes of \u003cem\u003eFuturama, \u003c/em\u003eand the show has officially gone back into production.\u003c/a\u003e\u003c/p\u003e\n\u003c/blockquote\u003e\n\n\u003cfooter\u003e\n    \u003ca title=\"Permanent link to “WOOHOO”\" href=\"https://ktamas.github.io/index.php/2009/06/08/woohoo_1/\"\u003e\u0026nbsp;\u0026nbsp;\u003c/a\u003e\n    By KTamas for \u003ca href=\"https://ktamas.github.io/\"\u003eKTamas\u0026#39; blog\u003c/a\u003e\n        \u003cdiv class=\"tags\"\u003e\n            \u003ch5\u003eMore about…\u003c/h5\u003e\n            \u003cul\u003e\n                \u003cli\u003e\u003ca href=\"https://ktamas.github.io/tags/futurama/\"\u003efuturama\u003c/a\u003e\u003c/li\u003e\n                \u003cli\u003e\u003ca href=\"https://ktamas.github.io/tags/random/\"\u003erandom\u003c/a\u003e\u003c/li\u003e\n            \u003c/ul\u003e\n        \u003c/div\u003e\n\u003c/footer\u003e",
-			"content_text": "\u003e \u003ca href=\"http://www.tvsquad.com/2009/06/08/benders-back-baby-new-futurama-episodes-are-in-our-future/\" target=\"_blank\"\u003eComedy Central has ordered all brand new episodes of \u003cem\u003eFuturama, \u003c/em\u003eand the show has officially gone back into production.\u003c/a\u003e\n\n-------------------------------------------------------------------------------\n\n Monday, 8 Jun 2009\nBy KTamas\nhttps://ktamas.github.io/index.php/2009/06/08/woohoo_1/\n\nMore about...\n\n* futurama: https://ktamas.github.io/tags/futurama/\n* random:   https://ktamas.github.io/tags/random/"
+			"content_html": "\u003cblockquote\u003e\n\u003cp\u003e\u003ca href=\"http://www.tvsquad.com/2009/06/08/benders-back-baby-new-futurama-episodes-are-in-our-future/\" target=\"_blank\"\u003eComedy Central has ordered all brand new episodes of \u003cem\u003eFuturama, \u003c/em\u003eand the show has officially gone back into production.\u003c/a\u003e\u003c/p\u003e\n\u003c/blockquote\u003e\n\n\u003cfooter\u003e\n    \u003ca title=\"Permanent link to “WOOHOO”\" href=\"https://blog.ktamas.com/index.php/2009/06/08/woohoo_1/\"\u003e\u0026nbsp;\u0026nbsp;\u003c/a\u003e\n    By KTamas for \u003ca href=\"https://blog.ktamas.com/\"\u003eKTamas\u0026#39; blog\u003c/a\u003e\n        \u003cdiv class=\"tags\"\u003e\n            \u003ch5\u003eMore about…\u003c/h5\u003e\n            \u003cul\u003e\n                \u003cli\u003e\u003ca href=\"https://blog.ktamas.com/tags/futurama/\"\u003efuturama\u003c/a\u003e\u003c/li\u003e\n                \u003cli\u003e\u003ca href=\"https://blog.ktamas.com/tags/random/\"\u003erandom\u003c/a\u003e\u003c/li\u003e\n            \u003c/ul\u003e\n        \u003c/div\u003e\n\u003c/footer\u003e",
+			"content_text": "\u003e \u003ca href=\"http://www.tvsquad.com/2009/06/08/benders-back-baby-new-futurama-episodes-are-in-our-future/\" target=\"_blank\"\u003eComedy Central has ordered all brand new episodes of \u003cem\u003eFuturama, \u003c/em\u003eand the show has officially gone back into production.\u003c/a\u003e\n\n-------------------------------------------------------------------------------\n\n Monday, 8 Jun 2009\nBy KTamas\nhttps://blog.ktamas.com/index.php/2009/06/08/woohoo_1/\n\nMore about...\n\n* futurama: https://blog.ktamas.com/tags/futurama/\n* random:   https://blog.ktamas.com/tags/random/"
 		}
 	]
 }

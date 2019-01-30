@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
-	<id>https://ktamas.github.io/tags/mail/</id>
+	<id>https://blog.ktamas.com/tags/mail/</id>
 	<title>mail on KTamas&#39; blog</title>
 	<subtitle>An ongoing list of KTamas' blog posts about mail</subtitle>
 	<updated>2009-05-24T12:16:24Z</updated>
-	<link rel="self" type="application/atom+xml" href="https://ktamas.github.io/tags/mail/feed.xml"/>
-	<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/mail/"/>
-	<link rel="alternate" type="application/json" href="https://ktamas.github.io/tags/mail/feed.json"/>
+	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/mail/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/mail/"/>
+	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/mail/feed.json"/>
 	<author>
 		<name>KTamas</name>
-		<uri>https://ktamas.github.io/</uri>
+		<uri>https://blog.ktamas.com/</uri>
 	</author>
 	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
-	<icon>"https://ktamas.github.io/icon-512x512.png"</icon>
+	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2009/05/24/imap_is_a_ghetto/</id>
+		<id>https://blog.ktamas.com/index.php/2009/05/24/imap_is_a_ghetto/</id>
 		<title>IMAP is a ghetto</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/05/24/imap_is_a_ghetto/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/05/24/imap_is_a_ghetto/"/>
 		<updated>2009-05-24T12:16:24Z</updated>
 		<published>2009-05-24T12:16:24Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="imap" label="imap"/>
-		<category scheme="https://ktamas.github.io/tags" term="linux" label="linux"/>
-		<category scheme="https://ktamas.github.io/tags" term="mail" label="mail"/>
+		<category scheme="https://blog.ktamas.com/tags" term="imap" label="imap"/>
+		<category scheme="https://blog.ktamas.com/tags" term="linux" label="linux"/>
+		<category scheme="https://blog.ktamas.com/tags" term="mail" label="mail"/>
 		<summary>Az van, hogy van ez az IMAP, ami jó. Szerveren tárolhatsz mindent, megosztott mappák, satöbbi, olyan, mint az Exchange, csak jobb. Lenne. Viszont.
 一 Az Outlook egy fos, mint aztmár egy előző blogpostomban is fejtegettem. Sok shared mappa esetén a Send &amp; Receive kb. egy percig tart, ami idő alatt az Outlook még mai gépeken is majd’ használhatatlanul lassú lesz. Ezenfelül egy aranyos, kb. 6 éve ismert bug miatt ha az ember leiratkozik olyan mappákról, amiben olvasatlan levelek vannak, akkor az outlook figyelmen kívül hagyva minden beállítást, azonnal kiküld egy rakat “Not Read:” értesítést minden üzenetre, amire read receipt lett kérve.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Az van, hogy van ez az IMAP, ami jó. Szerveren tárolhatsz mindent, megosztott mappák, satöbbi, olyan, mint az Exchange, csak jobb. Lenne. Viszont.</p>
 
 <p>一 Az Outlook egy fos, mint aztmár egy <a href="http://ktamas.blog.hu/2009/05/17/die_outlook_die">előző blogpostomban</a> is fejtegettem. Sok shared mappa esetén a Send &amp; Receive kb. egy percig tart, ami idő alatt az Outlook még mai gépeken is majd&#8217; használhatatlanul lassú lesz. Ezenfelül egy aranyos, kb. 6 éve ismert bug miatt ha az ember leiratkozik olyan mappákról, amiben olvasatlan levelek vannak, akkor az outlook figyelmen kívül hagyva minden beállítást, azonnal kiküld egy rakat &#8220;Not Read:&#8221; értesítést minden üzenetre, amire read receipt lett kérve.</p>
@@ -49,47 +49,47 @@
 <p>Gyanakszom, hogy esetleg valami szerveroldali hiba, de már háromszor végignéztem a Courier beállításait, és sehol se láttam semmit ami bekavarhatna&#8230;</p>
 
 <footer>
-    <a title="Permanent link to “IMAP is a ghetto”" href="https://ktamas.github.io/index.php/2009/05/24/imap_is_a_ghetto/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “IMAP is a ghetto”" href="https://blog.ktamas.com/index.php/2009/05/24/imap_is_a_ghetto/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/imap/">imap</a></li>
-                <li><a href="https://ktamas.github.io/tags/linux/">linux</a></li>
-                <li><a href="https://ktamas.github.io/tags/mail/">mail</a></li>
+                <li><a href="https://blog.ktamas.com/tags/imap/">imap</a></li>
+                <li><a href="https://blog.ktamas.com/tags/linux/">linux</a></li>
+                <li><a href="https://blog.ktamas.com/tags/mail/">mail</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2009/05/19/ruby_sinatra_es_egyebek/</id>
+		<id>https://blog.ktamas.com/index.php/2009/05/19/ruby_sinatra_es_egyebek/</id>
 		<title>Ruby, Sinatra és egyebek</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/05/19/ruby_sinatra_es_egyebek/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/05/19/ruby_sinatra_es_egyebek/"/>
 		<updated>2009-05-19T20:48:48Z</updated>
 		<published>2009-05-19T20:48:48Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="mail" label="mail"/>
-		<category scheme="https://ktamas.github.io/tags" term="ruby" label="ruby"/>
-		<category scheme="https://ktamas.github.io/tags" term="sinatra" label="sinatra"/>
+		<category scheme="https://blog.ktamas.com/tags" term="mail" label="mail"/>
+		<category scheme="https://blog.ktamas.com/tags" term="ruby" label="ruby"/>
+		<category scheme="https://blog.ktamas.com/tags" term="sinatra" label="sinatra"/>
 		<summary>Szóval már live az új céges e-mail rendszer, Linux-Postfix-Courier-Maildir-Ruby alapokon, merthogy az emailjeinket in-house fejlesztett Rubys progi rendezgeti mindenféle általunk kitalált kritériák alapján a megfelelő mappába, ebből ha minden jól megy, lesz előbb utóbb rendes daemon is, meg még sok egyéb nyalánkság, majd írok erről valószínű részletesebben is.
 A másik dolog, ami viszont iszonyat menő az a Sinatra. Semmi sallang, a világ legminimalistább REST frameworkje, hihetetlenül tökéletes mindenféle utiloknak webes frontendet adni, főleg ha HAML-lel és SASS-szel kombináljuk (ez utóbbi mondjuk épp nem akar menni, de majd fog), legalább egy közeljövőbeli projekt pl.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Szóval már live az új céges e-mail rendszer, Linux-Postfix-Courier-Maildir-Ruby alapokon, merthogy az emailjeinket in-house fejlesztett Rubys progi rendezgeti mindenféle általunk kitalált kritériák alapján a megfelelő mappába, ebből ha minden jól megy, lesz előbb utóbb rendes daemon is, meg még sok egyéb nyalánkság, majd írok erről valószínű részletesebben is.</p>
 
 <p>A másik dolog, ami viszont iszonyat menő az a <a href="http://www.sinatrarb.com/">Sinatra</a>. Semmi sallang, a világ legminimalistább REST frameworkje,  hihetetlenül tökéletes mindenféle utiloknak webes frontendet adni, főleg ha <a href="http://www.google.hu/url?sa=t&amp;source=web&amp;ct=res&amp;cd=1&amp;url=http%3A%2F%2Fhaml.hamptoncatlin.com%2F&amp;ei=2f4SSuKvK5Ofsga9qemEDg&amp;usg=AFQjCNFNaMHSao_Y_Gp7FH_HBj2d5XIALg&amp;sig2=UR253dc3_ZDc8DJPaEK6zg">HAML-lel és SASS-szel</a> kombináljuk (ez utóbbi mondjuk épp nem akar menni, de majd fog), legalább egy közeljövőbeli projekt pl. tuti erre épül majd.</p>
 
 <footer>
-    <a title="Permanent link to “Ruby, Sinatra és egyebek”" href="https://ktamas.github.io/index.php/2009/05/19/ruby_sinatra_es_egyebek/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Ruby, Sinatra és egyebek”" href="https://blog.ktamas.com/index.php/2009/05/19/ruby_sinatra_es_egyebek/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/mail/">mail</a></li>
-                <li><a href="https://ktamas.github.io/tags/ruby/">ruby</a></li>
-                <li><a href="https://ktamas.github.io/tags/sinatra/">sinatra</a></li>
+                <li><a href="https://blog.ktamas.com/tags/mail/">mail</a></li>
+                <li><a href="https://blog.ktamas.com/tags/ruby/">ruby</a></li>
+                <li><a href="https://blog.ktamas.com/tags/sinatra/">sinatra</a></li>
             </ul>
         </div>
 </footer>]]></content>

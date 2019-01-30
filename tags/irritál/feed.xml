@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
-	<id>https://ktamas.github.io/tags/irrit%C3%A1l/</id>
+	<id>https://blog.ktamas.com/tags/irrit%C3%A1l/</id>
 	<title>irritál on KTamas&#39; blog</title>
 	<subtitle>An ongoing list of KTamas' blog posts about irritál</subtitle>
 	<updated>2013-04-20T11:40:25Z</updated>
-	<link rel="self" type="application/atom+xml" href="https://ktamas.github.io/tags/irrit%C3%A1l/feed.xml"/>
-	<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/irrit%C3%A1l/"/>
-	<link rel="alternate" type="application/json" href="https://ktamas.github.io/tags/irrit%C3%A1l/feed.json"/>
+	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/irrit%C3%A1l/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/irrit%C3%A1l/"/>
+	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/irrit%C3%A1l/feed.json"/>
 	<author>
 		<name>KTamas</name>
-		<uri>https://ktamas.github.io/</uri>
+		<uri>https://blog.ktamas.com/</uri>
 	</author>
 	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
-	<icon>"https://ktamas.github.io/icon-512x512.png"</icon>
+	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2013/04/20/irrital/</id>
+		<id>https://blog.ktamas.com/index.php/2013/04/20/irrital/</id>
 		<title>Irritál</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/04/20/irrital/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/04/20/irrital/"/>
 		<updated>2013-04-20T11:40:25Z</updated>
 		<published>2013-04-20T11:40:25Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://ktamas.github.io/tags" term="irrit%C3%A1l" label="irritál"/>
-		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://blog.ktamas.com/tags" term="irrit%C3%A1l" label="irritál"/>
+		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
 		<summary>Irritál, hogy a legjobb hamburger a városban tulajdonképpen a McDonaldsban vagy a Burger Kingben van. A helyek többségében, random kebabosoknál, egyéb éttermekben nem is érdemes próbálkozni, íztelen borzasztó valami. A kocsmákban menő, kicsit más stílusú “pub burger” már egy fokkal jobb, szódával tulajdonképpen elmegy, bár a rendes buci helyett teljeskiörlésű valami van. Tegnap pedig ettem egy egészen közepes, amerikai stílusúnak mondott burgert egy másik kocsmában, ahová bementünk vacsorázni a házicsoporttal. Ez sem volt úgy rendesen megfűszerezve, de azért legalább volt valami íze, ezen a ponton még egy ilyen közepes hamburgernek is örülök.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Irritál, hogy a legjobb hamburger a városban tulajdonképpen a McDonaldsban vagy a Burger Kingben van. A helyek többségében, random kebabosoknál, egyéb éttermekben nem is érdemes próbálkozni, íztelen borzasztó valami. A kocsmákban menő, kicsit más stílusú &#8220;pub burger&#8221; már egy fokkal jobb, szódával tulajdonképpen elmegy, bár a rendes buci helyett teljeskiörlésű valami van. Tegnap pedig ettem egy egészen közepes, amerikai stílusúnak mondott burgert egy másik kocsmában, ahová bementünk vacsorázni a házicsoporttal. Ez sem volt úgy rendesen megfűszerezve, de azért legalább volt valami íze, ezen a ponton még egy ilyen közepes hamburgernek is örülök.</p>
 
 <p>Irritálnak a nyitvatartási idők. A kávézók általában hatkor zárnak. Esetleg hétkor. Kivételek szerencsére vannak, bár eddig összesen egyet találtam. Hétvégén tíz előtt a sarki szupermarketen meg a 7-Elevenen kívül semmi sincs nyitva, és úgy általában még korábban zár egy csomó hely. A Systembolaget, az állami alkoholbolt hétköznap asszem hatkor zár, szombaton kinyit pár órára, aztán ennyi.</p>
@@ -48,14 +48,14 @@
 <p>És ez jó.</p>
 
 <footer>
-    <a title="Permanent link to “Irritál”" href="https://ktamas.github.io/index.php/2013/04/20/irrital/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Irritál”" href="https://blog.ktamas.com/index.php/2013/04/20/irrital/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://ktamas.github.io/tags/irrit%C3%A1l/">irritál</a></li>
-                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://blog.ktamas.com/tags/irrit%C3%A1l/">irritál</a></li>
+                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
             </ul>
         </div>
 </footer>]]></content>

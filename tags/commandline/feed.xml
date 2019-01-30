@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
-	<id>https://ktamas.github.io/tags/commandline/</id>
+	<id>https://blog.ktamas.com/tags/commandline/</id>
 	<title>commandline on KTamas&#39; blog</title>
 	<subtitle>An ongoing list of KTamas' blog posts about commandline</subtitle>
 	<updated>2012-08-07T13:19:22Z</updated>
-	<link rel="self" type="application/atom+xml" href="https://ktamas.github.io/tags/commandline/feed.xml"/>
-	<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/commandline/"/>
-	<link rel="alternate" type="application/json" href="https://ktamas.github.io/tags/commandline/feed.json"/>
+	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/commandline/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/commandline/"/>
+	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/commandline/feed.json"/>
 	<author>
 		<name>KTamas</name>
-		<uri>https://ktamas.github.io/</uri>
+		<uri>https://blog.ktamas.com/</uri>
 	</author>
 	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
-	<icon>"https://ktamas.github.io/icon-512x512.png"</icon>
+	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
 	<entry>
-		<id>https://ktamas.github.io/index.php/2012/08/07/rdp-osx-alatt/</id>
+		<id>https://blog.ktamas.com/index.php/2012/08/07/rdp-osx-alatt/</id>
 		<title>RDP OSX alatt</title>
-		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2012/08/07/rdp-osx-alatt/"/>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2012/08/07/rdp-osx-alatt/"/>
 		<updated>2012-08-07T13:19:22Z</updated>
 		<published>2012-08-07T13:19:22Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://ktamas.github.io/</uri>
+			<uri>https://blog.ktamas.com/</uri>
 		</author>
-		<category scheme="https://ktamas.github.io/tags" term="commandline" label="commandline"/>
-		<category scheme="https://ktamas.github.io/tags" term="mac" label="mac"/>
-		<category scheme="https://ktamas.github.io/tags" term="osx" label="osx"/>
+		<category scheme="https://blog.ktamas.com/tags" term="commandline" label="commandline"/>
+		<category scheme="https://blog.ktamas.com/tags" term="mac" label="mac"/>
+		<category scheme="https://blog.ktamas.com/tags" term="osx" label="osx"/>
 		<summary>Valószínű nem én vagyok az egyetlen, akinek a munkája miatt be kell RDP-znie különböző Windowsos gépekre — és OSX-et használ.
 A rendes felhasználó természetesen először a hivatalos megoldással próbálkozik, a Microsoftnak van egy Remote Desktop Connection Client nevű szoftvere, letölt, felrak, minden megy. Kivéve persze, hogy nem, mert másfél éve nem frissült, és már 10.6 alatt is szeretett kifagyni pl. kilépéskor, 10.7 alatt még instabilabb lett, most így 10.8-ra már fel se rakom.</summary>
-		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Valószínű nem én vagyok az egyetlen, akinek a munkája miatt be kell RDP-znie különböző Windowsos gépekre &#8212; és OSX-et használ.</p>
 
 <p>A rendes felhasználó természetesen először a hivatalos megoldással próbálkozik, a Microsoftnak van egy <a href="http://www.microsoft.com/mac/remote-desktop-client">Remote Desktop Connection Client</a> nevű szoftvere, letölt, felrak, minden megy. Kivéve persze, hogy nem, mert <a href="http://www.microsoft.com/mac/downloads?pid=Mactopia_RDC&amp;fid=68346E0D-44D3-4065-99BB-B664B27EE1F0#viewer">másfél éve nem frissült</a>, és már 10.6 alatt is szeretett kifagyni pl. kilépéskor, 10.7 alatt még instabilabb lett, most így 10.8-ra már fel se rakom. Arról nem is beszélve, hogy például csak egyetlen fix felhasználónév-jelszó-domain triót tud megjegyezni, és ha megjegyeztetjük vele, akkor az összes szervernél ezzel fog próbálkozni. Szóval ez az opció sajnos kiesik, és az ember elkezd alternatívákat keresni.</p>
@@ -47,14 +47,14 @@ A rendes felhasználó természetesen először a hivatalos megoldással próbá
 <p>(igen tudom hogy lassan kéne csinálnom egy külön blogot a tech dolgoknak)</p>
 
 <footer>
-    <a title="Permanent link to “RDP OSX alatt”" href="https://ktamas.github.io/index.php/2012/08/07/rdp-osx-alatt/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
+    <a title="Permanent link to “RDP OSX alatt”" href="https://blog.ktamas.com/index.php/2012/08/07/rdp-osx-alatt/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://ktamas.github.io/tags/commandline/">commandline</a></li>
-                <li><a href="https://ktamas.github.io/tags/mac/">mac</a></li>
-                <li><a href="https://ktamas.github.io/tags/osx/">osx</a></li>
+                <li><a href="https://blog.ktamas.com/tags/commandline/">commandline</a></li>
+                <li><a href="https://blog.ktamas.com/tags/mac/">mac</a></li>
+                <li><a href="https://blog.ktamas.com/tags/osx/">osx</a></li>
             </ul>
         </div>
 </footer>]]></content>
