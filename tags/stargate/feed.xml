@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
+	<id>https://blog.ktamas.com/tags/stargate/</id>
+	<title>stargate on KTamas&#39; blog</title>
+	<subtitle>An ongoing list of KTamas' blog posts about stargate</subtitle>
+	<updated>2011-02-02T22:28:24Z</updated>
+	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/stargate/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/stargate/"/>
+	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/stargate/feed.json"/>
+	<author>
+		<name>KTamas</name>
+		<uri>https://blog.ktamas.com/</uri>
+	</author>
+	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
+	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
+	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
+	<entry>
+		<id>https://blog.ktamas.com/index.php/2011/02/02/groundhog-day-legjobbabb/</id>
+		<title>Groundhog Day (legjobbabb)</title>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2011/02/02/groundhog-day-legjobbabb/"/>
+		<updated>2011-02-02T22:28:24Z</updated>
+		<published>2011-02-02T22:28:24Z</published>
+		<author>
+			<name>KTamas</name>
+			<uri>https://blog.ktamas.com/</uri>
+		</author>
+		<category scheme="https://blog.ktamas.com/tags" term="random" label="random"/>
+		<category scheme="https://blog.ktamas.com/tags" term="sorozat" label="sorozat"/>
+		<category scheme="https://blog.ktamas.com/tags" term="stargate" label="stargate"/>
+		<summary>Jack: How far is Alaris anyway?
+Teal’c: Several billions miles away.
+Jack: It’s gotta be a record!</summary>
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+<![CDATA[<p><a href="/wp-content/uploads/2011/02/stargatehog2.png"><img src="/wp-content/uploads/2011/02/stargatehog2.png" alt="" title="stargatehog2" width="640" height="360" class="aligncenter size-full wp-image-2362371" srcset="/wp-content/uploads/2011/02/stargatehog2.png 640w, /wp-content/uploads/2011/02/stargatehog2-300x168.png 300w" sizes="(max-width: 640px) 100vw, 640px" /></a></p>
+
+<p>Jack: How far is Alaris anyway?</p>
+
+<p>Teal&#8217;c: Several billions miles away.</p>
+
+<p>Jack: It&#8217;s gotta be a record!</p>
+
+<footer>
+    <a title="Permanent link to “Groundhog Day (legjobbabb)”" href="https://blog.ktamas.com/index.php/2011/02/02/groundhog-day-legjobbabb/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+        <div class="tags">
+            <h5>More about…</h5>
+            <ul>
+                <li><a href="https://blog.ktamas.com/tags/random/">random</a></li>
+                <li><a href="https://blog.ktamas.com/tags/sorozat/">sorozat</a></li>
+                <li><a href="https://blog.ktamas.com/tags/stargate/">stargate</a></li>
+            </ul>
+        </div>
+</footer>]]></content>
+	</entry>
+</feed>

@@ -1,0 +1,28 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "szlovenia on KTamas' blog",
+	"description": "An ongoing list of KTamas' blog posts about szlovenia",
+	"home_page_url": "https://blog.ktamas.com/tags/szlovenia/",
+	"feed_url": "https://blog.ktamas.com/tags/szlovenia/feed.json",
+	"icon": "https://blog.ktamas.com/icon-512x512.png",
+	"favicon": "https://blog.ktamas.com/icon-64x64.png",
+	"author": {
+		"name": "KTamas",
+		"url": "https://blog.ktamas.com/"
+	},
+	"items": [
+		{
+			"id": "https://blog.ktamas.com/index.php/2009/03/18/hogyan_tartsunk_egyben_egy_csapat_kiscsoportos_ovodast_az_utcan/",
+			"url": "https://blog.ktamas.com/index.php/2009/03/18/hogyan_tartsunk_egyben_egy_csapat_kiscsoportos_ovodast_az_utcan/",
+			"title": "Hogyan tartsunk egyben egy csapat kiscsoportos ovodast az utcan?",
+			"date_published": "2009-03-18T13:14:16Z",
+			"author": {
+				"name": "KTamas",
+				"url": "https://blog.ktamas.com/"
+			},
+			"tags": ["szlovenia","wtf"],
+			"content_html": "\u003cp\u003eLesznek majd sok kep, most csak egy teaser amit veletlen ISO800-al lottem, na mindegy. Ilyet meg nem lattam otthon, kicsit bizarr, de tulajdonkepp kreativ\u0026#8230;\u003c/p\u003e\n\n\u003cp\u003e\u003cimg class=\"aligncenter size-full wp-image-274\" title=\"Szerintem ehhez nem kell title :)\" src=\"http://ktamas.blog.hu/media/image/200903/_3182693.jpg\" alt=\"Szerintem ehhez nem kell title :)\" width=\"500\" height=\"600\" /\u003e\u003c/p\u003e\n\n\u003cfooter\u003e\n    \u003ca title=\"Permanent link to “Hogyan tartsunk egyben egy csapat kiscsoportos ovodast az utcan?”\" href=\"https://blog.ktamas.com/index.php/2009/03/18/hogyan_tartsunk_egyben_egy_csapat_kiscsoportos_ovodast_az_utcan/\"\u003e\u0026nbsp;\u0026nbsp;\u003c/a\u003e\n    By KTamas for \u003ca href=\"https://blog.ktamas.com/\"\u003eKTamas\u0026#39; blog\u003c/a\u003e\n        \u003cdiv class=\"tags\"\u003e\n            \u003ch5\u003eMore about…\u003c/h5\u003e\n            \u003cul\u003e\n                \u003cli\u003e\u003ca href=\"https://blog.ktamas.com/tags/szlovenia/\"\u003eszlovenia\u003c/a\u003e\u003c/li\u003e\n                \u003cli\u003e\u003ca href=\"https://blog.ktamas.com/tags/wtf/\"\u003ewtf\u003c/a\u003e\u003c/li\u003e\n            \u003c/ul\u003e\n        \u003c/div\u003e\n\u003c/footer\u003e",
+			"content_text": "Lesznek majd sok kep, most csak egy teaser amit veletlen ISO800-al lottem, na mindegy. Ilyet meg nem lattam otthon, kicsit bizarr, de tulajdonkepp kreativ\u0026#8230; \n\n\u003cimg class=\"aligncenter size-full wp-image-274\" title=\"Szerintem ehhez nem kell title :)\" src=\"http://ktamas.blog.hu/media/image/200903/_3182693.jpg\" alt=\"Szerintem ehhez nem kell title :)\" width=\"500\" height=\"600\" /\u003e\n\n-------------------------------------------------------------------------------\n\n Wednesday, 18 Mar 2009\nBy KTamas\nhttps://blog.ktamas.com/index.php/2009/03/18/hogyan_tartsunk_egyben_egy_csapat_kiscsoportos_ovodast_az_utcan/\n\nMore about...\n\n* szlovenia: https://blog.ktamas.com/tags/szlovenia/\n* wtf:       https://blog.ktamas.com/tags/wtf/"
+		}
+	]
+}

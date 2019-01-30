@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
+	<id>https://blog.ktamas.com/tags/jap%C3%A1n/</id>
+	<title>japán on KTamas&#39; blog</title>
+	<subtitle>An ongoing list of KTamas' blog posts about japán</subtitle>
+	<updated>2009-06-26T13:23:17Z</updated>
+	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/jap%C3%A1n/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/jap%C3%A1n/"/>
+	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/jap%C3%A1n/feed.json"/>
+	<author>
+		<name>KTamas</name>
+		<uri>https://blog.ktamas.com/</uri>
+	</author>
+	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
+	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
+	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
+	<entry>
+		<id>https://blog.ktamas.com/index.php/2009/06/26/az_evtized_valoszinu_egyik_legjobb_koncertje/</id>
+		<title>Az évtized (valószínű egyik legjobb) koncertje</title>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/06/26/az_evtized_valoszinu_egyik_legjobb_koncertje/"/>
+		<updated>2009-06-26T13:23:17Z</updated>
+		<published>2009-06-26T13:23:17Z</published>
+		<author>
+			<name>KTamas</name>
+			<uri>https://blog.ktamas.com/</uri>
+		</author>
+		<category scheme="https://blog.ktamas.com/tags" term="agymenes" label="agymenes"/>
+		<category scheme="https://blog.ktamas.com/tags" term="anime" label="anime"/>
+		<category scheme="https://blog.ktamas.com/tags" term="jap%C3%A1n" label="japán"/>
+		<category scheme="https://blog.ktamas.com/tags" term="random" label="random"/>
+		<summary>Amire nem fogunk tudni elmenni: http://www.last.fm/event/1038940</summary>
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+<![CDATA[<p>Amire nem fogunk tudni elmenni: <a href="http://www.last.fm/event/1038940">http://www.last.fm/event/1038940</a></p>
+
+<footer>
+    <a title="Permanent link to “Az évtized (valószínű egyik legjobb) koncertje”" href="https://blog.ktamas.com/index.php/2009/06/26/az_evtized_valoszinu_egyik_legjobb_koncertje/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+        <div class="tags">
+            <h5>More about…</h5>
+            <ul>
+                <li><a href="https://blog.ktamas.com/tags/agymenes/">agymenes</a></li>
+                <li><a href="https://blog.ktamas.com/tags/anime/">anime</a></li>
+                <li><a href="https://blog.ktamas.com/tags/jap%C3%A1n/">japán</a></li>
+                <li><a href="https://blog.ktamas.com/tags/random/">random</a></li>
+            </ul>
+        </div>
+</footer>]]></content>
+	</entry>
+	<entry>
+		<id>https://blog.ktamas.com/index.php/2009/01/11/visszater_a_do_as_infinity/</id>
+		<title>Visszatér a Do As Infinity!</title>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/01/11/visszater_a_do_as_infinity/"/>
+		<updated>2009-01-11T16:41:46Z</updated>
+		<published>2009-01-11T16:41:46Z</published>
+		<author>
+			<name>KTamas</name>
+			<uri>https://blog.ktamas.com/</uri>
+		</author>
+		<category scheme="https://blog.ktamas.com/tags" term="jap%C3%A1n" label="japán"/>
+		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
+		<summary>Nem túl bréking nyúz, de csak most olvastam: újra összeáll a Do As Infinity, japán valaha volt egyik legjobb j-poprock csapata. További infó és nagyszerű zene O七a力uS口undon. Itt pedig egy másik jó daluk, a Tangerine dream:
+ </summary>
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+<![CDATA[<p>Nem túl bréking nyúz, de csak most olvastam: újra összeáll a Do As Infinity, japán valaha volt egyik legjobb j-poprock csapata. További infó és nagyszerű zene <a href="http://otakusound.blog.hu/2009/01/11/do_as_infinity" target="_blank">O七a力uS口und</a>on. Itt pedig egy másik jó daluk, a Tangerine dream:</p>
+
+<iframe src="https://open.spotify.com/embed/track/6yYAmwnG0mSfrvbmzNdiGq" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+<footer>
+    <a title="Permanent link to “Visszatér a Do As Infinity!”" href="https://blog.ktamas.com/index.php/2009/01/11/visszater_a_do_as_infinity/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+        <div class="tags">
+            <h5>More about…</h5>
+            <ul>
+                <li><a href="https://blog.ktamas.com/tags/jap%C3%A1n/">japán</a></li>
+                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
+            </ul>
+        </div>
+</footer>]]></content>
+	</entry>
+</feed>

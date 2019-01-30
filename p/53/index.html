@@ -1,0 +1,905 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<title>KTamas&#39; blog</title>
+	<meta name="description" content="Bringing you irregular content since 2009. By KTamas." />
+	<meta name="author" content="KTamas" />
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto" rel="stylesheet">
+	<link rel="stylesheet" href="/css/screen.css" />
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+	<link rel="alternate" type="application/rss+xml" title="KTamas&#039; blog &raquo; Feed" href="http://feeds.feedburner.com/KTamasBlog" />
+	<link rel="manifest" href="/site.webmanifest" />
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5" />
+	<meta name="msapplication-TileColor" content="#da532c" />
+	<meta name="theme-color" content="#ffffff" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://blog.ktamas.com/" />
+	<meta property="og:title" content="KTamas’ blog" />
+	<meta property="og:site_name" content=" KTamas&#39; blog"/>
+	<meta property="og:description" content="Bringing you irregular content since 2009. By KTamas." />
+	<meta property="og:image" content="https://blog.ktamas.com/icon-512x512.png" />
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:site" value="@ktamas" />
+	<meta name="twitter:creator" value="@ktamas" />
+	<meta name="generator" content="Hugo 0.53" />
+</head>
+<body>
+	<div id="container">
+		<header>
+			<hgroup class="top">
+				
+				<h1><a href="/">KTamas&#39; blog</a></h1>
+				<h2>Remember kids, if Internet Explorer is brave enough to ask to be your default browser, you&#39;re brave enough to ask that girl out.</h2>
+			</hgroup>
+			<nav>
+				<menu>
+					<li><a href="/about/" title="About KTamas&#39; blog">About</a></li>
+					<li><a href="/archive/" title="KTamas&#39; blog Archives">Archives</a></li>
+					<li><a href="/tags/" title="KTamas&#39; blog Tags">Tags</a></li>
+					<li class="icon"><a href="//twitter.com/ktamas" title="@ktamas on Twitter"><i class="fa fa-twitter"></i></a></li>
+					<li class="icon"><a href="//github.com/ktamas" title="@ktamas on GitHub"><i class="fa fa-github"></i></a></li>
+					<li class="icon"><a href="http://feeds.feedburner.com/KTamasBlog" title="Subscribe to KTamas&#39; blog"><i class="fa fa-rss"></i></a></li>
+				</menu>
+			</nav>
+		</header>
+
+	<main id="home">
+		
+		    <article class="post">
+        <header>
+            <h1 class="post"><a href="/index.php/2009/03/27/a_gyors_twitteres_korkerdesbol/">A gyors twitteres körkérdésből&#8230;</a></h1>
+            <a rel="bookmark" href="https://blog.ktamas.com/index.php/2009/03/27/a_gyors_twitteres_korkerdesbol/"></a>
+            <time datetime="2009-03-27T18:40:35Z">Mar 3, 2009</time>
+        </header>
+        <div class="text">
+
+<p>&#8230;kiderült, hogy nem csak én olvasom félre elsőre azt, hogy</p>
+
+<p>British Phonographic Industry</p>
+
+<p>Köszönöm, a probléma az önök készülékében van.</p>
+
+<p>(És természetesen rossz, aki rosszra gondol!)</p>
+
+        </div>
+
+        <div class="tags">
+            <h5>More about…</h5>
+            <ul>
+                <li><a href="https://blog.ktamas.com/tags/random/">random</a></li>
+            </ul>
+        </div>
+    </article>
+
+		
+		    <article class="post">
+        <header>
+            <h1 class="post"><a href="/index.php/2009/03/27/miert_fogunk_a_jovoben_excelt_is_rubyban_programozni/">Miért fogunk a jövőben excelt is Rubyban programozni?</a></h1>
+            <a rel="bookmark" href="https://blog.ktamas.com/index.php/2009/03/27/miert_fogunk_a_jovoben_excelt_is_rubyban_programozni/"></a>
+            <time datetime="2009-03-27T12:53:36Z">Mar 3, 2009</time>
+        </header>
+        <div class="text">
+
+<p>Ruby:</p>
+
+<blockquote>
+<p>require &#8216;win32ole&#8217;</p>
+
+<p>excel = Win32ole.new(&#8220;Excel.Application&#8221;)</p>
+
+<p>excel.visible = true</p>
+
+<p>wb = excel.workbooks.add</p>
+
+<p>ws = wb.activesheet</p>
+
+<p>ws.range(&#8216;A1:B5&#8217;).each do |cell|</p>
+
+<p>cell.value = &#8220;Hello, World&#8221;</p>
+
+<p>end</p>
+</blockquote>
+
+<p>versus</p>
+
+<blockquote>
+<p>using Microsoft.Office.Interop.Excel;</p>
+
+<p>[&#8230;]</p>
+
+<p>var excel = new ApplicationClass();</p>
+
+<p>excel.Visible = true;</p>
+
+<p>object missing = System.Reflection.Missing.Value;</p>
+
+<p>var workbook = excel.Workbooks.Add(missing);</p>
+
+<p>var range = excel.get_Range((object)&#8221;A1&#8243;, (object)&#8221;B5&#8243;);</p>
+
+<p>foreach (Range r in range.Cells) {</p>
+
+<p>r.Activate();</p>
+
+<p>excel.ActiveCell.Value2 = &#8220;Alma&#8221;;</p>
+
+<p>}</p>
+</blockquote>
+
+<p>Na, melik a kevésbé gány megoldás?</p>
+
+<p>(A szerkesztőségbe várjuk a jobb C#-os megoldásokat.)</p>
+
+        </div>
+
+        <div class="tags">
+            <h5>More about…</h5>
+            <ul>
+                <li><a href="https://blog.ktamas.com/tags/programoz%C3%A1s/">programozás</a></li>
+            </ul>
+        </div>
+    </article>
+
+		
+		    <article class="post">
+        <header>
+            <h1 class="post"><a href="/index.php/2009/03/26/wolf3d_for_iphone_nyalanksagok/">Wolf3D for iPhone nyalánkságok</a></h1>
+            <a rel="bookmark" href="https://blog.ktamas.com/index.php/2009/03/26/wolf3d_for_iphone_nyalanksagok/"></a>
+            <time datetime="2009-03-26T19:18:43Z">Mar 3, 2009</time>
+        </header>
+        <div class="text">
+
+<p>Azt mindig is tudtuk, hogy John Carmack nagy arc, igazából <a href="http://www.idsoftware.com/wolfenstein3dclassic/wolfdevelopment.htm">ez az iromány</a> csak megerősít ebben. Ettől függetlenül erősen ajánlott olvasmány, mert tele van mindenféle <em>fascinating</em> dologgal a Wolf3D iphone-ra való portolásáról.</p>
+
+<p>És nagyon érek egy iPhone vásárlása.</p>
+
+<p>(a <a href="http://plastik.hu/2009/03/26/mein-leben/">Plastikon</a> olvastuk)</p>
+
+        </div>
+
+        <div class="tags">
+            <h5>More about…</h5>
+            <ul>
+                <li><a href="https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
+            </ul>
+        </div>
+    </article>
+
+		
+		    <article class="post">
+        <header>
+            <h1 class="post"><a href="/index.php/2009/03/25/es_most_zene/">Es most zene</a></h1>
+            <a rel="bookmark" href="https://blog.ktamas.com/index.php/2009/03/25/es_most_zene/"></a>
+            <time datetime="2009-03-25T22:14:04Z">Mar 3, 2009</time>
+        </header>
+        <div class="text">
+
+<p><a href="http://turulcsirip.hu/user/tzniuswarrior/">Tzinuswarrior</a> alias prezzey rakott ossze egy nagyon kellemes mixet mindenfele izraeli rockzenebol, tessek hallgatni, nagyon ott van gyakorlatilag az osszes.</p>
+
+<p>[Itt egy 8-Tracks embed volt. RIP.]</p>
+
+<p>(Edit: ez megy már fél napja. megunhatatlan.)</p>
+
+        </div>
+
+        <div class="tags">
+            <h5>More about…</h5>
+            <ul>
+                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
+            </ul>
+        </div>
+    </article>
+
+		
+		    <article class="post">
+        <header>
+            <h1 class="post"><a href="/index.php/2009/03/24/and_now_for_something_completely_different_5/">And now for something completely different</a></h1>
+            <a rel="bookmark" href="https://blog.ktamas.com/index.php/2009/03/24/and_now_for_something_completely_different_5/"></a>
+            <time datetime="2009-03-24T21:29:45Z">Mar 3, 2009</time>
+        </header>
+        <div class="text">
+
+<p>Akciozik a <a href="http://www.sanmarzano.hu/">Pizza Marzano</a>, konkretan 12-tol 3-ig minden kaja felaron van naluk, ugyhogy mi mostantol oda fogunk jarni ebedelni, amikor csak lehet, mert ennyi penzert &#8212; 700-900 forint per pizza &#8212; nagyon megeri. Ja es kb. a legjobb pizza pesten.</p>
+
+        </div>
+
+        <div class="tags">
+            <h5>More about…</h5>
+            <ul>
+                <li><a href="https://blog.ktamas.com/tags/gasztro/">gasztro</a></li>
+            </ul>
+        </div>
+    </article>
+
+		
+		    <article class="post">
+        <header>
+            <h1 class="post"><a href="/index.php/2009/03/24/ssd_krol/">SSD-kről</a></h1>
+            <a rel="bookmark" href="https://blog.ktamas.com/index.php/2009/03/24/ssd_krol/"></a>
+            <time datetime="2009-03-24T20:46:58Z">Mar 3, 2009</time>
+        </header>
+        <div class="text">
+
+<p>&#8230;írt Anand bácsi egy kötelezően olvasandó <a href="http://www.anandtech.com/printarticle.aspx?i=3531">cikket</a> mindazoknak, akik ilyen háttértárolóban gondolkoznak esetleg. A helyzet siralmas, de van fény az alagút végén.</p>
+
+<p>(amúgy <a href="http://www.joelonsoftware.com/">Spolsky</a> bácsi twittelte)</p>
+
+        </div>
+
+        <div class="tags">
+            <h5>More about…</h5>
+            <ul>
+                <li><a href="https://blog.ktamas.com/tags/it/">it</a></li>
+            </ul>
+        </div>
+    </article>
+
+		
+		    <article class="post">
+        <header>
+            <h1 class="post"><a href="/index.php/2009/03/24/a_battlestar_galactica_a_vilag_legjobb_sci_fi_sorozata/">A Battlestar Galactica a vilag legjobb Sci-Fi sorozata</a></h1>
+            <a rel="bookmark" href="https://blog.ktamas.com/index.php/2009/03/24/a_battlestar_galactica_a_vilag_legjobb_sci_fi_sorozata/"></a>
+            <time datetime="2009-03-24T10:00:39Z">Mar 3, 2009</time>
+        </header>
+        <div class="text">
+
+<p>Ennyi.</p>
+
+<p>Es Ron Moore nevet aranyba foglaljuk, ketszer.</p>
+
+        </div>
+
+        <div class="tags">
+            <h5>More about…</h5>
+            <ul>
+                <li><a href="https://blog.ktamas.com/tags/bsg/">bsg</a></li>
+                <li><a href="https://blog.ktamas.com/tags/sorozat/">sorozat</a></li>
+            </ul>
+        </div>
+    </article>
+
+		
+		    <article class="post">
+        <header>
+            <h1 class="post"><a href="/index.php/2009/03/23/jo_tudni_10/">Jó tudni&#8230;</a></h1>
+            <a rel="bookmark" href="https://blog.ktamas.com/index.php/2009/03/23/jo_tudni_10/"></a>
+            <time datetime="2009-03-23T10:39:39Z">Mar 3, 2009</time>
+        </header>
+        <div class="text">
+
+<p>&#8230;hogy a Huawei nagyszerű E220-as háromgés modeme nem csak az OSX-et tudja 15 kihúzásból egyszer kernel pánikba taszítani: eme hasznos feature jelentkezik windows alatt is, kékhalál formájában.</p>
+
+<p>(igen, legfrissebb verzió, miegymás)</p>
+
+        </div>
+
+        <div class="tags">
+            <h5>More about…</h5>
+            <ul>
+                <li><a href="https://blog.ktamas.com/tags/agymenes/">agymenes</a></li>
+            </ul>
+        </div>
+    </article>
+
+		
+		    <article class="post">
+        <header>
+            <h1 class="post"><a href="/index.php/2009/03/18/hogyan_tartsunk_egyben_egy_csapat_kiscsoportos_ovodast_az_utcan/">Hogyan tartsunk egyben egy csapat kiscsoportos ovodast az utcan?</a></h1>
+            <a rel="bookmark" href="https://blog.ktamas.com/index.php/2009/03/18/hogyan_tartsunk_egyben_egy_csapat_kiscsoportos_ovodast_az_utcan/"></a>
+            <time datetime="2009-03-18T13:14:16Z">Mar 3, 2009</time>
+        </header>
+        <div class="text">
+
+<p>Lesznek majd sok kep, most csak egy teaser amit veletlen ISO800-al lottem, na mindegy. Ilyet meg nem lattam otthon, kicsit bizarr, de tulajdonkepp kreativ&#8230;</p>
+
+<p><img class="aligncenter size-full wp-image-274" title="Szerintem ehhez nem kell title :)" src="http://ktamas.blog.hu/media/image/200903/_3182693.jpg" alt="Szerintem ehhez nem kell title :)" width="500" height="600" /></p>
+
+        </div>
+
+        <div class="tags">
+            <h5>More about…</h5>
+            <ul>
+                <li><a href="https://blog.ktamas.com/tags/szlovenia/">szlovenia</a></li>
+                <li><a href="https://blog.ktamas.com/tags/wtf/">wtf</a></li>
+            </ul>
+        </div>
+    </article>
+
+		
+		    <article class="post">
+        <header>
+            <h1 class="post"><a href="/index.php/2009/03/17/and_now_1/">And now&#8230;</a></h1>
+            <a rel="bookmark" href="https://blog.ktamas.com/index.php/2009/03/17/and_now_1/"></a>
+            <time datetime="2009-03-17T07:14:09Z">Mar 3, 2009</time>
+        </header>
+        <div class="text">
+
+<p>&#8230;3 nap Szlovenia.</p>
+
+        </div>
+
+        <div class="tags">
+            <h5>More about…</h5>
+            <ul>
+                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
+            </ul>
+        </div>
+    </article>
+
+		
+		
+
+<ul class="pagination">
+    
+    <li class="page-item">
+        <a href="/" class="page-link" aria-label="First"><span aria-hidden="true">&laquo;&laquo;</span></a>
+    </li>
+    
+    <li class="page-item">
+    <a href="/p/52/" class="page-link" aria-label="Previous"><span aria-hidden="true">&laquo;</span></a>
+    </li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item"><a class="page-link" href="/">1</a></li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item"><a class="page-link" href="/p/2/">2</a></li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item"><a class="page-link" href="/p/3/">3</a></li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item disabled"><span aria-hidden="true">&nbsp;&hellip;&nbsp;</span></li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item"><a class="page-link" href="/p/52/">52</a></li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item active"><a class="page-link" href="/p/53/">53</a></li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item"><a class="page-link" href="/p/54/">54</a></li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item disabled"><span aria-hidden="true">&nbsp;&hellip;&nbsp;</span></li>
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item"><a class="page-link" href="/p/58/">58</a></li>
+    
+    
+    <li class="page-item">
+    <a href="/p/54/" class="page-link" aria-label="Next"><span aria-hidden="true">&raquo;</span></a>
+    </li>
+    
+    <li class="page-item">
+        <a href="/p/58/" class="page-link" aria-label="Last"><span aria-hidden="true">&raquo;&raquo;</span></a>
+    </li>
+    
+</ul>
+
+	</main>
+		<footer>
+			<p>© Tamas Kadar, 2009-2019. All Rights Reserved.</p>
+		</footer>
+	</div>
+</body>
+</html>
+

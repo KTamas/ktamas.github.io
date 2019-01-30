@@ -1,0 +1,28 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "desktop on KTamas' blog",
+	"description": "An ongoing list of KTamas' blog posts about desktop",
+	"home_page_url": "https://blog.ktamas.com/tags/desktop/",
+	"feed_url": "https://blog.ktamas.com/tags/desktop/feed.json",
+	"icon": "https://blog.ktamas.com/icon-512x512.png",
+	"favicon": "https://blog.ktamas.com/icon-64x64.png",
+	"author": {
+		"name": "KTamas",
+		"url": "https://blog.ktamas.com/"
+	},
+	"items": [
+		{
+			"id": "https://blog.ktamas.com/index.php/2009/09/24/vegre_301/",
+			"url": "https://blog.ktamas.com/index.php/2009/09/24/vegre_301/",
+			"title": "Végre\u0026#8230;",
+			"date_published": "2009-09-24T09:54:05Z",
+			"author": {
+				"name": "KTamas",
+				"url": "https://blog.ktamas.com/"
+			},
+			"tags": ["desktop","random"],
+			"content_html": "\u003cp\u003e\u003cp style=\"text-align: left;\"\u003e\n  \u0026#8230;sikerült \u003ca href=\"http://djmattricks.deviantart.com/art/Herbal-tripple-39728777\" target=\"_blank\"\u003evállalható háromképernyős háttérképet\u003c/a\u003e találnom, be is raktam, gyorsan a \u003ca href=\"http://ktamas.blog.hu/2009/09/23/new_setup\" target=\"_blank\"\u003ekét gépre\u003c/a\u003e.\n\u003c/p\u003e\u003cfigure id=\"attachment_795\" style=\"width: 500px\" class=\"wp-caption aligncenter\"\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ca href=\"http://ktamas.blog.hu/media/image/200909/Desktop_09_24_09.jpg\"\u003e\u003cimg class=\"wp-image-795\" title=\"Desktop_09_24_09\" src=\"http://ktamas.blog.hu/media/image/200909/Desktop_09_24_09.jpg\" alt=\"Desktop_09_24_09\" width=\"500\" height=\"133\" /\u003e\u003c/a\u003e\u003cfigcaption class=\"wp-caption-text\"\u003eKattra nagyobb\u003c/figcaption\u003e\u003c/figure\u003e\u003c/p\u003e\n\n\u003cfooter\u003e\n    \u003ca title=\"Permanent link to “Végre\u0026amp;#8230;”\" href=\"https://blog.ktamas.com/index.php/2009/09/24/vegre_301/\"\u003e\u0026nbsp;\u0026nbsp;\u003c/a\u003e\n    By KTamas for \u003ca href=\"https://blog.ktamas.com/\"\u003eKTamas\u0026#39; blog\u003c/a\u003e\n        \u003cdiv class=\"tags\"\u003e\n            \u003ch5\u003eMore about…\u003c/h5\u003e\n            \u003cul\u003e\n                \u003cli\u003e\u003ca href=\"https://blog.ktamas.com/tags/desktop/\"\u003edesktop\u003c/a\u003e\u003c/li\u003e\n                \u003cli\u003e\u003ca href=\"https://blog.ktamas.com/tags/random/\"\u003erandom\u003c/a\u003e\u003c/li\u003e\n            \u003c/ul\u003e\n        \u003c/div\u003e\n\u003c/footer\u003e",
+			"content_text": "\u003cp style=\"text-align: left;\"\u003e\n  \u0026#8230;sikerült \u003ca href=\"http://djmattricks.deviantart.com/art/Herbal-tripple-39728777\" target=\"_blank\"\u003evállalható háromképernyős háttérképet\u003c/a\u003e találnom, be is raktam, gyorsan a \u003ca href=\"http://ktamas.blog.hu/2009/09/23/new_setup\" target=\"_blank\"\u003ekét gépre\u003c/a\u003e.\n\u003c/p\u003e\u003cfigure id=\"attachment_795\" style=\"width: 500px\" class=\"wp-caption aligncenter\"\u003e\n\n[\u003cimg class=\"wp-image-795\" title=\"Desktop_09_24_09\" src=\"http://ktamas.blog.hu/media/image/200909/Desktop_09_24_09.jpg\" alt=\"Desktop_09_24_09\" width=\"500\" height=\"133\" /\u003e](http://ktamas.blog.hu/media/image/200909/Desktop_09_24_09.jpg)\u003cfigcaption class=\"wp-caption-text\"\u003eKattra nagyobb\u003c/figcaption\u003e\u003c/figure\u003e\n\n-------------------------------------------------------------------------------\n\n Thursday, 24 Sep 2009\nBy KTamas\nhttps://blog.ktamas.com/index.php/2009/09/24/vegre_301/\n\nMore about...\n\n* desktop: https://blog.ktamas.com/tags/desktop/\n* random:  https://blog.ktamas.com/tags/random/"
+		}
+	]
+}

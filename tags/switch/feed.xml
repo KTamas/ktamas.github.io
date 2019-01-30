@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
+	<id>https://blog.ktamas.com/tags/switch/</id>
+	<title>switch on KTamas&#39; blog</title>
+	<subtitle>An ongoing list of KTamas' blog posts about switch</subtitle>
+	<updated>2010-12-19T12:20:21Z</updated>
+	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/switch/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/switch/"/>
+	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/switch/feed.json"/>
+	<author>
+		<name>KTamas</name>
+		<uri>https://blog.ktamas.com/</uri>
+	</author>
+	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
+	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
+	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
+	<entry>
+		<id>https://blog.ktamas.com/index.php/2010/12/19/android-az-uj-winmobile-zte-blade-meg-amit-akartok/</id>
+		<title>Android az új Winmobile (ZTE Blade, meg amit akartok)</title>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2010/12/19/android-az-uj-winmobile-zte-blade-meg-amit-akartok/"/>
+		<updated>2010-12-19T12:20:21Z</updated>
+		<published>2010-12-19T12:20:21Z</published>
+		<author>
+			<name>KTamas</name>
+			<uri>https://blog.ktamas.com/</uri>
+		</author>
+		<category scheme="https://blog.ktamas.com/tags" term="android" label="android"/>
+		<category scheme="https://blog.ktamas.com/tags" term="apple" label="apple"/>
+		<category scheme="https://blog.ktamas.com/tags" term="blackberry" label="blackberry"/>
+		<category scheme="https://blog.ktamas.com/tags" term="pda" label="pda"/>
+		<category scheme="https://blog.ktamas.com/tags" term="switch" label="switch"/>
+		<category scheme="https://blog.ktamas.com/tags" term="winmobile" label="winmobile"/>
+		<summary>Szóval az történt, hogy — többek közt — a T túl olcsón adott egy ahhoz képest meglepően jó Androidos készüléket, engem meg kezdett erősen zavarni, hogy egy csúnyán elmaradt, és hosszútávon valószínűleg halálraítélt okostelefonplatformot használok (Blackberry), úgyhogy besétáltam egy T boltba, és potom havi három (drágább helyeken két) sör áráért vettem egy ZTE Blade-et. És nagyon hamar újra otthon éreztem magam.
+
+Ugyanis nagyon sokáig, kb 5 évig aktív Windows Mobile felhasználó voltam, végigkövettem a platform majdnem összes iterációját Pocket PC 2002-től a Windows Mobile 6.</summary>
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+<![CDATA[<p>Szóval az történt, hogy &#8212; többek közt &#8212; a T túl olcsón adott egy ahhoz képest meglepően jó Androidos készüléket, engem meg kezdett erősen zavarni, hogy egy csúnyán elmaradt, és hosszútávon valószínűleg halálraítélt okostelefonplatformot használok (Blackberry), úgyhogy besétáltam egy T boltba, és potom havi három (drágább helyeken két) sör áráért vettem egy ZTE Blade-et. És nagyon hamar újra otthon éreztem magam.</p>
+
+<p><a href="/wp-content/uploads/2010/12/blade.jpg"><img class="aligncenter size-full wp-image-2362338" title="blade" src="/wp-content/uploads/2010/12/blade.jpg" alt="" width="500" height="442" srcset="/wp-content/uploads/2010/12/blade.jpg 500w, /wp-content/uploads/2010/12/blade-300x265.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></a></p>
+
+<p>Ugyanis nagyon sokáig, kb 5 évig aktív Windows Mobile felhasználó voltam, végigkövettem a platform majdnem összes iterációját Pocket PC 2002-től a Windows Mobile 6.1-ig, a sima PDA-któl a 3G-s okostelefonokig, amikre, így visszanézve, elég rosszul skálázódott a rendszer, ami az 5-ös verziótól kezdve ráadásul folyamatosan lassult. Ráadásul a kezdetektől fogva nagyon csúnyán fragmentálódott, mind hardverben &#8212; különböző processzorok, memóriamennyiségek, képernyőfelbontások &#8211;, mind szoftverben: a gyártók többsége kiadta az adott PDA-t jó esetben az épp aktuális rendszerrel, később jött még 1-2 apró frissítés és ennyi. Ha új, major verzió jött, azt csak a szerencsésebbek kapták meg hivatalos frissítés formájában &#8212; merthogy azokat az MS az OEM-ekre bízta, akiknek sokszor kifizetődőbb volt, ha az új rendszerért vetetnek a júzerrel új PDA-t is.</p>
+
+<p>Élelmes felhasználók azonban hamar rájöttek, hogy a Windows Mobile egy igen jól hackelhető rendszer, és hamarosan megjelentek a &#8216;cooked&#8217; (főzött) ROM-ok, mindenféle extra szoftverrel és változtatásokkal, valamint, hála a sok kiszivárgott, sokszor bétas ROM-oknak, sok felhasználó megkaphatta az adott új Windows Mobile-verziót a PDA-jára ilyenfajta kerülőúton. Nem mindig volt teljesen stabil, néha kicsit bugzott, de általában sikerült előbbutóbb több, mint használható állapotba hozni őket. Nem is annyira extrém példa, hogy a HTC Himalaya kódnevű telefonja még Windows Mobile 2003-mmal érkezett &#8212; de azóta minden verzió így vagy úgy elérhető lett rá (WM2003SE, WM5, WM6, WM6.1, WM6.5).</p>
+
+<p>(Itt említhetném a Google legelső, G1-es telefonját, ami hivatalosan megragadt Android 1.6-on, de a mai napig jönnek rá ki az új verziók nemhivatalos forrásból.)</p>
+
+<p>Mindenesetre, nem igazán kell rámutatnom a párhuzamokra&#8230; de a konkrét esetnél maradva, az én Blade-em Éclairrel (2.1) jött, ami a készülék megjelenésekor már alapból nem a legújabb verzió volt. Hivatalos Froyót (2.2) 2011 elejére ígérnek, míg a most megjelent Gingerbreadről (2.3) senki se tudja, hogy meg fog-e valaha hivatalosan jelenni a Blade-re. Ennek ellenére már két bétás kínai Froyo ROM is kiszivárgott, és léteznek belőle működő verziók, azzal az apró buggal, hogy néha meghal az érintőképernyő, és annak visszahozásához teljes reboot kell. Sőt, pár napja van már nagyonalfás Gingerbread is egy módosított Nexus S ROM formájában, amiben még ugyan a telefon se működik, de majd egyszercsak fog. Vagy valami.</p>
+
+<p>Mindezek ellenére ennyi pénzért a Blade bárkinek megéri, a processzor ugyan nem a legújabb benne (600 MHz, ez van többek közt a HTC Legendjében is), és a magyar piacra a kínai, csak 256 MB RAM-os model jutott, valamint az első szállítmány kijelzői kicsit túl sok feszkót kapnak, emiatt a szürke néha kéknek látszik (ennek ellenére nagyon tisztességes, 800&#215;480-as felbontású), de tényleg, irónia nélkül, mindezek ellenére ez egy teljesen jó és vállalható budget okostelefon, levelezésre, csetre, olvasásra (Instapaper!!), netre, satöbbi, potom 37000 forint Dominoban (öt perc alatt unlockolható persze), ha meg vállal az ember hűséget a legkisebb mobilnetcsomagra akkor már csak havi 1000 forint tíz hónapig.</p>
+
+<p>A teljes QWERTY egyelőre még hiányzik, a push email már sokkal kevésbé, az valójában egy aljas és rossz dolog.</p>
+
+<p>Szóval most elvagyok jópár hónapig ezzel, egyelőre még a rootolásra és/vagy új ROM felrakására se érzek késztetést (mert mind bugos, haha). Bár mióta volt nálam egy hétig egy iPhone, nagy a kisértés, hogy előbbutóbb arra váltsak, 3GStől felfele és a 4.2 óta teljesen vállalható lett az is, és ha már sok pénzt akarok költeni okostelefonra akkor inkább az, mint egy Nexus/Desire/etc. De ez még a jövő zenéje.</p>
+
+<p>(Utolsó gyors kitérő: az, hogy az MS szigorú szabályokat diktál az OEMeknek a Windows Phone 7-hez &#8212; 1GHz proci, 800&#215;480-as kijelző etc. &#8212; eddig talán a legjobb út a mostani piacon, mert lehet egy egységes platformja, OEM-ekkel, remélhetőleg fragmentáció nélkül. Persze kérdés, hogy a rendszer hosszútávon hogy fog bizonyítani.)</p>
+
+<p>((Az Angry Birds szaggat a Bladen sajnos. Egy perc néma csend.))</p>
+
+<p>(((Edit: ja hogy már a múltkor elsütöttem a &#8220;Meg amit akartok&#8221;-ot. fene.)))</p>
+
+<footer>
+    <a title="Permanent link to “Android az új Winmobile (ZTE Blade, meg amit akartok)”" href="https://blog.ktamas.com/index.php/2010/12/19/android-az-uj-winmobile-zte-blade-meg-amit-akartok/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+        <div class="tags">
+            <h5>More about…</h5>
+            <ul>
+                <li><a href="https://blog.ktamas.com/tags/android/">android</a></li>
+                <li><a href="https://blog.ktamas.com/tags/apple/">apple</a></li>
+                <li><a href="https://blog.ktamas.com/tags/blackberry/">blackberry</a></li>
+                <li><a href="https://blog.ktamas.com/tags/pda/">pda</a></li>
+                <li><a href="https://blog.ktamas.com/tags/switch/">switch</a></li>
+                <li><a href="https://blog.ktamas.com/tags/winmobile/">winmobile</a></li>
+            </ul>
+        </div>
+</footer>]]></content>
+	</entry>
+	<entry>
+		<id>https://blog.ktamas.com/index.php/2009/02/12/mi_a_bajom_az_osx_szel/</id>
+		<title>Mi a bajom az OSX-szel?</title>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/02/12/mi_a_bajom_az_osx_szel/"/>
+		<updated>2009-02-12T19:34:43Z</updated>
+		<published>2009-02-12T19:34:43Z</published>
+		<author>
+			<name>KTamas</name>
+			<uri>https://blog.ktamas.com/</uri>
+		</author>
+		<category scheme="https://blog.ktamas.com/tags" term="mac" label="mac"/>
+		<category scheme="https://blog.ktamas.com/tags" term="switch" label="switch"/>
+		<category scheme="https://blog.ktamas.com/tags" term="win7" label="win7"/>
+		<category scheme="https://blog.ktamas.com/tags" term="windows" label="windows"/>
+		<summary>Szóval az előző postban már említettem, hogy szeretnék win(7-e)t használni egy darabig, úgyhogy thinkpadra váltottam. Kicsit bővebben is kifejteném a szakítás okait az OSX-szel.
+Miért
+Kezdjük a másik oldalon, mi a jó az OSX-ben? Először is kapunk egy nagyon faszán megcsinált UI-t, valamint egy nagyon jó kis POSIX-implementációt a darwin személyében. Egy mozdulattal előhívhatjuk a Terminalt, és kedvünkre futtathatjuk kedvenc *nixes tooljainkat, programjainkat, ezáltal ideális platform jópár programnyelvhez is. Van nem egy killer app is rá (pl.</summary>
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+<![CDATA[<p>Szóval az előző postban már említettem, hogy szeretnék win(7-e)t használni egy darabig, úgyhogy thinkpadra váltottam. Kicsit bővebben is kifejteném a szakítás okait az OSX-szel.</p>
+
+<p><strong>Miért</strong></p>
+
+<p>Kezdjük a másik oldalon, mi a jó az OSX-ben? Először is kapunk egy nagyon faszán megcsinált UI-t, valamint egy nagyon jó kis POSIX-implementációt a darwin személyében. Egy mozdulattal előhívhatjuk a Terminalt, és kedvünkre futtathatjuk kedvenc *nixes tooljainkat, programjainkat, ezáltal ideális platform jópár programnyelvhez is. Van nem egy killer app is rá (pl. Textmate), és alapjába vége egy gyors és tényleg felhasználóbarát rendszer. A hardvernek is vannak pozitív oldalai, a kétujjas görgetés például a világ egyik legjobb dolga, és a macbook touchpadja messze, messze felette van bármi más notiénak, foleg OSX alatt (Boot Camp alatt egy másik történet, az Apple baszik rendes wines drivereket írni, valszeg nem veletlen). De.</p>
+
+<p><strong>Miért ne?</strong></p>
+
+<p>Mint már említettem: az UI-t nagyon egérre tervezték. Én viszont billentyűzetbuzi vagyok. Természetsen sokmindent lehet csinálni egér nélkül, a menüt elő lehet venni ctrl+f2-vel (vagy megtanulhatod az összes program billkombóit, de mindegyik rendszerint saját logikát követ egy ponton túl), a dockhoz asszem ctrl+f3 van, meg ott a quicksilver, mégse tűnik annyira természetesnek mint mondjuk egy alt+f+a a wordben. És Windowsba, ha kell, aztán tényleg majdnem mindent meg lehet csinálni egérmentesen. Tudom, megszokás kérdése, de én több, mint egy év alatt nem tudtam igazan megszokni az OSX-nek ezt a részét.</p>
+
+<p>Másrészt. Nincs egy normális fájlkezelő. Najó, kimondom: nincs rá Total Commander. Vannak programok, amik valamilyen szinten közelítenek, de egy sem adja meg azt a <em>flow-t,</em> ami megvan a Total Commanderrel nekem, márpedig az a program win alatt nekem nagyjából non-stop fut és szerves részét képezi az életemnek meg a munkámnak. A Finder valamivel jobb, mint pl. a vanilla windowsos Explorer, de mégis, fájt a szívem használni akárhányszor leültem mondjuk a munkahelyi gépem után.</p>
+
+<p>Ritkán esik szól a teljesen el&#8217;szott <em>mouse curve</em>-ról, ami touchpadnál egyáltalán nem zavaró, de rendes egérnél NAGYON: olyan, mintha valami sűrű mocsáron keresztül kéne húznod a kurzort, laaaaassú, nem gyorsul eléggé. Ezt részben orvosolni lehet bizonyos third-party cuccokkal, de sose lesz olyan, mint Win alatt.</p>
+
+<p>Hardveres oldalon: a glossy képernyő. Nem, nem, nem és nem, nem érdekel hogy <em>vivid colors, higher contrast,</em> meg szeretik a júzerek, __meg minden, de nem a saját arcomat akarom látni a képernyőn mikor a nap valamiért rásüt a képernyőre. Egyszerűen nem és kész. És mostmár lassan minden laptopba ezt rakják, sőt, ami rosszabb, már az iMacekbe is.</p>
+
+<p>Nem tudom, hogy hardveres vagy szoftveres baj volt-e, de sosem sikerült normálisan lejátsznanom HD felbontású videókat rendesen, vagy szaggatak, vagy a kép meg a hang csúszott el, mindig volt valami. Win alatt MPC HomeCinema, FFDShow, CoreAVC, szevasztok.</p>
+
+<p>Ezenfelül nincs rendes Torrent kliens. A Transmission egy <a href="http://trac.transmissionbt.com/ticket/1201" target="_blank">aranyos bug</a> miatt kiesik (szétfagyasztja a rendszert bizonyos gépeken, az enyémen is ezt tette), és az uTorrent erősen alfás még, marad a Vuze ami Javás, nagy, és lassú.</p>
+
+<p>Ja, és Firefox. Van, de még mindig jelentősen lassabb a Webkit/Safarinál, amihez viszont nincsenek extensionok, csak pár kvázi-plugin változó minőséggel.</p>
+
+<p>Plusz az egyetlen, jatek, amivel jatszani szoktam, Win-only&#8230;</p>
+
+<p><strong>Postmortem</strong></p>
+
+<p>Adtam megint egy esélyt az ubuntunak az x61s-en, sajnos megint megakadtam a korábban már a winden is előjövő videólejátszási bugon, miszerint vagy tearing van, vagy megy, de 10-ből egyszer el fog szállni az egész rendszer egy random színű képernyővel. Köszönjük szépen, majd ha lesz rendes Intel driver, megpróbáljuk újra, addig repül megint a /dev/nullba, én tényleg akarom szeretni ezt a desktop linux dolgot de ha egyszer.</p>
+
+<p>És valaki mondja meg már nekik, hogy a naracssárga-barna kombó egyszerűen RONDA. Plusz ha a Gnomeba tennének valami normális Control Panelt&#8230;</p>
+
+<p><strong>ATM</strong></p>
+
+<p>Szóval most így vagyok, boldog Win7 júzer, bár lesz még egy hackintosh kitérő, mivel az adataim egy Time Machine backupban vannak, és Leo nélkül NAGYON problémás visszaállítani az adatokat.</p>
+
+<p>Minden hibája ellenére továbbra is egy alapjába véve jó oprendszernek tartom az OSX-et (bár távolról se tökéletes lásd fentebb), lehet Snow Leo kap majd valamilyen módon egy esélyt, de a fenti okok miatt egyelőre nem hiszem, hogy egyhamar újra primary oprendszer lehetne. Tudom, a Win se tokeletes, de jelenleg teljesen megfelel, amire kell.</p>
+
+<footer>
+    <a title="Permanent link to “Mi a bajom az OSX-szel?”" href="https://blog.ktamas.com/index.php/2009/02/12/mi_a_bajom_az_osx_szel/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+        <div class="tags">
+            <h5>More about…</h5>
+            <ul>
+                <li><a href="https://blog.ktamas.com/tags/mac/">mac</a></li>
+                <li><a href="https://blog.ktamas.com/tags/switch/">switch</a></li>
+                <li><a href="https://blog.ktamas.com/tags/win7/">win7</a></li>
+                <li><a href="https://blog.ktamas.com/tags/windows/">windows</a></li>
+            </ul>
+        </div>
+</footer>]]></content>
+	</entry>
+	<entry>
+		<id>https://blog.ktamas.com/index.php/2009/02/11/bye_bye_macbook_hello_x61s_1/</id>
+		<title>Bye-bye Macbook, hello X61s</title>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/02/11/bye_bye_macbook_hello_x61s_1/"/>
+		<updated>2009-02-11T19:02:08Z</updated>
+		<published>2009-02-11T19:02:08Z</published>
+		<author>
+			<name>KTamas</name>
+			<uri>https://blog.ktamas.com/</uri>
+		</author>
+		<category scheme="https://blog.ktamas.com/tags" term="mac" label="mac"/>
+		<category scheme="https://blog.ktamas.com/tags" term="switch" label="switch"/>
+		<category scheme="https://blog.ktamas.com/tags" term="win7" label="win7"/>
+		<category scheme="https://blog.ktamas.com/tags" term="windows" label="windows"/>
+		<summary>Nagy lépésre szántam el magamat: Eladtam a Macbookomat és vettem egy Thinkpadot, abból is egy X61s-t. Több okból is: egyrészt sosem tudtam teljesen megbarátkozni a borotválkozóView (copyright kelt) kijelzővel, másrészt meg egyelőre szeretnék Win7et használni mint primary oprendszer és erre sokkal alkalmasabb egy olyan gép amin pl. egynél több gomb van az egérhez (igen, windows alatt szar a macbook touchpadja for one). Az x61s szép, jó, a mérete szintén majdnem tökéletes, mert mindenféle akrobatikus mutatványok nélkül tudom elővenni pl.</summary>
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+<![CDATA[<p>Nagy lépésre szántam el magamat: Eladtam a Macbookomat és vettem egy Thinkpadot, abból is egy X61s-t. Több okból is: egyrészt sosem tudtam teljesen megbarátkozni a borotválkozóView (copyright kelt) kijelzővel, másrészt meg egyelőre szeretnék Win7et használni mint primary oprendszer és erre sokkal alkalmasabb egy olyan gép amin pl. egynél több gomb van az egérhez (igen, windows alatt szar a macbook touchpadja <em>for one</em>). Az x61s szép, jó, a mérete szintén majdnem tökéletes, mert mindenféle akrobatikus mutatványok nélkül tudom elővenni pl. a vonaton, a szuk ulesen is. Ezen felul a 6x sorozatu notebookok kb. a jelenleg legjobban kinézőek a piacon (szerintem), ami nem fő, de nem is utolsó szempont. Meg izé, new toy and all.</p>
+
+<p>Az OSX-szel a legnagyobb bajom, minden kenyelmessege ellenere, hogy tulsagosan egérközpontú, egy rakat dolog gyorsabban megy Win alatt a billentyűzettel. Ami viszont hiányozni fog, az a *nix integráció, amit egy mozdulattal előhívhat az ember.</p>
+
+<p>Ami nem menő, hogy úgy tűnik, a magyar X61s billentyűzet minősége nem éppen egyezik az amerikaival, maguk a keyek is máshogy néznek ki és bizony eléggé &#8216;hajlik&#8217; aminek az ellenkezőjét írja az összes, a billentyűzetet kivétel nélkül dicsőítő amerikai teszt. Ezt mindenesetre sürgősen orvosolni fogjuk az ebay <span style="text-decoration: line-through;">és/vagy a magyar szervíz segítségével (ha nem lesz olyan drága náluk)</span> segítségével mivel a magyar szervíz hihetetlen pofátlan pénzt kér érte. Valamint vettem bele egy 250 GB-os, 7200-as winchit, úgyhogy hely is lesz egy ideig.</p>
+
+<p>P.S.: az ujjlenyomatolvasó MENŐ.</p>
+
+<p>P.P.S.: Lesz hamarosan egy részletesebb írás is arról, hogy miért hagytam ott az OSX-et. Van is, <a href="http://ktamas.blog.hu/2009/02/12/mi_a_bajom_az_osx_szel" target="_blank">itt</a>.</p>
+
+<footer>
+    <a title="Permanent link to “Bye-bye Macbook, hello X61s”" href="https://blog.ktamas.com/index.php/2009/02/11/bye_bye_macbook_hello_x61s_1/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+        <div class="tags">
+            <h5>More about…</h5>
+            <ul>
+                <li><a href="https://blog.ktamas.com/tags/mac/">mac</a></li>
+                <li><a href="https://blog.ktamas.com/tags/switch/">switch</a></li>
+                <li><a href="https://blog.ktamas.com/tags/win7/">win7</a></li>
+                <li><a href="https://blog.ktamas.com/tags/windows/">windows</a></li>
+            </ul>
+        </div>
+</footer>]]></content>
+	</entry>
+</feed>

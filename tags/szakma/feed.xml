@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
+	<id>https://blog.ktamas.com/tags/szakma/</id>
+	<title>szakma on KTamas&#39; blog</title>
+	<subtitle>An ongoing list of KTamas' blog posts about szakma</subtitle>
+	<updated>2011-10-12T12:38:33Z</updated>
+	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/szakma/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/szakma/"/>
+	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/szakma/feed.json"/>
+	<author>
+		<name>KTamas</name>
+		<uri>https://blog.ktamas.com/</uri>
+	</author>
+	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
+	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
+	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
+	<entry>
+		<id>https://blog.ktamas.com/index.php/2011/10/12/benne-vagyok-az-internetben-meetup/</id>
+		<title>Benne vagyok az internetben (meetup)</title>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2011/10/12/benne-vagyok-az-internetben-meetup/"/>
+		<updated>2011-10-12T12:38:33Z</updated>
+		<published>2011-10-12T12:38:33Z</published>
+		<author>
+			<name>KTamas</name>
+			<uri>https://blog.ktamas.com/</uri>
+		</author>
+		<category scheme="https://blog.ktamas.com/tags" term="el%C5%91ad%C3%A1s" label="előadás"/>
+		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://blog.ktamas.com/tags" term="szakma" label="szakma"/>
+		<summary>Az történt, hogy hogy egy gyenge pillanatomban rábólintottam arra, hogy előadjak a meetupon, merthogy már többen jelezték hogy nekem nagyon érdekes szakmám van amiben van egy csomó téma, kértem egyet, mondtak, úgyhogy beszéltem 5 majd’ 10 percet a karakterkódolásokról. Ahhoz képest, hogy amint felléptem a színpadra, elfelejtettem mindent a lámpaláztól, a szemem a vetítővászonra fixálódott, a külső szemlélő számára egy jobbfajta (?) Powerpoint Karaoket toltam, az időlimit miatt a dolgok egy részét egyszerűsítettem a true enough verzióra, ja, és elég durván kifutottam az időből, igy visszanezve nem is lett olyan rossz.</summary>
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+<![CDATA[<p>Az történt, hogy hogy egy gyenge pillanatomban rábólintottam arra, hogy előadjak <a href="http://www.meetup.com/newtech-42/">a meetupon</a>, merthogy már többen jelezték hogy nekem nagyon érdekes szakmám van amiben van egy csomó téma, kértem egyet, mondtak, úgyhogy beszéltem <del>5</del> majd&#8217; 10 percet a karakterkódolásokról. Ahhoz képest, hogy amint felléptem a színpadra, elfelejtettem mindent a lámpaláztól, a szemem a vetítővászonra fixálódott, a külső szemlélő számára egy jobbfajta (?) Powerpoint Karaoket toltam, az időlimit miatt a dolgok egy részét egyszerűsítettem a true enough verzióra, ja, és elég durván kifutottam az időből, igy visszanezve nem is lett olyan rossz. És most tekintsünk el az előadás előtti két nap szolíd pánikról, amit végül Veve mentett aznap délután. Úgyhogy van még mit fejlődnöm előadástechnikában, nem is keveset, de bele fogok egyszercsak jönni ebbe is majd.</p>
+
+<p><iframe src="//www.slideshare.net/slideshow/embed_code/key/7nEL8dSMz1RyCA" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/KTamas/bush-hid-the-facts-amit-a-karakterkdolsok-tartogatnak-ellened" title="Bush hid the facts - amit a karakterkódolások tartogatnak ellened (lightning talk)" target="_blank">Bush hid the facts - amit a karakterkódolások tartogatnak ellened (lightning talk)</a> </strong> from <strong><a href="https://www.slideshare.net/KTamas" target="_blank">KTamas</a></strong></p>
+
+<p><iframe src="https://player.vimeo.com/video/30380081" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/30380081">K&aacute;d&aacute;r Tam&aacute;s (Espell): Bush hid the facts - amit a karakterk&oacute;dol&aacute;sok tartogatnak ellened</a> from <a href="https://vimeo.com/user1066482">Budapest New Tech Meetup</a> on <a href="https://vimeo.com">Vimeo</a>.</p></p>
+
+<footer>
+    <a title="Permanent link to “Benne vagyok az internetben (meetup)”" href="https://blog.ktamas.com/index.php/2011/10/12/benne-vagyok-az-internetben-meetup/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+        <div class="tags">
+            <h5>More about…</h5>
+            <ul>
+                <li><a href="https://blog.ktamas.com/tags/el%C5%91ad%C3%A1s/">előadás</a></li>
+                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://blog.ktamas.com/tags/szakma/">szakma</a></li>
+            </ul>
+        </div>
+</footer>]]></content>
+	</entry>
+</feed>

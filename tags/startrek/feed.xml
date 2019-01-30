@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
+	<id>https://blog.ktamas.com/tags/startrek/</id>
+	<title>startrek on KTamas&#39; blog</title>
+	<subtitle>An ongoing list of KTamas' blog posts about startrek</subtitle>
+	<updated>2009-05-12T12:00:29Z</updated>
+	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/startrek/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/startrek/"/>
+	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/startrek/feed.json"/>
+	<author>
+		<name>KTamas</name>
+		<uri>https://blog.ktamas.com/</uri>
+	</author>
+	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
+	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
+	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
+	<entry>
+		<id>https://blog.ktamas.com/index.php/2009/05/12/star_trek_2055/</id>
+		<title>Star Trek (2009)</title>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/05/12/star_trek_2055/"/>
+		<updated>2009-05-12T12:00:29Z</updated>
+		<published>2009-05-12T12:00:29Z</published>
+		<author>
+			<name>KTamas</name>
+			<uri>https://blog.ktamas.com/</uri>
+		</author>
+		<category scheme="https://blog.ktamas.com/tags" term="mozi" label="mozi"/>
+		<category scheme="https://blog.ktamas.com/tags" term="startrek" label="startrek"/>
+		<summary><p>Erősen úgy tűnik, hogy bármi, amihez J. J. Abrams és Damon Lindelof nyúl, arannyá válik. Ez a film ugyanis egyszerűen tökéletes lett. Spoileres ömlengés a tovább után…</p></summary>
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+<![CDATA[<p>Erősen úgy tűnik, hogy bármi, amihez J. J. Abrams és Damon Lindelof nyúl, arannyá válik. Ez a film ugyanis egyszerűen tökéletes lett. Spoileres ömlengés a tovább után&#8230;</p>
+
+<p>Az első próbálkozás Star Trek prequelre erősen felemás lett az Enterprise személyében, egyszerűen nem volt hihető a dolog, nem is beszélve arról, hogy csak a harmadik évadtól kezdett a dolog a nézhető felé tendálni, aztán jött egy egész jó évad (naigen, Braga bácsi akkor mással foglalkozott) és a világ legrosszabb Star Trek részeként a történelembe bevonuló sorozatzáró. És akkor nem is beszéltünk a sorozat számos történelem-hamisításáról&#8230; szóval nem lett az jó, na.</p>
+
+<p>Ezzel szemben Abrams (és Lindelof) más utat vett: prequel helyett rendes rebootot csináltak, szépen meghagyták a teljes &#8216;régi&#8217; univerzumot úgy, ahogy van&#8230; és csináltak mellé mégegyet, a lehető legegyszerűbb (alternatív idővonal), ugyanakkor elegáns módon, szinte végtelen új lehetőségnek utat nyitva, mert innentől nem kötötte őket semmi.</p>
+
+<p>Így kaptunk egy több, mint két órás nagyonfasza akciófilmet, és ezzel együtt egy tökjó alapozót valami igazán újra. A film egyszerűen úgy össze van rakva, amennyire csak lehet, színészestül, sztoristul, látványostul és zenéstül, nem tudok fogást tartani rajta, bár ennek a négynek talán a zene az egyetlen, tényleg csak hajszálnyit gyenge pontja, de még az is messze az átlag felett volt.</p>
+
+<p>Apropó színészek. Tartottam kicsit Zach Quintótól, számomra szinte egybeforrt Sylar karakterével, de mégis sikerült kilépnie abból, és egy hihető Spockot alakítania. Chris Pine és Karl Urban simán jó volt (ha folytatják, szerintem lesz ez még jobb is), Simon Pegg fantasztikus, mint mindig, ahogy a Chekovot alakító Anton Yelchin alakítása is bejött. Zoe Saldana pedig az abszolút szükségés eyecandy, ami minden nyári popcornmoziba kell. Ja, és persze itt van még Sulu is, akiből szintén sokat lehet majd kihozni. Szóval igen, folytatást akarok, sokat!</p>
+
+<p>Szóval engem már az elején megvettek (és nem csak azért, mert időutazás-sucker vagyok, bár segített), ez az év egy igazán jó év a space opera-rajongóknak, egy ilyen fasza BSG befejezés után most egy gyönyörű (új) kezdetet láttunk a Star Treknek. Ez így <strong>tízpertíz</strong>.</p>
+<footer>
+    <a title="Permanent link to “Star Trek (2009)”" href="https://blog.ktamas.com/index.php/2009/05/12/star_trek_2055/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+        <div class="tags">
+            <h5>More about…</h5>
+            <ul>
+                <li><a href="https://blog.ktamas.com/tags/mozi/">mozi</a></li>
+                <li><a href="https://blog.ktamas.com/tags/startrek/">startrek</a></li>
+            </ul>
+        </div>
+</footer>]]></content>
+	</entry>
+</feed>

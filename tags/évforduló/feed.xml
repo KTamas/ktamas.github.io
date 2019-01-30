@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
+	<id>https://blog.ktamas.com/tags/%C3%A9vfordul%C3%B3/</id>
+	<title>évforduló on KTamas&#39; blog</title>
+	<subtitle>An ongoing list of KTamas' blog posts about évforduló</subtitle>
+	<updated>2014-01-29T22:23:14Z</updated>
+	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/%C3%A9vfordul%C3%B3/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/%C3%A9vfordul%C3%B3/"/>
+	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/%C3%A9vfordul%C3%B3/feed.json"/>
+	<author>
+		<name>KTamas</name>
+		<uri>https://blog.ktamas.com/</uri>
+	</author>
+	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
+	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
+	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
+	<entry>
+		<id>https://blog.ktamas.com/index.php/2014/01/29/elso-evfordulo-de-most-tenyleg/</id>
+		<title>Első évforduló, de most tényleg</title>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2014/01/29/elso-evfordulo-de-most-tenyleg/"/>
+		<updated>2014-01-29T22:23:14Z</updated>
+		<published>2014-01-29T22:23:14Z</published>
+		<author>
+			<name>KTamas</name>
+			<uri>https://blog.ktamas.com/</uri>
+		</author>
+		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9vfordul%C3%B3" label="évforduló"/>
+		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<summary>Egy előző posztban részben megemlékeztem már róla, de legyünk pontosak, ma van egy éve, hogy kiköltöztem ide, Göteborgba, Svédországba. Ennek ünneplésére (najó, ettől függetlenül) ma elmentem kipróbálni az egyik nemrég felfedezett Burrito bart, azonban elbambultam, és rossz villamosra szálltam, így kénytelen voltam kipróbálni a másik, nemrég felfedezett Burrito bart. Nem csalódtam, korrekt, amerikai stílusban (Mission-style) csinálják, árban teljesen rendben van a dolog, jól is lakik az ember vele, egy lassan főzött, kicsit csípős marhásat ettem mexikói rizzsel, babbal, salsával, tejföllel és sajttal, remek volt, ide vissza kell járni, pláne, hogy a városközpontban van, sokszor útba esik.</summary>
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+<![CDATA[<p><a href="http://blog.ktamas.com/index.php/2014/01/16/25-1-2013-2014/">Egy előző posztban részben megemlékeztem már róla</a>, de legyünk pontosak, ma van egy éve, hogy kiköltöztem ide, Göteborgba, Svédországba. Ennek ünneplésére (najó, ettől függetlenül) ma elmentem kipróbálni az <a href="https://www.facebook.com/tomtomsburrito">egyik</a> nemrég felfedezett Burrito bart, azonban elbambultam, és rossz villamosra szálltam, így <em>kénytelen voltam</em> kipróbálni a <a href="https://www.facebook.com/WrappedBurritoBar">másik</a>, nemrég felfedezett Burrito bart. Nem csalódtam, korrekt, amerikai stílusban (<a href="http://en.wikipedia.org/wiki/Mission_burrito">Mission-style</a>) csinálják, árban teljesen rendben van a dolog, jól is lakik az ember vele, egy lassan főzött, kicsit csípős marhásat ettem mexikói rizzsel, babbal, salsával, tejföllel és sajttal, remek volt, ide vissza kell járni, pláne, hogy a városközpontban van, sokszor útba esik.</p>
+
+<p>Holnap, ha lesz rá idő, kipróbálom a másik helyet is.</p>
+
+<footer>
+    <a title="Permanent link to “Első évforduló, de most tényleg”" href="https://blog.ktamas.com/index.php/2014/01/29/elso-evfordulo-de-most-tenyleg/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+        <div class="tags">
+            <h5>More about…</h5>
+            <ul>
+                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://blog.ktamas.com/tags/%C3%A9vfordul%C3%B3/">évforduló</a></li>
+                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+            </ul>
+        </div>
+</footer>]]></content>
+	</entry>
+</feed>

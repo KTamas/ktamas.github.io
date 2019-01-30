@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
+	<id>https://blog.ktamas.com/tags/vm/</id>
+	<title>vm on KTamas&#39; blog</title>
+	<subtitle>An ongoing list of KTamas' blog posts about vm</subtitle>
+	<updated>2011-09-11T21:02:32Z</updated>
+	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/vm/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/vm/"/>
+	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/vm/feed.json"/>
+	<author>
+		<name>KTamas</name>
+		<uri>https://blog.ktamas.com/</uri>
+	</author>
+	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
+	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
+	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
+	<entry>
+		<id>https://blog.ktamas.com/index.php/2011/09/11/napi-loop-air-la-femme-dargent/</id>
+		<title>Napi loop: Air &amp;#8211; La Femme D&amp;#8217;Argent</title>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2011/09/11/napi-loop-air-la-femme-dargent/"/>
+		<updated>2011-09-11T21:02:32Z</updated>
+		<published>2011-09-11T21:02:32Z</published>
+		<author>
+			<name>KTamas</name>
+			<uri>https://blog.ktamas.com/</uri>
+		</author>
+		<category scheme="https://blog.ktamas.com/tags" term="napiloop" label="napiloop"/>
+		<category scheme="https://blog.ktamas.com/tags" term="vm" label="vm"/>
+		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
+		<summary>Veronica Mars. Gazs hibája. ’nuff said.</summary>
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+<![CDATA[<iframe src="https://open.spotify.com/embed/track/3ZzhV6JIDKWvWR7wiKWD0C" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+<p><a href="http://www.youtube.com/watch?v=ZHSkgFgct6E">Veronica Mars</a>. <a href="http://bergengocia.net/">Gazs</a> hibája. &#8217;nuff said.</p>
+
+<footer>
+    <a title="Permanent link to “Napi loop: Air &amp;#8211; La Femme D&amp;#8217;Argent”" href="https://blog.ktamas.com/index.php/2011/09/11/napi-loop-air-la-femme-dargent/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+        <div class="tags">
+            <h5>More about…</h5>
+            <ul>
+                <li><a href="https://blog.ktamas.com/tags/napiloop/">napiloop</a></li>
+                <li><a href="https://blog.ktamas.com/tags/vm/">vm</a></li>
+                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
+            </ul>
+        </div>
+</footer>]]></content>
+	</entry>
+	<entry>
+		<id>https://blog.ktamas.com/index.php/2009/08/13/uj_csengohang/</id>
+		<title>Új csengőhang</title>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/08/13/uj_csengohang/"/>
+		<updated>2009-08-13T22:21:44Z</updated>
+		<published>2009-08-13T22:21:44Z</published>
+		<author>
+			<name>KTamas</name>
+			<uri>https://blog.ktamas.com/</uri>
+		</author>
+		<category scheme="https://blog.ktamas.com/tags" term="random" label="random"/>
+		<category scheme="https://blog.ktamas.com/tags" term="sorozat" label="sorozat"/>
+		<category scheme="https://blog.ktamas.com/tags" term="vm" label="vm"/>
+		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
+		<summary>Sacc per kábe kétévente cserélgetem, persze hogy sorozatos, hehe.
+csengohang</summary>
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+<![CDATA[<p>Sacc per kábe kétévente cserélgetem, persze hogy sorozatos, hehe.</p>
+
+<p><a href="http://ktamas.blog.hu/media/image/200908/csengohang.mp3">csengohang</a></p>
+
+<footer>
+    <a title="Permanent link to “Új csengőhang”" href="https://blog.ktamas.com/index.php/2009/08/13/uj_csengohang/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+        <div class="tags">
+            <h5>More about…</h5>
+            <ul>
+                <li><a href="https://blog.ktamas.com/tags/random/">random</a></li>
+                <li><a href="https://blog.ktamas.com/tags/sorozat/">sorozat</a></li>
+                <li><a href="https://blog.ktamas.com/tags/vm/">vm</a></li>
+                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
+            </ul>
+        </div>
+</footer>]]></content>
+	</entry>
+	<entry>
+		<id>https://blog.ktamas.com/index.php/2009/08/09/veronica_mars_1/</id>
+		<title>Veronica Mars</title>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/08/09/veronica_mars_1/"/>
+		<updated>2009-08-09T13:48:17Z</updated>
+		<published>2009-08-09T13:48:17Z</published>
+		<author>
+			<name>KTamas</name>
+			<uri>https://blog.ktamas.com/</uri>
+		</author>
+		<category scheme="https://blog.ktamas.com/tags" term="sorozat" label="sorozat"/>
+		<category scheme="https://blog.ktamas.com/tags" term="vm" label="vm"/>
+		<summary><p>Az alapsztoriról nem akarok sokat írni, a junkien ezt <a href="http://www.sorozatjunkie.hu/2006/11/08/veronica-mars-irta-imurai/" target="_blank">nálam sokkal jobban leírták</a>, az első két bekezdés a lényeg, inkább foglalkoznék kicsit a karakterekkel meg évadkritikákkal meg a sztorikkal, a tovább után, spoileresen, aki nem látta a sorozatot, az meg rohanjon megnézni, mert jó.</p></summary>
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+<![CDATA[<p>Az alapsztoriról nem akarok sokat írni, a junkien ezt <a href="http://www.sorozatjunkie.hu/2006/11/08/veronica-mars-irta-imurai/" target="_blank">nálam sokkal jobban leírták</a>, az első két bekezdés a lényeg, inkább foglalkoznék kicsit a karakterekkel meg évadkritikákkal meg a sztorikkal, a tovább után, spoileresen, aki nem látta a sorozatot, az meg rohanjon megnézni, mert jó.</p>
+
+<p>Az első évad talán a legjobb: jó sztorik, jó dumák, jó karakterek: Veronica a topon, Logan baromi jó, ahogy Weevil is, sőt igazából Wallace-ra se lehet panasz. Keith papa meg mindig jó. Duncan elmegy, de lesz ez rosszabb is. Az átívelő szálat jól adagolják, bár a végemegoldás kicsit sántít nekem, mert valahogy a semmiből jön túlságosan, de abszolút elfogadható, és &#8212; persze utólag rájöve &#8212; ügyesen elindítják a második évad átívelőjét is. Szóval ez kap egy erős <sup>8</sup>&frasl;<sub>10</sub>-et. (Plusz Kristen Bell ebben az évadban néz ki a legjobban.) ((Plusz fájdalmasan kevés Mac.))</p>
+
+<p>Aztán jött a második: Veronica még mindig jó, Logan is, Weevil is, Duncan hál&#8217;Istennek a felénél elmegy, mert kezd erősen felesleges lenni, viszont ezt egy meglepően jól megírt résszel csinálják meg, amiért külön dicséret jár a készítőknek. Regularok lettek a Casablancas fiúk, ami tulajdonképpen jó, bár Dick ebben az évadban inkább idegesítő, Beavert viszont jól megcsinálták. Az átívelő szerintem még valamivel jobb is, mint az elsőben, a dumák továbbra is ott vannak, Lamb seriff egyre szórakoztatóbb, ez kap egy 8,<sup>5</sup>&frasl;<sub>10</sub>-et.</p>
+
+<p>A harmadik évad&#8230; háááát szóval. Nézzük a pozitívumokat: Macből regular lett (!), Piz egész jó, Lamb seriffnek ez a legjobb évada (amíg ki nem nyírják sajnos), Weevilnek vannak pillanatai, Dick pedig kifejezetten szórakoztató. Veronica viszont már nem annyira jó, mint az első két évadban, bár rossznak semmiképp se nevezném, mégis, Wallace is kicsit gyengébb. Az átívelők tulajdonképp egész jók, az epizódos sztorik viszont 2-3at leszámítva elég gyengék. Logant nemes egyszerűséggel kiherélték. Az utolsó 5 rész kicsit olyan semmilyen, lehet hogy az átívelő hiánya miatt. A sorozatzáró rész meg, hááááát, lehetne sokkal jobb is, bár vannak benne jó pillanatok. 6,<sup>5</sup>&frasl;<sub>10</sub>, kihagyni nem érdemes, de a léc rezeg.</p>
+
+<p>A sorozat egyértelmű erőssége a zene, valaki össze is rakta az összeset, ami elhangzott a sorozatban (!) egy majd&#8217; kétgigás torrent fájlba, amit a google és egyéb keresők segítségével bárki megtalálhat.</p>
+
+<p>Szóval a Veronica Mars jó, összességében kap egy <sup>8</sup>&frasl;<sub>10</sub>-et, én azért még néztem volna pár évadon keresztül.</p>
+
+<p>(A CW meg kapja be a cancelt.)</p>
+
+<p><div id="_mcePaste" style="overflow: hidden; position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px;">
+  <a href="http://www.sorozatjunkie.hu/2006/11/08/veronica-mars-irta-imurai/">http://www.sorozatjunkie.hu/2006/11/08/veronica-mars-irta-imurai/</a>
+</div></p></p>
+<footer>
+    <a title="Permanent link to “Veronica Mars”" href="https://blog.ktamas.com/index.php/2009/08/09/veronica_mars_1/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+        <div class="tags">
+            <h5>More about…</h5>
+            <ul>
+                <li><a href="https://blog.ktamas.com/tags/sorozat/">sorozat</a></li>
+                <li><a href="https://blog.ktamas.com/tags/vm/">vm</a></li>
+            </ul>
+        </div>
+</footer>]]></content>
+	</entry>
+	<entry>
+		<id>https://blog.ktamas.com/index.php/2009/08/06/a_long_time_ago_we_used_to_be_friends/</id>
+		<title>A long time ago&amp;#8230; we used to be friends&amp;#8230;</title>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/08/06/a_long_time_ago_we_used_to_be_friends/"/>
+		<updated>2009-08-06T16:13:34Z</updated>
+		<published>2009-08-06T16:13:34Z</published>
+		<author>
+			<name>KTamas</name>
+			<uri>https://blog.ktamas.com/</uri>
+		</author>
+		<category scheme="https://blog.ktamas.com/tags" term="random" label="random"/>
+		<category scheme="https://blog.ktamas.com/tags" term="vm" label="vm"/>
+		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
+		<summary>A (holtversenyben a Las Vegassal!) leghangulatosabb TV-intro (zene).
+(ja és van új tagline is. egyet lehet találni, honnan.)</summary>
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+<![CDATA[<iframe src="https://open.spotify.com/embed/track/7hpFYWL3cw5m4y70cce7Zb" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+<p>A (holtversenyben a Las Vegassal!) leghangulatosabb TV-intro (zene).</p>
+
+<p>(ja és van új tagline is. egyet lehet találni, honnan.)</p>
+
+<footer>
+    <a title="Permanent link to “A long time ago&amp;#8230; we used to be friends&amp;#8230;”" href="https://blog.ktamas.com/index.php/2009/08/06/a_long_time_ago_we_used_to_be_friends/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+        <div class="tags">
+            <h5>More about…</h5>
+            <ul>
+                <li><a href="https://blog.ktamas.com/tags/random/">random</a></li>
+                <li><a href="https://blog.ktamas.com/tags/vm/">vm</a></li>
+                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
+            </ul>
+        </div>
+</footer>]]></content>
+	</entry>
+</feed>

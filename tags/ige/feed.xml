@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
+	<id>https://blog.ktamas.com/tags/ige/</id>
+	<title>ige on KTamas&#39; blog</title>
+	<subtitle>An ongoing list of KTamas' blog posts about ige</subtitle>
+	<updated>2009-05-24T19:55:56Z</updated>
+	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/ige/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/ige/"/>
+	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/ige/feed.json"/>
+	<author>
+		<name>KTamas</name>
+		<uri>https://blog.ktamas.com/</uri>
+	</author>
+	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
+	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
+	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
+	<entry>
+		<id>https://blog.ktamas.com/index.php/2009/05/24/note_to_self_1/</id>
+		<title>Note to self</title>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/05/24/note_to_self_1/"/>
+		<updated>2009-05-24T19:55:56Z</updated>
+		<published>2009-05-24T19:55:56Z</published>
+		<author>
+			<name>KTamas</name>
+			<uri>https://blog.ktamas.com/</uri>
+		</author>
+		<category scheme="https://blog.ktamas.com/tags" term="ige" label="ige"/>
+		<summary> “Nem a ti dolgotok, hogy olyan időkről és alkalmakról tudjatok, amelyeket az Atya a maga hatalmába helyezett.”
+(ApCsel 1:7)
+  </summary>
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+<![CDATA[<blockquote>
+<p style="text-align: right;">
+  <span style="color: black;">&#8220;Nem a ti dolgotok, hogy olyan időkről és alkalmakról tudjatok, amelyeket az Atya a maga hatalmába helyezett.&#8221;<br /> (ApCsel 1:7)<br /> </span>
+</p>
+</blockquote>
+
+<footer>
+    <a title="Permanent link to “Note to self”" href="https://blog.ktamas.com/index.php/2009/05/24/note_to_self_1/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+        <div class="tags">
+            <h5>More about…</h5>
+            <ul>
+                <li><a href="https://blog.ktamas.com/tags/ige/">ige</a></li>
+            </ul>
+        </div>
+</footer>]]></content>
+	</entry>
+</feed>

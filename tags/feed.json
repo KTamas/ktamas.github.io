@@ -1,0 +1,991 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Just a Theory Tags",
+	"description": "Bringing you irregular content since 2009. By KTamas.",
+	"home_page_url": "https://blog.ktamas.com/tags/",
+	"feed_url": "https://blog.ktamas.com/tags/feed.json",
+	"icon": "https://blog.ktamas.com/icon-512x512.png",
+	"favicon": "https://blog.ktamas.com/icon-64x64.png",
+	"author": {
+		"name": "KTamas",
+		"url": "https://blog.ktamas.com/"
+	},
+	"items": [
+		{
+			"id": "https://blog.ktamas.com/tags/2015/",
+			"url": "https://blog.ktamas.com/tags/2015/",
+			"title": "2015",
+			"date_published": "2015-06-24T10:42:52Z",
+			"content_html": "\u003cp\u003ePosts about 2015.\u003c/p\u003e",
+			"content_text": "Posts about 2015."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/agymenes/",
+			"url": "https://blog.ktamas.com/tags/agymenes/",
+			"title": "agymenes",
+			"date_published": "2011-11-01T21:52:17Z",
+			"content_html": "\u003cp\u003ePosts about agymenes.\u003c/p\u003e",
+			"content_text": "Posts about agymenes."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/",
+			"url": "https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/",
+			"title": "ajánló",
+			"date_published": "2011-10-20T15:00:07Z",
+			"content_html": "\u003cp\u003ePosts about ajánló.\u003c/p\u003e",
+			"content_text": "Posts about ajánló."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/android/",
+			"url": "https://blog.ktamas.com/tags/android/",
+			"title": "android",
+			"date_published": "2010-12-19T12:20:21Z",
+			"content_html": "\u003cp\u003ePosts about android.\u003c/p\u003e",
+			"content_text": "Posts about android."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/anime/",
+			"url": "https://blog.ktamas.com/tags/anime/",
+			"title": "anime",
+			"date_published": "2009-07-16T08:33:12Z",
+			"content_html": "\u003cp\u003ePosts about anime.\u003c/p\u003e",
+			"content_text": "Posts about anime."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/apple/",
+			"url": "https://blog.ktamas.com/tags/apple/",
+			"title": "apple",
+			"date_published": "2010-12-19T12:20:21Z",
+			"content_html": "\u003cp\u003ePosts about apple.\u003c/p\u003e",
+			"content_text": "Posts about apple."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/backlog/",
+			"url": "https://blog.ktamas.com/tags/backlog/",
+			"title": "backlog",
+			"date_published": "2011-05-04T09:41:19Z",
+			"content_html": "\u003cp\u003ePosts about backlog.\u003c/p\u003e",
+			"content_text": "Posts about backlog."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/balkan/",
+			"url": "https://blog.ktamas.com/tags/balkan/",
+			"title": "balkan",
+			"date_published": "2009-12-16T19:58:02Z",
+			"content_html": "\u003cp\u003ePosts about balkan.\u003c/p\u003e",
+			"content_text": "Posts about balkan."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/bennevagyokazinternetben/",
+			"url": "https://blog.ktamas.com/tags/bennevagyokazinternetben/",
+			"title": "bennevagyokazinternetben",
+			"date_published": "2012-10-16T15:24:43Z",
+			"content_html": "\u003cp\u003ePosts about bennevagyokazinternetben.\u003c/p\u003e",
+			"content_text": "Posts about bennevagyokazinternetben."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/bicikli/",
+			"url": "https://blog.ktamas.com/tags/bicikli/",
+			"title": "bicikli",
+			"date_published": "2009-06-06T20:53:30Z",
+			"content_html": "\u003cp\u003ePosts about bicikli.\u003c/p\u003e",
+			"content_text": "Posts about bicikli."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/blackberry/",
+			"url": "https://blog.ktamas.com/tags/blackberry/",
+			"title": "blackberry",
+			"date_published": "2010-12-19T12:20:21Z",
+			"content_html": "\u003cp\u003ePosts about blackberry.\u003c/p\u003e",
+			"content_text": "Posts about blackberry."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/bor/",
+			"url": "https://blog.ktamas.com/tags/bor/",
+			"title": "bor",
+			"date_published": "2013-08-09T10:35:50Z",
+			"content_html": "\u003cp\u003ePosts about bor.\u003c/p\u003e",
+			"content_text": "Posts about bor."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/bsg/",
+			"url": "https://blog.ktamas.com/tags/bsg/",
+			"title": "bsg",
+			"date_published": "2009-03-24T10:00:39Z",
+			"content_html": "\u003cp\u003ePosts about bsg.\u003c/p\u003e",
+			"content_text": "Posts about bsg."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/budapest/",
+			"url": "https://blog.ktamas.com/tags/budapest/",
+			"title": "budapest",
+			"date_published": "2014-01-21T09:46:58Z",
+			"content_html": "\u003cp\u003ePosts about budapest.\u003c/p\u003e",
+			"content_text": "Posts about budapest."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/b%C3%A9cs/",
+			"url": "https://blog.ktamas.com/tags/b%C3%A9cs/",
+			"title": "bécs",
+			"date_published": "2009-06-27T16:57:29Z",
+			"content_html": "\u003cp\u003ePosts about bécs.\u003c/p\u003e",
+			"content_text": "Posts about bécs."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/chat/",
+			"url": "https://blog.ktamas.com/tags/chat/",
+			"title": "chat",
+			"date_published": "2010-04-18T01:19:00Z",
+			"content_html": "\u003cp\u003ePosts about chat.\u003c/p\u003e",
+			"content_text": "Posts about chat."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/commandline/",
+			"url": "https://blog.ktamas.com/tags/commandline/",
+			"title": "commandline",
+			"date_published": "2012-08-07T13:19:22Z",
+			"content_html": "\u003cp\u003ePosts about commandline.\u003c/p\u003e",
+			"content_text": "Posts about commandline."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/c%C3%A9g/",
+			"url": "https://blog.ktamas.com/tags/c%C3%A9g/",
+			"title": "cég",
+			"date_published": "2013-05-23T13:29:13Z",
+			"content_html": "\u003cp\u003ePosts about cég.\u003c/p\u003e",
+			"content_text": "Posts about cég."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/demo/",
+			"url": "https://blog.ktamas.com/tags/demo/",
+			"title": "demo",
+			"date_published": "2010-12-19T22:09:15Z",
+			"content_html": "\u003cp\u003ePosts about demo.\u003c/p\u003e",
+			"content_text": "Posts about demo."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/desktop/",
+			"url": "https://blog.ktamas.com/tags/desktop/",
+			"title": "desktop",
+			"date_published": "2009-09-24T09:54:05Z",
+			"content_html": "\u003cp\u003ePosts about desktop.\u003c/p\u003e",
+			"content_text": "Posts about desktop."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/die_outlook_die/",
+			"url": "https://blog.ktamas.com/tags/die_outlook_die/",
+			"title": "die_outlook_die",
+			"date_published": "2009-05-17T18:16:35Z",
+			"content_html": "\u003cp\u003ePosts about die_outlook_die.\u003c/p\u003e",
+			"content_text": "Posts about die_outlook_die."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/doctorwho/",
+			"url": "https://blog.ktamas.com/tags/doctorwho/",
+			"title": "doctorwho",
+			"date_published": "2011-05-13T09:46:01Z",
+			"content_html": "\u003cp\u003ePosts about doctorwho.\u003c/p\u003e",
+			"content_text": "Posts about doctorwho."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/ebook/",
+			"url": "https://blog.ktamas.com/tags/ebook/",
+			"title": "ebook",
+			"date_published": "2009-07-24T22:09:24Z",
+			"content_html": "\u003cp\u003ePosts about ebook.\u003c/p\u003e",
+			"content_text": "Posts about ebook."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/el%C5%91ad%C3%A1s/",
+			"url": "https://blog.ktamas.com/tags/el%C5%91ad%C3%A1s/",
+			"title": "előadás",
+			"date_published": "2011-10-12T12:38:33Z",
+			"content_html": "\u003cp\u003ePosts about előadás.\u003c/p\u003e",
+			"content_text": "Posts about előadás."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/enkerekelnezest/",
+			"url": "https://blog.ktamas.com/tags/enkerekelnezest/",
+			"title": "enkerekelnezest",
+			"date_published": "2009-04-30T20:55:17Z",
+			"content_html": "\u003cp\u003ePosts about enkerekelnezest.\u003c/p\u003e",
+			"content_text": "Posts about enkerekelnezest."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/fagyi/",
+			"url": "https://blog.ktamas.com/tags/fagyi/",
+			"title": "fagyi",
+			"date_published": "2013-08-08T14:39:49Z",
+			"content_html": "\u003cp\u003ePosts about fagyi.\u003c/p\u003e",
+			"content_text": "Posts about fagyi."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/film/",
+			"url": "https://blog.ktamas.com/tags/film/",
+			"title": "film",
+			"date_published": "2014-02-08T10:45:19Z",
+			"content_html": "\u003cp\u003ePosts about film.\u003c/p\u003e",
+			"content_text": "Posts about film."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/flamebait/",
+			"url": "https://blog.ktamas.com/tags/flamebait/",
+			"title": "flamebait",
+			"date_published": "2014-03-07T18:37:35Z",
+			"content_html": "\u003cp\u003ePosts about flamebait.\u003c/p\u003e",
+			"content_text": "Posts about flamebait."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/fogorvos/",
+			"url": "https://blog.ktamas.com/tags/fogorvos/",
+			"title": "fogorvos",
+			"date_published": "2013-09-28T12:23:16Z",
+			"content_html": "\u003cp\u003ePosts about fogorvos.\u003c/p\u003e",
+			"content_text": "Posts about fogorvos."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/fog%C3%A1szat/",
+			"url": "https://blog.ktamas.com/tags/fog%C3%A1szat/",
+			"title": "fogászat",
+			"date_published": "2013-09-29T10:31:59Z",
+			"content_html": "\u003cp\u003ePosts about fogászat.\u003c/p\u003e",
+			"content_text": "Posts about fogászat."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/",
+			"url": "https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/",
+			"title": "fotózás",
+			"date_published": "2015-06-24T10:42:52Z",
+			"content_html": "\u003cp\u003ePosts about fotózás.\u003c/p\u003e",
+			"content_text": "Posts about fotózás."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/furcsak%C3%A9p/",
+			"url": "https://blog.ktamas.com/tags/furcsak%C3%A9p/",
+			"title": "furcsakép",
+			"date_published": "2009-01-05T14:21:51Z",
+			"content_html": "\u003cp\u003ePosts about furcsakép.\u003c/p\u003e",
+			"content_text": "Posts about furcsakép."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/futurama/",
+			"url": "https://blog.ktamas.com/tags/futurama/",
+			"title": "futurama",
+			"date_published": "2009-08-02T15:24:01Z",
+			"content_html": "\u003cp\u003ePosts about futurama.\u003c/p\u003e",
+			"content_text": "Posts about futurama."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/f%C3%BCles/",
+			"url": "https://blog.ktamas.com/tags/f%C3%BCles/",
+			"title": "füles",
+			"date_published": "2009-07-03T10:00:27Z",
+			"content_html": "\u003cp\u003ePosts about füles.\u003c/p\u003e",
+			"content_text": "Posts about füles."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/gasztro/",
+			"url": "https://blog.ktamas.com/tags/gasztro/",
+			"title": "gasztro",
+			"date_published": "2011-06-05T11:40:30Z",
+			"content_html": "\u003cp\u003ePosts about gasztro.\u003c/p\u003e",
+			"content_text": "Posts about gasztro."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/geekdom/",
+			"url": "https://blog.ktamas.com/tags/geekdom/",
+			"title": "geekdom",
+			"date_published": "2010-06-12T11:00:00Z",
+			"content_html": "\u003cp\u003ePosts about geekdom.\u003c/p\u003e",
+			"content_text": "Posts about geekdom."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/hit/",
+			"url": "https://blog.ktamas.com/tags/hit/",
+			"title": "hit",
+			"date_published": "2011-05-18T13:25:03Z",
+			"content_html": "\u003cp\u003ePosts about hit.\u003c/p\u003e",
+			"content_text": "Posts about hit."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/hurr%C3%A1nyaralunk/",
+			"url": "https://blog.ktamas.com/tags/hurr%C3%A1nyaralunk/",
+			"title": "hurrányaralunk",
+			"date_published": "2009-08-02T15:07:29Z",
+			"content_html": "\u003cp\u003ePosts about hurrányaralunk.\u003c/p\u003e",
+			"content_text": "Posts about hurrányaralunk."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/id%C3%A9zet/",
+			"url": "https://blog.ktamas.com/tags/id%C3%A9zet/",
+			"title": "idézet",
+			"date_published": "2009-01-13T09:40:59Z",
+			"content_html": "\u003cp\u003ePosts about idézet.\u003c/p\u003e",
+			"content_text": "Posts about idézet."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/ige/",
+			"url": "https://blog.ktamas.com/tags/ige/",
+			"title": "ige",
+			"date_published": "2009-05-24T19:55:56Z",
+			"content_html": "\u003cp\u003ePosts about ige.\u003c/p\u003e",
+			"content_text": "Posts about ige."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/imap/",
+			"url": "https://blog.ktamas.com/tags/imap/",
+			"title": "imap",
+			"date_published": "2009-05-24T12:16:24Z",
+			"content_html": "\u003cp\u003ePosts about imap.\u003c/p\u003e",
+			"content_text": "Posts about imap."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/irrit%C3%A1l/",
+			"url": "https://blog.ktamas.com/tags/irrit%C3%A1l/",
+			"title": "irritál",
+			"date_published": "2013-04-20T11:40:25Z",
+			"content_html": "\u003cp\u003ePosts about irritál.\u003c/p\u003e",
+			"content_text": "Posts about irritál."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/it/",
+			"url": "https://blog.ktamas.com/tags/it/",
+			"title": "it",
+			"date_published": "2009-03-24T20:46:58Z",
+			"content_html": "\u003cp\u003ePosts about it.\u003c/p\u003e",
+			"content_text": "Posts about it."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/izraeli/",
+			"url": "https://blog.ktamas.com/tags/izraeli/",
+			"title": "izraeli",
+			"date_published": "2011-05-09T11:24:59Z",
+			"content_html": "\u003cp\u003ePosts about izraeli.\u003c/p\u003e",
+			"content_text": "Posts about izraeli."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/jap%C3%A1n/",
+			"url": "https://blog.ktamas.com/tags/jap%C3%A1n/",
+			"title": "japán",
+			"date_published": "2009-06-26T13:23:17Z",
+			"content_html": "\u003cp\u003ePosts about japán.\u003c/p\u003e",
+			"content_text": "Posts about japán."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/javascript/",
+			"url": "https://blog.ktamas.com/tags/javascript/",
+			"title": "javascript",
+			"date_published": "2011-05-05T23:58:46Z",
+			"content_html": "\u003cp\u003ePosts about javascript.\u003c/p\u003e",
+			"content_text": "Posts about javascript."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/kaja/",
+			"url": "https://blog.ktamas.com/tags/kaja/",
+			"title": "kaja",
+			"date_published": "2013-08-10T11:31:41Z",
+			"content_html": "\u003cp\u003ePosts about kaja.\u003c/p\u003e",
+			"content_text": "Posts about kaja."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/kerdes/",
+			"url": "https://blog.ktamas.com/tags/kerdes/",
+			"title": "kerdes",
+			"date_published": "2009-02-15T13:40:32Z",
+			"content_html": "\u003cp\u003ePosts about kerdes.\u003c/p\u003e",
+			"content_text": "Posts about kerdes."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/keyboard/",
+			"url": "https://blog.ktamas.com/tags/keyboard/",
+			"title": "keyboard",
+			"date_published": "2009-09-03T14:18:37Z",
+			"content_html": "\u003cp\u003ePosts about keyboard.\u003c/p\u003e",
+			"content_text": "Posts about keyboard."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/kindle/",
+			"url": "https://blog.ktamas.com/tags/kindle/",
+			"title": "kindle",
+			"date_published": "2012-10-16T11:03:55Z",
+			"content_html": "\u003cp\u003ePosts about kindle.\u003c/p\u003e",
+			"content_text": "Posts about kindle."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/koncert/",
+			"url": "https://blog.ktamas.com/tags/koncert/",
+			"title": "koncert",
+			"date_published": "2009-09-10T23:54:58Z",
+			"content_html": "\u003cp\u003ePosts about koncert.\u003c/p\u003e",
+			"content_text": "Posts about koncert."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/krikett/",
+			"url": "https://blog.ktamas.com/tags/krikett/",
+			"title": "krikett",
+			"date_published": "2009-07-13T19:57:12Z",
+			"content_html": "\u003cp\u003ePosts about krikett.\u003c/p\u003e",
+			"content_text": "Posts about krikett."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/k%C3%B3rus/",
+			"url": "https://blog.ktamas.com/tags/k%C3%B3rus/",
+			"title": "kórus",
+			"date_published": "2013-12-24T17:22:54Z",
+			"content_html": "\u003cp\u003ePosts about kórus.\u003c/p\u003e",
+			"content_text": "Posts about kórus."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/k%C3%B6nyv/",
+			"url": "https://blog.ktamas.com/tags/k%C3%B6nyv/",
+			"title": "könyv",
+			"date_published": "2012-02-27T19:33:02Z",
+			"content_html": "\u003cp\u003ePosts about könyv.\u003c/p\u003e",
+			"content_text": "Posts about könyv."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/k%C3%BCl%C3%B6nkiad%C3%A1s/",
+			"url": "https://blog.ktamas.com/tags/k%C3%BCl%C3%B6nkiad%C3%A1s/",
+			"title": "különkiadás",
+			"date_published": "2013-04-14T12:05:36Z",
+			"content_html": "\u003cp\u003ePosts about különkiadás.\u003c/p\u003e",
+			"content_text": "Posts about különkiadás."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/lak%C3%A1s/",
+			"url": "https://blog.ktamas.com/tags/lak%C3%A1s/",
+			"title": "lakás",
+			"date_published": "2013-08-05T10:10:23Z",
+			"content_html": "\u003cp\u003ePosts about lakás.\u003c/p\u003e",
+			"content_text": "Posts about lakás."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/linkblog/",
+			"url": "https://blog.ktamas.com/tags/linkblog/",
+			"title": "linkblog",
+			"date_published": "2016-06-23T22:33:21Z",
+			"content_html": "\u003cp\u003ePosts about linkblog.\u003c/p\u003e",
+			"content_text": "Posts about linkblog."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/linux/",
+			"url": "https://blog.ktamas.com/tags/linux/",
+			"title": "linux",
+			"date_published": "2011-06-01T14:51:41Z",
+			"content_html": "\u003cp\u003ePosts about linux.\u003c/p\u003e",
+			"content_text": "Posts about linux."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/lol/",
+			"url": "https://blog.ktamas.com/tags/lol/",
+			"title": "lol",
+			"date_published": "2009-07-20T09:30:03Z",
+			"content_html": "\u003cp\u003ePosts about lol.\u003c/p\u003e",
+			"content_text": "Posts about lol."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/mac/",
+			"url": "https://blog.ktamas.com/tags/mac/",
+			"title": "mac",
+			"date_published": "2013-06-13T13:37:44Z",
+			"content_html": "\u003cp\u003ePosts about mac.\u003c/p\u003e",
+			"content_text": "Posts about mac."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/magyarorsz%C3%A1g/",
+			"url": "https://blog.ktamas.com/tags/magyarorsz%C3%A1g/",
+			"title": "magyarország",
+			"date_published": "2014-01-21T09:46:58Z",
+			"content_html": "\u003cp\u003ePosts about magyarország.\u003c/p\u003e",
+			"content_text": "Posts about magyarország."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/mail/",
+			"url": "https://blog.ktamas.com/tags/mail/",
+			"title": "mail",
+			"date_published": "2009-05-24T12:16:24Z",
+			"content_html": "\u003cp\u003ePosts about mail.\u003c/p\u003e",
+			"content_text": "Posts about mail."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/megoszt%C3%A1sok/",
+			"url": "https://blog.ktamas.com/tags/megoszt%C3%A1sok/",
+			"title": "megosztások",
+			"date_published": "2013-04-03T13:39:18Z",
+			"content_html": "\u003cp\u003ePosts about megosztások.\u003c/p\u003e",
+			"content_text": "Posts about megosztások."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/meta/",
+			"url": "https://blog.ktamas.com/tags/meta/",
+			"title": "meta",
+			"date_published": "2011-04-30T18:17:56Z",
+			"content_html": "\u003cp\u003ePosts about meta.\u003c/p\u003e",
+			"content_text": "Posts about meta."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/mix/",
+			"url": "https://blog.ktamas.com/tags/mix/",
+			"title": "mix",
+			"date_published": "2011-05-12T09:42:29Z",
+			"content_html": "\u003cp\u003ePosts about mix.\u003c/p\u003e",
+			"content_text": "Posts about mix."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/mozi/",
+			"url": "https://blog.ktamas.com/tags/mozi/",
+			"title": "mozi",
+			"date_published": "2009-11-19T22:54:57Z",
+			"content_html": "\u003cp\u003ePosts about mozi.\u003c/p\u003e",
+			"content_text": "Posts about mozi."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/munka/",
+			"url": "https://blog.ktamas.com/tags/munka/",
+			"title": "munka",
+			"date_published": "2013-10-19T20:40:38Z",
+			"content_html": "\u003cp\u003ePosts about munka.\u003c/p\u003e",
+			"content_text": "Posts about munka."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/musthave/",
+			"url": "https://blog.ktamas.com/tags/musthave/",
+			"title": "musthave",
+			"date_published": "2009-03-07T21:37:41Z",
+			"content_html": "\u003cp\u003ePosts about musthave.\u003c/p\u003e",
+			"content_text": "Posts about musthave."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/napiloop/",
+			"url": "https://blog.ktamas.com/tags/napiloop/",
+			"title": "napiloop",
+			"date_published": "2014-12-16T12:07:03Z",
+			"content_html": "\u003cp\u003ePosts about napiloop.\u003c/p\u003e",
+			"content_text": "Posts about napiloop."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/netpinc%C3%A9r/",
+			"url": "https://blog.ktamas.com/tags/netpinc%C3%A9r/",
+			"title": "netpincér",
+			"date_published": "2010-02-19T19:24:00Z",
+			"content_html": "\u003cp\u003ePosts about netpincér.\u003c/p\u003e",
+			"content_text": "Posts about netpincér."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/nightwish/",
+			"url": "https://blog.ktamas.com/tags/nightwish/",
+			"title": "nightwish",
+			"date_published": "2009-07-17T12:13:51Z",
+			"content_html": "\u003cp\u003ePosts about nightwish.\u003c/p\u003e",
+			"content_text": "Posts about nightwish."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/nocomment/",
+			"url": "https://blog.ktamas.com/tags/nocomment/",
+			"title": "nocomment",
+			"date_published": "2009-05-01T09:33:11Z",
+			"content_html": "\u003cp\u003ePosts about nocomment.\u003c/p\u003e",
+			"content_text": "Posts about nocomment."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/norv%C3%A9gia/",
+			"url": "https://blog.ktamas.com/tags/norv%C3%A9gia/",
+			"title": "norvégia",
+			"date_published": "2014-02-08T10:45:19Z",
+			"content_html": "\u003cp\u003ePosts about norvégia.\u003c/p\u003e",
+			"content_text": "Posts about norvégia."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/nyelvtanul%C3%A1s/",
+			"url": "https://blog.ktamas.com/tags/nyelvtanul%C3%A1s/",
+			"title": "nyelvtanulás",
+			"date_published": "2013-07-12T10:59:44Z",
+			"content_html": "\u003cp\u003ePosts about nyelvtanulás.\u003c/p\u003e",
+			"content_text": "Posts about nyelvtanulás."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/nyelv%C3%A9szet/",
+			"url": "https://blog.ktamas.com/tags/nyelv%C3%A9szet/",
+			"title": "nyelvészet",
+			"date_published": "2009-02-15T13:32:53Z",
+			"content_html": "\u003cp\u003ePosts about nyelvészet.\u003c/p\u003e",
+			"content_text": "Posts about nyelvészet."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/olvas%C3%A1s/",
+			"url": "https://blog.ktamas.com/tags/olvas%C3%A1s/",
+			"title": "olvasás",
+			"date_published": "2014-05-11T10:49:22Z",
+			"content_html": "\u003cp\u003ePosts about olvasás.\u003c/p\u003e",
+			"content_text": "Posts about olvasás."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/ontheroad/",
+			"url": "https://blog.ktamas.com/tags/ontheroad/",
+			"title": "ontheroad",
+			"date_published": "2015-02-19T15:06:39Z",
+			"content_html": "\u003cp\u003ePosts about ontheroad.\u003c/p\u003e",
+			"content_text": "Posts about ontheroad."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/osx/",
+			"url": "https://blog.ktamas.com/tags/osx/",
+			"title": "osx",
+			"date_published": "2013-08-09T11:01:47Z",
+			"content_html": "\u003cp\u003ePosts about osx.\u003c/p\u003e",
+			"content_text": "Posts about osx."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/pda/",
+			"url": "https://blog.ktamas.com/tags/pda/",
+			"title": "pda",
+			"date_published": "2010-12-19T12:20:21Z",
+			"content_html": "\u003cp\u003ePosts about pda.\u003c/p\u003e",
+			"content_text": "Posts about pda."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/politika/",
+			"url": "https://blog.ktamas.com/tags/politika/",
+			"title": "politika",
+			"date_published": "2009-03-30T11:14:13Z",
+			"content_html": "\u003cp\u003ePosts about politika.\u003c/p\u003e",
+			"content_text": "Posts about politika."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/programoz%C3%A1s/",
+			"url": "https://blog.ktamas.com/tags/programoz%C3%A1s/",
+			"title": "programozás",
+			"date_published": "2012-08-11T18:31:15Z",
+			"content_html": "\u003cp\u003ePosts about programozás.\u003c/p\u003e",
+			"content_text": "Posts about programozás."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/rails/",
+			"url": "https://blog.ktamas.com/tags/rails/",
+			"title": "rails",
+			"date_published": "2009-01-19T10:45:37Z",
+			"content_html": "\u003cp\u003ePosts about rails.\u003c/p\u003e",
+			"content_text": "Posts about rails."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/random/",
+			"url": "https://blog.ktamas.com/tags/random/",
+			"title": "random",
+			"date_published": "2013-08-09T11:01:47Z",
+			"content_html": "\u003cp\u003ePosts about random.\u003c/p\u003e",
+			"content_text": "Posts about random."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/rss/",
+			"url": "https://blog.ktamas.com/tags/rss/",
+			"title": "rss",
+			"date_published": "2013-04-03T13:39:18Z",
+			"content_html": "\u003cp\u003ePosts about rss.\u003c/p\u003e",
+			"content_text": "Posts about rss."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/ruby/",
+			"url": "https://blog.ktamas.com/tags/ruby/",
+			"title": "ruby",
+			"date_published": "2009-06-18T21:00:41Z",
+			"content_html": "\u003cp\u003ePosts about ruby.\u003c/p\u003e",
+			"content_text": "Posts about ruby."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/rukkola/",
+			"url": "https://blog.ktamas.com/tags/rukkola/",
+			"title": "rukkola",
+			"date_published": "2013-05-14T08:55:13Z",
+			"content_html": "\u003cp\u003ePosts about rukkola.\u003c/p\u003e",
+			"content_text": "Posts about rukkola."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/sharewood/",
+			"url": "https://blog.ktamas.com/tags/sharewood/",
+			"title": "sharewood",
+			"date_published": "2014-05-12T15:07:12Z",
+			"content_html": "\u003cp\u003ePosts about sharewood.\u003c/p\u003e",
+			"content_text": "Posts about sharewood."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/sinatra/",
+			"url": "https://blog.ktamas.com/tags/sinatra/",
+			"title": "sinatra",
+			"date_published": "2009-05-19T20:48:48Z",
+			"content_html": "\u003cp\u003ePosts about sinatra.\u003c/p\u003e",
+			"content_text": "Posts about sinatra."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/sorozat/",
+			"url": "https://blog.ktamas.com/tags/sorozat/",
+			"title": "sorozat",
+			"date_published": "2013-07-23T11:20:45Z",
+			"content_html": "\u003cp\u003ePosts about sorozat.\u003c/p\u003e",
+			"content_text": "Posts about sorozat."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/sorozatok/",
+			"url": "https://blog.ktamas.com/tags/sorozatok/",
+			"title": "sorozatok",
+			"date_published": "2013-07-25T10:29:53Z",
+			"content_html": "\u003cp\u003ePosts about sorozatok.\u003c/p\u003e",
+			"content_text": "Posts about sorozatok."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/stargate/",
+			"url": "https://blog.ktamas.com/tags/stargate/",
+			"title": "stargate",
+			"date_published": "2011-02-02T22:28:24Z",
+			"content_html": "\u003cp\u003ePosts about stargate.\u003c/p\u003e",
+			"content_text": "Posts about stargate."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/startrek/",
+			"url": "https://blog.ktamas.com/tags/startrek/",
+			"title": "startrek",
+			"date_published": "2009-05-12T12:00:29Z",
+			"content_html": "\u003cp\u003ePosts about startrek.\u003c/p\u003e",
+			"content_text": "Posts about startrek."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/stats/",
+			"url": "https://blog.ktamas.com/tags/stats/",
+			"title": "stats",
+			"date_published": "2009-03-05T09:00:28Z",
+			"content_html": "\u003cp\u003ePosts about stats.\u003c/p\u003e",
+			"content_text": "Posts about stats."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/",
+			"url": "https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/",
+			"title": "svédország",
+			"date_published": "2015-06-24T10:42:52Z",
+			"content_html": "\u003cp\u003ePosts about svédország.\u003c/p\u003e",
+			"content_text": "Posts about svédország."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/sv%C3%A9dzene/",
+			"url": "https://blog.ktamas.com/tags/sv%C3%A9dzene/",
+			"title": "svédzene",
+			"date_published": "2014-06-07T20:05:08Z",
+			"content_html": "\u003cp\u003ePosts about svédzene.\u003c/p\u003e",
+			"content_text": "Posts about svédzene."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/sv%C3%A9dzenes/",
+			"url": "https://blog.ktamas.com/tags/sv%C3%A9dzenes/",
+			"title": "svédzenes",
+			"date_published": "2014-01-16T09:09:05Z",
+			"content_html": "\u003cp\u003ePosts about svédzenes.\u003c/p\u003e",
+			"content_text": "Posts about svédzenes."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/switch/",
+			"url": "https://blog.ktamas.com/tags/switch/",
+			"title": "switch",
+			"date_published": "2010-12-19T12:20:21Z",
+			"content_html": "\u003cp\u003ePosts about switch.\u003c/p\u003e",
+			"content_text": "Posts about switch."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/szakma/",
+			"url": "https://blog.ktamas.com/tags/szakma/",
+			"title": "szakma",
+			"date_published": "2011-10-12T12:38:33Z",
+			"content_html": "\u003cp\u003ePosts about szakma.\u003c/p\u003e",
+			"content_text": "Posts about szakma."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/szeder/",
+			"url": "https://blog.ktamas.com/tags/szeder/",
+			"title": "szeder",
+			"date_published": "2010-03-25T20:00:00Z",
+			"content_html": "\u003cp\u003ePosts about szeder.\u003c/p\u003e",
+			"content_text": "Posts about szeder."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/szerverek/",
+			"url": "https://blog.ktamas.com/tags/szerverek/",
+			"title": "szerverek",
+			"date_published": "2011-04-30T18:17:56Z",
+			"content_html": "\u003cp\u003ePosts about szerverek.\u003c/p\u003e",
+			"content_text": "Posts about szerverek."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/szlovenia/",
+			"url": "https://blog.ktamas.com/tags/szlovenia/",
+			"title": "szlovenia",
+			"date_published": "2009-03-18T13:14:16Z",
+			"content_html": "\u003cp\u003ePosts about szlovenia.\u003c/p\u003e",
+			"content_text": "Posts about szlovenia."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/tech/",
+			"url": "https://blog.ktamas.com/tags/tech/",
+			"title": "tech",
+			"date_published": "2011-11-04T09:32:37Z",
+			"content_html": "\u003cp\u003ePosts about tech.\u003c/p\u003e",
+			"content_text": "Posts about tech."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/telefon/",
+			"url": "https://blog.ktamas.com/tags/telefon/",
+			"title": "telefon",
+			"date_published": "2014-03-07T18:37:35Z",
+			"content_html": "\u003cp\u003ePosts about telefon.\u003c/p\u003e",
+			"content_text": "Posts about telefon."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/t%C3%A1rsasj%C3%A1t%C3%A9k/",
+			"url": "https://blog.ktamas.com/tags/t%C3%A1rsasj%C3%A1t%C3%A9k/",
+			"title": "társasjáték",
+			"date_published": "2013-07-13T11:37:15Z",
+			"content_html": "\u003cp\u003ePosts about társasjáték.\u003c/p\u003e",
+			"content_text": "Posts about társasjáték."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/ubuntu/",
+			"url": "https://blog.ktamas.com/tags/ubuntu/",
+			"title": "ubuntu",
+			"date_published": "2009-05-09T10:30:35Z",
+			"content_html": "\u003cp\u003ePosts about ubuntu.\u003c/p\u003e",
+			"content_text": "Posts about ubuntu."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/vend%C3%A9gek/",
+			"url": "https://blog.ktamas.com/tags/vend%C3%A9gek/",
+			"title": "vendégek",
+			"date_published": "2013-08-08T14:39:49Z",
+			"content_html": "\u003cp\u003ePosts about vendégek.\u003c/p\u003e",
+			"content_text": "Posts about vendégek."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/video/",
+			"url": "https://blog.ktamas.com/tags/video/",
+			"title": "video",
+			"date_published": "2013-03-29T09:30:48Z",
+			"content_html": "\u003cp\u003ePosts about video.\u003c/p\u003e",
+			"content_text": "Posts about video."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/vim/",
+			"url": "https://blog.ktamas.com/tags/vim/",
+			"title": "vim",
+			"date_published": "2011-05-05T09:48:23Z",
+			"content_html": "\u003cp\u003ePosts about vim.\u003c/p\u003e",
+			"content_text": "Posts about vim."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/vm/",
+			"url": "https://blog.ktamas.com/tags/vm/",
+			"title": "vm",
+			"date_published": "2011-09-11T21:02:32Z",
+			"content_html": "\u003cp\u003ePosts about vm.\u003c/p\u003e",
+			"content_text": "Posts about vm."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/v%C3%A1llalkozunk/",
+			"url": "https://blog.ktamas.com/tags/v%C3%A1llalkozunk/",
+			"title": "vállalkozunk",
+			"date_published": "2013-07-22T10:30:25Z",
+			"content_html": "\u003cp\u003ePosts about vállalkozunk.\u003c/p\u003e",
+			"content_text": "Posts about vállalkozunk."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/wallpaper/",
+			"url": "https://blog.ktamas.com/tags/wallpaper/",
+			"title": "wallpaper",
+			"date_published": "2011-05-15T09:13:21Z",
+			"content_html": "\u003cp\u003ePosts about wallpaper.\u003c/p\u003e",
+			"content_text": "Posts about wallpaper."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/win7/",
+			"url": "https://blog.ktamas.com/tags/win7/",
+			"title": "win7",
+			"date_published": "2009-05-01T09:33:11Z",
+			"content_html": "\u003cp\u003ePosts about win7.\u003c/p\u003e",
+			"content_text": "Posts about win7."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/wind/",
+			"url": "https://blog.ktamas.com/tags/wind/",
+			"title": "wind",
+			"date_published": "2009-01-26T09:43:08Z",
+			"content_html": "\u003cp\u003ePosts about wind.\u003c/p\u003e",
+			"content_text": "Posts about wind."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/windows/",
+			"url": "https://blog.ktamas.com/tags/windows/",
+			"title": "windows",
+			"date_published": "2013-08-09T11:01:47Z",
+			"content_html": "\u003cp\u003ePosts about windows.\u003c/p\u003e",
+			"content_text": "Posts about windows."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/winmobile/",
+			"url": "https://blog.ktamas.com/tags/winmobile/",
+			"title": "winmobile",
+			"date_published": "2010-12-19T12:20:21Z",
+			"content_html": "\u003cp\u003ePosts about winmobile.\u003c/p\u003e",
+			"content_text": "Posts about winmobile."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/woohoo/",
+			"url": "https://blog.ktamas.com/tags/woohoo/",
+			"title": "woohoo",
+			"date_published": "2009-04-21T19:20:05Z",
+			"content_html": "\u003cp\u003ePosts about woohoo.\u003c/p\u003e",
+			"content_text": "Posts about woohoo."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/wtf/",
+			"url": "https://blog.ktamas.com/tags/wtf/",
+			"title": "wtf",
+			"date_published": "2009-07-13T16:00:42Z",
+			"content_html": "\u003cp\u003ePosts about wtf.\u003c/p\u003e",
+			"content_text": "Posts about wtf."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/zene/",
+			"url": "https://blog.ktamas.com/tags/zene/",
+			"title": "zene",
+			"date_published": "2014-12-16T12:07:03Z",
+			"content_html": "\u003cp\u003ePosts about zene.\u003c/p\u003e",
+			"content_text": "Posts about zene."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/%C3%A9n/",
+			"url": "https://blog.ktamas.com/tags/%C3%A9n/",
+			"title": "én",
+			"date_published": "2014-05-19T10:10:08Z",
+			"content_html": "\u003cp\u003ePosts about én.\u003c/p\u003e",
+			"content_text": "Posts about én."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/%C3%A9nblog/",
+			"url": "https://blog.ktamas.com/tags/%C3%A9nblog/",
+			"title": "énblog",
+			"date_published": "2015-06-24T10:42:52Z",
+			"content_html": "\u003cp\u003ePosts about énblog.\u003c/p\u003e",
+			"content_text": "Posts about énblog."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/%C3%A9vfordul%C3%B3/",
+			"url": "https://blog.ktamas.com/tags/%C3%A9vfordul%C3%B3/",
+			"title": "évforduló",
+			"date_published": "2014-01-29T22:23:14Z",
+			"content_html": "\u003cp\u003ePosts about évforduló.\u003c/p\u003e",
+			"content_text": "Posts about évforduló."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/%C3%BAjs%C3%A1g%C3%ADr%C3%A1s/",
+			"url": "https://blog.ktamas.com/tags/%C3%BAjs%C3%A1g%C3%ADr%C3%A1s/",
+			"title": "újságírás",
+			"date_published": "2009-04-14T16:15:43Z",
+			"content_html": "\u003cp\u003ePosts about újságírás.\u003c/p\u003e",
+			"content_text": "Posts about újságírás."
+		}
+	]
+}

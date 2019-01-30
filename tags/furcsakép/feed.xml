@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
+	<id>https://blog.ktamas.com/tags/furcsak%C3%A9p/</id>
+	<title>furcsakép on KTamas&#39; blog</title>
+	<subtitle>An ongoing list of KTamas' blog posts about furcsakép</subtitle>
+	<updated>2009-01-05T14:21:51Z</updated>
+	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/furcsak%C3%A9p/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/furcsak%C3%A9p/"/>
+	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/furcsak%C3%A9p/feed.json"/>
+	<author>
+		<name>KTamas</name>
+		<uri>https://blog.ktamas.com/</uri>
+	</author>
+	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
+	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
+	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
+	<entry>
+		<id>https://blog.ktamas.com/index.php/2009/01/05/united_states_csongrad/</id>
+		<title>//United States/Csongrád</title>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/01/05/united_states_csongrad/"/>
+		<updated>2009-01-05T14:21:51Z</updated>
+		<published>2009-01-05T14:21:51Z</published>
+		<author>
+			<name>KTamas</name>
+			<uri>https://blog.ktamas.com/</uri>
+		</author>
+		<category scheme="https://blog.ktamas.com/tags" term="furcsak%C3%A9p" label="furcsakép"/>
+		<summary>No comment, tudom van ilyen tucatjával de ez olyan szinten gáz… :) Kattintva nagyobb lesz!</summary>
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+<![CDATA[<p>No comment, tudom van ilyen tucatjával de ez olyan szinten gáz&#8230; :) <figure id="attachment_26" style="width: 366px" class="wp-caption aligncenter"></p>
+
+<p><a href="http://ktamas.blog.hu/media/image/200901/picture-2.png" target="_blank"><img class="size-full wp-image-26" title="//United States/Csongrad" src="http://ktamas.blog.hu/media/image/200901/picture-2.png" alt="Kattintva nagyobb lesz!" width="366" height="242" border="0" /></a><figcaption class="wp-caption-text">Kattintva nagyobb lesz!</figcaption></figure></p>
+
+<footer>
+    <a title="Permanent link to “//United States/Csongrád”" href="https://blog.ktamas.com/index.php/2009/01/05/united_states_csongrad/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+        <div class="tags">
+            <h5>More about…</h5>
+            <ul>
+                <li><a href="https://blog.ktamas.com/tags/furcsak%C3%A9p/">furcsakép</a></li>
+            </ul>
+        </div>
+</footer>]]></content>
+	</entry>
+</feed>

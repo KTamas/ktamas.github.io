@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<title>javascript</title>
+	<meta name="description" content="Bringing you irregular content since 2009. By KTamas." />
+	<meta name="author" content="KTamas" />
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto" rel="stylesheet">
+	<link rel="stylesheet" href="/css/screen.css" />
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+	<link rel="alternate" type="application/rss+xml" title="KTamas&#039; blog &raquo; Feed" href="http://feeds.feedburner.com/KTamasBlog" />
+	<link rel="manifest" href="/site.webmanifest" />
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5" />
+	<meta name="msapplication-TileColor" content="#da532c" />
+	<meta name="theme-color" content="#ffffff" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://blog.ktamas.com/tags/javascript/" />
+	<meta property="og:title" content="Posts about javascript" />
+	<meta property="og:site_name" content=" KTamas&#39; blog"/>
+	<meta property="og:description" content="Bringing you irregular content since 2009. By KTamas." />
+	<meta property="og:image" content="https://blog.ktamas.com/icon-512x512.png" />
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:site" value="@ktamas" />
+	<meta name="twitter:creator" value="@ktamas" />
+	<meta name="generator" content="Hugo 0.53" />
+</head>
+<body>
+	<div id="container">
+		<header>
+			<hgroup class="top">
+				
+				<h1><a href="/">KTamas&#39; blog</a></h1>
+				<h2>Remember kids, if Internet Explorer is brave enough to ask to be your default browser, you&#39;re brave enough to ask that girl out.</h2>
+			</hgroup>
+			<nav>
+				<menu>
+					<li><a href="/about/" title="About KTamas&#39; blog">About</a></li>
+					<li><a href="/archive/" title="KTamas&#39; blog Archives">Archives</a></li>
+					<li><a href="/tags/" title="KTamas&#39; blog Tags">Tags</a></li>
+					<li class="icon"><a href="//twitter.com/ktamas" title="@ktamas on Twitter"><i class="fa fa-twitter"></i></a></li>
+					<li class="icon"><a href="//github.com/ktamas" title="@ktamas on GitHub"><i class="fa fa-github"></i></a></li>
+					<li class="icon"><a href="http://feeds.feedburner.com/KTamasBlog" title="Subscribe to KTamas&#39; blog"><i class="fa fa-rss"></i></a></li>
+				</menu>
+			</nav>
+		</header>
+
+	<main id="tags">
+		<header>
+			<h2>Posts about javascript</h2>
+		</header>
+		
+		    <article class="post">
+        <header>
+            <h1 class="post"><a href="/index.php/2011/05/05/iframek-es-popupok-toredekek-a-fejleszto-naplojabol/">iframek es popupok (toredekek a fejleszto naplojabol)</a></h1>
+            <a rel="bookmark" href="https://blog.ktamas.com/index.php/2011/05/05/iframek-es-popupok-toredekek-a-fejleszto-naplojabol/"></a>
+            <time datetime="2011-05-05T23:58:46Z">May 5, 2011</time>
+        </header>
+        <div class="text">
+
+<p>Van egy iframed, abbol nyit a felhasznalo egy popupot, kulso webszolgaltatassal valo autenikalas celjabol, adsz neki egy callback URL-t, ami viszont ugye a popupba iranyit vissza, te viszont szeretned, ha az iframe tartalma lecserelodjon, majd bezarodjon a popup. Hogy csinalod? Ugy, hogy egy ilyesfajta HTML-t (es benne levo js-t) adsz meg callbacknek:</p>
+
+<p><noscript>
+  </p></p>
+
+<p><pre>
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;script type=&ldquo;text/javascript&rdquo;&gt;
+      var close_and_redirect = function() {
+        if (opener &amp;&amp; !opener.closed) {
+          opener.location.href = &ldquo;<a href="http://localhost:9610/done&quot;">http://localhost:9610/done&quot;</a>;
+        }<br />
+        window.close();
+      }
+    &lt;/script&gt;
+  &lt;/head&gt;
+  &lt;body onload=&ldquo;setTimeout(&lsquo;close_and_redirect()&lsquo;, 500)&rdquo;&gt;
+    Yay, logged in! Closing&hellip;
+  &lt;/body&gt;
+&lt;/html&gt;
+</pre></p>
+
+<p><p>
+    </noscript><br />
+  </p></p>
+
+<p><script src="https://gist.github.com/958052.js?file=loggedin.html"></script></p>
+
+<p><p>
+    (<a href="http://www.codingforums.com/showpost.php?s=aa079e493200cb7008aa5359f7591e86&#038;p=292432&#038;postcount=3">Itt talaltam meg vegul.</a>)
+  </p></p>
+
+        </div>
+
+        <div class="tags">
+            <h5>More about…</h5>
+            <ul>
+                <li><a href="https://blog.ktamas.com/tags/javascript/">javascript</a></li>
+                <li><a href="https://blog.ktamas.com/tags/programoz%C3%A1s/">programozás</a></li>
+                <li><a href="https://blog.ktamas.com/tags/random/">random</a></li>
+            </ul>
+        </div>
+    </article>
+
+		
+		
+
+	</main>
+		<footer>
+			<p>© Tamas Kadar, 2009-2019. All Rights Reserved.</p>
+		</footer>
+	</div>
+</body>
+</html>
+

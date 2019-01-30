@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
+	<id>https://blog.ktamas.com/tags/id%C3%A9zet/</id>
+	<title>idézet on KTamas&#39; blog</title>
+	<subtitle>An ongoing list of KTamas' blog posts about idézet</subtitle>
+	<updated>2009-01-13T09:40:59Z</updated>
+	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/id%C3%A9zet/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/id%C3%A9zet/"/>
+	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/id%C3%A9zet/feed.json"/>
+	<author>
+		<name>KTamas</name>
+		<uri>https://blog.ktamas.com/</uri>
+	</author>
+	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
+	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
+	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
+	<entry>
+		<id>https://blog.ktamas.com/index.php/2009/01/13/2009_2011_a_desktop_linux_eve_i/</id>
+		<title>2009-2011: a desktop linux éve(i)</title>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/01/13/2009_2011_a_desktop_linux_eve_i/"/>
+		<updated>2009-01-13T09:40:59Z</updated>
+		<published>2009-01-13T09:40:59Z</published>
+		<author>
+			<name>KTamas</name>
+			<uri>https://blog.ktamas.com/</uri>
+		</author>
+		<category scheme="https://blog.ktamas.com/tags" term="id%C3%A9zet" label="idézet"/>
+		<category scheme="https://blog.ktamas.com/tags" term="linux" label="linux"/>
+		<summary>Ezt muszáj megosztanom, ez annyira szép (forrás):
+ Over the next 1 to 3 years, and beyond, we are set to see the glory of the GNU/Linux operating system take hold as the prominently used end user platform for computers everywhere.
+ Ez pedig a kommentekből:
+ Things that happened the first year I heard that it would be “the year of Linux on the desktop”:
+President Bill Clinton denies that he had “sexual relations” with Monica Lewinsky.</summary>
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+<![CDATA[<p>Ezt muszáj megosztanom, ez annyira szép (<a href="http://digg.com/linux_unix/Open_Letter_to_Game_Makers_Investigate_the_GNU_Linux_niche" target="_blank">forrás</a>):</p>
+
+<blockquote>
+<p>Over the next 1 to 3 years, and beyond, we are set to see the glory of the GNU/Linux operating system take hold as the prominently used end user platform for computers everywhere.</p>
+</blockquote>
+
+<p>Ez pedig a kommentekből:</p>
+
+<blockquote>
+<p>Things that happened the first year I heard that it would be &#8220;the year of Linux on the desktop&#8221;:</p>
+
+<p>President Bill Clinton denies that he had &#8220;sexual relations&#8221; with Monica Lewinsky.</p>
+
+<p>The first XML specification is released.</p>
+
+<p>The film Titanic wins 11 Oscars.</p>
+
+<p>The FDA approves Viagra</p>
+
+<p>KDE 1.0 is released.</p>
+
+<p>Google, Inc. is founded in Menlo Park</p>
+
+<p>The DMCA is passed.</p>
+
+<p>Iraq announces it will no longer cooperate with United Nations weapons inspectors.</p>
+
+<p>Jesse Ventura is elected governor of Minnesota</p>
+
+<p>DaimlerBenz merges with Chrysler Corporation to form DaimlerChrysler</p>
+
+<p>The Sega Dreamcast is made available in Japan.</p>
+</blockquote>
+
+<footer>
+    <a title="Permanent link to “2009-2011: a desktop linux éve(i)”" href="https://blog.ktamas.com/index.php/2009/01/13/2009_2011_a_desktop_linux_eve_i/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+        <div class="tags">
+            <h5>More about…</h5>
+            <ul>
+                <li><a href="https://blog.ktamas.com/tags/id%C3%A9zet/">idézet</a></li>
+                <li><a href="https://blog.ktamas.com/tags/linux/">linux</a></li>
+            </ul>
+        </div>
+</footer>]]></content>
+	</entry>
+</feed>

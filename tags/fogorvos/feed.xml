@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
+	<id>https://blog.ktamas.com/tags/fogorvos/</id>
+	<title>fogorvos on KTamas&#39; blog</title>
+	<subtitle>An ongoing list of KTamas' blog posts about fogorvos</subtitle>
+	<updated>2013-09-28T12:23:16Z</updated>
+	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/fogorvos/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/fogorvos/"/>
+	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/fogorvos/feed.json"/>
+	<author>
+		<name>KTamas</name>
+		<uri>https://blog.ktamas.com/</uri>
+	</author>
+	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
+	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
+	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
+	<entry>
+		<id>https://blog.ktamas.com/index.php/2013/09/28/pesten-kedden-es-szerdan/</id>
+		<title>Pesten, kedden és szerdán</title>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/09/28/pesten-kedden-es-szerdan/"/>
+		<updated>2013-09-28T12:23:16Z</updated>
+		<published>2013-09-28T12:23:16Z</published>
+		<author>
+			<name>KTamas</name>
+			<uri>https://blog.ktamas.com/</uri>
+		</author>
+		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://blog.ktamas.com/tags" term="fogorvos" label="fogorvos"/>
+		<category scheme="https://blog.ktamas.com/tags" term="magyarorsz%C3%A1g" label="magyarország"/>
+		<summary>Kedd este leszállt a repülőgépem, vettem egy BKV-jegyet, elmentem a KöKire, vettem még pár jegyet, és elbékávéztam Keltékhez, akinél lakni fogok amíg itt vagyok. Erre a napra más már nem nagyon jutott, leginkább az alvás.
+Szerdán elmentem reggel csinálni egy digitális körpanorámát a fogaimról, majd a fogorvosomnál folytattam. A kettő között a biztonság kedvéért leöntöttem egy kis teával a Macbook billentyűzetét, aminek a folyománya, hogy az most nem annyira működik, egy USB-ssel gépelem ezt a posztot is, nem vagyok túl boldog ettől.</summary>
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+<![CDATA[<p>Kedd este leszállt a repülőgépem, vettem egy BKV-jegyet, elmentem a KöKire, vettem még pár jegyet, és elbékávéztam <a href="https://twitter.com/kelt">Kelt</a>ékhez, akinél lakni fogok amíg itt vagyok. Erre a napra más már nem nagyon jutott, leginkább az alvás.</p>
+
+<p>Szerdán elmentem reggel csinálni egy digitális körpanorámát a fogaimról, majd a fogorvosomnál folytattam. A kettő között a biztonság kedvéért leöntöttem egy kis teával a Macbook billentyűzetét, aminek a folyománya, hogy az most nem annyira működik, egy USB-ssel gépelem ezt a posztot is, nem vagyok túl boldog ettől.</p>
+
+<p>A fogorvossal beszélgettünk egy csomót, megnézte a panorámámat, majd csinált egy egészen ijesztően alapos fogkőleszedést, meg levett egy gipszmintát vagy mit a fogaimról, és abban maradtuk, hogy akkor majd holnap meglátjuk, hogy mit és hogyan és különbenis. Berohantam kicsit az espellbe, köszönni, kicsit beszélgetni, aztán mentem is tovább az okmányirodába útlevelet csináltatni. Mivel kifizettem az extra 20 rugót a sürgősségi 1 hetes elkészülésre, gyorsan sorra kerültem, és ha már ott voltam, beaktiváltam újra az Ügyfélkapu-hozzáférésem, ki tudja, mire lehet még jó.</p>
+
+<p>Ezekután elmentem az óbudai Eurocenterbe, az elhagyott magyar SIM kártyám pótlására, és most sikerült úgy és olyan mobilinternetet rakni rá, ami kell, májusban a hülye rendszer miatt eléggé megszívtam ezzel. Zárásképpen pedig este megittünk egy sört Kelttel és <a href="http://twitter.com/gazs">Gazzsal</a> a <a href="http://sorspecialista.hu/">Ganz</a>ban.</p>
+
+<footer>
+    <a title="Permanent link to “Pesten, kedden és szerdán”" href="https://blog.ktamas.com/index.php/2013/09/28/pesten-kedden-es-szerdan/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+        <div class="tags">
+            <h5>More about…</h5>
+            <ul>
+                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://blog.ktamas.com/tags/fogorvos/">fogorvos</a></li>
+                <li><a href="https://blog.ktamas.com/tags/magyarorsz%C3%A1g/">magyarország</a></li>
+            </ul>
+        </div>
+</footer>]]></content>
+	</entry>
+</feed>

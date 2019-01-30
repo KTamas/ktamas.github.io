@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
+	<id>https://blog.ktamas.com/tags/win7/</id>
+	<title>win7 on KTamas&#39; blog</title>
+	<subtitle>An ongoing list of KTamas' blog posts about win7</subtitle>
+	<updated>2009-05-01T09:33:11Z</updated>
+	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/win7/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/win7/"/>
+	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/win7/feed.json"/>
+	<author>
+		<name>KTamas</name>
+		<uri>https://blog.ktamas.com/</uri>
+	</author>
+	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
+	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
+	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
+	<entry>
+		<id>https://blog.ktamas.com/index.php/2009/05/01/kicsit_bugzik_a_betas_intel_driver_win7_alatt/</id>
+		<title>Kicsit bugzik a betas Intel driver Win7 alatt</title>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/05/01/kicsit_bugzik_a_betas_intel_driver_win7_alatt/"/>
+		<updated>2009-05-01T09:33:11Z</updated>
+		<published>2009-05-01T09:33:11Z</published>
+		<author>
+			<name>KTamas</name>
+			<uri>https://blog.ktamas.com/</uri>
+		</author>
+		<category scheme="https://blog.ktamas.com/tags" term="agymenes" label="agymenes"/>
+		<category scheme="https://blog.ktamas.com/tags" term="nocomment" label="nocomment"/>
+		<category scheme="https://blog.ktamas.com/tags" term="win7" label="win7"/>
+		<category scheme="https://blog.ktamas.com/tags" term="windows" label="windows"/>
+		<category scheme="https://blog.ktamas.com/tags" term="wtf" label="wtf"/>
+		<summary>Egy DWM-ujrainditas megoldja, de ize. Jo, betas, tudom.
+Ja amugy ez csak egy a sok kozul, a taskbar pl. rendszeresen villog meg ablakok random reszei lesznek atlatszoak, meg ilyesmi.</summary>
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+<![CDATA[<p><a href="http://ktamas.blog.hu/media/image/200905/intelbug.png"><img class="aligncenter size-full wp-image-418" title="intelbug" src="http://ktamas.blog.hu/media/image/200905/intelbug.png" alt="intelbug" width="260" height="336" /></a></p>
+
+<p>Egy DWM-ujrainditas megoldja, de ize. Jo, betas, tudom.</p>
+
+<p>Ja amugy ez csak egy a sok kozul, a taskbar pl. rendszeresen villog meg ablakok random reszei lesznek atlatszoak, meg ilyesmi.</p>
+
+<footer>
+    <a title="Permanent link to “Kicsit bugzik a betas Intel driver Win7 alatt”" href="https://blog.ktamas.com/index.php/2009/05/01/kicsit_bugzik_a_betas_intel_driver_win7_alatt/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+        <div class="tags">
+            <h5>More about…</h5>
+            <ul>
+                <li><a href="https://blog.ktamas.com/tags/agymenes/">agymenes</a></li>
+                <li><a href="https://blog.ktamas.com/tags/nocomment/">nocomment</a></li>
+                <li><a href="https://blog.ktamas.com/tags/win7/">win7</a></li>
+                <li><a href="https://blog.ktamas.com/tags/windows/">windows</a></li>
+                <li><a href="https://blog.ktamas.com/tags/wtf/">wtf</a></li>
+            </ul>
+        </div>
+</footer>]]></content>
+	</entry>
+	<entry>
+		<id>https://blog.ktamas.com/index.php/2009/02/12/mi_a_bajom_az_osx_szel/</id>
+		<title>Mi a bajom az OSX-szel?</title>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/02/12/mi_a_bajom_az_osx_szel/"/>
+		<updated>2009-02-12T19:34:43Z</updated>
+		<published>2009-02-12T19:34:43Z</published>
+		<author>
+			<name>KTamas</name>
+			<uri>https://blog.ktamas.com/</uri>
+		</author>
+		<category scheme="https://blog.ktamas.com/tags" term="mac" label="mac"/>
+		<category scheme="https://blog.ktamas.com/tags" term="switch" label="switch"/>
+		<category scheme="https://blog.ktamas.com/tags" term="win7" label="win7"/>
+		<category scheme="https://blog.ktamas.com/tags" term="windows" label="windows"/>
+		<summary>Szóval az előző postban már említettem, hogy szeretnék win(7-e)t használni egy darabig, úgyhogy thinkpadra váltottam. Kicsit bővebben is kifejteném a szakítás okait az OSX-szel.
+Miért
+Kezdjük a másik oldalon, mi a jó az OSX-ben? Először is kapunk egy nagyon faszán megcsinált UI-t, valamint egy nagyon jó kis POSIX-implementációt a darwin személyében. Egy mozdulattal előhívhatjuk a Terminalt, és kedvünkre futtathatjuk kedvenc *nixes tooljainkat, programjainkat, ezáltal ideális platform jópár programnyelvhez is. Van nem egy killer app is rá (pl.</summary>
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+<![CDATA[<p>Szóval az előző postban már említettem, hogy szeretnék win(7-e)t használni egy darabig, úgyhogy thinkpadra váltottam. Kicsit bővebben is kifejteném a szakítás okait az OSX-szel.</p>
+
+<p><strong>Miért</strong></p>
+
+<p>Kezdjük a másik oldalon, mi a jó az OSX-ben? Először is kapunk egy nagyon faszán megcsinált UI-t, valamint egy nagyon jó kis POSIX-implementációt a darwin személyében. Egy mozdulattal előhívhatjuk a Terminalt, és kedvünkre futtathatjuk kedvenc *nixes tooljainkat, programjainkat, ezáltal ideális platform jópár programnyelvhez is. Van nem egy killer app is rá (pl. Textmate), és alapjába vége egy gyors és tényleg felhasználóbarát rendszer. A hardvernek is vannak pozitív oldalai, a kétujjas görgetés például a világ egyik legjobb dolga, és a macbook touchpadja messze, messze felette van bármi más notiénak, foleg OSX alatt (Boot Camp alatt egy másik történet, az Apple baszik rendes wines drivereket írni, valszeg nem veletlen). De.</p>
+
+<p><strong>Miért ne?</strong></p>
+
+<p>Mint már említettem: az UI-t nagyon egérre tervezték. Én viszont billentyűzetbuzi vagyok. Természetsen sokmindent lehet csinálni egér nélkül, a menüt elő lehet venni ctrl+f2-vel (vagy megtanulhatod az összes program billkombóit, de mindegyik rendszerint saját logikát követ egy ponton túl), a dockhoz asszem ctrl+f3 van, meg ott a quicksilver, mégse tűnik annyira természetesnek mint mondjuk egy alt+f+a a wordben. És Windowsba, ha kell, aztán tényleg majdnem mindent meg lehet csinálni egérmentesen. Tudom, megszokás kérdése, de én több, mint egy év alatt nem tudtam igazan megszokni az OSX-nek ezt a részét.</p>
+
+<p>Másrészt. Nincs egy normális fájlkezelő. Najó, kimondom: nincs rá Total Commander. Vannak programok, amik valamilyen szinten közelítenek, de egy sem adja meg azt a <em>flow-t,</em> ami megvan a Total Commanderrel nekem, márpedig az a program win alatt nekem nagyjából non-stop fut és szerves részét képezi az életemnek meg a munkámnak. A Finder valamivel jobb, mint pl. a vanilla windowsos Explorer, de mégis, fájt a szívem használni akárhányszor leültem mondjuk a munkahelyi gépem után.</p>
+
+<p>Ritkán esik szól a teljesen el&#8217;szott <em>mouse curve</em>-ról, ami touchpadnál egyáltalán nem zavaró, de rendes egérnél NAGYON: olyan, mintha valami sűrű mocsáron keresztül kéne húznod a kurzort, laaaaassú, nem gyorsul eléggé. Ezt részben orvosolni lehet bizonyos third-party cuccokkal, de sose lesz olyan, mint Win alatt.</p>
+
+<p>Hardveres oldalon: a glossy képernyő. Nem, nem, nem és nem, nem érdekel hogy <em>vivid colors, higher contrast,</em> meg szeretik a júzerek, __meg minden, de nem a saját arcomat akarom látni a képernyőn mikor a nap valamiért rásüt a képernyőre. Egyszerűen nem és kész. És mostmár lassan minden laptopba ezt rakják, sőt, ami rosszabb, már az iMacekbe is.</p>
+
+<p>Nem tudom, hogy hardveres vagy szoftveres baj volt-e, de sosem sikerült normálisan lejátsznanom HD felbontású videókat rendesen, vagy szaggatak, vagy a kép meg a hang csúszott el, mindig volt valami. Win alatt MPC HomeCinema, FFDShow, CoreAVC, szevasztok.</p>
+
+<p>Ezenfelül nincs rendes Torrent kliens. A Transmission egy <a href="http://trac.transmissionbt.com/ticket/1201" target="_blank">aranyos bug</a> miatt kiesik (szétfagyasztja a rendszert bizonyos gépeken, az enyémen is ezt tette), és az uTorrent erősen alfás még, marad a Vuze ami Javás, nagy, és lassú.</p>
+
+<p>Ja, és Firefox. Van, de még mindig jelentősen lassabb a Webkit/Safarinál, amihez viszont nincsenek extensionok, csak pár kvázi-plugin változó minőséggel.</p>
+
+<p>Plusz az egyetlen, jatek, amivel jatszani szoktam, Win-only&#8230;</p>
+
+<p><strong>Postmortem</strong></p>
+
+<p>Adtam megint egy esélyt az ubuntunak az x61s-en, sajnos megint megakadtam a korábban már a winden is előjövő videólejátszási bugon, miszerint vagy tearing van, vagy megy, de 10-ből egyszer el fog szállni az egész rendszer egy random színű képernyővel. Köszönjük szépen, majd ha lesz rendes Intel driver, megpróbáljuk újra, addig repül megint a /dev/nullba, én tényleg akarom szeretni ezt a desktop linux dolgot de ha egyszer.</p>
+
+<p>És valaki mondja meg már nekik, hogy a naracssárga-barna kombó egyszerűen RONDA. Plusz ha a Gnomeba tennének valami normális Control Panelt&#8230;</p>
+
+<p><strong>ATM</strong></p>
+
+<p>Szóval most így vagyok, boldog Win7 júzer, bár lesz még egy hackintosh kitérő, mivel az adataim egy Time Machine backupban vannak, és Leo nélkül NAGYON problémás visszaállítani az adatokat.</p>
+
+<p>Minden hibája ellenére továbbra is egy alapjába véve jó oprendszernek tartom az OSX-et (bár távolról se tökéletes lásd fentebb), lehet Snow Leo kap majd valamilyen módon egy esélyt, de a fenti okok miatt egyelőre nem hiszem, hogy egyhamar újra primary oprendszer lehetne. Tudom, a Win se tokeletes, de jelenleg teljesen megfelel, amire kell.</p>
+
+<footer>
+    <a title="Permanent link to “Mi a bajom az OSX-szel?”" href="https://blog.ktamas.com/index.php/2009/02/12/mi_a_bajom_az_osx_szel/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+        <div class="tags">
+            <h5>More about…</h5>
+            <ul>
+                <li><a href="https://blog.ktamas.com/tags/mac/">mac</a></li>
+                <li><a href="https://blog.ktamas.com/tags/switch/">switch</a></li>
+                <li><a href="https://blog.ktamas.com/tags/win7/">win7</a></li>
+                <li><a href="https://blog.ktamas.com/tags/windows/">windows</a></li>
+            </ul>
+        </div>
+</footer>]]></content>
+	</entry>
+	<entry>
+		<id>https://blog.ktamas.com/index.php/2009/02/11/bye_bye_macbook_hello_x61s_1/</id>
+		<title>Bye-bye Macbook, hello X61s</title>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/02/11/bye_bye_macbook_hello_x61s_1/"/>
+		<updated>2009-02-11T19:02:08Z</updated>
+		<published>2009-02-11T19:02:08Z</published>
+		<author>
+			<name>KTamas</name>
+			<uri>https://blog.ktamas.com/</uri>
+		</author>
+		<category scheme="https://blog.ktamas.com/tags" term="mac" label="mac"/>
+		<category scheme="https://blog.ktamas.com/tags" term="switch" label="switch"/>
+		<category scheme="https://blog.ktamas.com/tags" term="win7" label="win7"/>
+		<category scheme="https://blog.ktamas.com/tags" term="windows" label="windows"/>
+		<summary>Nagy lépésre szántam el magamat: Eladtam a Macbookomat és vettem egy Thinkpadot, abból is egy X61s-t. Több okból is: egyrészt sosem tudtam teljesen megbarátkozni a borotválkozóView (copyright kelt) kijelzővel, másrészt meg egyelőre szeretnék Win7et használni mint primary oprendszer és erre sokkal alkalmasabb egy olyan gép amin pl. egynél több gomb van az egérhez (igen, windows alatt szar a macbook touchpadja for one). Az x61s szép, jó, a mérete szintén majdnem tökéletes, mert mindenféle akrobatikus mutatványok nélkül tudom elővenni pl.</summary>
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+<![CDATA[<p>Nagy lépésre szántam el magamat: Eladtam a Macbookomat és vettem egy Thinkpadot, abból is egy X61s-t. Több okból is: egyrészt sosem tudtam teljesen megbarátkozni a borotválkozóView (copyright kelt) kijelzővel, másrészt meg egyelőre szeretnék Win7et használni mint primary oprendszer és erre sokkal alkalmasabb egy olyan gép amin pl. egynél több gomb van az egérhez (igen, windows alatt szar a macbook touchpadja <em>for one</em>). Az x61s szép, jó, a mérete szintén majdnem tökéletes, mert mindenféle akrobatikus mutatványok nélkül tudom elővenni pl. a vonaton, a szuk ulesen is. Ezen felul a 6x sorozatu notebookok kb. a jelenleg legjobban kinézőek a piacon (szerintem), ami nem fő, de nem is utolsó szempont. Meg izé, new toy and all.</p>
+
+<p>Az OSX-szel a legnagyobb bajom, minden kenyelmessege ellenere, hogy tulsagosan egérközpontú, egy rakat dolog gyorsabban megy Win alatt a billentyűzettel. Ami viszont hiányozni fog, az a *nix integráció, amit egy mozdulattal előhívhat az ember.</p>
+
+<p>Ami nem menő, hogy úgy tűnik, a magyar X61s billentyűzet minősége nem éppen egyezik az amerikaival, maguk a keyek is máshogy néznek ki és bizony eléggé &#8216;hajlik&#8217; aminek az ellenkezőjét írja az összes, a billentyűzetet kivétel nélkül dicsőítő amerikai teszt. Ezt mindenesetre sürgősen orvosolni fogjuk az ebay <span style="text-decoration: line-through;">és/vagy a magyar szervíz segítségével (ha nem lesz olyan drága náluk)</span> segítségével mivel a magyar szervíz hihetetlen pofátlan pénzt kér érte. Valamint vettem bele egy 250 GB-os, 7200-as winchit, úgyhogy hely is lesz egy ideig.</p>
+
+<p>P.S.: az ujjlenyomatolvasó MENŐ.</p>
+
+<p>P.P.S.: Lesz hamarosan egy részletesebb írás is arról, hogy miért hagytam ott az OSX-et. Van is, <a href="http://ktamas.blog.hu/2009/02/12/mi_a_bajom_az_osx_szel" target="_blank">itt</a>.</p>
+
+<footer>
+    <a title="Permanent link to “Bye-bye Macbook, hello X61s”" href="https://blog.ktamas.com/index.php/2009/02/11/bye_bye_macbook_hello_x61s_1/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+        <div class="tags">
+            <h5>More about…</h5>
+            <ul>
+                <li><a href="https://blog.ktamas.com/tags/mac/">mac</a></li>
+                <li><a href="https://blog.ktamas.com/tags/switch/">switch</a></li>
+                <li><a href="https://blog.ktamas.com/tags/win7/">win7</a></li>
+                <li><a href="https://blog.ktamas.com/tags/windows/">windows</a></li>
+            </ul>
+        </div>
+</footer>]]></content>
+	</entry>
+</feed>

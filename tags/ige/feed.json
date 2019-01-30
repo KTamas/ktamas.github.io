@@ -1,0 +1,28 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "ige on KTamas' blog",
+	"description": "An ongoing list of KTamas' blog posts about ige",
+	"home_page_url": "https://blog.ktamas.com/tags/ige/",
+	"feed_url": "https://blog.ktamas.com/tags/ige/feed.json",
+	"icon": "https://blog.ktamas.com/icon-512x512.png",
+	"favicon": "https://blog.ktamas.com/icon-64x64.png",
+	"author": {
+		"name": "KTamas",
+		"url": "https://blog.ktamas.com/"
+	},
+	"items": [
+		{
+			"id": "https://blog.ktamas.com/index.php/2009/05/24/note_to_self_1/",
+			"url": "https://blog.ktamas.com/index.php/2009/05/24/note_to_self_1/",
+			"title": "Note to self",
+			"date_published": "2009-05-24T19:55:56Z",
+			"author": {
+				"name": "KTamas",
+				"url": "https://blog.ktamas.com/"
+			},
+			"tags": ["ige"],
+			"content_html": "\u003cblockquote\u003e\n\u003cp style=\"text-align: right;\"\u003e\n  \u003cspan style=\"color: black;\"\u003e\u0026#8220;Nem a ti dolgotok, hogy olyan időkről és alkalmakról tudjatok, amelyeket az Atya a maga hatalmába helyezett.\u0026#8221;\u003cbr /\u003e (ApCsel 1:7)\u003cbr /\u003e \u003c/span\u003e\n\u003c/p\u003e\n\u003c/blockquote\u003e\n\n\u003cfooter\u003e\n    \u003ca title=\"Permanent link to “Note to self”\" href=\"https://blog.ktamas.com/index.php/2009/05/24/note_to_self_1/\"\u003e\u0026nbsp;\u0026nbsp;\u003c/a\u003e\n    By KTamas for \u003ca href=\"https://blog.ktamas.com/\"\u003eKTamas\u0026#39; blog\u003c/a\u003e\n        \u003cdiv class=\"tags\"\u003e\n            \u003ch5\u003eMore about…\u003c/h5\u003e\n            \u003cul\u003e\n                \u003cli\u003e\u003ca href=\"https://blog.ktamas.com/tags/ige/\"\u003eige\u003c/a\u003e\u003c/li\u003e\n            \u003c/ul\u003e\n        \u003c/div\u003e\n\u003c/footer\u003e",
+			"content_text": "\u003e \u003cp style=\"text-align: right;\"\u003e\n\u003e   \u003cspan style=\"color: black;\"\u003e\u0026#8220;Nem a ti dolgotok, hogy olyan időkről és alkalmakról tudjatok, amelyeket az Atya a maga hatalmába helyezett.\u0026#8221;\u003cbr /\u003e (ApCsel 1:7)\u003cbr /\u003e \u003c/span\u003e\n\u003e \u003c/p\u003e\n\n-------------------------------------------------------------------------------\n\n Sunday, 24 May 2009\nBy KTamas\nhttps://blog.ktamas.com/index.php/2009/05/24/note_to_self_1/\n\nMore about...\n\n* ige: https://blog.ktamas.com/tags/ige/"
+		}
+	]
+}

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
+	<id>https://blog.ktamas.com/tags/wind/</id>
+	<title>wind on KTamas&#39; blog</title>
+	<subtitle>An ongoing list of KTamas' blog posts about wind</subtitle>
+	<updated>2009-01-26T09:43:08Z</updated>
+	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/wind/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/wind/"/>
+	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/wind/feed.json"/>
+	<author>
+		<name>KTamas</name>
+		<uri>https://blog.ktamas.com/</uri>
+	</author>
+	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
+	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
+	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
+	<entry>
+		<id>https://blog.ktamas.com/index.php/2009/01/26/a_wind_es_az_ubuntu_esete_pt_1/</id>
+		<title>A Wind és az Ubuntu esete, pt. 1</title>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/01/26/a_wind_es_az_ubuntu_esete_pt_1/"/>
+		<updated>2009-01-26T09:43:08Z</updated>
+		<published>2009-01-26T09:43:08Z</published>
+		<author>
+			<name>KTamas</name>
+			<uri>https://blog.ktamas.com/</uri>
+		</author>
+		<category scheme="https://blog.ktamas.com/tags" term="linux" label="linux"/>
+		<category scheme="https://blog.ktamas.com/tags" term="ubuntu" label="ubuntu"/>
+		<category scheme="https://blog.ktamas.com/tags" term="wind" label="wind"/>
+		<summary>Szóval a hétvégén játszottam kicsit az Ubuntuval apám Windjén a Wubi segítségével és tulajdonképp nem volt rossz. Maga a rendszer 20 perc alatt felment sans letöltés, és majdnem minden hardvert azonnal felismert, es 5 perc google után megvolt a wifi is ami már-már scifibe illik.
+A legkisebb rossz jegyében a Gnome-ot választottam, a KDE4-et megnéztem a múltkor a winden és amellett, hogy lassú volt, usability szempontból szintén, khm, viszonylag hátul szerepelt a sorban.</summary>
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+<![CDATA[<p>Szóval a hétvégén játszottam kicsit az Ubuntuval apám Windjén a <a href="http://wubi.sf.net" target="_blank">Wubi</a> segítségével és tulajdonképp nem volt rossz. Maga a rendszer 20 perc alatt felment sans letöltés, és majdnem minden hardvert azonnal felismert, es 5 perc google után megvolt a wifi is ami már-már scifibe illik.</p>
+
+<p>A legkisebb rossz jegyében a Gnome-ot választottam, a KDE4-et megnéztem a múltkor a winden és amellett, hogy lassú volt, usability szempontból szintén, khm, viszonylag hátul szerepelt a sorban. Gyorsan könnyes búcsút vettem az alsó taskbarszerüségtől (a futó programok felkerültek a felső menüsorra), majd felraktam a Gnome Do-t és kellemeset csalódtam: kiváló Quicksilver-klón, rakat pluginnal, és legalább annyira kézre áll.</p>
+
+<p>Elkezdtem ismerkedni a vimmel is, hála a vimtutornak, sőt, megcsináltam életem első .vimrc-jét is, meg felraktam a vim-ruby hogy legyen jó kis syntax highlighting, szóval <esc>:%s/mi az a vim/egész jó ez a vim/g.</p>
+
+<p>Az viszont nem menő, hogy az Intel videodriver apróbb hiányosságokban szenved még így 2009 tájékán is, például videolejátszás esetén <a href="http://en.wikipedia.org/wiki/Page_tearing" target="_blank">tearing</a> jelentkezik. Igazából látni kell, de olyasmi, hogy gyors mozgáskor a kép felső fele pár kockával előrébb jár, mint az alsó, és ezért eltérés van, ezért tearing, tehát szakadás. Létezik <a href="https://bugs.launchpad.net/ubuntu/intrepid/+source/xserver-xorg-video-intel/+bug/278318" target="_blank">részleges workaround</a> ami ezt elvileg kiküszöböli VLC meg MPlayer estén (átkapcsolni hardware overlayre), igaz ez is kicsit bugzik, ja és ez se nyújt megoldást pl. flash videó esetén, ami elég idegesítő. Elvileg a driver következő verziójába ez javítva lesz, amivel csak az a bajom, hogy ezt igérték a nemrég megjelent új verzióhoz is, csak aztán valahogy nem fért bele. Mindenesetre ez perpill <em>borderline dealbreaker</em>, mert a youtube-ról nem fogok lemondani.</p>
+
+<p>Ettől független lehet, hogy hamarosan beszerzek magamnak is egy ilyen kis gépet, főleg mert pl. a Windows 7 (is) nagyon jól fut rajta :)</esc></p>
+
+<footer>
+    <a title="Permanent link to “A Wind és az Ubuntu esete, pt. 1”" href="https://blog.ktamas.com/index.php/2009/01/26/a_wind_es_az_ubuntu_esete_pt_1/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+        <div class="tags">
+            <h5>More about…</h5>
+            <ul>
+                <li><a href="https://blog.ktamas.com/tags/linux/">linux</a></li>
+                <li><a href="https://blog.ktamas.com/tags/ubuntu/">ubuntu</a></li>
+                <li><a href="https://blog.ktamas.com/tags/wind/">wind</a></li>
+            </ul>
+        </div>
+</footer>]]></content>
+	</entry>
+</feed>

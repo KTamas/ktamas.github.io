@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
+	<id>https://blog.ktamas.com/tags/desktop/</id>
+	<title>desktop on KTamas&#39; blog</title>
+	<subtitle>An ongoing list of KTamas' blog posts about desktop</subtitle>
+	<updated>2009-09-24T09:54:05Z</updated>
+	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/desktop/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/desktop/"/>
+	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/desktop/feed.json"/>
+	<author>
+		<name>KTamas</name>
+		<uri>https://blog.ktamas.com/</uri>
+	</author>
+	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
+	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
+	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
+	<entry>
+		<id>https://blog.ktamas.com/index.php/2009/09/24/vegre_301/</id>
+		<title>Végre&amp;#8230;</title>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/09/24/vegre_301/"/>
+		<updated>2009-09-24T09:54:05Z</updated>
+		<published>2009-09-24T09:54:05Z</published>
+		<author>
+			<name>KTamas</name>
+			<uri>https://blog.ktamas.com/</uri>
+		</author>
+		<category scheme="https://blog.ktamas.com/tags" term="desktop" label="desktop"/>
+		<category scheme="https://blog.ktamas.com/tags" term="random" label="random"/>
+		<summary>…sikerült vállalható háromképernyős háttérképet találnom, be is raktam, gyorsan a két gépre. Kattra nagyobb</summary>
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+<![CDATA[<p><p style="text-align: left;">
+  &#8230;sikerült <a href="http://djmattricks.deviantart.com/art/Herbal-tripple-39728777" target="_blank">vállalható háromképernyős háttérképet</a> találnom, be is raktam, gyorsan a <a href="http://ktamas.blog.hu/2009/09/23/new_setup" target="_blank">két gépre</a>.
+</p><figure id="attachment_795" style="width: 500px" class="wp-caption aligncenter"></p>
+
+<p><a href="http://ktamas.blog.hu/media/image/200909/Desktop_09_24_09.jpg"><img class="wp-image-795" title="Desktop_09_24_09" src="http://ktamas.blog.hu/media/image/200909/Desktop_09_24_09.jpg" alt="Desktop_09_24_09" width="500" height="133" /></a><figcaption class="wp-caption-text">Kattra nagyobb</figcaption></figure></p>
+
+<footer>
+    <a title="Permanent link to “Végre&amp;#8230;”" href="https://blog.ktamas.com/index.php/2009/09/24/vegre_301/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+        <div class="tags">
+            <h5>More about…</h5>
+            <ul>
+                <li><a href="https://blog.ktamas.com/tags/desktop/">desktop</a></li>
+                <li><a href="https://blog.ktamas.com/tags/random/">random</a></li>
+            </ul>
+        </div>
+</footer>]]></content>
+	</entry>
+</feed>

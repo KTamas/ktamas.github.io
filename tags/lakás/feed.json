@@ -1,0 +1,28 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "lakás on KTamas' blog",
+	"description": "An ongoing list of KTamas' blog posts about lakás",
+	"home_page_url": "https://blog.ktamas.com/tags/lak%C3%A1s/",
+	"feed_url": "https://blog.ktamas.com/tags/lak%C3%A1s/feed.json",
+	"icon": "https://blog.ktamas.com/icon-512x512.png",
+	"favicon": "https://blog.ktamas.com/icon-64x64.png",
+	"author": {
+		"name": "KTamas",
+		"url": "https://blog.ktamas.com/"
+	},
+	"items": [
+		{
+			"id": "https://blog.ktamas.com/index.php/2013/08/05/az-uj-lakasrol/",
+			"url": "https://blog.ktamas.com/index.php/2013/08/05/az-uj-lakasrol/",
+			"title": "Az új lakásról",
+			"date_published": "2013-08-05T10:10:23Z",
+			"author": {
+				"name": "KTamas",
+				"url": "https://blog.ktamas.com/"
+			},
+			"tags": ["énblog","lakás","svédország"],
+			"content_html": "\u003cp\u003eSzerdán este átvettem a kulcsokat majd a Kommunicera CEO-jának és CFO-jának a segítségével gyorsan átköltöztem. Még nem pakoltam ki teljesen, ki kell találnom, hova fogom rakni a cuccaimat, mert kicsit kevés a szabad szekrény, ez speciel nem tűnt fel, mikor néztem a helyet, meg az se, hogy nincs mikró. Ez utóbbi nem fáj annyira, mint gondoltam, persze meglátjuk, hosszútávon mekkora szívás. A minap mondta egy kolléganő hogy lesz egy ingyen két hónap múlva, addig szerintem kihúzom.\u003c/p\u003e\n\n\u003cp\u003eA lakás kicsit kisebb és kicsit kevésbé világos mint a régi (földszinti), ráadásul mindkét ablaka az udvarra néz, szóval kevésbé csendes, de egyik se kiemelten zavaró tényező. Határozott előrelépés, hogy a mosóépületben rögtön két szoba is van, ezért nincs túlterhelve a rendszer, és majdnem akkor mosok amikor akarok. Sőt! A mosógépek mellett szárítógépek is vannak. Ja, és van tévém is, csatornákkal, meg minden, olyan, mint az internet, csak kényelmetlenebb.\u003c/p\u003e\n\n\u003cp\u003eAz egyetlen igazi panaszom az, hogy nincs vezetékes internet és egyhamar valószínű nem is lesz, emiatt kénytelen vagyok mobilnetezni, ami nem lenne gond, de egyelőre az egyetlen szolgáltatónak (a 3), ami értelmes adatmennyiséget ad (100 GB) feltöltőkártyás csomagban, nem túl jó az itteni térereje, épphogycsak eléri a már nem zavaróan lassú szintet. A megoldást még egyelőre keresem, vannak még opciók, bár hűséget nem írok alá elvből, lehet venni anélkül előfizetést, csak ahhoz vennem kell még az ebayről egy 4G modemet.\u003c/p\u003e\n\n\u003cp\u003eAz új hely amúgy potom tíz percre van gyalog az irodától, speciel haza tudok járni minden nap ebédelni, ha nagyon akarok. Ha sikerül ezt kombinálni azzal, hogy meghívok kollégákat, akkor több motivációm lesz asszem a főzésre is.\u003c/p\u003e\n\n\u003cfooter\u003e\n    \u003ca title=\"Permanent link to “Az új lakásról”\" href=\"https://blog.ktamas.com/index.php/2013/08/05/az-uj-lakasrol/\"\u003e\u0026nbsp;\u0026nbsp;\u003c/a\u003e\n    By KTamas for \u003ca href=\"https://blog.ktamas.com/\"\u003eKTamas\u0026#39; blog\u003c/a\u003e\n        \u003cdiv class=\"tags\"\u003e\n            \u003ch5\u003eMore about…\u003c/h5\u003e\n            \u003cul\u003e\n                \u003cli\u003e\u003ca href=\"https://blog.ktamas.com/tags/%C3%A9nblog/\"\u003eénblog\u003c/a\u003e\u003c/li\u003e\n                \u003cli\u003e\u003ca href=\"https://blog.ktamas.com/tags/lak%C3%A1s/\"\u003elakás\u003c/a\u003e\u003c/li\u003e\n                \u003cli\u003e\u003ca href=\"https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/\"\u003esvédország\u003c/a\u003e\u003c/li\u003e\n            \u003c/ul\u003e\n        \u003c/div\u003e\n\u003c/footer\u003e",
+			"content_text": "Szerdán este átvettem a kulcsokat majd a Kommunicera CEO-jának és CFO-jának a segítségével gyorsan átköltöztem. Még nem pakoltam ki teljesen, ki kell találnom, hova fogom rakni a cuccaimat, mert kicsit kevés a szabad szekrény, ez speciel nem tűnt fel, mikor néztem a helyet, meg az se, hogy nincs mikró. Ez utóbbi nem fáj annyira, mint gondoltam, persze meglátjuk, hosszútávon mekkora szívás. A minap mondta egy kolléganő hogy lesz egy ingyen két hónap múlva, addig szerintem kihúzom.\n\nA lakás kicsit kisebb és kicsit kevésbé világos mint a régi (földszinti), ráadásul mindkét ablaka az udvarra néz, szóval kevésbé csendes, de egyik se kiemelten zavaró tényező. Határozott előrelépés, hogy a mosóépületben rögtön két szoba is van, ezért nincs túlterhelve a rendszer, és majdnem akkor mosok amikor akarok. Sőt! A mosógépek mellett szárítógépek is vannak. Ja, és van tévém is, csatornákkal, meg minden, olyan, mint az internet, csak kényelmetlenebb. \n\nAz egyetlen igazi panaszom az, hogy nincs vezetékes internet és egyhamar valószínű nem is lesz, emiatt kénytelen vagyok mobilnetezni, ami nem lenne gond, de egyelőre az egyetlen szolgáltatónak (a 3), ami értelmes adatmennyiséget ad (100 GB) feltöltőkártyás csomagban, nem túl jó az itteni térereje, épphogycsak eléri a már nem zavaróan lassú szintet. A megoldást még egyelőre keresem, vannak még opciók, bár hűséget nem írok alá elvből, lehet venni anélkül előfizetést, csak ahhoz vennem kell még az ebayről egy 4G modemet.\n\nAz új hely amúgy potom tíz percre van gyalog az irodától, speciel haza tudok járni minden nap ebédelni, ha nagyon akarok. Ha sikerül ezt kombinálni azzal, hogy meghívok kollégákat, akkor több motivációm lesz asszem a főzésre is.\n\n-------------------------------------------------------------------------------\n\n Monday, 5 Aug 2013\nBy KTamas\nhttps://blog.ktamas.com/index.php/2013/08/05/az-uj-lakasrol/\n\nMore about...\n\n* énblog:     https://blog.ktamas.com/tags/%C3%A9nblog/\n* lakás:      https://blog.ktamas.com/tags/lak%C3%A1s/\n* svédország: https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/"
+		}
+	]
+}
