@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
-	<id>https://blog.ktamas.com/tags/el%C5%91ad%C3%A1s/</id>
+	<id>https://ktamas.github.io/tags/el%C5%91ad%C3%A1s/</id>
 	<title>előadás on KTamas&#39; blog</title>
 	<subtitle>An ongoing list of KTamas' blog posts about előadás</subtitle>
 	<updated>2011-10-12T12:38:33Z</updated>
-	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/el%C5%91ad%C3%A1s/feed.xml"/>
-	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/el%C5%91ad%C3%A1s/"/>
-	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/el%C5%91ad%C3%A1s/feed.json"/>
+	<link rel="self" type="application/atom+xml" href="https://ktamas.github.io/tags/el%C5%91ad%C3%A1s/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/el%C5%91ad%C3%A1s/"/>
+	<link rel="alternate" type="application/json" href="https://ktamas.github.io/tags/el%C5%91ad%C3%A1s/feed.json"/>
 	<author>
 		<name>KTamas</name>
-		<uri>https://blog.ktamas.com/</uri>
+		<uri>https://ktamas.github.io/</uri>
 	</author>
 	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
-	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
+	<icon>"https://ktamas.github.io/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2011/10/12/benne-vagyok-az-internetben-meetup/</id>
+		<id>https://ktamas.github.io/index.php/2011/10/12/benne-vagyok-az-internetben-meetup/</id>
 		<title>Benne vagyok az internetben (meetup)</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2011/10/12/benne-vagyok-az-internetben-meetup/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2011/10/12/benne-vagyok-az-internetben-meetup/"/>
 		<updated>2011-10-12T12:38:33Z</updated>
 		<published>2011-10-12T12:38:33Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="el%C5%91ad%C3%A1s" label="előadás"/>
-		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://blog.ktamas.com/tags" term="szakma" label="szakma"/>
+		<category scheme="https://ktamas.github.io/tags" term="el%C5%91ad%C3%A1s" label="előadás"/>
+		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://ktamas.github.io/tags" term="szakma" label="szakma"/>
 		<summary>Az történt, hogy hogy egy gyenge pillanatomban rábólintottam arra, hogy előadjak a meetupon, merthogy már többen jelezték hogy nekem nagyon érdekes szakmám van amiben van egy csomó téma, kértem egyet, mondtak, úgyhogy beszéltem 5 majd’ 10 percet a karakterkódolásokról. Ahhoz képest, hogy amint felléptem a színpadra, elfelejtettem mindent a lámpaláztól, a szemem a vetítővászonra fixálódott, a külső szemlélő számára egy jobbfajta (?) Powerpoint Karaoket toltam, az időlimit miatt a dolgok egy részét egyszerűsítettem a true enough verzióra, ja, és elég durván kifutottam az időből, igy visszanezve nem is lett olyan rossz.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Az történt, hogy hogy egy gyenge pillanatomban rábólintottam arra, hogy előadjak <a href="http://www.meetup.com/newtech-42/">a meetupon</a>, merthogy már többen jelezték hogy nekem nagyon érdekes szakmám van amiben van egy csomó téma, kértem egyet, mondtak, úgyhogy beszéltem <del>5</del> majd&#8217; 10 percet a karakterkódolásokról. Ahhoz képest, hogy amint felléptem a színpadra, elfelejtettem mindent a lámpaláztól, a szemem a vetítővászonra fixálódott, a külső szemlélő számára egy jobbfajta (?) Powerpoint Karaoket toltam, az időlimit miatt a dolgok egy részét egyszerűsítettem a true enough verzióra, ja, és elég durván kifutottam az időből, igy visszanezve nem is lett olyan rossz. És most tekintsünk el az előadás előtti két nap szolíd pánikról, amit végül Veve mentett aznap délután. Úgyhogy van még mit fejlődnöm előadástechnikában, nem is keveset, de bele fogok egyszercsak jönni ebbe is majd.</p>
 
 <p><iframe src="//www.slideshare.net/slideshow/embed_code/key/7nEL8dSMz1RyCA" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/KTamas/bush-hid-the-facts-amit-a-karakterkdolsok-tartogatnak-ellened" title="Bush hid the facts - amit a karakterkódolások tartogatnak ellened (lightning talk)" target="_blank">Bush hid the facts - amit a karakterkódolások tartogatnak ellened (lightning talk)</a> </strong> from <strong><a href="https://www.slideshare.net/KTamas" target="_blank">KTamas</a></strong></p>
@@ -37,36 +37,36 @@
 <p><a href="https://vimeo.com/30380081">K&aacute;d&aacute;r Tam&aacute;s (Espell): Bush hid the facts - amit a karakterk&oacute;dol&aacute;sok tartogatnak ellened</a> from <a href="https://vimeo.com/user1066482">Budapest New Tech Meetup</a> on <a href="https://vimeo.com">Vimeo</a>.</p></p>
 
 <footer>
-    <a title="Permanent link to “Benne vagyok az internetben (meetup)”" href="https://blog.ktamas.com/index.php/2011/10/12/benne-vagyok-az-internetben-meetup/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Benne vagyok az internetben (meetup)”" href="https://ktamas.github.io/index.php/2011/10/12/benne-vagyok-az-internetben-meetup/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/el%C5%91ad%C3%A1s/">előadás</a></li>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/szakma/">szakma</a></li>
+                <li><a href="https://ktamas.github.io/tags/el%C5%91ad%C3%A1s/">előadás</a></li>
+                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://ktamas.github.io/tags/szakma/">szakma</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2009/06/18/ruby_meg_a_mail_eloadas/</id>
+		<id>https://ktamas.github.io/index.php/2009/06/18/ruby_meg_a_mail_eloadas/</id>
 		<title>Ruby meg a Mail előadás</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/06/18/ruby_meg_a_mail_eloadas/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/06/18/ruby_meg_a_mail_eloadas/"/>
 		<updated>2009-06-18T21:00:41Z</updated>
 		<published>2009-06-18T21:00:41Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="el%C5%91ad%C3%A1s" label="előadás"/>
-		<category scheme="https://blog.ktamas.com/tags" term="programoz%C3%A1s" label="programozás"/>
-		<category scheme="https://blog.ktamas.com/tags" term="ruby" label="ruby"/>
+		<category scheme="https://ktamas.github.io/tags" term="el%C5%91ad%C3%A1s" label="előadás"/>
+		<category scheme="https://ktamas.github.io/tags" term="programoz%C3%A1s" label="programozás"/>
+		<category scheme="https://ktamas.github.io/tags" term="ruby" label="ruby"/>
 		<summary>Szóval előadtunk ma este egy ilyet:
   Lightning Talk Ruby And Mail V2  from KTamas 
 Hasznos linkek pedig akkor:
  RubyMail: Letöltés (vagy fel lehet rakni rubygemsből is) | RDoc RubyFilter: Letöltés: librfilter-ruby1.8 debian package | RDoc (éppen offline sajnos) RDeliver: rdeliver debian package, szép adag example kód: itten  </summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Szóval előadtunk ma este egy ilyet:</p>
 
 <p><iframe src="//www.slideshare.net/slideshow/embed_code/key/HTDrcgdPEOTLVM" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/KTamas/lightning-talk-ruby-and-mail-v2" title="Lightning Talk Ruby And Mail V2" target="_blank">Lightning Talk Ruby And Mail V2</a> </strong> from <strong><a href="https://www.slideshare.net/KTamas" target="_blank">KTamas</a></strong> </div></p>
@@ -80,14 +80,14 @@ Hasznos linkek pedig akkor:
 </ul>
 
 <footer>
-    <a title="Permanent link to “Ruby meg a Mail előadás”" href="https://blog.ktamas.com/index.php/2009/06/18/ruby_meg_a_mail_eloadas/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Ruby meg a Mail előadás”" href="https://ktamas.github.io/index.php/2009/06/18/ruby_meg_a_mail_eloadas/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/el%C5%91ad%C3%A1s/">előadás</a></li>
-                <li><a href="https://blog.ktamas.com/tags/programoz%C3%A1s/">programozás</a></li>
-                <li><a href="https://blog.ktamas.com/tags/ruby/">ruby</a></li>
+                <li><a href="https://ktamas.github.io/tags/el%C5%91ad%C3%A1s/">előadás</a></li>
+                <li><a href="https://ktamas.github.io/tags/programoz%C3%A1s/">programozás</a></li>
+                <li><a href="https://ktamas.github.io/tags/ruby/">ruby</a></li>
             </ul>
         </div>
 </footer>]]></content>

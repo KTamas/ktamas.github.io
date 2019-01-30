@@ -1,120 +1,120 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
-	<id>https://blog.ktamas.com/tags/b%C3%A9cs/</id>
+	<id>https://ktamas.github.io/tags/b%C3%A9cs/</id>
 	<title>bécs on KTamas&#39; blog</title>
 	<subtitle>An ongoing list of KTamas' blog posts about bécs</subtitle>
 	<updated>2009-06-27T16:57:29Z</updated>
-	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/b%C3%A9cs/feed.xml"/>
-	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/b%C3%A9cs/"/>
-	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/b%C3%A9cs/feed.json"/>
+	<link rel="self" type="application/atom+xml" href="https://ktamas.github.io/tags/b%C3%A9cs/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/b%C3%A9cs/"/>
+	<link rel="alternate" type="application/json" href="https://ktamas.github.io/tags/b%C3%A9cs/feed.json"/>
 	<author>
 		<name>KTamas</name>
-		<uri>https://blog.ktamas.com/</uri>
+		<uri>https://ktamas.github.io/</uri>
 	</author>
 	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
-	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
+	<icon>"https://ktamas.github.io/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2009/06/27/a_yorki_rendorzenekar/</id>
+		<id>https://ktamas.github.io/index.php/2009/06/27/a_yorki_rendorzenekar/</id>
 		<title>A yorki rendőrzenekar</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/06/27/a_yorki_rendorzenekar/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/06/27/a_yorki_rendorzenekar/"/>
 		<updated>2009-06-27T16:57:29Z</updated>
 		<published>2009-06-27T16:57:29Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="b%C3%A9cs" label="bécs"/>
-		<category scheme="https://blog.ktamas.com/tags" term="fot%C3%B3z%C3%A1s" label="fotózás"/>
-		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
+		<category scheme="https://ktamas.github.io/tags" term="b%C3%A9cs" label="bécs"/>
+		<category scheme="https://ktamas.github.io/tags" term="fot%C3%B3z%C3%A1s" label="fotózás"/>
+		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
 		<summary>Szóval az úgy volt, hogy bicikliztem Bécsben, és egyszercsak zenét hallottam, jó zenét ráadásul, mint kiderült, pont rendőrzenekar-összeröffenés volt arrafele, ígyhát gépet elő, és fotóztunk, mint az őrült, amit mondjuk nehezített a tömeg, de sikerült kellően közel furakodni, úgyhogy születtek képek. A cropokkal nem vagyok 100%-ig elégedett, de szerintem ígyse lett rossz.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Szóval az úgy volt, hogy bicikliztem Bécsben, és egyszercsak zenét hallottam, jó zenét ráadásul, mint kiderült, pont rendőrzenekar-összeröffenés volt arrafele, ígyhát gépet elő, és fotóztunk, mint az őrült, amit mondjuk nehezített a tömeg, de sikerült kellően közel furakodni, úgyhogy <a href="http://indafoto.hu/ktamasenty/becs_yorki_rendorzenekar/">születtek képek</a>. A cropokkal nem vagyok 100%-ig elégedett, de szerintem ígyse lett rossz.</p>
 
 <footer>
-    <a title="Permanent link to “A yorki rendőrzenekar”" href="https://blog.ktamas.com/index.php/2009/06/27/a_yorki_rendorzenekar/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “A yorki rendőrzenekar”" href="https://ktamas.github.io/index.php/2009/06/27/a_yorki_rendorzenekar/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/b%C3%A9cs/">bécs</a></li>
-                <li><a href="https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
-                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
+                <li><a href="https://ktamas.github.io/tags/b%C3%A9cs/">bécs</a></li>
+                <li><a href="https://ktamas.github.io/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
+                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2009/06/07/napi_random_gondolat_avagy_az_elet_nagy_problemai/</id>
+		<id>https://ktamas.github.io/index.php/2009/06/07/napi_random_gondolat_avagy_az_elet_nagy_problemai/</id>
 		<title>Napi random gondolat, avagy az élet nagy problémái</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/06/07/napi_random_gondolat_avagy_az_elet_nagy_problemai/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/06/07/napi_random_gondolat_avagy_az_elet_nagy_problemai/"/>
 		<updated>2009-06-07T13:00:37Z</updated>
 		<published>2009-06-07T13:00:37Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="b%C3%A9cs" label="bécs"/>
-		<category scheme="https://blog.ktamas.com/tags" term="random" label="random"/>
+		<category scheme="https://ktamas.github.io/tags" term="b%C3%A9cs" label="bécs"/>
+		<category scheme="https://ktamas.github.io/tags" term="random" label="random"/>
 		<summary>Bécs a világ legjobb városa, de akkor is ront az összképen, hogy mindenki németül beszél.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Bécs a világ legjobb városa, de akkor is ront az összképen, hogy <em>mindenki németül beszél.</em></p>
 
 <footer>
-    <a title="Permanent link to “Napi random gondolat, avagy az élet nagy problémái”" href="https://blog.ktamas.com/index.php/2009/06/07/napi_random_gondolat_avagy_az_elet_nagy_problemai/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Napi random gondolat, avagy az élet nagy problémái”" href="https://ktamas.github.io/index.php/2009/06/07/napi_random_gondolat_avagy_az_elet_nagy_problemai/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/b%C3%A9cs/">bécs</a></li>
-                <li><a href="https://blog.ktamas.com/tags/random/">random</a></li>
+                <li><a href="https://ktamas.github.io/tags/b%C3%A9cs/">bécs</a></li>
+                <li><a href="https://ktamas.github.io/tags/random/">random</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2009/06/06/nagy_6/</id>
+		<id>https://ktamas.github.io/index.php/2009/06/06/nagy_6/</id>
 		<title>Nagy</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/06/06/nagy_6/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/06/06/nagy_6/"/>
 		<updated>2009-06-06T20:53:30Z</updated>
 		<published>2009-06-06T20:53:30Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="b%C3%A9cs" label="bécs"/>
-		<category scheme="https://blog.ktamas.com/tags" term="bicikli" label="bicikli"/>
+		<category scheme="https://ktamas.github.io/tags" term="b%C3%A9cs" label="bécs"/>
+		<category scheme="https://ktamas.github.io/tags" term="bicikli" label="bicikli"/>
 		<summary>[](http://ktamas.blog.hu/media/image/200906/_6044532.jpg)Ezt a Mariahilferen lőttük... [](http://ktamas.blog.hu/media/image/200906/_6044515.jpg)...ezt meg Schönbrunn előtt. </summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<figure id="attachment_567" style="width: 500px" class="wp-caption aligncenter">[<img class="size-full wp-image-567" title="_6044532" src="http://ktamas.blog.hu/media/image/200906/_6044532.jpg" alt="_6044532" width="500" height="375" />](http://ktamas.blog.hu/media/image/200906/_6044532.jpg)<figcaption class="wp-caption-text">Ezt a Mariahilferen lőttük...</figcaption></figure> <figure id="attachment_569" style="width: 500px" class="wp-caption aligncenter">[<img class="size-full wp-image-569" title="_6044515" src="http://ktamas.blog.hu/media/image/200906/_6044515.jpg" alt="_6044515" width="500" height="375" />](http://ktamas.blog.hu/media/image/200906/_6044515.jpg)<figcaption class="wp-caption-text">...ezt meg Schönbrunn előtt.</figcaption></figure>
 
 <footer>
-    <a title="Permanent link to “Nagy”" href="https://blog.ktamas.com/index.php/2009/06/06/nagy_6/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Nagy”" href="https://ktamas.github.io/index.php/2009/06/06/nagy_6/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/b%C3%A9cs/">bécs</a></li>
-                <li><a href="https://blog.ktamas.com/tags/bicikli/">bicikli</a></li>
+                <li><a href="https://ktamas.github.io/tags/b%C3%A9cs/">bécs</a></li>
+                <li><a href="https://ktamas.github.io/tags/bicikli/">bicikli</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2009/06/06/the_boat_that_rocked_well_kinda/</id>
+		<id>https://ktamas.github.io/index.php/2009/06/06/the_boat_that_rocked_well_kinda/</id>
 		<title>The Boat That Rocked (well, kinda)</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/06/06/the_boat_that_rocked_well_kinda/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/06/06/the_boat_that_rocked_well_kinda/"/>
 		<updated>2009-06-06T11:17:55Z</updated>
 		<published>2009-06-06T11:17:55Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="b%C3%A9cs" label="bécs"/>
-		<category scheme="https://blog.ktamas.com/tags" term="mozi" label="mozi"/>
+		<category scheme="https://ktamas.github.io/tags" term="b%C3%A9cs" label="bécs"/>
+		<category scheme="https://ktamas.github.io/tags" term="mozi" label="mozi"/>
 		<summary>Szoval nagyon vartam mar ezt a filmet, annyira, hogy meg is neztem meg itt Becsben, valoszinu a vilag legkisebb mozivasznan, dehat ezzel kell beerni egy olyan orszagban, ahol tobb filmet szinkronizalnak mint mi, igy csak par kis mozi ad filmeket angolul errefele (bar ez tobb, mint a mi 1 db Palace Mom Parkunk), ebbol az egyikben jatszottak a filmet.
 Szoval a film. Adott egy rakat jo karakter, egy jonak igerkezo sztori (kalozradiok a hatvanas evek Angliajaban), sok jo zene, Richard Curtis (Love Actually, valaki?</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Szoval nagyon vartam mar ezt a filmet, annyira, hogy meg is neztem meg itt Becsben, valoszinu a vilag legkisebb mozivasznan, dehat ezzel kell beerni egy olyan orszagban, ahol tobb filmet szinkronizalnak mint mi, igy csak par kis mozi ad filmeket angolul errefele (bar ez tobb, mint a mi 1 db Palace Mom Parkunk), ebbol az egyikben jatszottak a filmet.</p>
 
 <p>Szoval a film. Adott egy rakat jo karakter, egy jonak igerkezo sztori (kalozradiok a hatvanas evek Angliajaban), sok jo zene, Richard Curtis (Love Actually, valaki?) eeeeeeeeeeees&#8230;. sajnos csalodas az egesz.</p>
@@ -124,31 +124,31 @@ Szoval a film. Adott egy rakat jo karakter, egy jonak igerkezo sztori (kalozradi
 <p>Az egesznek van egyfajta osszecsapott erzese, nagyon kar erte, mert ezt sokkal de sokkal jobban is meg lehetett volna csinalni. Igy viszont csak <strong><sup>6</sup>&frasl;<sub>10</sub></strong>.</p>
 
 <footer>
-    <a title="Permanent link to “The Boat That Rocked (well, kinda)”" href="https://blog.ktamas.com/index.php/2009/06/06/the_boat_that_rocked_well_kinda/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “The Boat That Rocked (well, kinda)”" href="https://ktamas.github.io/index.php/2009/06/06/the_boat_that_rocked_well_kinda/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/b%C3%A9cs/">bécs</a></li>
-                <li><a href="https://blog.ktamas.com/tags/mozi/">mozi</a></li>
+                <li><a href="https://ktamas.github.io/tags/b%C3%A9cs/">bécs</a></li>
+                <li><a href="https://ktamas.github.io/tags/mozi/">mozi</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2009/06/05/teaser_6/</id>
+		<id>https://ktamas.github.io/index.php/2009/06/05/teaser_6/</id>
 		<title>Teaser</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/06/05/teaser_6/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/06/05/teaser_6/"/>
 		<updated>2009-06-05T18:54:32Z</updated>
 		<published>2009-06-05T18:54:32Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="b%C3%A9cs" label="bécs"/>
+		<category scheme="https://ktamas.github.io/tags" term="b%C3%A9cs" label="bécs"/>
 		<summary>
 (A metalabban, a bécsi hackerspaceben jártam. Képek-iromány-ilyesmi hamarosan, itt, vagy a közelben.) </summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p><a href="http://ktamas.blog.hu/media/image/200906/_6054650.jpg"><img class="aligncenter size-full wp-image-560" title="_6054650" src="http://ktamas.blog.hu/media/image/200906/_6054650.jpg" alt="_6054650" width="500" height="385" /></a></p>
 
 <p style="text-align: center;">
@@ -156,60 +156,60 @@ Szoval a film. Adott egy rakat jo karakter, egy jonak igerkezo sztori (kalozradi
 </p></p>
 
 <footer>
-    <a title="Permanent link to “Teaser”" href="https://blog.ktamas.com/index.php/2009/06/05/teaser_6/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Teaser”" href="https://ktamas.github.io/index.php/2009/06/05/teaser_6/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/b%C3%A9cs/">bécs</a></li>
+                <li><a href="https://ktamas.github.io/tags/b%C3%A9cs/">bécs</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2009/06/05/rock_me_amadeus_3/</id>
+		<id>https://ktamas.github.io/index.php/2009/06/05/rock_me_amadeus_3/</id>
 		<title>Rock Me Amadeus!</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/06/05/rock_me_amadeus_3/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/06/05/rock_me_amadeus_3/"/>
 		<updated>2009-06-05T15:51:24Z</updated>
 		<published>2009-06-05T15:51:24Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="b%C3%A9cs" label="bécs"/>
-		<category scheme="https://blog.ktamas.com/tags" term="random" label="random"/>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<category scheme="https://ktamas.github.io/tags" term="b%C3%A9cs" label="bécs"/>
+		<category scheme="https://ktamas.github.io/tags" term="random" label="random"/>
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p><a href="http://ktamas.blog.hu/media/image/200906/_6034151.jpg"><img class="aligncenter size-full wp-image-554" title="_6034151" src="http://ktamas.blog.hu/media/image/200906/_6034151.jpg" alt="_6034151" width="500" height="462" /></a></p>
 
 <footer>
-    <a title="Permanent link to “Rock Me Amadeus!”" href="https://blog.ktamas.com/index.php/2009/06/05/rock_me_amadeus_3/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Rock Me Amadeus!”" href="https://ktamas.github.io/index.php/2009/06/05/rock_me_amadeus_3/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/b%C3%A9cs/">bécs</a></li>
-                <li><a href="https://blog.ktamas.com/tags/random/">random</a></li>
+                <li><a href="https://ktamas.github.io/tags/b%C3%A9cs/">bécs</a></li>
+                <li><a href="https://ktamas.github.io/tags/random/">random</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2009/06/04/napi_wtf_5/</id>
+		<id>https://ktamas.github.io/index.php/2009/06/04/napi_wtf_5/</id>
 		<title>Napi WTF</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/06/04/napi_wtf_5/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/06/04/napi_wtf_5/"/>
 		<updated>2009-06-04T00:07:15Z</updated>
 		<published>2009-06-04T00:07:15Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="b%C3%A9cs" label="bécs"/>
-		<category scheme="https://blog.ktamas.com/tags" term="random" label="random"/>
-		<category scheme="https://blog.ktamas.com/tags" term="wtf" label="wtf"/>
+		<category scheme="https://ktamas.github.io/tags" term="b%C3%A9cs" label="bécs"/>
+		<category scheme="https://ktamas.github.io/tags" term="random" label="random"/>
+		<category scheme="https://ktamas.github.io/tags" term="wtf" label="wtf"/>
 		<summary>A kuglófstencil. Illetve lehet puding is, most hogy jobban megnézem.
 
 (Dedikálva deKatának, aki erről fotóblogol.)</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>A kuglófstencil. Illetve lehet puding is, most hogy jobban megnézem.</p>
 
 <p><a href="http://ktamas.blog.hu/media/image/200906/_6034196.jpg"><img class="aligncenter size-full wp-image-542" title="_6034196" src="http://ktamas.blog.hu/media/image/200906/_6034196.jpg" alt="_6034196" width="500" height="375" /></a></p>
@@ -217,61 +217,61 @@ Szoval a film. Adott egy rakat jo karakter, egy jonak igerkezo sztori (kalozradi
 <p>(Dedikálva deKatának, aki <a href="http://www.medamayaki.hu/" target="_blank">erről fotóblogol</a>.)</p>
 
 <footer>
-    <a title="Permanent link to “Napi WTF”" href="https://blog.ktamas.com/index.php/2009/06/04/napi_wtf_5/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Napi WTF”" href="https://ktamas.github.io/index.php/2009/06/04/napi_wtf_5/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/b%C3%A9cs/">bécs</a></li>
-                <li><a href="https://blog.ktamas.com/tags/random/">random</a></li>
-                <li><a href="https://blog.ktamas.com/tags/wtf/">wtf</a></li>
+                <li><a href="https://ktamas.github.io/tags/b%C3%A9cs/">bécs</a></li>
+                <li><a href="https://ktamas.github.io/tags/random/">random</a></li>
+                <li><a href="https://ktamas.github.io/tags/wtf/">wtf</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2009/06/03/ilyen_egy_jo_becsi_vacsora/</id>
+		<id>https://ktamas.github.io/index.php/2009/06/03/ilyen_egy_jo_becsi_vacsora/</id>
 		<title>Ilyen egy jó bécsi vacsora</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/06/03/ilyen_egy_jo_becsi_vacsora/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/06/03/ilyen_egy_jo_becsi_vacsora/"/>
 		<updated>2009-06-03T10:48:08Z</updated>
 		<published>2009-06-03T10:48:08Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="b%C3%A9cs" label="bécs"/>
-		<category scheme="https://blog.ktamas.com/tags" term="random" label="random"/>
+		<category scheme="https://ktamas.github.io/tags" term="b%C3%A9cs" label="bécs"/>
+		<category scheme="https://ktamas.github.io/tags" term="random" label="random"/>
 		<summary>(megj.: a sültkrumpli overkill volt, azt legközelebb kihagyjuk.)</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p><a href="http://ktamas.blog.hu/media/image/200906/_6024149_b.jpg"><img class="aligncenter size-full wp-image-535" title="_6024149_b" src="http://ktamas.blog.hu/media/image/200906/_6024149_b.jpg" alt="_6024149_b" width="500" height="375" /></a></p>
 
 <p>(megj.: a sültkrumpli overkill volt, azt legközelebb kihagyjuk.)</p>
 
 <footer>
-    <a title="Permanent link to “Ilyen egy jó bécsi vacsora”" href="https://blog.ktamas.com/index.php/2009/06/03/ilyen_egy_jo_becsi_vacsora/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Ilyen egy jó bécsi vacsora”" href="https://ktamas.github.io/index.php/2009/06/03/ilyen_egy_jo_becsi_vacsora/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/b%C3%A9cs/">bécs</a></li>
-                <li><a href="https://blog.ktamas.com/tags/random/">random</a></li>
+                <li><a href="https://ktamas.github.io/tags/b%C3%A9cs/">bécs</a></li>
+                <li><a href="https://ktamas.github.io/tags/random/">random</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2009/06/02/schonbrunn_park_kepek/</id>
+		<id>https://ktamas.github.io/index.php/2009/06/02/schonbrunn_park_kepek/</id>
 		<title>Schönbrunn park (képek)</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/06/02/schonbrunn_park_kepek/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/06/02/schonbrunn_park_kepek/"/>
 		<updated>2009-06-02T22:46:23Z</updated>
 		<published>2009-06-02T22:46:23Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="b%C3%A9cs" label="bécs"/>
+		<category scheme="https://ktamas.github.io/tags" term="b%C3%A9cs" label="bécs"/>
 		<summary>Szóval a bécsi várhoz mentem ma, és bár maga a vár annyira nem fogott meg (szép meg minden, szó se róla, de semmi különös), a mellette–mögötte lévő park valami egészen brutálisan és hihetetlenül szép. Kiválogattam hirtelen párat a kb. 300 képből.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Szóval a bécsi várhoz mentem ma, és bár maga a vár annyira nem fogott meg (szép meg minden, szó se róla, de semmi különös), a mellette&#8211;mögötte lévő park valami egészen brutálisan és hihetetlenül szép. Kiválogattam hirtelen párat a kb. 300 képből.</p>
 
 <p><a href="http://ktamas.blog.hu/media/image/200906/_6023925_b.jpg"><img class="aligncenter size-full wp-image-520" title="_6023925_b" src="http://ktamas.blog.hu/media/image/200906/_6023925_b.jpg" alt="_6023925_b" width="500" height="333" /></a></p>
@@ -283,32 +283,32 @@ Szoval a film. Adott egy rakat jo karakter, egy jonak igerkezo sztori (kalozradi
 <p><a href="http://ktamas.blog.hu/media/image/200906/_6024013_b.jpg"><img class="aligncenter size-full wp-image-527" title="_6024013_b" src="http://ktamas.blog.hu/media/image/200906/_6024013_b.jpg" alt="_6024013_b" width="500" height="375" /></a></p>
 
 <footer>
-    <a title="Permanent link to “Schönbrunn park (képek)”" href="https://blog.ktamas.com/index.php/2009/06/02/schonbrunn_park_kepek/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Schönbrunn park (képek)”" href="https://ktamas.github.io/index.php/2009/06/02/schonbrunn_park_kepek/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/b%C3%A9cs/">bécs</a></li>
+                <li><a href="https://ktamas.github.io/tags/b%C3%A9cs/">bécs</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2009/06/02/hogyan_szallitsunk_biciklit_railjeten/</id>
+		<id>https://ktamas.github.io/index.php/2009/06/02/hogyan_szallitsunk_biciklit_railjeten/</id>
 		<title>Hogyan szállítsunk biciklit Railjeten?</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/06/02/hogyan_szallitsunk_biciklit_railjeten/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/06/02/hogyan_szallitsunk_biciklit_railjeten/"/>
 		<updated>2009-06-02T17:12:54Z</updated>
 		<published>2009-06-02T17:12:54Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="b%C3%A9cs" label="bécs"/>
+		<category scheme="https://ktamas.github.io/tags" term="b%C3%A9cs" label="bécs"/>
 		<summary>Szóval vannak az ÖBB fantasztikus Railjetjei, gyorsak, pontosak, szépek, tiszták, minden ülésnél működő konnektor — minden, amit az ember elvárhat egy modern nemzetközi gyorstól.
 De.
 Nem lehet rajtuk biciklit szállítani. Semmi gond, mert, idézném a MÁV-információs nőt: “három könnyű kézi csomagot lehet”. Így a problémát könnyedén megoldotta két csomag folpack, három kukászacskó, meg egy kis ducttape, így ni: Ilyen volt…
 És… …ilyen lett</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Szóval vannak az ÖBB fantasztikus Railjetjei, gyorsak, pontosak, szépek, tiszták, minden ülésnél működő konnektor &#8212; minden, amit az ember elvárhat egy modern nemzetközi gyorstól.</p>
 
 <p>De.</p>
@@ -322,12 +322,12 @@ Nem lehet rajtuk biciklit szállítani. Semmi gond, mert, idézném a MÁV-infor
 <p><a href="http://ktamas.blog.hu/media/image/200906/_6023840.jpg"><img class="size-full wp-image-515" title="...ilyen lett" src="http://ktamas.blog.hu/media/image/200906/_6023840.jpg" alt="...ilyen lett" width="500" height="375" /></a><figcaption class="wp-caption-text">&hellip;ilyen lett</figcaption></figure></p>
 
 <footer>
-    <a title="Permanent link to “Hogyan szállítsunk biciklit Railjeten?”" href="https://blog.ktamas.com/index.php/2009/06/02/hogyan_szallitsunk_biciklit_railjeten/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Hogyan szállítsunk biciklit Railjeten?”" href="https://ktamas.github.io/index.php/2009/06/02/hogyan_szallitsunk_biciklit_railjeten/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/b%C3%A9cs/">bécs</a></li>
+                <li><a href="https://ktamas.github.io/tags/b%C3%A9cs/">bécs</a></li>
             </ul>
         </div>
 </footer>]]></content>

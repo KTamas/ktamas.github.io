@@ -2,27 +2,27 @@
 	"version": "https://jsonfeed.org/version/1",
 	"title": "die_outlook_die on KTamas' blog",
 	"description": "An ongoing list of KTamas' blog posts about die_outlook_die",
-	"home_page_url": "https://blog.ktamas.com/tags/die_outlook_die/",
-	"feed_url": "https://blog.ktamas.com/tags/die_outlook_die/feed.json",
-	"icon": "https://blog.ktamas.com/icon-512x512.png",
-	"favicon": "https://blog.ktamas.com/icon-64x64.png",
+	"home_page_url": "https://ktamas.github.io/tags/die_outlook_die/",
+	"feed_url": "https://ktamas.github.io/tags/die_outlook_die/feed.json",
+	"icon": "https://ktamas.github.io/icon-512x512.png",
+	"favicon": "https://ktamas.github.io/icon-64x64.png",
 	"author": {
 		"name": "KTamas",
-		"url": "https://blog.ktamas.com/"
+		"url": "https://ktamas.github.io/"
 	},
 	"items": [
 		{
-			"id": "https://blog.ktamas.com/index.php/2009/05/17/die_outlook_die/",
-			"url": "https://blog.ktamas.com/index.php/2009/05/17/die_outlook_die/",
+			"id": "https://ktamas.github.io/index.php/2009/05/17/die_outlook_die/",
+			"url": "https://ktamas.github.io/index.php/2009/05/17/die_outlook_die/",
 			"title": "Die Outlook, Die",
 			"date_published": "2009-05-17T18:16:35Z",
 			"author": {
 				"name": "KTamas",
-				"url": "https://blog.ktamas.com/"
+				"url": "https://ktamas.github.io/"
 			},
 			"tags": ["die_outlook_die"],
-			"content_html": "\u003cp\u003eA Microsoft Outlook a leheto legfosabb e-mail kliens a vilagon, kiemelten ervenyes ez az IMAP-kezelesere (sokkal inkabb nemkezelesere) es \u003ca href=\"http://www.emaildiscussions.com/showthread.php?t=51114\"\u003eegy evek / verziok ota nem fixalt bugra\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eNapalmot ra.\u003c/p\u003e\n\n\u003cfooter\u003e\n    \u003ca title=\"Permanent link to “Die Outlook, Die”\" href=\"https://blog.ktamas.com/index.php/2009/05/17/die_outlook_die/\"\u003e\u0026nbsp;\u0026nbsp;\u003c/a\u003e\n    By KTamas for \u003ca href=\"https://blog.ktamas.com/\"\u003eKTamas\u0026#39; blog\u003c/a\u003e\n        \u003cdiv class=\"tags\"\u003e\n            \u003ch5\u003eMore about…\u003c/h5\u003e\n            \u003cul\u003e\n                \u003cli\u003e\u003ca href=\"https://blog.ktamas.com/tags/die_outlook_die/\"\u003edie_outlook_die\u003c/a\u003e\u003c/li\u003e\n            \u003c/ul\u003e\n        \u003c/div\u003e\n\u003c/footer\u003e",
-			"content_text": "A Microsoft Outlook a leheto legfosabb e-mail kliens a vilagon, kiemelten ervenyes ez az IMAP-kezelesere (sokkal inkabb nemkezelesere) es [egy evek / verziok ota nem fixalt bugra](http://www.emaildiscussions.com/showthread.php?t=51114). \n\nNapalmot ra.\n\n-------------------------------------------------------------------------------\n\n Sunday, 17 May 2009\nBy KTamas\nhttps://blog.ktamas.com/index.php/2009/05/17/die_outlook_die/\n\nMore about...\n\n* die_outlook_die: https://blog.ktamas.com/tags/die_outlook_die/"
+			"content_html": "\u003cp\u003eA Microsoft Outlook a leheto legfosabb e-mail kliens a vilagon, kiemelten ervenyes ez az IMAP-kezelesere (sokkal inkabb nemkezelesere) es \u003ca href=\"http://www.emaildiscussions.com/showthread.php?t=51114\"\u003eegy evek / verziok ota nem fixalt bugra\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eNapalmot ra.\u003c/p\u003e\n\n\u003cfooter\u003e\n    \u003ca title=\"Permanent link to “Die Outlook, Die”\" href=\"https://ktamas.github.io/index.php/2009/05/17/die_outlook_die/\"\u003e\u0026nbsp;\u0026nbsp;\u003c/a\u003e\n    By KTamas for \u003ca href=\"https://ktamas.github.io/\"\u003eKTamas\u0026#39; blog\u003c/a\u003e\n        \u003cdiv class=\"tags\"\u003e\n            \u003ch5\u003eMore about…\u003c/h5\u003e\n            \u003cul\u003e\n                \u003cli\u003e\u003ca href=\"https://ktamas.github.io/tags/die_outlook_die/\"\u003edie_outlook_die\u003c/a\u003e\u003c/li\u003e\n            \u003c/ul\u003e\n        \u003c/div\u003e\n\u003c/footer\u003e",
+			"content_text": "A Microsoft Outlook a leheto legfosabb e-mail kliens a vilagon, kiemelten ervenyes ez az IMAP-kezelesere (sokkal inkabb nemkezelesere) es [egy evek / verziok ota nem fixalt bugra](http://www.emaildiscussions.com/showthread.php?t=51114). \n\nNapalmot ra.\n\n-------------------------------------------------------------------------------\n\n Sunday, 17 May 2009\nBy KTamas\nhttps://ktamas.github.io/index.php/2009/05/17/die_outlook_die/\n\nMore about...\n\n* die_outlook_die: https://ktamas.github.io/tags/die_outlook_die/"
 		}
 	]
 }

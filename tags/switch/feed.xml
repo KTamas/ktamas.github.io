@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
-	<id>https://blog.ktamas.com/tags/switch/</id>
+	<id>https://ktamas.github.io/tags/switch/</id>
 	<title>switch on KTamas&#39; blog</title>
 	<subtitle>An ongoing list of KTamas' blog posts about switch</subtitle>
 	<updated>2010-12-19T12:20:21Z</updated>
-	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/switch/feed.xml"/>
-	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/switch/"/>
-	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/switch/feed.json"/>
+	<link rel="self" type="application/atom+xml" href="https://ktamas.github.io/tags/switch/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/switch/"/>
+	<link rel="alternate" type="application/json" href="https://ktamas.github.io/tags/switch/feed.json"/>
 	<author>
 		<name>KTamas</name>
-		<uri>https://blog.ktamas.com/</uri>
+		<uri>https://ktamas.github.io/</uri>
 	</author>
 	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
-	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
+	<icon>"https://ktamas.github.io/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2010/12/19/android-az-uj-winmobile-zte-blade-meg-amit-akartok/</id>
+		<id>https://ktamas.github.io/index.php/2010/12/19/android-az-uj-winmobile-zte-blade-meg-amit-akartok/</id>
 		<title>Android az új Winmobile (ZTE Blade, meg amit akartok)</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2010/12/19/android-az-uj-winmobile-zte-blade-meg-amit-akartok/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2010/12/19/android-az-uj-winmobile-zte-blade-meg-amit-akartok/"/>
 		<updated>2010-12-19T12:20:21Z</updated>
 		<published>2010-12-19T12:20:21Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="android" label="android"/>
-		<category scheme="https://blog.ktamas.com/tags" term="apple" label="apple"/>
-		<category scheme="https://blog.ktamas.com/tags" term="blackberry" label="blackberry"/>
-		<category scheme="https://blog.ktamas.com/tags" term="pda" label="pda"/>
-		<category scheme="https://blog.ktamas.com/tags" term="switch" label="switch"/>
-		<category scheme="https://blog.ktamas.com/tags" term="winmobile" label="winmobile"/>
+		<category scheme="https://ktamas.github.io/tags" term="android" label="android"/>
+		<category scheme="https://ktamas.github.io/tags" term="apple" label="apple"/>
+		<category scheme="https://ktamas.github.io/tags" term="blackberry" label="blackberry"/>
+		<category scheme="https://ktamas.github.io/tags" term="pda" label="pda"/>
+		<category scheme="https://ktamas.github.io/tags" term="switch" label="switch"/>
+		<category scheme="https://ktamas.github.io/tags" term="winmobile" label="winmobile"/>
 		<summary>Szóval az történt, hogy — többek közt — a T túl olcsón adott egy ahhoz képest meglepően jó Androidos készüléket, engem meg kezdett erősen zavarni, hogy egy csúnyán elmaradt, és hosszútávon valószínűleg halálraítélt okostelefonplatformot használok (Blackberry), úgyhogy besétáltam egy T boltba, és potom havi három (drágább helyeken két) sör áráért vettem egy ZTE Blade-et. És nagyon hamar újra otthon éreztem magam.
 
 Ugyanis nagyon sokáig, kb 5 évig aktív Windows Mobile felhasználó voltam, végigkövettem a platform majdnem összes iterációját Pocket PC 2002-től a Windows Mobile 6.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Szóval az történt, hogy &#8212; többek közt &#8212; a T túl olcsón adott egy ahhoz képest meglepően jó Androidos készüléket, engem meg kezdett erősen zavarni, hogy egy csúnyán elmaradt, és hosszútávon valószínűleg halálraítélt okostelefonplatformot használok (Blackberry), úgyhogy besétáltam egy T boltba, és potom havi három (drágább helyeken két) sör áráért vettem egy ZTE Blade-et. És nagyon hamar újra otthon éreztem magam.</p>
 
 <p><a href="/wp-content/uploads/2010/12/blade.jpg"><img class="aligncenter size-full wp-image-2362338" title="blade" src="/wp-content/uploads/2010/12/blade.jpg" alt="" width="500" height="442" srcset="/wp-content/uploads/2010/12/blade.jpg 500w, /wp-content/uploads/2010/12/blade-300x265.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></a></p>
@@ -59,39 +59,39 @@ Ugyanis nagyon sokáig, kb 5 évig aktív Windows Mobile felhasználó voltam, v
 <p>(((Edit: ja hogy már a múltkor elsütöttem a &#8220;Meg amit akartok&#8221;-ot. fene.)))</p>
 
 <footer>
-    <a title="Permanent link to “Android az új Winmobile (ZTE Blade, meg amit akartok)”" href="https://blog.ktamas.com/index.php/2010/12/19/android-az-uj-winmobile-zte-blade-meg-amit-akartok/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Android az új Winmobile (ZTE Blade, meg amit akartok)”" href="https://ktamas.github.io/index.php/2010/12/19/android-az-uj-winmobile-zte-blade-meg-amit-akartok/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/android/">android</a></li>
-                <li><a href="https://blog.ktamas.com/tags/apple/">apple</a></li>
-                <li><a href="https://blog.ktamas.com/tags/blackberry/">blackberry</a></li>
-                <li><a href="https://blog.ktamas.com/tags/pda/">pda</a></li>
-                <li><a href="https://blog.ktamas.com/tags/switch/">switch</a></li>
-                <li><a href="https://blog.ktamas.com/tags/winmobile/">winmobile</a></li>
+                <li><a href="https://ktamas.github.io/tags/android/">android</a></li>
+                <li><a href="https://ktamas.github.io/tags/apple/">apple</a></li>
+                <li><a href="https://ktamas.github.io/tags/blackberry/">blackberry</a></li>
+                <li><a href="https://ktamas.github.io/tags/pda/">pda</a></li>
+                <li><a href="https://ktamas.github.io/tags/switch/">switch</a></li>
+                <li><a href="https://ktamas.github.io/tags/winmobile/">winmobile</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2009/02/12/mi_a_bajom_az_osx_szel/</id>
+		<id>https://ktamas.github.io/index.php/2009/02/12/mi_a_bajom_az_osx_szel/</id>
 		<title>Mi a bajom az OSX-szel?</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/02/12/mi_a_bajom_az_osx_szel/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/02/12/mi_a_bajom_az_osx_szel/"/>
 		<updated>2009-02-12T19:34:43Z</updated>
 		<published>2009-02-12T19:34:43Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="mac" label="mac"/>
-		<category scheme="https://blog.ktamas.com/tags" term="switch" label="switch"/>
-		<category scheme="https://blog.ktamas.com/tags" term="win7" label="win7"/>
-		<category scheme="https://blog.ktamas.com/tags" term="windows" label="windows"/>
+		<category scheme="https://ktamas.github.io/tags" term="mac" label="mac"/>
+		<category scheme="https://ktamas.github.io/tags" term="switch" label="switch"/>
+		<category scheme="https://ktamas.github.io/tags" term="win7" label="win7"/>
+		<category scheme="https://ktamas.github.io/tags" term="windows" label="windows"/>
 		<summary>Szóval az előző postban már említettem, hogy szeretnék win(7-e)t használni egy darabig, úgyhogy thinkpadra váltottam. Kicsit bővebben is kifejteném a szakítás okait az OSX-szel.
 Miért
 Kezdjük a másik oldalon, mi a jó az OSX-ben? Először is kapunk egy nagyon faszán megcsinált UI-t, valamint egy nagyon jó kis POSIX-implementációt a darwin személyében. Egy mozdulattal előhívhatjuk a Terminalt, és kedvünkre futtathatjuk kedvenc *nixes tooljainkat, programjainkat, ezáltal ideális platform jópár programnyelvhez is. Van nem egy killer app is rá (pl.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Szóval az előző postban már említettem, hogy szeretnék win(7-e)t használni egy darabig, úgyhogy thinkpadra váltottam. Kicsit bővebben is kifejteném a szakítás okait az OSX-szel.</p>
 
 <p><strong>Miért</strong></p>
@@ -129,35 +129,35 @@ Kezdjük a másik oldalon, mi a jó az OSX-ben? Először is kapunk egy nagyon f
 <p>Minden hibája ellenére továbbra is egy alapjába véve jó oprendszernek tartom az OSX-et (bár távolról se tökéletes lásd fentebb), lehet Snow Leo kap majd valamilyen módon egy esélyt, de a fenti okok miatt egyelőre nem hiszem, hogy egyhamar újra primary oprendszer lehetne. Tudom, a Win se tokeletes, de jelenleg teljesen megfelel, amire kell.</p>
 
 <footer>
-    <a title="Permanent link to “Mi a bajom az OSX-szel?”" href="https://blog.ktamas.com/index.php/2009/02/12/mi_a_bajom_az_osx_szel/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Mi a bajom az OSX-szel?”" href="https://ktamas.github.io/index.php/2009/02/12/mi_a_bajom_az_osx_szel/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/mac/">mac</a></li>
-                <li><a href="https://blog.ktamas.com/tags/switch/">switch</a></li>
-                <li><a href="https://blog.ktamas.com/tags/win7/">win7</a></li>
-                <li><a href="https://blog.ktamas.com/tags/windows/">windows</a></li>
+                <li><a href="https://ktamas.github.io/tags/mac/">mac</a></li>
+                <li><a href="https://ktamas.github.io/tags/switch/">switch</a></li>
+                <li><a href="https://ktamas.github.io/tags/win7/">win7</a></li>
+                <li><a href="https://ktamas.github.io/tags/windows/">windows</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2009/02/11/bye_bye_macbook_hello_x61s_1/</id>
+		<id>https://ktamas.github.io/index.php/2009/02/11/bye_bye_macbook_hello_x61s_1/</id>
 		<title>Bye-bye Macbook, hello X61s</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/02/11/bye_bye_macbook_hello_x61s_1/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/02/11/bye_bye_macbook_hello_x61s_1/"/>
 		<updated>2009-02-11T19:02:08Z</updated>
 		<published>2009-02-11T19:02:08Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="mac" label="mac"/>
-		<category scheme="https://blog.ktamas.com/tags" term="switch" label="switch"/>
-		<category scheme="https://blog.ktamas.com/tags" term="win7" label="win7"/>
-		<category scheme="https://blog.ktamas.com/tags" term="windows" label="windows"/>
+		<category scheme="https://ktamas.github.io/tags" term="mac" label="mac"/>
+		<category scheme="https://ktamas.github.io/tags" term="switch" label="switch"/>
+		<category scheme="https://ktamas.github.io/tags" term="win7" label="win7"/>
+		<category scheme="https://ktamas.github.io/tags" term="windows" label="windows"/>
 		<summary>Nagy lépésre szántam el magamat: Eladtam a Macbookomat és vettem egy Thinkpadot, abból is egy X61s-t. Több okból is: egyrészt sosem tudtam teljesen megbarátkozni a borotválkozóView (copyright kelt) kijelzővel, másrészt meg egyelőre szeretnék Win7et használni mint primary oprendszer és erre sokkal alkalmasabb egy olyan gép amin pl. egynél több gomb van az egérhez (igen, windows alatt szar a macbook touchpadja for one). Az x61s szép, jó, a mérete szintén majdnem tökéletes, mert mindenféle akrobatikus mutatványok nélkül tudom elővenni pl.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Nagy lépésre szántam el magamat: Eladtam a Macbookomat és vettem egy Thinkpadot, abból is egy X61s-t. Több okból is: egyrészt sosem tudtam teljesen megbarátkozni a borotválkozóView (copyright kelt) kijelzővel, másrészt meg egyelőre szeretnék Win7et használni mint primary oprendszer és erre sokkal alkalmasabb egy olyan gép amin pl. egynél több gomb van az egérhez (igen, windows alatt szar a macbook touchpadja <em>for one</em>). Az x61s szép, jó, a mérete szintén majdnem tökéletes, mert mindenféle akrobatikus mutatványok nélkül tudom elővenni pl. a vonaton, a szuk ulesen is. Ezen felul a 6x sorozatu notebookok kb. a jelenleg legjobban kinézőek a piacon (szerintem), ami nem fő, de nem is utolsó szempont. Meg izé, new toy and all.</p>
 
 <p>Az OSX-szel a legnagyobb bajom, minden kenyelmessege ellenere, hogy tulsagosan egérközpontú, egy rakat dolog gyorsabban megy Win alatt a billentyűzettel. Ami viszont hiányozni fog, az a *nix integráció, amit egy mozdulattal előhívhat az ember.</p>
@@ -169,15 +169,15 @@ Kezdjük a másik oldalon, mi a jó az OSX-ben? Először is kapunk egy nagyon f
 <p>P.P.S.: Lesz hamarosan egy részletesebb írás is arról, hogy miért hagytam ott az OSX-et. Van is, <a href="http://ktamas.blog.hu/2009/02/12/mi_a_bajom_az_osx_szel" target="_blank">itt</a>.</p>
 
 <footer>
-    <a title="Permanent link to “Bye-bye Macbook, hello X61s”" href="https://blog.ktamas.com/index.php/2009/02/11/bye_bye_macbook_hello_x61s_1/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Bye-bye Macbook, hello X61s”" href="https://ktamas.github.io/index.php/2009/02/11/bye_bye_macbook_hello_x61s_1/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/mac/">mac</a></li>
-                <li><a href="https://blog.ktamas.com/tags/switch/">switch</a></li>
-                <li><a href="https://blog.ktamas.com/tags/win7/">win7</a></li>
-                <li><a href="https://blog.ktamas.com/tags/windows/">windows</a></li>
+                <li><a href="https://ktamas.github.io/tags/mac/">mac</a></li>
+                <li><a href="https://ktamas.github.io/tags/switch/">switch</a></li>
+                <li><a href="https://ktamas.github.io/tags/win7/">win7</a></li>
+                <li><a href="https://ktamas.github.io/tags/windows/">windows</a></li>
             </ul>
         </div>
 </footer>]]></content>

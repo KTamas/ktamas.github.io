@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
-	<id>https://blog.ktamas.com/tags/nyelv%C3%A9szet/</id>
+	<id>https://ktamas.github.io/tags/nyelv%C3%A9szet/</id>
 	<title>nyelvészet on KTamas&#39; blog</title>
 	<subtitle>An ongoing list of KTamas' blog posts about nyelvészet</subtitle>
 	<updated>2009-02-15T13:32:53Z</updated>
-	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/nyelv%C3%A9szet/feed.xml"/>
-	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/nyelv%C3%A9szet/"/>
-	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/nyelv%C3%A9szet/feed.json"/>
+	<link rel="self" type="application/atom+xml" href="https://ktamas.github.io/tags/nyelv%C3%A9szet/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/nyelv%C3%A9szet/"/>
+	<link rel="alternate" type="application/json" href="https://ktamas.github.io/tags/nyelv%C3%A9szet/feed.json"/>
 	<author>
 		<name>KTamas</name>
-		<uri>https://blog.ktamas.com/</uri>
+		<uri>https://ktamas.github.io/</uri>
 	</author>
 	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
-	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
+	<icon>"https://ktamas.github.io/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2009/02/15/informatika_meg_egyetem_meg_minden/</id>
+		<id>https://ktamas.github.io/index.php/2009/02/15/informatika_meg_egyetem_meg_minden/</id>
 		<title>Informatika meg egyetem meg minden</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/02/15/informatika_meg_egyetem_meg_minden/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/02/15/informatika_meg_egyetem_meg_minden/"/>
 		<updated>2009-02-15T13:32:53Z</updated>
 		<published>2009-02-15T13:32:53Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="agymenes" label="agymenes"/>
-		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://blog.ktamas.com/tags" term="it" label="it"/>
-		<category scheme="https://blog.ktamas.com/tags" term="nyelv%C3%A9szet" label="nyelvészet"/>
+		<category scheme="https://ktamas.github.io/tags" term="agymenes" label="agymenes"/>
+		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://ktamas.github.io/tags" term="it" label="it"/>
+		<category scheme="https://ktamas.github.io/tags" term="nyelv%C3%A9szet" label="nyelvészet"/>
 		<summary>(ezt eredetileg gazs postjahoz irtam kommentnek (olvassatok el, mert jo), de aztan rajottem hogy nem 100%-ig kapcsolodik, es inkabb idevalo, ugyhogy.)  Ha valamit eldontottem anno, az az, hogy egyetemre info szakra nem megyek. Es nem csak azert, mert kozepsuliba ket borzalmas tanar valszeg hosszu idore megutaltatta velem a matekot (amugy ugye szukseges rossz velejaroja az infoszaknak) es nem csak azert mert munkamanias vagyok, es nem fogok meg 3-5 evet suliba tolteni mikor dolgozhatnek is (abba most ne menjunk bele hogy jajdiplomanelkul…, ez egy masik, hosszu tortenet).</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p><div class="comment-content">
   <p>
     <em>(ezt eredetileg <a href="http://bergengocia.net/2009/02/szuletett-informatikus.htm" target="_blank">gazs postjahoz</a> irtam kommentnek (olvassatok el, mert jo), de aztan rajottem hogy nem 100%-ig kapcsolodik, es inkabb idevalo, ugyhogy.)</em>
@@ -57,30 +57,30 @@
 </div></p></p>
 
 <footer>
-    <a title="Permanent link to “Informatika meg egyetem meg minden”" href="https://blog.ktamas.com/index.php/2009/02/15/informatika_meg_egyetem_meg_minden/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Informatika meg egyetem meg minden”" href="https://ktamas.github.io/index.php/2009/02/15/informatika_meg_egyetem_meg_minden/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/agymenes/">agymenes</a></li>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/it/">it</a></li>
-                <li><a href="https://blog.ktamas.com/tags/nyelv%C3%A9szet/">nyelvészet</a></li>
+                <li><a href="https://ktamas.github.io/tags/agymenes/">agymenes</a></li>
+                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://ktamas.github.io/tags/it/">it</a></li>
+                <li><a href="https://ktamas.github.io/tags/nyelv%C3%A9szet/">nyelvészet</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2009/02/03/egy_kis_kviz/</id>
+		<id>https://ktamas.github.io/index.php/2009/02/03/egy_kis_kviz/</id>
 		<title>Egy kis kvíz</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/02/03/egy_kis_kviz/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/02/03/egy_kis_kviz/"/>
 		<updated>2009-02-03T18:26:23Z</updated>
 		<published>2009-02-03T18:26:23Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="nyelv%C3%A9szet" label="nyelvészet"/>
+		<category scheme="https://ktamas.github.io/tags" term="nyelv%C3%A9szet" label="nyelvészet"/>
 		<summary>Mivel a gugitranslate ujabban tud magyarul, ime egy kis kviz: ugyanaz a szoveg háromszor, egy-egy nyelven oda-vissza fordítva, a kérdés, melyiken? Hírbehozó twitteres ötlete alapján Petőfi Anyám Tyúkjával. Csalni nem ér.
 Első
  Nos, mi a rock! tyúkanyó, Kend
@@ -91,7 +91,7 @@ Fent és lent meg, fuss
 Több doboz, fölszáll van
 A bolond, ne feledd
 Szintén nem vert a szobában.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Mivel a gugitranslate ujabban tud magyarul, ime egy kis kviz: ugyanaz a szoveg háromszor, egy-egy nyelven oda-vissza fordítva, a kérdés, melyiken? Hírbehozó twitteres ötlete alapján Petőfi Anyám Tyúkjával. Csalni nem ér.</p>
 
 <p>Első</p>
@@ -155,12 +155,12 @@ Szintén nem vert a szobában.</summary>
 </blockquote>
 
 <footer>
-    <a title="Permanent link to “Egy kis kvíz”" href="https://blog.ktamas.com/index.php/2009/02/03/egy_kis_kviz/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Egy kis kvíz”" href="https://ktamas.github.io/index.php/2009/02/03/egy_kis_kviz/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/nyelv%C3%A9szet/">nyelvészet</a></li>
+                <li><a href="https://ktamas.github.io/tags/nyelv%C3%A9szet/">nyelvészet</a></li>
             </ul>
         </div>
 </footer>]]></content>

@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
-	<id>https://blog.ktamas.com/tags/agymenes/</id>
+	<id>https://ktamas.github.io/tags/agymenes/</id>
 	<title>agymenes on KTamas&#39; blog</title>
 	<subtitle>An ongoing list of KTamas' blog posts about agymenes</subtitle>
 	<updated>2011-11-01T21:52:17Z</updated>
-	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/agymenes/feed.xml"/>
-	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/agymenes/"/>
-	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/agymenes/feed.json"/>
+	<link rel="self" type="application/atom+xml" href="https://ktamas.github.io/tags/agymenes/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/agymenes/"/>
+	<link rel="alternate" type="application/json" href="https://ktamas.github.io/tags/agymenes/feed.json"/>
 	<author>
 		<name>KTamas</name>
-		<uri>https://blog.ktamas.com/</uri>
+		<uri>https://ktamas.github.io/</uri>
 	</author>
 	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
-	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
+	<icon>"https://ktamas.github.io/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2011/11/01/nem-oszthatom-meg-senkivel-megosztom-hat-mindenkivel-1031-never-forget/</id>
+		<id>https://ktamas.github.io/index.php/2011/11/01/nem-oszthatom-meg-senkivel-megosztom-hat-mindenkivel-1031-never-forget/</id>
 		<title>Nem oszthatom meg senkivel, megosztom hát mindenkivel (10/31 never forget)</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2011/11/01/nem-oszthatom-meg-senkivel-megosztom-hat-mindenkivel-1031-never-forget/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2011/11/01/nem-oszthatom-meg-senkivel-megosztom-hat-mindenkivel-1031-never-forget/"/>
 		<updated>2011-11-01T21:52:17Z</updated>
 		<published>2011-11-01T21:52:17Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="agymenes" label="agymenes"/>
+		<category scheme="https://ktamas.github.io/tags" term="agymenes" label="agymenes"/>
 		<summary>Tisztán emlékszem hogy lett vége. Tegnap este rákattintottam a Comments View-ra a Readerben, majd nem töltötte be, hanem felvillant egy popup hogy üdvözlünk az új Readerben, de valahogy az egész nem stimmelt. Reflexből nyomtam egy refresht és… megjött az új Reader. Egy ⌘R után eltűnt örökre a share fícsőr, írmagja se maradt. Még annyira se voltak képesek hogy a követettekből automatice egy Circle-t csinálnak a G+-on, vagy valami. Ki lett mondva, mostantól G+ van és más semmi.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Tisztán emlékszem hogy lett vége. Tegnap este rákattintottam a Comments View-ra a Readerben, majd nem töltötte be, hanem felvillant egy popup hogy üdvözlünk az új Readerben, de valahogy az egész nem stimmelt. Reflexből nyomtam egy refresht és&#8230; megjött az új Reader. Egy ⌘R után eltűnt örökre a share fícsőr, írmagja se maradt. Még annyira se voltak képesek hogy a követettekből automatice egy Circle-t csinálnak a G+-on, vagy valami. Ki lett mondva, mostantól G+ van és más semmi. Exportálhat a dolgaimból egy JSON-t, ha nem tetszik, vihetem magammal, <a href="http://googlereader.blogspot.com/2011/10/new-in-reader-fresh-design-and-google.html">írják</a>, csak hát, hova. <a href="http://hiveminedblog.tumblr.com/">Valaki elkezdett írni egy alternatív cuccot</a>, meglátjuk mi lesz belőle, mert valahova menni kell, valahogy folytatni kell.</p>
 
 <p>Arra is tisztán emlékszem, hogy kezdődött. A Google 2008 végén bevezette a megosztás fícsört, és Bártházi Andris nem sokkal utána ősszerakta a <a href="http://barthazi.hu/jaccoter/greader/list.php">grdrsher</a>-t: ide küldhetted be magad, hogy te is megosztasz dolgokat, és így fel lehett iratkozni mások megosztásfeedjére. Emlékszem, mikor még csak 40-50 ember volt ott, írtam gyorsan egy scriptet ami OPML-t csinált az oldalból amit utána egy mozdulattal be tudtam importálni a Readerbe, és akármilyen nyálasan hangzik, akkor egy egészen új világ tárult elém. Exponenciálisan kezdett nőni a feliratokozott feedek száma, hihetetlen mennyiségű új blogokat, oldalakat ismertem meg, majd jött a <a href="http://turulmeme.com/">Turulmeme</a>, ami összegyűjtötte a (többnyire) magyarok által megosztott dolgokat, ami szintén sokat dobott a feedjeim számán, mert mégtöbb érdekes dologra akadtam, és ez bizony jó volt. Akkor már nem mások megosztásainak megosztásfeedjeit olvastam, hanem konkrétan elkezdtem követni az embereket, és én is elkezdtem megosztani dolgokat. Jó sokat, mikor utoljára néztem a Reader statisztikáit, a követetteim közül nagyon durván én osztottam meg a legtöbbet, napi átlag kb. 10 itemet. Természetessé vált, hogy ha olvasok valamit, ami tetszik, érdekes, vitaindító, nagyon egyetértek vele vagy épp pont hogy nem, akkor egy kattintás, esetleg egy note, és meg van osztva, emberek olvassák, véleményezik, meg minden.</p>
@@ -40,60 +40,60 @@
 <p>Nem véletlenül van ennyi tab nyitva, nagyjából a fele ugyanis arra vár, hogy kezdjek vele valamit, pontosabban: elolvastam, és most megosztanám. De nincs hova. Nem tudom, hogy mi lesz, hol fogjuk ezt folytatni, de valahol muszáj.</p>
 
 <footer>
-    <a title="Permanent link to “Nem oszthatom meg senkivel, megosztom hát mindenkivel (10/31 never forget)”" href="https://blog.ktamas.com/index.php/2011/11/01/nem-oszthatom-meg-senkivel-megosztom-hat-mindenkivel-1031-never-forget/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Nem oszthatom meg senkivel, megosztom hát mindenkivel (10/31 never forget)”" href="https://ktamas.github.io/index.php/2011/11/01/nem-oszthatom-meg-senkivel-megosztom-hat-mindenkivel-1031-never-forget/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/agymenes/">agymenes</a></li>
+                <li><a href="https://ktamas.github.io/tags/agymenes/">agymenes</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2011/07/05/huawei-e1752-meg-az-osx/</id>
+		<id>https://ktamas.github.io/index.php/2011/07/05/huawei-e1752-meg-az-osx/</id>
 		<title>Huawei E1752 meg az OSX</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2011/07/05/huawei-e1752-meg-az-osx/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2011/07/05/huawei-e1752-meg-az-osx/"/>
 		<updated>2011-07-05T16:17:07Z</updated>
 		<published>2011-07-05T16:17:07Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="agymenes" label="agymenes"/>
-		<category scheme="https://blog.ktamas.com/tags" term="mac" label="mac"/>
+		<category scheme="https://ktamas.github.io/tags" term="agymenes" label="agymenes"/>
+		<category scheme="https://ktamas.github.io/tags" term="mac" label="mac"/>
 		<summary>Szolíd linuxos élményben volt részem a Huawei E1752-es számú mobilnetjével a Macbookon, ugyanis megszűnt működni egyszercsak. Először azt hittem, egy korábbi Time Machine-os restore kavart be, de utólag kiderült, szűz rendszeren se megy jól a driver, igaz máshogy törik. Mindenesetre egy firmware frissítés csináltam a modemen (az nem segített), majd rábukkantam valamelik Telenor oldalon (Dán? Norvég? one of those.) a gány Mobile Connect.app nélküli drivercsomagra, ami egyébként innen letölthető. Először persze le kellett irtani mlg az írmagját is a régi drivernek, ebben segítségemre volt a rootban kiadott 'find .</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Szolíd linuxos élményben volt részem a Huawei E1752-es számú mobilnetjével a Macbookon, ugyanis megszűnt működni egyszercsak. Először azt hittem, egy korábbi Time Machine-os restore kavart be, de utólag kiderült, szűz rendszeren se megy jól a driver, igaz máshogy törik. Mindenesetre egy firmware frissítés csináltam a modemen (az nem segített), majd rábukkantam valamelik Telenor oldalon (Dán? Norvég? one of those.) a gány Mobile Connect.app nélküli drivercsomagra, ami egyébként <a href="http://www.huaweidevice.com/resource/mini/200910149695/testmobile1014/index.html">innen letölthető</a>. Először persze le kellett irtani mlg az írmagját is a régi drivernek, ebben segítségemre volt a rootban kiadott <code>'find . -iname '*huawei*'</code> és az ezekre kiadott <code>rm -rf </code>kombója, minden kext-app-plist-modemscript törlése után működött az új driverrel a már <a href="http://blog.evandavey.com/2008/02/how-to-connect-huawei-e220-usb-modem.html">ismert módon</a>, akár a <a href="http://thepatrick.com.au/cheetahwatch/">cheetahwatch</a>csal is.</p>
 
 <p>(Tanulság, az nincs, maximum, hogy a mobilnet nyomokban még mindig szopás tud lenni.)</p>
 
 <footer>
-    <a title="Permanent link to “Huawei E1752 meg az OSX”" href="https://blog.ktamas.com/index.php/2011/07/05/huawei-e1752-meg-az-osx/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Huawei E1752 meg az OSX”" href="https://ktamas.github.io/index.php/2011/07/05/huawei-e1752-meg-az-osx/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/agymenes/">agymenes</a></li>
-                <li><a href="https://blog.ktamas.com/tags/mac/">mac</a></li>
+                <li><a href="https://ktamas.github.io/tags/agymenes/">agymenes</a></li>
+                <li><a href="https://ktamas.github.io/tags/mac/">mac</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2009/12/16/europa_csak_a_hatarig_mukodik_onnantol_balkan_van/</id>
+		<id>https://ktamas.github.io/index.php/2009/12/16/europa_csak_a_hatarig_mukodik_onnantol_balkan_van/</id>
 		<title>Európa csak a határig működik, onnantól balkán van</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/12/16/europa_csak_a_hatarig_mukodik_onnantol_balkan_van/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/12/16/europa_csak_a_hatarig_mukodik_onnantol_balkan_van/"/>
 		<updated>2009-12-16T19:58:02Z</updated>
 		<published>2009-12-16T19:58:02Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="agymenes" label="agymenes"/>
-		<category scheme="https://blog.ktamas.com/tags" term="balkan" label="balkan"/>
+		<category scheme="https://ktamas.github.io/tags" term="agymenes" label="agymenes"/>
+		<category scheme="https://ktamas.github.io/tags" term="balkan" label="balkan"/>
 		<summary>Az ember meglátja a gépet ebayen. Persze UK-only shipping, de ír a cégnek, hogy nem lennének-e olyan rendesek, hogy mégiscsak elszállítják Magyarországra. Dehogynem, mondják, így a termék hétfő délelőtt lecsapva, egy óra múlva már jön is a módosított számla magyarországi szállítással (17.25 helyett 40 angol font), limitmódosítás után fizetés paypallel. A csomagot délután elszállítja a TNT a cég raktárából, este már London mellett van egy raktárban, hajnalban már Belgiumban, reggel negyed tízkor Budapesten.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Az ember meglátja <a href="http://cgi.ebay.co.uk/ws/eBayISAPI.dll?ViewItem&amp;item=330383696446">a gépet ebayen</a>. Persze UK-only shipping, de ír a cégnek, hogy nem lennének-e olyan rendesek, hogy mégiscsak elszállítják Magyarországra. Dehogynem, mondják, így a termék hétfő délelőtt lecsapva, egy óra múlva már jön is a módosított számla magyarországi szállítással (17.25 helyett 40 angol font), limitmódosítás után fizetés paypallel. A csomagot délután elszállítja a TNT a cég raktárából, este már London mellett van egy raktárban, hajnalban már Belgiumban, reggel negyed tízkor Budapesten. Egy gyors telefonhívás, hogy ne már otthonra szállítsák akkor, hanem a munkahelyre.</p>
 
 <p>Az online tracking szerint délután 1-kor elindult a futár és&#8230; semmi. 4 óra&#8230; 5 óra&#8230; telefon, hogy hol van, &#8220;jaj mindjárt jön&#8221;. Semmi&#8230; újabb telefon fél hatkor, hogy ugyanmár. Mint az kiderült:</p>
@@ -110,30 +110,30 @@
 <p>(függöny)</p>
 
 <footer>
-    <a title="Permanent link to “Európa csak a határig működik, onnantól balkán van”" href="https://blog.ktamas.com/index.php/2009/12/16/europa_csak_a_hatarig_mukodik_onnantol_balkan_van/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Európa csak a határig működik, onnantól balkán van”" href="https://ktamas.github.io/index.php/2009/12/16/europa_csak_a_hatarig_mukodik_onnantol_balkan_van/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/agymenes/">agymenes</a></li>
-                <li><a href="https://blog.ktamas.com/tags/balkan/">balkan</a></li>
+                <li><a href="https://ktamas.github.io/tags/agymenes/">agymenes</a></li>
+                <li><a href="https://ktamas.github.io/tags/balkan/">balkan</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2009/08/20/hogyan_ne_vegyunk_mp3_at_update_vegyunk/</id>
+		<id>https://ktamas.github.io/index.php/2009/08/20/hogyan_ne_vegyunk_mp3_at_update_vegyunk/</id>
 		<title>Hogyan (ne) vegyünk MP3-at? (Update: vegyünk)</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/08/20/hogyan_ne_vegyunk_mp3_at_update_vegyunk/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/08/20/hogyan_ne_vegyunk_mp3_at_update_vegyunk/"/>
 		<updated>2009-08-20T19:00:12Z</updated>
 		<published>2009-08-20T19:00:12Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="agymenes" label="agymenes"/>
-		<category scheme="https://blog.ktamas.com/tags" term="random" label="random"/>
-		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
+		<category scheme="https://ktamas.github.io/tags" term="agymenes" label="agymenes"/>
+		<category scheme="https://ktamas.github.io/tags" term="random" label="random"/>
+		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
 		<summary>Szóval adott egy dal, amit megvennék, mert nincs rendes minõségben torrenten, és különbenis. Több opció is van:
 – iTunes
 – Amazon
@@ -145,7 +145,7 @@
 – Lala
 – Nokia Music store
 Lássuk akkor! iTunes eleve kizárva, itthon sehogy se lehet onnan venni, csak ha gift carddal trükközünk, és 1 számért nem fogok venni 25 dollcsis kártyát. Amcsi amazon a címemet nem fogadja el (valszeg ha hazudnék, akkor a kártyánál buknék el), az angol pedig már az arcomba vágja, hogy geographical restrictions.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Szóval <a href="http://www.watchtheguild.com/the-guild/the-guild-music-video/" target="_blank">adott egy dal</a>, amit megvennék, mert nincs rendes minõségben torrenten, és különbenis. Több opció is van:</p>
 
 <p>&#8211; iTunes</p>
@@ -173,68 +173,68 @@ Lássuk akkor! iTunes eleve kizárva, itthon sehogy se lehet onnan venni, csak h
 <p>Apdét: Úgy döntöttem, futok még egy kört, hátha sikerül találni helyet ami a kártyát nem nézi, csak az IP-t, és sikerrel jártam: a <a href="http://www.lala.com/">lala.com</a> nem néz bankkártyát &#8212; a paypalomat simán elfogadta &#8212; és a <a href="http://www.blackvpn.com/">BlackVPN</a> segítségével Amerikából meg tudtam venni. A szintet alulról üti (192 kb/s-es MP3), de már pont jó. Take that, internets.</p>
 
 <footer>
-    <a title="Permanent link to “Hogyan (ne) vegyünk MP3-at? (Update: vegyünk)”" href="https://blog.ktamas.com/index.php/2009/08/20/hogyan_ne_vegyunk_mp3_at_update_vegyunk/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Hogyan (ne) vegyünk MP3-at? (Update: vegyünk)”" href="https://ktamas.github.io/index.php/2009/08/20/hogyan_ne_vegyunk_mp3_at_update_vegyunk/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/agymenes/">agymenes</a></li>
-                <li><a href="https://blog.ktamas.com/tags/random/">random</a></li>
-                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
+                <li><a href="https://ktamas.github.io/tags/agymenes/">agymenes</a></li>
+                <li><a href="https://ktamas.github.io/tags/random/">random</a></li>
+                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2009/06/26/az_evtized_valoszinu_egyik_legjobb_koncertje/</id>
+		<id>https://ktamas.github.io/index.php/2009/06/26/az_evtized_valoszinu_egyik_legjobb_koncertje/</id>
 		<title>Az évtized (valószínű egyik legjobb) koncertje</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/06/26/az_evtized_valoszinu_egyik_legjobb_koncertje/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/06/26/az_evtized_valoszinu_egyik_legjobb_koncertje/"/>
 		<updated>2009-06-26T13:23:17Z</updated>
 		<published>2009-06-26T13:23:17Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="agymenes" label="agymenes"/>
-		<category scheme="https://blog.ktamas.com/tags" term="anime" label="anime"/>
-		<category scheme="https://blog.ktamas.com/tags" term="jap%C3%A1n" label="japán"/>
-		<category scheme="https://blog.ktamas.com/tags" term="random" label="random"/>
+		<category scheme="https://ktamas.github.io/tags" term="agymenes" label="agymenes"/>
+		<category scheme="https://ktamas.github.io/tags" term="anime" label="anime"/>
+		<category scheme="https://ktamas.github.io/tags" term="jap%C3%A1n" label="japán"/>
+		<category scheme="https://ktamas.github.io/tags" term="random" label="random"/>
 		<summary>Amire nem fogunk tudni elmenni: http://www.last.fm/event/1038940</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Amire nem fogunk tudni elmenni: <a href="http://www.last.fm/event/1038940">http://www.last.fm/event/1038940</a></p>
 
 <footer>
-    <a title="Permanent link to “Az évtized (valószínű egyik legjobb) koncertje”" href="https://blog.ktamas.com/index.php/2009/06/26/az_evtized_valoszinu_egyik_legjobb_koncertje/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Az évtized (valószínű egyik legjobb) koncertje”" href="https://ktamas.github.io/index.php/2009/06/26/az_evtized_valoszinu_egyik_legjobb_koncertje/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/agymenes/">agymenes</a></li>
-                <li><a href="https://blog.ktamas.com/tags/anime/">anime</a></li>
-                <li><a href="https://blog.ktamas.com/tags/jap%C3%A1n/">japán</a></li>
-                <li><a href="https://blog.ktamas.com/tags/random/">random</a></li>
+                <li><a href="https://ktamas.github.io/tags/agymenes/">agymenes</a></li>
+                <li><a href="https://ktamas.github.io/tags/anime/">anime</a></li>
+                <li><a href="https://ktamas.github.io/tags/jap%C3%A1n/">japán</a></li>
+                <li><a href="https://ktamas.github.io/tags/random/">random</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2009/05/01/kicsit_bugzik_a_betas_intel_driver_win7_alatt/</id>
+		<id>https://ktamas.github.io/index.php/2009/05/01/kicsit_bugzik_a_betas_intel_driver_win7_alatt/</id>
 		<title>Kicsit bugzik a betas Intel driver Win7 alatt</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/05/01/kicsit_bugzik_a_betas_intel_driver_win7_alatt/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/05/01/kicsit_bugzik_a_betas_intel_driver_win7_alatt/"/>
 		<updated>2009-05-01T09:33:11Z</updated>
 		<published>2009-05-01T09:33:11Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="agymenes" label="agymenes"/>
-		<category scheme="https://blog.ktamas.com/tags" term="nocomment" label="nocomment"/>
-		<category scheme="https://blog.ktamas.com/tags" term="win7" label="win7"/>
-		<category scheme="https://blog.ktamas.com/tags" term="windows" label="windows"/>
-		<category scheme="https://blog.ktamas.com/tags" term="wtf" label="wtf"/>
+		<category scheme="https://ktamas.github.io/tags" term="agymenes" label="agymenes"/>
+		<category scheme="https://ktamas.github.io/tags" term="nocomment" label="nocomment"/>
+		<category scheme="https://ktamas.github.io/tags" term="win7" label="win7"/>
+		<category scheme="https://ktamas.github.io/tags" term="windows" label="windows"/>
+		<category scheme="https://ktamas.github.io/tags" term="wtf" label="wtf"/>
 		<summary>Egy DWM-ujrainditas megoldja, de ize. Jo, betas, tudom.
 Ja amugy ez csak egy a sok kozul, a taskbar pl. rendszeresen villog meg ablakok random reszei lesznek atlatszoak, meg ilyesmi.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p><a href="http://ktamas.blog.hu/media/image/200905/intelbug.png"><img class="aligncenter size-full wp-image-418" title="intelbug" src="http://ktamas.blog.hu/media/image/200905/intelbug.png" alt="intelbug" width="260" height="336" /></a></p>
 
 <p>Egy DWM-ujrainditas megoldja, de ize. Jo, betas, tudom.</p>
@@ -242,61 +242,61 @@ Ja amugy ez csak egy a sok kozul, a taskbar pl. rendszeresen villog meg ablakok 
 <p>Ja amugy ez csak egy a sok kozul, a taskbar pl. rendszeresen villog meg ablakok random reszei lesznek atlatszoak, meg ilyesmi.</p>
 
 <footer>
-    <a title="Permanent link to “Kicsit bugzik a betas Intel driver Win7 alatt”" href="https://blog.ktamas.com/index.php/2009/05/01/kicsit_bugzik_a_betas_intel_driver_win7_alatt/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Kicsit bugzik a betas Intel driver Win7 alatt”" href="https://ktamas.github.io/index.php/2009/05/01/kicsit_bugzik_a_betas_intel_driver_win7_alatt/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/agymenes/">agymenes</a></li>
-                <li><a href="https://blog.ktamas.com/tags/nocomment/">nocomment</a></li>
-                <li><a href="https://blog.ktamas.com/tags/win7/">win7</a></li>
-                <li><a href="https://blog.ktamas.com/tags/windows/">windows</a></li>
-                <li><a href="https://blog.ktamas.com/tags/wtf/">wtf</a></li>
+                <li><a href="https://ktamas.github.io/tags/agymenes/">agymenes</a></li>
+                <li><a href="https://ktamas.github.io/tags/nocomment/">nocomment</a></li>
+                <li><a href="https://ktamas.github.io/tags/win7/">win7</a></li>
+                <li><a href="https://ktamas.github.io/tags/windows/">windows</a></li>
+                <li><a href="https://ktamas.github.io/tags/wtf/">wtf</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2009/03/23/jo_tudni_10/</id>
+		<id>https://ktamas.github.io/index.php/2009/03/23/jo_tudni_10/</id>
 		<title>Jó tudni&amp;#8230;</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/03/23/jo_tudni_10/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/03/23/jo_tudni_10/"/>
 		<updated>2009-03-23T10:39:39Z</updated>
 		<published>2009-03-23T10:39:39Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="agymenes" label="agymenes"/>
+		<category scheme="https://ktamas.github.io/tags" term="agymenes" label="agymenes"/>
 		<summary>…hogy a Huawei nagyszerű E220-as háromgés modeme nem csak az OSX-et tudja 15 kihúzásból egyszer kernel pánikba taszítani: eme hasznos feature jelentkezik windows alatt is, kékhalál formájában.
 (igen, legfrissebb verzió, miegymás)</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>&#8230;hogy a Huawei nagyszerű E220-as háromgés modeme nem csak az OSX-et tudja 15 kihúzásból egyszer kernel pánikba taszítani: eme hasznos feature jelentkezik windows alatt is, kékhalál formájában.</p>
 
 <p>(igen, legfrissebb verzió, miegymás)</p>
 
 <footer>
-    <a title="Permanent link to “Jó tudni&amp;#8230;”" href="https://blog.ktamas.com/index.php/2009/03/23/jo_tudni_10/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Jó tudni&amp;#8230;”" href="https://ktamas.github.io/index.php/2009/03/23/jo_tudni_10/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/agymenes/">agymenes</a></li>
+                <li><a href="https://ktamas.github.io/tags/agymenes/">agymenes</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2009/03/16/napi_karomkodas/</id>
+		<id>https://ktamas.github.io/index.php/2009/03/16/napi_karomkodas/</id>
 		<title>Napi káromkodás</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/03/16/napi_karomkodas/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/03/16/napi_karomkodas/"/>
 		<updated>2009-03-16T15:03:57Z</updated>
 		<published>2009-03-16T15:03:57Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="agymenes" label="agymenes"/>
-		<category scheme="https://blog.ktamas.com/tags" term="windows" label="windows"/>
+		<category scheme="https://ktamas.github.io/tags" term="agymenes" label="agymenes"/>
+		<category scheme="https://ktamas.github.io/tags" term="windows" label="windows"/>
 		<summary>Windows has made corrections to the file system.
 204,748,960 KB total disk space.
 101,600 KB in 3,059 hidden files.
@@ -304,7 +304,7 @@ Ja amugy ez csak egy a sok kozul, a taskbar pl. rendszeresen villog meg ablakok 
 120,296,800 KB in 37,286 files.
 32 KB in bad sectors.
 84,135,392 KB are available. Kb. 2-3 hetes Samsung notebook winchi…</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<pre>Windows has made corrections to the file system.<br />
   204,748,960 KB total disk space.<br />
       101,600 KB in 3,059 hidden files.<br />
@@ -316,33 +316,33 @@ Ja amugy ez csak egy a sok kozul, a taskbar pl. rendszeresen villog meg ablakok 
 <p>Kb. 2-3 hetes Samsung notebook winchi&#8230;</p>
 
 <footer>
-    <a title="Permanent link to “Napi káromkodás”" href="https://blog.ktamas.com/index.php/2009/03/16/napi_karomkodas/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Napi káromkodás”" href="https://ktamas.github.io/index.php/2009/03/16/napi_karomkodas/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/agymenes/">agymenes</a></li>
-                <li><a href="https://blog.ktamas.com/tags/windows/">windows</a></li>
+                <li><a href="https://ktamas.github.io/tags/agymenes/">agymenes</a></li>
+                <li><a href="https://ktamas.github.io/tags/windows/">windows</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2009/02/15/informatika_meg_egyetem_meg_minden/</id>
+		<id>https://ktamas.github.io/index.php/2009/02/15/informatika_meg_egyetem_meg_minden/</id>
 		<title>Informatika meg egyetem meg minden</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/02/15/informatika_meg_egyetem_meg_minden/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/02/15/informatika_meg_egyetem_meg_minden/"/>
 		<updated>2009-02-15T13:32:53Z</updated>
 		<published>2009-02-15T13:32:53Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="agymenes" label="agymenes"/>
-		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://blog.ktamas.com/tags" term="it" label="it"/>
-		<category scheme="https://blog.ktamas.com/tags" term="nyelv%C3%A9szet" label="nyelvészet"/>
+		<category scheme="https://ktamas.github.io/tags" term="agymenes" label="agymenes"/>
+		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://ktamas.github.io/tags" term="it" label="it"/>
+		<category scheme="https://ktamas.github.io/tags" term="nyelv%C3%A9szet" label="nyelvészet"/>
 		<summary>(ezt eredetileg gazs postjahoz irtam kommentnek (olvassatok el, mert jo), de aztan rajottem hogy nem 100%-ig kapcsolodik, es inkabb idevalo, ugyhogy.)  Ha valamit eldontottem anno, az az, hogy egyetemre info szakra nem megyek. Es nem csak azert, mert kozepsuliba ket borzalmas tanar valszeg hosszu idore megutaltatta velem a matekot (amugy ugye szukseges rossz velejaroja az infoszaknak) es nem csak azert mert munkamanias vagyok, es nem fogok meg 3-5 evet suliba tolteni mikor dolgozhatnek is (abba most ne menjunk bele hogy jajdiplomanelkul…, ez egy masik, hosszu tortenet).</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p><div class="comment-content">
   <p>
     <em>(ezt eredetileg <a href="http://bergengocia.net/2009/02/szuletett-informatikus.htm" target="_blank">gazs postjahoz</a> irtam kommentnek (olvassatok el, mert jo), de aztan rajottem hogy nem 100%-ig kapcsolodik, es inkabb idevalo, ugyhogy.)</em>
@@ -370,15 +370,15 @@ Ja amugy ez csak egy a sok kozul, a taskbar pl. rendszeresen villog meg ablakok 
 </div></p></p>
 
 <footer>
-    <a title="Permanent link to “Informatika meg egyetem meg minden”" href="https://blog.ktamas.com/index.php/2009/02/15/informatika_meg_egyetem_meg_minden/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Informatika meg egyetem meg minden”" href="https://ktamas.github.io/index.php/2009/02/15/informatika_meg_egyetem_meg_minden/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/agymenes/">agymenes</a></li>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/it/">it</a></li>
-                <li><a href="https://blog.ktamas.com/tags/nyelv%C3%A9szet/">nyelvészet</a></li>
+                <li><a href="https://ktamas.github.io/tags/agymenes/">agymenes</a></li>
+                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://ktamas.github.io/tags/it/">it</a></li>
+                <li><a href="https://ktamas.github.io/tags/nyelv%C3%A9szet/">nyelvészet</a></li>
             </ul>
         </div>
 </footer>]]></content>

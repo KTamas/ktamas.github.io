@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
-	<id>https://blog.ktamas.com/tags/android/</id>
+	<id>https://ktamas.github.io/tags/android/</id>
 	<title>android on KTamas&#39; blog</title>
 	<subtitle>An ongoing list of KTamas' blog posts about android</subtitle>
 	<updated>2010-12-19T12:20:21Z</updated>
-	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/android/feed.xml"/>
-	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/android/"/>
-	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/android/feed.json"/>
+	<link rel="self" type="application/atom+xml" href="https://ktamas.github.io/tags/android/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/android/"/>
+	<link rel="alternate" type="application/json" href="https://ktamas.github.io/tags/android/feed.json"/>
 	<author>
 		<name>KTamas</name>
-		<uri>https://blog.ktamas.com/</uri>
+		<uri>https://ktamas.github.io/</uri>
 	</author>
 	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
-	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
+	<icon>"https://ktamas.github.io/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2010/12/19/android-az-uj-winmobile-zte-blade-meg-amit-akartok/</id>
+		<id>https://ktamas.github.io/index.php/2010/12/19/android-az-uj-winmobile-zte-blade-meg-amit-akartok/</id>
 		<title>Android az új Winmobile (ZTE Blade, meg amit akartok)</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2010/12/19/android-az-uj-winmobile-zte-blade-meg-amit-akartok/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2010/12/19/android-az-uj-winmobile-zte-blade-meg-amit-akartok/"/>
 		<updated>2010-12-19T12:20:21Z</updated>
 		<published>2010-12-19T12:20:21Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="android" label="android"/>
-		<category scheme="https://blog.ktamas.com/tags" term="apple" label="apple"/>
-		<category scheme="https://blog.ktamas.com/tags" term="blackberry" label="blackberry"/>
-		<category scheme="https://blog.ktamas.com/tags" term="pda" label="pda"/>
-		<category scheme="https://blog.ktamas.com/tags" term="switch" label="switch"/>
-		<category scheme="https://blog.ktamas.com/tags" term="winmobile" label="winmobile"/>
+		<category scheme="https://ktamas.github.io/tags" term="android" label="android"/>
+		<category scheme="https://ktamas.github.io/tags" term="apple" label="apple"/>
+		<category scheme="https://ktamas.github.io/tags" term="blackberry" label="blackberry"/>
+		<category scheme="https://ktamas.github.io/tags" term="pda" label="pda"/>
+		<category scheme="https://ktamas.github.io/tags" term="switch" label="switch"/>
+		<category scheme="https://ktamas.github.io/tags" term="winmobile" label="winmobile"/>
 		<summary>Szóval az történt, hogy — többek közt — a T túl olcsón adott egy ahhoz képest meglepően jó Androidos készüléket, engem meg kezdett erősen zavarni, hogy egy csúnyán elmaradt, és hosszútávon valószínűleg halálraítélt okostelefonplatformot használok (Blackberry), úgyhogy besétáltam egy T boltba, és potom havi három (drágább helyeken két) sör áráért vettem egy ZTE Blade-et. És nagyon hamar újra otthon éreztem magam.
 
 Ugyanis nagyon sokáig, kb 5 évig aktív Windows Mobile felhasználó voltam, végigkövettem a platform majdnem összes iterációját Pocket PC 2002-től a Windows Mobile 6.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Szóval az történt, hogy &#8212; többek közt &#8212; a T túl olcsón adott egy ahhoz képest meglepően jó Androidos készüléket, engem meg kezdett erősen zavarni, hogy egy csúnyán elmaradt, és hosszútávon valószínűleg halálraítélt okostelefonplatformot használok (Blackberry), úgyhogy besétáltam egy T boltba, és potom havi három (drágább helyeken két) sör áráért vettem egy ZTE Blade-et. És nagyon hamar újra otthon éreztem magam.</p>
 
 <p><a href="/wp-content/uploads/2010/12/blade.jpg"><img class="aligncenter size-full wp-image-2362338" title="blade" src="/wp-content/uploads/2010/12/blade.jpg" alt="" width="500" height="442" srcset="/wp-content/uploads/2010/12/blade.jpg 500w, /wp-content/uploads/2010/12/blade-300x265.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></a></p>
@@ -59,17 +59,17 @@ Ugyanis nagyon sokáig, kb 5 évig aktív Windows Mobile felhasználó voltam, v
 <p>(((Edit: ja hogy már a múltkor elsütöttem a &#8220;Meg amit akartok&#8221;-ot. fene.)))</p>
 
 <footer>
-    <a title="Permanent link to “Android az új Winmobile (ZTE Blade, meg amit akartok)”" href="https://blog.ktamas.com/index.php/2010/12/19/android-az-uj-winmobile-zte-blade-meg-amit-akartok/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Android az új Winmobile (ZTE Blade, meg amit akartok)”" href="https://ktamas.github.io/index.php/2010/12/19/android-az-uj-winmobile-zte-blade-meg-amit-akartok/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/android/">android</a></li>
-                <li><a href="https://blog.ktamas.com/tags/apple/">apple</a></li>
-                <li><a href="https://blog.ktamas.com/tags/blackberry/">blackberry</a></li>
-                <li><a href="https://blog.ktamas.com/tags/pda/">pda</a></li>
-                <li><a href="https://blog.ktamas.com/tags/switch/">switch</a></li>
-                <li><a href="https://blog.ktamas.com/tags/winmobile/">winmobile</a></li>
+                <li><a href="https://ktamas.github.io/tags/android/">android</a></li>
+                <li><a href="https://ktamas.github.io/tags/apple/">apple</a></li>
+                <li><a href="https://ktamas.github.io/tags/blackberry/">blackberry</a></li>
+                <li><a href="https://ktamas.github.io/tags/pda/">pda</a></li>
+                <li><a href="https://ktamas.github.io/tags/switch/">switch</a></li>
+                <li><a href="https://ktamas.github.io/tags/winmobile/">winmobile</a></li>
             </ul>
         </div>
 </footer>]]></content>

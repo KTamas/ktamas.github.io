@@ -1,68 +1,68 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
-	<id>https://blog.ktamas.com/tags/sv%C3%A9dzene/</id>
+	<id>https://ktamas.github.io/tags/sv%C3%A9dzene/</id>
 	<title>svédzene on KTamas&#39; blog</title>
 	<subtitle>An ongoing list of KTamas' blog posts about svédzene</subtitle>
 	<updated>2014-06-07T20:05:08Z</updated>
-	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/sv%C3%A9dzene/feed.xml"/>
-	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/sv%C3%A9dzene/"/>
-	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/sv%C3%A9dzene/feed.json"/>
+	<link rel="self" type="application/atom+xml" href="https://ktamas.github.io/tags/sv%C3%A9dzene/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/sv%C3%A9dzene/"/>
+	<link rel="alternate" type="application/json" href="https://ktamas.github.io/tags/sv%C3%A9dzene/feed.json"/>
 	<author>
 		<name>KTamas</name>
-		<uri>https://blog.ktamas.com/</uri>
+		<uri>https://ktamas.github.io/</uri>
 	</author>
 	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
-	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
+	<icon>"https://ktamas.github.io/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2014/06/07/napi-loopok-es-svedzene-kobojsarna/</id>
+		<id>https://ktamas.github.io/index.php/2014/06/07/napi-loopok-es-svedzene-kobojsarna/</id>
 		<title>Napi loopok és Svédzene: Kobojsarna</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2014/06/07/napi-loopok-es-svedzene-kobojsarna/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2014/06/07/napi-loopok-es-svedzene-kobojsarna/"/>
 		<updated>2014-06-07T20:05:08Z</updated>
 		<published>2014-06-07T20:05:08Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="napiloop" label="napiloop"/>
-		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dzene" label="svédzene"/>
-		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
+		<category scheme="https://ktamas.github.io/tags" term="napiloop" label="napiloop"/>
+		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dzene" label="svédzene"/>
+		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
 		<summary>Mit lehet írni egy olyan zenekarról, akik simán írnak egy olyan dalt, aminek az a címe, hogy Sång om ingenting (Dal a semmiről), és tényleg nem szól semmiről? Leginkább azt, hogy ez kiváló Eurodance, ahol a dalszöveg gyakorlatilag tényleg semmit se számít. És akkor nem a legjobb dalt emeltem ki, mert például a La Perla meg az Unbeleivable jobb. A Kobojsarna 2003-ban alakult Malmőben, szóval még csak nem is kilencvenes évek, ez az igazi bátorság.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Mit lehet írni egy olyan zenekarról, akik simán írnak egy olyan dalt, aminek az a címe, hogy Sång om ingenting (Dal a semmiről), és tényleg nem szól semmiről? Leginkább azt, hogy ez kiváló Eurodance, ahol a dalszöveg gyakorlatilag tényleg semmit se számít. És akkor nem a legjobb dalt emeltem ki, mert például a La Perla meg az Unbeleivable jobb. A Kobojsarna 2003-ban alakult Malmőben, szóval még csak nem is kilencvenes évek, ez az igazi bátorság. Playlist alább.</p>
 
 <p><iframe src="https://embed.spotify.com/?uri=spotify:user:ktamas:playlist:4Uutv2qD2OAneeJrDZgjzV" width="300" height="380" frameborder="0"></iframe></p>
 
 <footer>
-    <a title="Permanent link to “Napi loopok és Svédzene: Kobojsarna”" href="https://blog.ktamas.com/index.php/2014/06/07/napi-loopok-es-svedzene-kobojsarna/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Napi loopok és Svédzene: Kobojsarna”" href="https://ktamas.github.io/index.php/2014/06/07/napi-loopok-es-svedzene-kobojsarna/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/napiloop/">napiloop</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dzene/">svédzene</a></li>
-                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
+                <li><a href="https://ktamas.github.io/tags/napiloop/">napiloop</a></li>
+                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dzene/">svédzene</a></li>
+                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2013/11/01/sved-zenek-laleh/</id>
+		<id>https://ktamas.github.io/index.php/2013/11/01/sved-zenek-laleh/</id>
 		<title>Svéd zenék: Laleh</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/11/01/sved-zenek-laleh/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/11/01/sved-zenek-laleh/"/>
 		<updated>2013-11-01T20:18:33Z</updated>
 		<published>2013-11-01T20:18:33Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
-		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dzene" label="svédzene"/>
-		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
+		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dzene" label="svédzene"/>
+		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
 		<summary>Új sorozatot kezdünk, amelyben a kontentet youtubevideókkal fogjuk helyettesíteni mindenféle ismert és kevésbé ismert svéd előadók fognak feltűnni. Leginkább, mert egy rakat jó svéd előadó / zenekar van, és az utóbbi hónapokban egyre többet hallgatok belőlük.
 Elsőképp jöjjön Laleh, aki szinésznőként kezdte anno, de aztán viszonylag gyorsan elment zenét csinálni. Az első dalra a rádióban figyeltem fel, merthogy az irodában megy általában a háttérbe valami, persze pont olyan halkan, hogy ha felrak az ember egy fülest, akkor nem hallatszik be.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Új sorozatot kezdünk, amelyben <del datetime="2013-11-01T19:08:50+00:00">a kontentet youtubevideókkal fogjuk helyettesíteni</del> mindenféle ismert és kevésbé ismert svéd előadók fognak feltűnni. Leginkább, mert egy rakat jó svéd előadó / zenekar van, és az utóbbi hónapokban egyre többet hallgatok belőlük.</p>
 
 <p>Elsőképp jöjjön <a href="http://en.wikipedia.org/wiki/Laleh_Pourkarim">Laleh</a>, aki szinésznőként kezdte anno, de aztán viszonylag gyorsan elment zenét csinálni. Az első dalra a rádióban figyeltem fel, merthogy az irodában megy általában a háttérbe valami, persze pont olyan halkan, hogy ha felrak az ember egy fülest, akkor nem hallatszik be. Utána már persze elővettem a Spotifyt, kijött egy új cédé is, felfedeztem új dalokat.</p>
@@ -72,15 +72,15 @@ Elsőképp jöjjön Laleh, aki szinésznőként kezdte anno, de aztán viszonyla
 <p><iframe width="640" height="360" src="//www.youtube.com/embed/mqKrIDRcKgc?rel=0" frameborder="0" allowfullscreen=""></iframe></p>
 
 <footer>
-    <a title="Permanent link to “Svéd zenék: Laleh”" href="https://blog.ktamas.com/index.php/2013/11/01/sved-zenek-laleh/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Svéd zenék: Laleh”" href="https://ktamas.github.io/index.php/2013/11/01/sved-zenek-laleh/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dzene/">svédzene</a></li>
-                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
+                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dzene/">svédzene</a></li>
+                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>

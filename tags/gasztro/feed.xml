@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
-	<id>https://blog.ktamas.com/tags/gasztro/</id>
+	<id>https://ktamas.github.io/tags/gasztro/</id>
 	<title>gasztro on KTamas&#39; blog</title>
 	<subtitle>An ongoing list of KTamas' blog posts about gasztro</subtitle>
 	<updated>2011-06-05T11:40:30Z</updated>
-	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/gasztro/feed.xml"/>
-	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/gasztro/"/>
-	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/gasztro/feed.json"/>
+	<link rel="self" type="application/atom+xml" href="https://ktamas.github.io/tags/gasztro/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/gasztro/"/>
+	<link rel="alternate" type="application/json" href="https://ktamas.github.io/tags/gasztro/feed.json"/>
 	<author>
 		<name>KTamas</name>
-		<uri>https://blog.ktamas.com/</uri>
+		<uri>https://ktamas.github.io/</uri>
 	</author>
 	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
-	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
+	<icon>"https://ktamas.github.io/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2011/06/05/pho/</id>
+		<id>https://ktamas.github.io/index.php/2011/06/05/pho/</id>
 		<title>Phở (Büfé Đăng Mười)</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2011/06/05/pho/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2011/06/05/pho/"/>
 		<updated>2011-06-05T11:40:30Z</updated>
 		<published>2011-06-05T11:40:30Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
-		<category scheme="https://blog.ktamas.com/tags" term="gasztro" label="gasztro"/>
+		<category scheme="https://ktamas.github.io/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
+		<category scheme="https://ktamas.github.io/tags" term="gasztro" label="gasztro"/>
 		<summary>Úgy történt, hogy kelt fülest kapott, hogy a józsefvárosi piacon mindenféle érdekes mobiltelefonok vannak, ki is mentünk hát múlt szombaton viával hármasban. Érdekes mobiltelefonokat ugyan nem találtunk, de átverekedve magunkat a tucatnyi ruhaáruson, villogó napszemüvegeken és rózsaszín szőrös bilincseken, egyszercsak egy vietnámi kajálda előtt találtuk magunkat, ahol magyarul csak a legfontosabb helyeken voltak kiírva többé-kevésbé az ételek nevei, és a helyi erők is jelentősen képviselték magukat, egyszóval autenikus hely volt, bizonyítékként le is fotóztam nektek az étlapot:Étlap</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Úgy történt, hogy <a href="http://worldshots.hu/">kelt</a> fülest kapott, hogy a józsefvárosi piacon mindenféle érdekes mobiltelefonok vannak, ki is mentünk hát múlt szombaton <a href="http://sirubia.net/">viával</a> hármasban. Érdekes mobiltelefonokat ugyan nem találtunk, de átverekedve magunkat a tucatnyi ruhaáruson, villogó napszemüvegeken és rózsaszín szőrös bilincseken, egyszercsak egy vietnámi kajálda előtt találtuk magunkat, ahol magyarul csak a legfontosabb helyeken voltak kiírva többé-kevésbé az ételek nevei, és a helyi erők is jelentősen képviselték magukat, egyszóval autenikus hely volt, bizonyítékként le is fotóztam nektek az étlapot:<figure id="attachment_2362608" style="width: 410px" class="wp-caption aligncenter"></p>
 
 <p><a href="/wp-content/uploads/2011/06/IMG_20110604_115003.jpg"><img class="size-large wp-image-2362608  " title="Étlap" src="/wp-content/uploads/2011/06/IMG_20110604_115003-768x1024.jpg" alt="Étlap" width="410" height="546" srcset="/wp-content/uploads/2011/06/IMG_20110604_115003-768x1024.jpg 768w, /wp-content/uploads/2011/06/IMG_20110604_115003-225x300.jpg 225w, /wp-content/uploads/2011/06/IMG_20110604_115003.jpg 1536w" sizes="(max-width: 410px) 100vw, 410px" /></a><figcaption class="wp-caption-text">Étlap</figcaption></figure></p>
@@ -59,32 +59,32 @@
 <p>(A lelkesedést a kép épp nem hozza át, a sakkot viszont igen.)</p>
 
 <footer>
-    <a title="Permanent link to “Phở (Büfé Đăng Mười)”" href="https://blog.ktamas.com/index.php/2011/06/05/pho/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Phở (Büfé Đăng Mười)”" href="https://ktamas.github.io/index.php/2011/06/05/pho/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
-                <li><a href="https://blog.ktamas.com/tags/gasztro/">gasztro</a></li>
+                <li><a href="https://ktamas.github.io/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
+                <li><a href="https://ktamas.github.io/tags/gasztro/">gasztro</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2010/10/24/mindennapi-gasztro/</id>
+		<id>https://ktamas.github.io/index.php/2010/10/24/mindennapi-gasztro/</id>
 		<title>Mindennapi &lt;del&gt;gasztro&lt;/del&gt; FMCG</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2010/10/24/mindennapi-gasztro/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2010/10/24/mindennapi-gasztro/"/>
 		<updated>2010-10-24T15:36:34Z</updated>
 		<published>2010-10-24T15:36:34Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
-		<category scheme="https://blog.ktamas.com/tags" term="gasztro" label="gasztro"/>
+		<category scheme="https://ktamas.github.io/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
+		<category scheme="https://ktamas.github.io/tags" term="gasztro" label="gasztro"/>
 		<summary>A fenti cimmel majdnem csinaltam nemreg egy blogot, csak hamar ravilagitottak emberek arra, hogy ezt hosszutavon kene megtolteni kontenttel, amit — egyelore — nem tudok, de nem kizart, hogy lesznek itt ehhez hasonlo posztok a jovoben.
 Meg regebben irtam a Culinarisrol, akik mindenfele importkajakat arulnak pofatlanul dragan, mar vagy fel eve ellen tudok allni a kisertesnek, hogy megint elmenjek, mert a fizetesem ijeszto hanyadat tudnam egeszen konnyen otthagyni egy kisebbfajta bevasarlassal.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>A fenti cimmel majdnem csinaltam nemreg egy blogot, csak hamar ravilagitottak emberek arra, hogy ezt hosszutavon kene megtolteni kontenttel, amit &#8212; egyelore &#8212; nem tudok, de nem kizart, hogy lesznek itt ehhez hasonlo posztok a jovoben.</p>
 
 <p>Meg <a href="http://blog.ktamas.com/index.php/2009/01/20/culinaris/">regebben</a> <a href="http://blog.ktamas.com/index.php/2009/05/08/culinaris_round_zwei_igazabol_voltam_mar_tobbszor_de_ez_most_mindegy/">irtam</a> a <a href="http://www.culinaris.hu">Culinaris</a>rol, akik mindenfele importkajakat arulnak pofatlanul dragan, mar vagy fel eve ellen tudok allni a kisertesnek, hogy megint elmenjek, mert a fizetesem ijeszto hanyadat tudnam egeszen konnyen otthagyni egy kisebbfajta bevasarlassal. Viszont uj jelenseg van kibontakozoban: az eddig csak a Culinarisban kaphato termekek elkeztek megjeleni azon kivul is.</p>
@@ -98,31 +98,31 @@ Meg regebben irtam a Culinarisrol, akik mindenfele importkajakat arulnak pofatla
 <p><a href="/wp-content/uploads/2010/10/nissinsmackcup-e1287934232613.jpg"><img class="aligncenter size-full wp-image-2362313" title="nissinsmackcup" src="/wp-content/uploads/2010/10/nissinsmackcup-e1287934232613.jpg" alt="" width="500" height="375" /></a>Ki akar kek(crispy) M&amp;Ms-et importalni? Na, valaki? Na?</p>
 
 <footer>
-    <a title="Permanent link to “Mindennapi &lt;del&gt;gasztro&lt;/del&gt; FMCG”" href="https://blog.ktamas.com/index.php/2010/10/24/mindennapi-gasztro/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Mindennapi &lt;del&gt;gasztro&lt;/del&gt; FMCG”" href="https://ktamas.github.io/index.php/2010/10/24/mindennapi-gasztro/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
-                <li><a href="https://blog.ktamas.com/tags/gasztro/">gasztro</a></li>
+                <li><a href="https://ktamas.github.io/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
+                <li><a href="https://ktamas.github.io/tags/gasztro/">gasztro</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2009/05/08/culinaris_round_zwei_igazabol_voltam_mar_tobbszor_de_ez_most_mindegy/</id>
+		<id>https://ktamas.github.io/index.php/2009/05/08/culinaris_round_zwei_igazabol_voltam_mar_tobbszor_de_ez_most_mindegy/</id>
 		<title>Culinaris, Round Zwei (igazából voltam már többször, de ez most mindegy)</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/05/08/culinaris_round_zwei_igazabol_voltam_mar_tobbszor_de_ez_most_mindegy/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/05/08/culinaris_round_zwei_igazabol_voltam_mar_tobbszor_de_ez_most_mindegy/"/>
 		<updated>2009-05-08T22:08:11Z</updated>
 		<published>2009-05-08T22:08:11Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="gasztro" label="gasztro"/>
+		<category scheme="https://ktamas.github.io/tags" term="gasztro" label="gasztro"/>
 		<summary>Szóval tegnap újra ellátogattam a Culinarisba, odaadtam LacKacnak az XKCD-s posztert, és bevásároltunk mindenféle külföldi édességből. Vettem mindenfélét, de csak azokról írok, amikről az előző postban nem:
  Reeses Nutrageous: na ebből bánom, hogy csak egyet vettem. A Reeses mindenféle peanut butteres (mogyoróvaj; nem nutella, hanem az édes-sós verzió) édességet csinál, leginkább a snickershez hasonlít, az alapösszetevő mellett van benne mogyoró, karamell, és persze csokival leöntve. Csillagos ötös. Orangina: ezt az üditőital tőlünk nyugatra bárhol kapható (szlovéniába folyamatosan ezt ittam), mindenféle citrusból készül, a Fanta elbújhat mellette.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Szóval tegnap újra ellátogattam a <a href="http://www.culinaris.hu/">Culinaris</a>ba, odaadtam <a href="http://www.lackac.hu">LacKac</a>nak az XKCD-s posztert, és bevásároltunk mindenféle külföldi édességből. Vettem mindenfélét, de csak azokról írok, amikről az <a href="http://ktamas.blog.hu/2009/01/20/culinaris" target="_self">előző postban</a> nem:</p>
 
 <ul>
@@ -136,84 +136,84 @@ Meg regebben irtam a Culinarisrol, akik mindenfele importkajakat arulnak pofatla
 <p>És most megyünk, és veszünk még pár dolgot a <a href="http://www.britishstore.hu">British Store</a>ból, pl. gyömbérsört&#8230;</p>
 
 <footer>
-    <a title="Permanent link to “Culinaris, Round Zwei (igazából voltam már többször, de ez most mindegy)”" href="https://blog.ktamas.com/index.php/2009/05/08/culinaris_round_zwei_igazabol_voltam_mar_tobbszor_de_ez_most_mindegy/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Culinaris, Round Zwei (igazából voltam már többször, de ez most mindegy)”" href="https://ktamas.github.io/index.php/2009/05/08/culinaris_round_zwei_igazabol_voltam_mar_tobbszor_de_ez_most_mindegy/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/gasztro/">gasztro</a></li>
+                <li><a href="https://ktamas.github.io/tags/gasztro/">gasztro</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2009/04/22/uj_blog_151/</id>
+		<id>https://ktamas.github.io/index.php/2009/04/22/uj_blog_151/</id>
 		<title>Új blog</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/04/22/uj_blog_151/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/04/22/uj_blog_151/"/>
 		<updated>2009-04-22T14:55:26Z</updated>
 		<published>2009-04-22T14:55:26Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
-		<category scheme="https://blog.ktamas.com/tags" term="gasztro" label="gasztro"/>
+		<category scheme="https://ktamas.github.io/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
+		<category scheme="https://ktamas.github.io/tags" term="gasztro" label="gasztro"/>
 		<summary>Mivel nemrég beköltöztünk a belvárosba (mármint a munkahely), ezért felvetődött az ötlet, hogy akkor írjunk közösségi blogot a környékbeli kajáldákból, amiből ugye itt sok van, nos, ez meg is született.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Mivel nemrég beköltöztünk a belvárosba (mármint a munkahely), ezért felvetődött az ötlet, hogy akkor írjunk <em>közösségi blogot</em> a környékbeli kajáldákból, amiből ugye itt sok van, nos, ez <a href="http://kajalda.blog.hu/" target="_blank">meg is született</a>.</p>
 
 <footer>
-    <a title="Permanent link to “Új blog”" href="https://blog.ktamas.com/index.php/2009/04/22/uj_blog_151/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Új blog”" href="https://ktamas.github.io/index.php/2009/04/22/uj_blog_151/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
-                <li><a href="https://blog.ktamas.com/tags/gasztro/">gasztro</a></li>
+                <li><a href="https://ktamas.github.io/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
+                <li><a href="https://ktamas.github.io/tags/gasztro/">gasztro</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2009/03/24/and_now_for_something_completely_different_5/</id>
+		<id>https://ktamas.github.io/index.php/2009/03/24/and_now_for_something_completely_different_5/</id>
 		<title>And now for something completely different</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/03/24/and_now_for_something_completely_different_5/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/03/24/and_now_for_something_completely_different_5/"/>
 		<updated>2009-03-24T21:29:45Z</updated>
 		<published>2009-03-24T21:29:45Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="gasztro" label="gasztro"/>
+		<category scheme="https://ktamas.github.io/tags" term="gasztro" label="gasztro"/>
 		<summary>Akciozik a Pizza Marzano, konkretan 12-tol 3-ig minden kaja felaron van naluk, ugyhogy mi mostantol oda fogunk jarni ebedelni, amikor csak lehet, mert ennyi penzert — 700-900 forint per pizza — nagyon megeri. Ja es kb. a legjobb pizza pesten.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Akciozik a <a href="http://www.sanmarzano.hu/">Pizza Marzano</a>, konkretan 12-tol 3-ig minden kaja felaron van naluk, ugyhogy mi mostantol oda fogunk jarni ebedelni, amikor csak lehet, mert ennyi penzert &#8212; 700-900 forint per pizza &#8212; nagyon megeri. Ja es kb. a legjobb pizza pesten.</p>
 
 <footer>
-    <a title="Permanent link to “And now for something completely different”" href="https://blog.ktamas.com/index.php/2009/03/24/and_now_for_something_completely_different_5/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “And now for something completely different”" href="https://ktamas.github.io/index.php/2009/03/24/and_now_for_something_completely_different_5/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/gasztro/">gasztro</a></li>
+                <li><a href="https://ktamas.github.io/tags/gasztro/">gasztro</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2009/01/20/culinaris/</id>
+		<id>https://ktamas.github.io/index.php/2009/01/20/culinaris/</id>
 		<title>Culinaris</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/01/20/culinaris/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/01/20/culinaris/"/>
 		<updated>2009-01-20T17:46:03Z</updated>
 		<published>2009-01-20T17:46:03Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="gasztro" label="gasztro"/>
+		<category scheme="https://ktamas.github.io/tags" term="gasztro" label="gasztro"/>
 		<summary>Szóval mi az a Culinaris? Egy (igazábol mostmár három) bolt, ahol mindenféle importkaját/piát lehet kapni a világ legkülönbözőbb pontjairól. Mint az sejthető, nem éppen egy olcsó hely, de néha-néha bemenni egy-egy finomságért abszolút megéri azoknak akik egy kicsit is gasztrobuzik (pl. én). A tegnapi bevásárlás eredménye:
  1 doboz Strawberry Milk. Kicsit hülye hasonlat, de olyan, mint az instant kakaó, csak eperízű, mostanában rászoktam, amivel az a baj, hogy egy doboz kb.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Szóval mi az a <a href="http://www.culinaris.hu/" target="_blank">Culinaris</a>? Egy (igazábol mostmár három) bolt, ahol mindenféle importkaját/piát lehet kapni a világ legkülönbözőbb pontjairól. Mint az sejthető, nem éppen egy olcsó hely, de néha-néha bemenni egy-egy finomságért abszolút megéri azoknak akik egy kicsit is gasztrobuzik (pl. én). A tegnapi bevásárlás eredménye:</p>
 
 <ul>
@@ -227,12 +227,12 @@ Meg regebben irtam a Culinarisrol, akik mindenfele importkajakat arulnak pofatla
 <p>Amit most kivételesen nem vettem mert még volt otthon, de általában szoktam az az Oreo, ami kis túlzással az amerikai nemzeti pilótakeksz: csokis kekszek között tejes krém. Az Oreo kötelező jelleggel hideg tejjel fogyasztandó.</p>
 
 <footer>
-    <a title="Permanent link to “Culinaris”" href="https://blog.ktamas.com/index.php/2009/01/20/culinaris/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Culinaris”" href="https://ktamas.github.io/index.php/2009/01/20/culinaris/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/gasztro/">gasztro</a></li>
+                <li><a href="https://ktamas.github.io/tags/gasztro/">gasztro</a></li>
             </ul>
         </div>
 </footer>]]></content>

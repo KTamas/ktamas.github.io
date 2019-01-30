@@ -1,48 +1,48 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
-	<id>https://blog.ktamas.com/tags/sinatra/</id>
+	<id>https://ktamas.github.io/tags/sinatra/</id>
 	<title>sinatra on KTamas&#39; blog</title>
 	<subtitle>An ongoing list of KTamas' blog posts about sinatra</subtitle>
 	<updated>2009-05-19T20:48:48Z</updated>
-	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/sinatra/feed.xml"/>
-	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/sinatra/"/>
-	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/sinatra/feed.json"/>
+	<link rel="self" type="application/atom+xml" href="https://ktamas.github.io/tags/sinatra/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/sinatra/"/>
+	<link rel="alternate" type="application/json" href="https://ktamas.github.io/tags/sinatra/feed.json"/>
 	<author>
 		<name>KTamas</name>
-		<uri>https://blog.ktamas.com/</uri>
+		<uri>https://ktamas.github.io/</uri>
 	</author>
 	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
-	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
+	<icon>"https://ktamas.github.io/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2009/05/19/ruby_sinatra_es_egyebek/</id>
+		<id>https://ktamas.github.io/index.php/2009/05/19/ruby_sinatra_es_egyebek/</id>
 		<title>Ruby, Sinatra és egyebek</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/05/19/ruby_sinatra_es_egyebek/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/05/19/ruby_sinatra_es_egyebek/"/>
 		<updated>2009-05-19T20:48:48Z</updated>
 		<published>2009-05-19T20:48:48Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="mail" label="mail"/>
-		<category scheme="https://blog.ktamas.com/tags" term="ruby" label="ruby"/>
-		<category scheme="https://blog.ktamas.com/tags" term="sinatra" label="sinatra"/>
+		<category scheme="https://ktamas.github.io/tags" term="mail" label="mail"/>
+		<category scheme="https://ktamas.github.io/tags" term="ruby" label="ruby"/>
+		<category scheme="https://ktamas.github.io/tags" term="sinatra" label="sinatra"/>
 		<summary>Szóval már live az új céges e-mail rendszer, Linux-Postfix-Courier-Maildir-Ruby alapokon, merthogy az emailjeinket in-house fejlesztett Rubys progi rendezgeti mindenféle általunk kitalált kritériák alapján a megfelelő mappába, ebből ha minden jól megy, lesz előbb utóbb rendes daemon is, meg még sok egyéb nyalánkság, majd írok erről valószínű részletesebben is.
 A másik dolog, ami viszont iszonyat menő az a Sinatra. Semmi sallang, a világ legminimalistább REST frameworkje, hihetetlenül tökéletes mindenféle utiloknak webes frontendet adni, főleg ha HAML-lel és SASS-szel kombináljuk (ez utóbbi mondjuk épp nem akar menni, de majd fog), legalább egy közeljövőbeli projekt pl.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Szóval már live az új céges e-mail rendszer, Linux-Postfix-Courier-Maildir-Ruby alapokon, merthogy az emailjeinket in-house fejlesztett Rubys progi rendezgeti mindenféle általunk kitalált kritériák alapján a megfelelő mappába, ebből ha minden jól megy, lesz előbb utóbb rendes daemon is, meg még sok egyéb nyalánkság, majd írok erről valószínű részletesebben is.</p>
 
 <p>A másik dolog, ami viszont iszonyat menő az a <a href="http://www.sinatrarb.com/">Sinatra</a>. Semmi sallang, a világ legminimalistább REST frameworkje,  hihetetlenül tökéletes mindenféle utiloknak webes frontendet adni, főleg ha <a href="http://www.google.hu/url?sa=t&amp;source=web&amp;ct=res&amp;cd=1&amp;url=http%3A%2F%2Fhaml.hamptoncatlin.com%2F&amp;ei=2f4SSuKvK5Ofsga9qemEDg&amp;usg=AFQjCNFNaMHSao_Y_Gp7FH_HBj2d5XIALg&amp;sig2=UR253dc3_ZDc8DJPaEK6zg">HAML-lel és SASS-szel</a> kombináljuk (ez utóbbi mondjuk épp nem akar menni, de majd fog), legalább egy közeljövőbeli projekt pl. tuti erre épül majd.</p>
 
 <footer>
-    <a title="Permanent link to “Ruby, Sinatra és egyebek”" href="https://blog.ktamas.com/index.php/2009/05/19/ruby_sinatra_es_egyebek/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Ruby, Sinatra és egyebek”" href="https://ktamas.github.io/index.php/2009/05/19/ruby_sinatra_es_egyebek/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/mail/">mail</a></li>
-                <li><a href="https://blog.ktamas.com/tags/ruby/">ruby</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sinatra/">sinatra</a></li>
+                <li><a href="https://ktamas.github.io/tags/mail/">mail</a></li>
+                <li><a href="https://ktamas.github.io/tags/ruby/">ruby</a></li>
+                <li><a href="https://ktamas.github.io/tags/sinatra/">sinatra</a></li>
             </ul>
         </div>
 </footer>]]></content>

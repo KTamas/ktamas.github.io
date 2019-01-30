@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
-	<id>https://blog.ktamas.com/tags/bor/</id>
+	<id>https://ktamas.github.io/tags/bor/</id>
 	<title>bor on KTamas&#39; blog</title>
 	<subtitle>An ongoing list of KTamas' blog posts about bor</subtitle>
 	<updated>2013-08-09T10:35:50Z</updated>
-	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/bor/feed.xml"/>
-	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/bor/"/>
-	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/bor/feed.json"/>
+	<link rel="self" type="application/atom+xml" href="https://ktamas.github.io/tags/bor/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/bor/"/>
+	<link rel="alternate" type="application/json" href="https://ktamas.github.io/tags/bor/feed.json"/>
 	<author>
 		<name>KTamas</name>
-		<uri>https://blog.ktamas.com/</uri>
+		<uri>https://ktamas.github.io/</uri>
 	</author>
 	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
-	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
+	<icon>"https://ktamas.github.io/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2013/08/09/a-borokrol/</id>
+		<id>https://ktamas.github.io/index.php/2013/08/09/a-borokrol/</id>
 		<title>A borokról</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/08/09/a-borokrol/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/08/09/a-borokrol/"/>
 		<updated>2013-08-09T10:35:50Z</updated>
 		<published>2013-08-09T10:35:50Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="bor" label="bor"/>
-		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://ktamas.github.io/tags" term="bor" label="bor"/>
+		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
 		<summary>Az alkohollal mindig is bonyolult kapcsolatom volt. 18 éves koromig leginkább semmilyen, már ha leszámítjuk, hogy először a svédcsepp, aztán meg az Unikum mindig is univerzális (és működő!) gyomorgyógyszerként funkcionált a családban, dehát ugye az évente úgy maximum kétszer kell. Ebből (is) kifolyólag mindig van egy üveg belőle a mélyhűtőben.
 Aztán persze szépen lassan megbarátkoztam először a röviditalokkal, majd tavaly a borral is, a sörrel még nem sikerült, bár újabban kicsit aktívabban próbálkozok.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Az alkohollal mindig is bonyolult kapcsolatom volt. 18 éves koromig leginkább semmilyen, már ha leszámítjuk, hogy először a svédcsepp, aztán meg az Unikum mindig is univerzális (és működő!) gyomorgyógyszerként funkcionált a családban, dehát ugye az évente úgy maximum kétszer kell. Ebből (is) kifolyólag mindig van egy üveg belőle a mélyhűtőben.</p>
 
 <p>Aztán persze szépen lassan megbarátkoztam először a röviditalokkal, majd tavaly a borral is, a sörrel még nem sikerült, bár újabban kicsit aktívabban próbálkozok. Nem sűrűn iszok egyébként, és akkor se sokat: az egyik legfőbb ok az, hogy gyűlölök másnapos lenni.</p>
@@ -49,14 +49,14 @@ Aztán persze szépen lassan megbarátkoztam először a röviditalokkal, majd t
 <p>A legolcsóbb a 69 SEK-be kerülő ausztrál <a href="http://www.systembolaget.se/Sok-dryck/Dryck/?varuNr=6131">The Black Shiraz</a> (2012) volt: igazából nincs benne semmi különleges, sokkal könnyebb mint a Gumfields Pinot Noirja, meg persze érezni is rajta, hogy majd&#8217; feleannyiba kerül: ugyanakkor árkategóriájából maximálisan kihozza, amit lehet, nagyon kellemes, szerintem fogok még venni.</p>
 
 <footer>
-    <a title="Permanent link to “A borokról”" href="https://blog.ktamas.com/index.php/2013/08/09/a-borokrol/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “A borokról”" href="https://ktamas.github.io/index.php/2013/08/09/a-borokrol/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/bor/">bor</a></li>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://ktamas.github.io/tags/bor/">bor</a></li>
+                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
             </ul>
         </div>
 </footer>]]></content>

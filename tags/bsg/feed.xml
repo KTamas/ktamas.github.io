@@ -1,64 +1,64 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
-	<id>https://blog.ktamas.com/tags/bsg/</id>
+	<id>https://ktamas.github.io/tags/bsg/</id>
 	<title>bsg on KTamas&#39; blog</title>
 	<subtitle>An ongoing list of KTamas' blog posts about bsg</subtitle>
 	<updated>2009-03-24T10:00:39Z</updated>
-	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/bsg/feed.xml"/>
-	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/bsg/"/>
-	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/bsg/feed.json"/>
+	<link rel="self" type="application/atom+xml" href="https://ktamas.github.io/tags/bsg/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/bsg/"/>
+	<link rel="alternate" type="application/json" href="https://ktamas.github.io/tags/bsg/feed.json"/>
 	<author>
 		<name>KTamas</name>
-		<uri>https://blog.ktamas.com/</uri>
+		<uri>https://ktamas.github.io/</uri>
 	</author>
 	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
-	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
+	<icon>"https://ktamas.github.io/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2009/03/24/a_battlestar_galactica_a_vilag_legjobb_sci_fi_sorozata/</id>
+		<id>https://ktamas.github.io/index.php/2009/03/24/a_battlestar_galactica_a_vilag_legjobb_sci_fi_sorozata/</id>
 		<title>A Battlestar Galactica a vilag legjobb Sci-Fi sorozata</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/03/24/a_battlestar_galactica_a_vilag_legjobb_sci_fi_sorozata/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/03/24/a_battlestar_galactica_a_vilag_legjobb_sci_fi_sorozata/"/>
 		<updated>2009-03-24T10:00:39Z</updated>
 		<published>2009-03-24T10:00:39Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="bsg" label="bsg"/>
-		<category scheme="https://blog.ktamas.com/tags" term="sorozat" label="sorozat"/>
+		<category scheme="https://ktamas.github.io/tags" term="bsg" label="bsg"/>
+		<category scheme="https://ktamas.github.io/tags" term="sorozat" label="sorozat"/>
 		<summary>Ennyi.
 Es Ron Moore nevet aranyba foglaljuk, ketszer.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Ennyi.</p>
 
 <p>Es Ron Moore nevet aranyba foglaljuk, ketszer.</p>
 
 <footer>
-    <a title="Permanent link to “A Battlestar Galactica a vilag legjobb Sci-Fi sorozata”" href="https://blog.ktamas.com/index.php/2009/03/24/a_battlestar_galactica_a_vilag_legjobb_sci_fi_sorozata/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “A Battlestar Galactica a vilag legjobb Sci-Fi sorozata”" href="https://ktamas.github.io/index.php/2009/03/24/a_battlestar_galactica_a_vilag_legjobb_sci_fi_sorozata/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/bsg/">bsg</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sorozat/">sorozat</a></li>
+                <li><a href="https://ktamas.github.io/tags/bsg/">bsg</a></li>
+                <li><a href="https://ktamas.github.io/tags/sorozat/">sorozat</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2009/01/17/bsg_4x11/</id>
+		<id>https://ktamas.github.io/index.php/2009/01/17/bsg_4x11/</id>
 		<title>BSG 4&amp;#215;11</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/01/17/bsg_4x11/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/01/17/bsg_4x11/"/>
 		<updated>2009-01-17T22:39:31Z</updated>
 		<published>2009-01-17T22:39:31Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="bsg" label="bsg"/>
-		<category scheme="https://blog.ktamas.com/tags" term="sorozat" label="sorozat"/>
+		<category scheme="https://ktamas.github.io/tags" term="bsg" label="bsg"/>
+		<category scheme="https://ktamas.github.io/tags" term="sorozat" label="sorozat"/>
 		<summary><p>Szóval minimum dupla állkoppanás volt a várva várt rész a BSGből, hihetetlen durva amit Ron Moore összehozott, ilyen király sorozatrészt ritkán lát az ember. A tovább után spoileresen…</p></summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Szóval minimum dupla állkoppanás volt a várva várt rész a BSGből, hihetetlen durva amit Ron Moore összehozott, ilyen király sorozatrészt ritkán lát az ember. A tovább után spoileresen&#8230;</p>
 
 <p>Jó, tulajdonképp három koppanás, de a harmadik nekem valahogy nem koppant akkorát (Starbuck &#8220;megtalálja magát&#8221;), bár ütős volt az tény, kiváncsi vagyok mi lesz ebből, mert hogy nem cylon ő, mert megvan mind a tizenkettő? De akkor mi ő? Vagy mégtöbb cylon model van?</p>
@@ -69,13 +69,13 @@ Es Ron Moore nevet aranyba foglaljuk, ketszer.</summary>
 
 <p>Szóval nagyon ott volt ez a rész a szeren, mi lesz itt a következő kilencben?&#8230;</p>
 <footer>
-    <a title="Permanent link to “BSG 4&amp;#215;11”" href="https://blog.ktamas.com/index.php/2009/01/17/bsg_4x11/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “BSG 4&amp;#215;11”" href="https://ktamas.github.io/index.php/2009/01/17/bsg_4x11/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/bsg/">bsg</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sorozat/">sorozat</a></li>
+                <li><a href="https://ktamas.github.io/tags/bsg/">bsg</a></li>
+                <li><a href="https://ktamas.github.io/tags/sorozat/">sorozat</a></li>
             </ul>
         </div>
 </footer>]]></content>

@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
-	<id>https://blog.ktamas.com/tags/balkan/</id>
+	<id>https://ktamas.github.io/tags/balkan/</id>
 	<title>balkan on KTamas&#39; blog</title>
 	<subtitle>An ongoing list of KTamas' blog posts about balkan</subtitle>
 	<updated>2009-12-16T19:58:02Z</updated>
-	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/balkan/feed.xml"/>
-	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/balkan/"/>
-	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/balkan/feed.json"/>
+	<link rel="self" type="application/atom+xml" href="https://ktamas.github.io/tags/balkan/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/balkan/"/>
+	<link rel="alternate" type="application/json" href="https://ktamas.github.io/tags/balkan/feed.json"/>
 	<author>
 		<name>KTamas</name>
-		<uri>https://blog.ktamas.com/</uri>
+		<uri>https://ktamas.github.io/</uri>
 	</author>
 	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
-	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
+	<icon>"https://ktamas.github.io/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2009/12/16/europa_csak_a_hatarig_mukodik_onnantol_balkan_van/</id>
+		<id>https://ktamas.github.io/index.php/2009/12/16/europa_csak_a_hatarig_mukodik_onnantol_balkan_van/</id>
 		<title>Európa csak a határig működik, onnantól balkán van</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/12/16/europa_csak_a_hatarig_mukodik_onnantol_balkan_van/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/12/16/europa_csak_a_hatarig_mukodik_onnantol_balkan_van/"/>
 		<updated>2009-12-16T19:58:02Z</updated>
 		<published>2009-12-16T19:58:02Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="agymenes" label="agymenes"/>
-		<category scheme="https://blog.ktamas.com/tags" term="balkan" label="balkan"/>
+		<category scheme="https://ktamas.github.io/tags" term="agymenes" label="agymenes"/>
+		<category scheme="https://ktamas.github.io/tags" term="balkan" label="balkan"/>
 		<summary>Az ember meglátja a gépet ebayen. Persze UK-only shipping, de ír a cégnek, hogy nem lennének-e olyan rendesek, hogy mégiscsak elszállítják Magyarországra. Dehogynem, mondják, így a termék hétfő délelőtt lecsapva, egy óra múlva már jön is a módosított számla magyarországi szállítással (17.25 helyett 40 angol font), limitmódosítás után fizetés paypallel. A csomagot délután elszállítja a TNT a cég raktárából, este már London mellett van egy raktárban, hajnalban már Belgiumban, reggel negyed tízkor Budapesten.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Az ember meglátja <a href="http://cgi.ebay.co.uk/ws/eBayISAPI.dll?ViewItem&amp;item=330383696446">a gépet ebayen</a>. Persze UK-only shipping, de ír a cégnek, hogy nem lennének-e olyan rendesek, hogy mégiscsak elszállítják Magyarországra. Dehogynem, mondják, így a termék hétfő délelőtt lecsapva, egy óra múlva már jön is a módosított számla magyarországi szállítással (17.25 helyett 40 angol font), limitmódosítás után fizetés paypallel. A csomagot délután elszállítja a TNT a cég raktárából, este már London mellett van egy raktárban, hajnalban már Belgiumban, reggel negyed tízkor Budapesten. Egy gyors telefonhívás, hogy ne már otthonra szállítsák akkor, hanem a munkahelyre.</p>
 
 <p>Az online tracking szerint délután 1-kor elindult a futár és&#8230; semmi. 4 óra&#8230; 5 óra&#8230; telefon, hogy hol van, &#8220;jaj mindjárt jön&#8221;. Semmi&#8230; újabb telefon fél hatkor, hogy ugyanmár. Mint az kiderült:</p>
@@ -44,13 +44,13 @@
 <p>(függöny)</p>
 
 <footer>
-    <a title="Permanent link to “Európa csak a határig működik, onnantól balkán van”" href="https://blog.ktamas.com/index.php/2009/12/16/europa_csak_a_hatarig_mukodik_onnantol_balkan_van/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Európa csak a határig működik, onnantól balkán van”" href="https://ktamas.github.io/index.php/2009/12/16/europa_csak_a_hatarig_mukodik_onnantol_balkan_van/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/agymenes/">agymenes</a></li>
-                <li><a href="https://blog.ktamas.com/tags/balkan/">balkan</a></li>
+                <li><a href="https://ktamas.github.io/tags/agymenes/">agymenes</a></li>
+                <li><a href="https://ktamas.github.io/tags/balkan/">balkan</a></li>
             </ul>
         </div>
 </footer>]]></content>

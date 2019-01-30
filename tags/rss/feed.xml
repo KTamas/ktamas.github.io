@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
-	<id>https://blog.ktamas.com/tags/rss/</id>
+	<id>https://ktamas.github.io/tags/rss/</id>
 	<title>rss on KTamas&#39; blog</title>
 	<subtitle>An ongoing list of KTamas' blog posts about rss</subtitle>
 	<updated>2013-04-03T13:39:18Z</updated>
-	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/rss/feed.xml"/>
-	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/rss/"/>
-	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/rss/feed.json"/>
+	<link rel="self" type="application/atom+xml" href="https://ktamas.github.io/tags/rss/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/rss/"/>
+	<link rel="alternate" type="application/json" href="https://ktamas.github.io/tags/rss/feed.json"/>
 	<author>
 		<name>KTamas</name>
-		<uri>https://blog.ktamas.com/</uri>
+		<uri>https://ktamas.github.io/</uri>
 	</author>
 	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
-	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
+	<icon>"https://ktamas.github.io/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2013/04/03/state-of-the-rss-olvasok-megosztasok-sharewood/</id>
+		<id>https://ktamas.github.io/index.php/2013/04/03/state-of-the-rss-olvasok-megosztasok-sharewood/</id>
 		<title>State of the RSS (olvasók, megosztások, sharewood)</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/04/03/state-of-the-rss-olvasok-megosztasok-sharewood/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/04/03/state-of-the-rss-olvasok-megosztasok-sharewood/"/>
 		<updated>2013-04-03T13:39:18Z</updated>
 		<published>2013-04-03T13:39:18Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="megoszt%C3%A1sok" label="megosztások"/>
-		<category scheme="https://blog.ktamas.com/tags" term="rss" label="rss"/>
-		<category scheme="https://blog.ktamas.com/tags" term="sharewood" label="sharewood"/>
+		<category scheme="https://ktamas.github.io/tags" term="megoszt%C3%A1sok" label="megosztások"/>
+		<category scheme="https://ktamas.github.io/tags" term="rss" label="rss"/>
+		<category scheme="https://ktamas.github.io/tags" term="sharewood" label="sharewood"/>
 		<summary>Elsirattam a megosztásokat, megcsináltam a Sharewoodot, most meg bezárják a Readert.
 Persze, van még időnk, de már most menkülnek az emberek. A Feedly — ami még a Reader rendszerét használja backendnek, de esküsznek rá, hogy lesz sajátjuk a bezárás után — nemrég 3 milló felhasználóval büszkélkedett, népszerű versenyző a The Old Reader is, ami kifejezetten és bevallottam a ‘régi’, még megosztásokat tartalmazó Readert másolja, és hirtelen megtízszerezte a fizető felhasználói számát a NewsBlur.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p><a href="http://blog.ktamas.com/index.php/2011/11/01/nem-oszthatom-meg-senkivel-megosztom-hat-mindenkivel-1031-never-forget/">Elsirattam a megosztásokat</a>, <a href="http://blog.ktamas.com/index.php/2012/01/30/sharewood-hu-kontentmegosztas-harmadik-resz/">megcsináltam a Sharewoodot</a>, most meg <a href="http://googlereader.blogspot.se/2013/03/powering-down-google-reader.html">bezárják a Readert</a>.</p>
 
 <p>Persze, van még időnk, de már most menkülnek az emberek. A <a href="http://www.feedly.com">Feedly</a> &#8212; ami még a Reader rendszerét használja backendnek, de esküsznek rá, hogy lesz sajátjuk a bezárás után &#8212; nemrég <a href="http://www.eweek.com/mobile/feedly-welcomes-3-million-google-reader-defectors/">3 milló felhasználóval büszkélkedett</a>, népszerű versenyző a <a href="http://www.theoldreader.com/">The Old Reader</a> is, ami kifejezetten és bevallottam a &#8216;régi&#8217;, még megosztásokat tartalmazó Readert másolja, és hirtelen megtízszerezte a fizető felhasználói számát a <a href="http://newsblur.com">NewsBlur</a>. Mások <a href="http://blog.digg.com/post/45355701332/were-building-a-reader">új olvasókat készítenek</a>, például az az (<a href="http://gigaom.com/2012/08/01/so-the-new-digg-has-relaunched-now-comes-the-hard-part/">új</a>) <a href="http://digg.com/">Digg</a>.</p>
@@ -45,14 +45,14 @@ Persze, van még időnk, de már most menkülnek az emberek. A Feedly — ami m�
 <p>Itt tartunk most. Ami biztos, hogy az RSS (számomra) tovább él, és élni fog, ahogy a megosztás is, szerves részévé vált az olvasási folyamatnak, nem nem tudom elképzelni nélküle a napi feedolvasást. Világmeghódító terveim között szerepel, hogy esetleg majd elindítok egy magyar kottkét. Talán, egyszer. Addig pedig marad a NewsBlur, és a <a href="http://ktamas.newsblur.com/">BlurBlogom, ahova osztom a dolgokat</a> mostantól a Posterous helyett.</p>
 
 <footer>
-    <a title="Permanent link to “State of the RSS (olvasók, megosztások, sharewood)”" href="https://blog.ktamas.com/index.php/2013/04/03/state-of-the-rss-olvasok-megosztasok-sharewood/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “State of the RSS (olvasók, megosztások, sharewood)”" href="https://ktamas.github.io/index.php/2013/04/03/state-of-the-rss-olvasok-megosztasok-sharewood/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/megoszt%C3%A1sok/">megosztások</a></li>
-                <li><a href="https://blog.ktamas.com/tags/rss/">rss</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sharewood/">sharewood</a></li>
+                <li><a href="https://ktamas.github.io/tags/megoszt%C3%A1sok/">megosztások</a></li>
+                <li><a href="https://ktamas.github.io/tags/rss/">rss</a></li>
+                <li><a href="https://ktamas.github.io/tags/sharewood/">sharewood</a></li>
             </ul>
         </div>
 </footer>]]></content>

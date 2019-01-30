@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
-	<id>https://blog.ktamas.com/tags/imap/</id>
+	<id>https://ktamas.github.io/tags/imap/</id>
 	<title>imap on KTamas&#39; blog</title>
 	<subtitle>An ongoing list of KTamas' blog posts about imap</subtitle>
 	<updated>2009-05-24T12:16:24Z</updated>
-	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/imap/feed.xml"/>
-	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/imap/"/>
-	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/imap/feed.json"/>
+	<link rel="self" type="application/atom+xml" href="https://ktamas.github.io/tags/imap/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/imap/"/>
+	<link rel="alternate" type="application/json" href="https://ktamas.github.io/tags/imap/feed.json"/>
 	<author>
 		<name>KTamas</name>
-		<uri>https://blog.ktamas.com/</uri>
+		<uri>https://ktamas.github.io/</uri>
 	</author>
 	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
-	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
+	<icon>"https://ktamas.github.io/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2009/05/24/imap_is_a_ghetto/</id>
+		<id>https://ktamas.github.io/index.php/2009/05/24/imap_is_a_ghetto/</id>
 		<title>IMAP is a ghetto</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/05/24/imap_is_a_ghetto/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/05/24/imap_is_a_ghetto/"/>
 		<updated>2009-05-24T12:16:24Z</updated>
 		<published>2009-05-24T12:16:24Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="imap" label="imap"/>
-		<category scheme="https://blog.ktamas.com/tags" term="linux" label="linux"/>
-		<category scheme="https://blog.ktamas.com/tags" term="mail" label="mail"/>
+		<category scheme="https://ktamas.github.io/tags" term="imap" label="imap"/>
+		<category scheme="https://ktamas.github.io/tags" term="linux" label="linux"/>
+		<category scheme="https://ktamas.github.io/tags" term="mail" label="mail"/>
 		<summary>Az van, hogy van ez az IMAP, ami jó. Szerveren tárolhatsz mindent, megosztott mappák, satöbbi, olyan, mint az Exchange, csak jobb. Lenne. Viszont.
 一 Az Outlook egy fos, mint aztmár egy előző blogpostomban is fejtegettem. Sok shared mappa esetén a Send &amp; Receive kb. egy percig tart, ami idő alatt az Outlook még mai gépeken is majd’ használhatatlanul lassú lesz. Ezenfelül egy aranyos, kb. 6 éve ismert bug miatt ha az ember leiratkozik olyan mappákról, amiben olvasatlan levelek vannak, akkor az outlook figyelmen kívül hagyva minden beállítást, azonnal kiküld egy rakat “Not Read:” értesítést minden üzenetre, amire read receipt lett kérve.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Az van, hogy van ez az IMAP, ami jó. Szerveren tárolhatsz mindent, megosztott mappák, satöbbi, olyan, mint az Exchange, csak jobb. Lenne. Viszont.</p>
 
 <p>一 Az Outlook egy fos, mint aztmár egy <a href="http://ktamas.blog.hu/2009/05/17/die_outlook_die">előző blogpostomban</a> is fejtegettem. Sok shared mappa esetén a Send &amp; Receive kb. egy percig tart, ami idő alatt az Outlook még mai gépeken is majd&#8217; használhatatlanul lassú lesz. Ezenfelül egy aranyos, kb. 6 éve ismert bug miatt ha az ember leiratkozik olyan mappákról, amiben olvasatlan levelek vannak, akkor az outlook figyelmen kívül hagyva minden beállítást, azonnal kiküld egy rakat &#8220;Not Read:&#8221; értesítést minden üzenetre, amire read receipt lett kérve.</p>
@@ -49,14 +49,14 @@
 <p>Gyanakszom, hogy esetleg valami szerveroldali hiba, de már háromszor végignéztem a Courier beállításait, és sehol se láttam semmit ami bekavarhatna&#8230;</p>
 
 <footer>
-    <a title="Permanent link to “IMAP is a ghetto”" href="https://blog.ktamas.com/index.php/2009/05/24/imap_is_a_ghetto/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “IMAP is a ghetto”" href="https://ktamas.github.io/index.php/2009/05/24/imap_is_a_ghetto/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/imap/">imap</a></li>
-                <li><a href="https://blog.ktamas.com/tags/linux/">linux</a></li>
-                <li><a href="https://blog.ktamas.com/tags/mail/">mail</a></li>
+                <li><a href="https://ktamas.github.io/tags/imap/">imap</a></li>
+                <li><a href="https://ktamas.github.io/tags/linux/">linux</a></li>
+                <li><a href="https://ktamas.github.io/tags/mail/">mail</a></li>
             </ul>
         </div>
 </footer>]]></content>

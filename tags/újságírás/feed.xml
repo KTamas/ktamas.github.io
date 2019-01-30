@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
-	<id>https://blog.ktamas.com/tags/%C3%BAjs%C3%A1g%C3%ADr%C3%A1s/</id>
+	<id>https://ktamas.github.io/tags/%C3%BAjs%C3%A1g%C3%ADr%C3%A1s/</id>
 	<title>újságírás on KTamas&#39; blog</title>
 	<subtitle>An ongoing list of KTamas' blog posts about újságírás</subtitle>
 	<updated>2009-04-14T16:15:43Z</updated>
-	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/%C3%BAjs%C3%A1g%C3%ADr%C3%A1s/feed.xml"/>
-	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/%C3%BAjs%C3%A1g%C3%ADr%C3%A1s/"/>
-	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/%C3%BAjs%C3%A1g%C3%ADr%C3%A1s/feed.json"/>
+	<link rel="self" type="application/atom+xml" href="https://ktamas.github.io/tags/%C3%BAjs%C3%A1g%C3%ADr%C3%A1s/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/%C3%BAjs%C3%A1g%C3%ADr%C3%A1s/"/>
+	<link rel="alternate" type="application/json" href="https://ktamas.github.io/tags/%C3%BAjs%C3%A1g%C3%ADr%C3%A1s/feed.json"/>
 	<author>
 		<name>KTamas</name>
-		<uri>https://blog.ktamas.com/</uri>
+		<uri>https://ktamas.github.io/</uri>
 	</author>
 	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
-	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
+	<icon>"https://ktamas.github.io/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2009/04/14/az_artisjus_az_usb_portokat_is_matricazza/</id>
+		<id>https://ktamas.github.io/index.php/2009/04/14/az_artisjus_az_usb_portokat_is_matricazza/</id>
 		<title>Az Artisjus az USB-portokat is matricázza</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/04/14/az_artisjus_az_usb_portokat_is_matricazza/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/04/14/az_artisjus_az_usb_portokat_is_matricazza/"/>
 		<updated>2009-04-14T16:15:43Z</updated>
 		<published>2009-04-14T16:15:43Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
-		<category scheme="https://blog.ktamas.com/tags" term="nocomment" label="nocomment"/>
-		<category scheme="https://blog.ktamas.com/tags" term="%C3%BAjs%C3%A1g%C3%ADr%C3%A1s" label="újságírás"/>
+		<category scheme="https://ktamas.github.io/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
+		<category scheme="https://ktamas.github.io/tags" term="nocomment" label="nocomment"/>
+		<category scheme="https://ktamas.github.io/tags" term="%C3%BAjs%C3%A1g%C3%ADr%C3%A1s" label="újságírás"/>
 		<summary>Drágulnak az üres adathordozók, így például az USB-portok és a pendrive-ok április 15-től, illetve azok a mobiltelefonok, amelyek kapacitása meghaladja a 64 megabitet, eddig az időpontig kell ugyanis a kereskedőknek hologramos címkével ellátni ezeket az eszközöket. […] Az Artisjus honlapján részletesen ismertetett adatok[1] szerint a pendrive-ok díja egy gigabitig nettó 100 forint, ám egy 32 gigabitesé már eléri a 2400 forintot.  Az MTI újra bebizonyította, hogy mindig van lejjebb.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<blockquote>
 <p id="kopf">
   Drágulnak az üres adathordozók, így például az USB-portok és a pendrive-ok április 15-től, illetve azok a mobiltelefonok, amelyek kapacitása meghaladja a 64 megabitet, eddig az időpontig kell ugyanis a kereskedőknek hologramos címkével ellátni ezeket az eszközöket. [&#8230;] Az Artisjus honlapján részletesen <a href="http://www.artisjus.hu/felhasznaloknak/ures_hang_es_kephordozok_dija.html">ismertetett adatok<span class="print_anchor"> [1]</span></a> szerint a pendrive-ok díja egy gigabitig nettó 100 forint, ám egy 32 gigabitesé már eléri a 2400 forintot.
@@ -64,32 +64,32 @@
 </div>
 
 <footer>
-    <a title="Permanent link to “Az Artisjus az USB-portokat is matricázza”" href="https://blog.ktamas.com/index.php/2009/04/14/az_artisjus_az_usb_portokat_is_matricazza/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Az Artisjus az USB-portokat is matricázza”" href="https://ktamas.github.io/index.php/2009/04/14/az_artisjus_az_usb_portokat_is_matricazza/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
-                <li><a href="https://blog.ktamas.com/tags/nocomment/">nocomment</a></li>
-                <li><a href="https://blog.ktamas.com/tags/%C3%BAjs%C3%A1g%C3%ADr%C3%A1s/">újságírás</a></li>
+                <li><a href="https://ktamas.github.io/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
+                <li><a href="https://ktamas.github.io/tags/nocomment/">nocomment</a></li>
+                <li><a href="https://ktamas.github.io/tags/%C3%BAjs%C3%A1g%C3%ADr%C3%A1s/">újságírás</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2009/02/26/crazy_euro_car_boy/</id>
+		<id>https://ktamas.github.io/index.php/2009/02/26/crazy_euro_car_boy/</id>
 		<title>Crazy Euro Car Boy</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/02/26/crazy_euro_car_boy/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/02/26/crazy_euro_car_boy/"/>
 		<updated>2009-02-26T09:58:05Z</updated>
 		<published>2009-02-26T09:58:05Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="%C3%BAjs%C3%A1g%C3%ADr%C3%A1s" label="újságírás"/>
+		<category scheme="https://ktamas.github.io/tags" term="%C3%BAjs%C3%A1g%C3%ADr%C3%A1s" label="újságírás"/>
 		<summary>All Alfas should be driven in anger. This one? No different. The range on the tach beginning at 5,000 rpm? Every time you drop below that, God kills a bunny.
  Orosz Péter, akit a legtöbben valszeg még anno a Belsőség blogról ismerhetnek, a Hyperleggera blogja után (mellett?) most nem kisebbnek, mint a Gawker-féle Jalopniknak kezdett el írni. Tökmindegy, hogy autóbuzi-e vagy, ezt olvasni kell.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<blockquote>
 <p><a href="http://jalopnik.com/tag/alfa-mito-gta/?id=5159838" target="_blank">All Alfas should be driven in anger. This one? No different. The range on the tach beginning at 5,000 rpm? Every time you drop below that, God kills a bunny.</a></p>
 </blockquote>
@@ -97,12 +97,12 @@
 <p>Orosz Péter, akit a legtöbben valszeg még anno a <a href="http://belsoseg.blog.hu/" target="_blank">Belsőség</a> blogról ismerhetnek, a <a href="http://hyperleggera.com/" target="_blank">Hyperleggera</a> blogja után (mellett?) most nem kisebbnek, mint a <a href="http://gawker.com/">Gawker</a>-féle <a href="http://jalopnik.com/">Jalopnik</a>nak kezdett el írni. Tökmindegy, hogy autóbuzi-e vagy, ezt olvasni <em>kell</em>.</p>
 
 <footer>
-    <a title="Permanent link to “Crazy Euro Car Boy”" href="https://blog.ktamas.com/index.php/2009/02/26/crazy_euro_car_boy/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Crazy Euro Car Boy”" href="https://ktamas.github.io/index.php/2009/02/26/crazy_euro_car_boy/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%BAjs%C3%A1g%C3%ADr%C3%A1s/">újságírás</a></li>
+                <li><a href="https://ktamas.github.io/tags/%C3%BAjs%C3%A1g%C3%ADr%C3%A1s/">újságírás</a></li>
             </ul>
         </div>
 </footer>]]></content>

@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
-	<id>https://blog.ktamas.com/tags/doctorwho/</id>
+	<id>https://ktamas.github.io/tags/doctorwho/</id>
 	<title>doctorwho on KTamas&#39; blog</title>
 	<subtitle>An ongoing list of KTamas' blog posts about doctorwho</subtitle>
 	<updated>2011-05-13T09:46:01Z</updated>
-	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/doctorwho/feed.xml"/>
-	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/doctorwho/"/>
-	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/doctorwho/feed.json"/>
+	<link rel="self" type="application/atom+xml" href="https://ktamas.github.io/tags/doctorwho/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/doctorwho/"/>
+	<link rel="alternate" type="application/json" href="https://ktamas.github.io/tags/doctorwho/feed.json"/>
 	<author>
 		<name>KTamas</name>
-		<uri>https://blog.ktamas.com/</uri>
+		<uri>https://ktamas.github.io/</uri>
 	</author>
 	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
-	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
+	<icon>"https://ktamas.github.io/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2011/05/13/doctor-who-redux/</id>
+		<id>https://ktamas.github.io/index.php/2011/05/13/doctor-who-redux/</id>
 		<title>Doctor Who: Redux</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2011/05/13/doctor-who-redux/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2011/05/13/doctor-who-redux/"/>
 		<updated>2011-05-13T09:46:01Z</updated>
 		<published>2011-05-13T09:46:01Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
-		<category scheme="https://blog.ktamas.com/tags" term="doctorwho" label="doctorwho"/>
+		<category scheme="https://ktamas.github.io/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
+		<category scheme="https://ktamas.github.io/tags" term="doctorwho" label="doctorwho"/>
 		<summary>Egyre inkabb ket taborra szakad a Doctor Who nezokozonsege, a legutolso resz nekem speciel kicsit jobban tetszett, mint a lenti cikk irojanak, de osszessegeben egyetertek:
  It’s worth restating here just how significant TiA/TDotM have been. In two episodes, Stephen Moffat gave the show the biggest kick up the arse it’s had since 2005. It’s arguably even bigger. What I was left with was a very different view of what I want Doctor Who to be, and I was thinking radically.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Egyre inkabb ket taborra szakad a Doctor Who nezokozonsege, a legutolso resz nekem speciel kicsit jobban tetszett, mint a lenti cikk irojanak, de osszessegeben egyetertek:</p>
 
 <blockquote>
@@ -38,33 +38,33 @@
 </blockquote>
 
 <footer>
-    <a title="Permanent link to “Doctor Who: Redux”" href="https://blog.ktamas.com/index.php/2011/05/13/doctor-who-redux/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Doctor Who: Redux”" href="https://ktamas.github.io/index.php/2011/05/13/doctor-who-redux/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
-                <li><a href="https://blog.ktamas.com/tags/doctorwho/">doctorwho</a></li>
+                <li><a href="https://ktamas.github.io/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
+                <li><a href="https://ktamas.github.io/tags/doctorwho/">doctorwho</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2010/12/26/fanboysag/</id>
+		<id>https://ktamas.github.io/index.php/2010/12/26/fanboysag/</id>
 		<title>Doctor Who</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2010/12/26/fanboysag/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2010/12/26/fanboysag/"/>
 		<updated>2010-12-26T16:44:03Z</updated>
 		<published>2010-12-26T16:44:03Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
-		<category scheme="https://blog.ktamas.com/tags" term="doctorwho" label="doctorwho"/>
-		<category scheme="https://blog.ktamas.com/tags" term="sorozat" label="sorozat"/>
+		<category scheme="https://ktamas.github.io/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
+		<category scheme="https://ktamas.github.io/tags" term="doctorwho" label="doctorwho"/>
+		<category scheme="https://ktamas.github.io/tags" term="sorozat" label="sorozat"/>
 		<summary>A Doctor Whoban az az érdekes dolog, hogy mindenkinek sokszor mereven más a véleménye róla, ez ki is jött madélután a twitteren, emiatt jutott eszembe, h még nem írtam le az enyémet, pedig meg akartam tenni anno, mikor befejeztem a sorozat első négy évadját.
 Utazzunk is vissza az időben cca másfél évet, mikor felfigyelve, hogy több barátom is lelkes Doctor Who rajongó, úgy gondoltam, bepróbálom, leszedtem az első rész, és megnéztem.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>A Doctor Whoban az az érdekes dolog, hogy mindenkinek sokszor mereven más a véleménye róla, ez ki is jött madélután a twitteren, emiatt jutott eszembe, h még nem írtam le az enyémet, pedig meg akartam tenni anno, mikor befejeztem a sorozat első négy évadját.</p>
 
 <p>Utazzunk is vissza az időben cca másfél évet, mikor felfigyelve, hogy több barátom is lelkes Doctor Who rajongó, úgy gondoltam, bepróbálom, leszedtem az első rész, és megnéztem. &#8220;Mi ez a gagyi izé és mit esz rajta ennyi ember?&#8221; &#8211; jegyeztem meg, majd ott is hagytam az egészet. Aztán eltelt egy év, és kijött a Waters of Mars c. negyedik évadbeli special amit valamiért leszedtem (még egy esélyt megérdemelt), és egészen jó volt, és akkor már jött a nagy évadzáró End of Time, ami szintén nem volt rossz (annak ellenére h kb semmit se értettem belőle, naaagy évadzáró, ugye) így leszedtem utána a második évadot (az elsővel rossz emlékeim voltak, de azt is pótoltam később).</p>
@@ -78,14 +78,14 @@ Utazzunk is vissza az időben cca másfél évet, mikor felfigyelve, hogy több 
 <p>És biztos kihagytam még egy rakat dolgot ami utólag fog csak eszembe jutni, de legfeljebb írok mégegy kört, vagy valami.</p>
 
 <footer>
-    <a title="Permanent link to “Doctor Who”" href="https://blog.ktamas.com/index.php/2010/12/26/fanboysag/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Doctor Who”" href="https://ktamas.github.io/index.php/2010/12/26/fanboysag/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
-                <li><a href="https://blog.ktamas.com/tags/doctorwho/">doctorwho</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sorozat/">sorozat</a></li>
+                <li><a href="https://ktamas.github.io/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
+                <li><a href="https://ktamas.github.io/tags/doctorwho/">doctorwho</a></li>
+                <li><a href="https://ktamas.github.io/tags/sorozat/">sorozat</a></li>
             </ul>
         </div>
 </footer>]]></content>

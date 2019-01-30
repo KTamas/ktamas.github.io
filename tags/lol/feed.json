@@ -2,27 +2,27 @@
 	"version": "https://jsonfeed.org/version/1",
 	"title": "lol on KTamas' blog",
 	"description": "An ongoing list of KTamas' blog posts about lol",
-	"home_page_url": "https://blog.ktamas.com/tags/lol/",
-	"feed_url": "https://blog.ktamas.com/tags/lol/feed.json",
-	"icon": "https://blog.ktamas.com/icon-512x512.png",
-	"favicon": "https://blog.ktamas.com/icon-64x64.png",
+	"home_page_url": "https://ktamas.github.io/tags/lol/",
+	"feed_url": "https://ktamas.github.io/tags/lol/feed.json",
+	"icon": "https://ktamas.github.io/icon-512x512.png",
+	"favicon": "https://ktamas.github.io/icon-64x64.png",
 	"author": {
 		"name": "KTamas",
-		"url": "https://blog.ktamas.com/"
+		"url": "https://ktamas.github.io/"
 	},
 	"items": [
 		{
-			"id": "https://blog.ktamas.com/index.php/2009/07/20/a_word_spellcheckere/",
-			"url": "https://blog.ktamas.com/index.php/2009/07/20/a_word_spellcheckere/",
+			"id": "https://ktamas.github.io/index.php/2009/07/20/a_word_spellcheckere/",
+			"url": "https://ktamas.github.io/index.php/2009/07/20/a_word_spellcheckere/",
 			"title": "A Word spellcheckere",
 			"date_published": "2009-07-20T09:30:03Z",
 			"author": {
 				"name": "KTamas",
-				"url": "https://blog.ktamas.com/"
+				"url": "https://ktamas.github.io/"
 			},
 			"tags": ["lol","random"],
-			"content_html": "\u003cp style=\"text-align: center;\"\u003e\n  \u003ca href=\"http://www.screencast.com/users/KTamas/folders/Jing/media/81159f35-482b-44fa-a3c0-d826f2d8eac4#\"\u003e\u003cimg src='http://ktamas.blog.hu/media/image/200907/2009-07-20_0924.png' alt='' /\u003e\u003c/a\u003e\n\u003c/p\u003e\n\n\u003cp style=\"text-align: center;\"\u003e\n  Ennyit ér. Oké, nyelvfüggő, vannak jobb meg rosszabb szótárak is. Ez épp a holland.\n\u003c/p\u003e\n\n\u003cfooter\u003e\n    \u003ca title=\"Permanent link to “A Word spellcheckere”\" href=\"https://blog.ktamas.com/index.php/2009/07/20/a_word_spellcheckere/\"\u003e\u0026nbsp;\u0026nbsp;\u003c/a\u003e\n    By KTamas for \u003ca href=\"https://blog.ktamas.com/\"\u003eKTamas\u0026#39; blog\u003c/a\u003e\n        \u003cdiv class=\"tags\"\u003e\n            \u003ch5\u003eMore about…\u003c/h5\u003e\n            \u003cul\u003e\n                \u003cli\u003e\u003ca href=\"https://blog.ktamas.com/tags/lol/\"\u003elol\u003c/a\u003e\u003c/li\u003e\n                \u003cli\u003e\u003ca href=\"https://blog.ktamas.com/tags/random/\"\u003erandom\u003c/a\u003e\u003c/li\u003e\n            \u003c/ul\u003e\n        \u003c/div\u003e\n\u003c/footer\u003e",
-			"content_text": "\u003cp style=\"text-align: center;\"\u003e\n  \u003ca href=\"http://www.screencast.com/users/KTamas/folders/Jing/media/81159f35-482b-44fa-a3c0-d826f2d8eac4#\"\u003e\u003cimg src='http://ktamas.blog.hu/media/image/200907/2009-07-20_0924.png' alt='' /\u003e\u003c/a\u003e\n\u003c/p\u003e\n\n\u003cp style=\"text-align: center;\"\u003e\n  Ennyit ér. Oké, nyelvfüggő, vannak jobb meg rosszabb szótárak is. Ez épp a holland.\n\u003c/p\u003e\n\n-------------------------------------------------------------------------------\n\n Monday, 20 Jul 2009\nBy KTamas\nhttps://blog.ktamas.com/index.php/2009/07/20/a_word_spellcheckere/\n\nMore about...\n\n* lol:    https://blog.ktamas.com/tags/lol/\n* random: https://blog.ktamas.com/tags/random/"
+			"content_html": "\u003cp style=\"text-align: center;\"\u003e\n  \u003ca href=\"http://www.screencast.com/users/KTamas/folders/Jing/media/81159f35-482b-44fa-a3c0-d826f2d8eac4#\"\u003e\u003cimg src='http://ktamas.blog.hu/media/image/200907/2009-07-20_0924.png' alt='' /\u003e\u003c/a\u003e\n\u003c/p\u003e\n\n\u003cp style=\"text-align: center;\"\u003e\n  Ennyit ér. Oké, nyelvfüggő, vannak jobb meg rosszabb szótárak is. Ez épp a holland.\n\u003c/p\u003e\n\n\u003cfooter\u003e\n    \u003ca title=\"Permanent link to “A Word spellcheckere”\" href=\"https://ktamas.github.io/index.php/2009/07/20/a_word_spellcheckere/\"\u003e\u0026nbsp;\u0026nbsp;\u003c/a\u003e\n    By KTamas for \u003ca href=\"https://ktamas.github.io/\"\u003eKTamas\u0026#39; blog\u003c/a\u003e\n        \u003cdiv class=\"tags\"\u003e\n            \u003ch5\u003eMore about…\u003c/h5\u003e\n            \u003cul\u003e\n                \u003cli\u003e\u003ca href=\"https://ktamas.github.io/tags/lol/\"\u003elol\u003c/a\u003e\u003c/li\u003e\n                \u003cli\u003e\u003ca href=\"https://ktamas.github.io/tags/random/\"\u003erandom\u003c/a\u003e\u003c/li\u003e\n            \u003c/ul\u003e\n        \u003c/div\u003e\n\u003c/footer\u003e",
+			"content_text": "\u003cp style=\"text-align: center;\"\u003e\n  \u003ca href=\"http://www.screencast.com/users/KTamas/folders/Jing/media/81159f35-482b-44fa-a3c0-d826f2d8eac4#\"\u003e\u003cimg src='http://ktamas.blog.hu/media/image/200907/2009-07-20_0924.png' alt='' /\u003e\u003c/a\u003e\n\u003c/p\u003e\n\n\u003cp style=\"text-align: center;\"\u003e\n  Ennyit ér. Oké, nyelvfüggő, vannak jobb meg rosszabb szótárak is. Ez épp a holland.\n\u003c/p\u003e\n\n-------------------------------------------------------------------------------\n\n Monday, 20 Jul 2009\nBy KTamas\nhttps://ktamas.github.io/index.php/2009/07/20/a_word_spellcheckere/\n\nMore about...\n\n* lol:    https://ktamas.github.io/tags/lol/\n* random: https://ktamas.github.io/tags/random/"
 		}
 	]
 }

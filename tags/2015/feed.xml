@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
-	<id>https://blog.ktamas.com/tags/2015/</id>
+	<id>https://ktamas.github.io/tags/2015/</id>
 	<title>2015 on KTamas&#39; blog</title>
 	<subtitle>An ongoing list of KTamas' blog posts about 2015</subtitle>
 	<updated>2015-06-24T10:42:52Z</updated>
-	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/2015/feed.xml"/>
-	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/2015/"/>
-	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/2015/feed.json"/>
+	<link rel="self" type="application/atom+xml" href="https://ktamas.github.io/tags/2015/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/2015/"/>
+	<link rel="alternate" type="application/json" href="https://ktamas.github.io/tags/2015/feed.json"/>
 	<author>
 		<name>KTamas</name>
-		<uri>https://blog.ktamas.com/</uri>
+		<uri>https://ktamas.github.io/</uri>
 	</author>
 	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
-	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
+	<icon>"https://ktamas.github.io/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2015/06/24/mid-year-status-update/</id>
+		<id>https://ktamas.github.io/index.php/2015/06/24/mid-year-status-update/</id>
 		<title>Mid-year status update</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2015/06/24/mid-year-status-update/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2015/06/24/mid-year-status-update/"/>
 		<updated>2015-06-24T10:42:52Z</updated>
 		<published>2015-06-24T10:42:52Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="2015" label="2015"/>
-		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://blog.ktamas.com/tags" term="fot%C3%B3z%C3%A1s" label="fotózás"/>
-		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://ktamas.github.io/tags" term="2015" label="2015"/>
+		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://ktamas.github.io/tags" term="fot%C3%B3z%C3%A1s" label="fotózás"/>
+		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
 		<summary>Work I quit my day job at the end of last year to become a freelance consultant, and so far it has been going well. The first few months were much harder, than I thought it would be, with the newfound freedom bringing much more free time, but a lot of stress, financial and otherwise. However, now I am six months in, and I have already worked with several clients, sorted out accounting (ugh), realized it’s a really bad idea to have my work e-mail mixed with my personal ones, and I’m heading to Southern Europe for 2 months in a week.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<h1 id="work">Work</h1>
 
 <p>I quit my day job at the end of last year to become a freelance consultant, and so far it has been going well. The first few months were much harder, than I thought it would be, with the newfound freedom bringing much more free time, but a lot of stress, financial and otherwise. However, now I am six months in, and I have already worked with several clients, sorted out accounting (ugh), realized it&#8217;s a really bad idea to have my work e-mail mixed with my personal ones, and I&#8217;m heading to Southern Europe for 2 months in a week.</p>
@@ -67,33 +67,33 @@
 <p>Eventually.</p>
 
 <footer>
-    <a title="Permanent link to “Mid-year status update”" href="https://blog.ktamas.com/index.php/2015/06/24/mid-year-status-update/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Mid-year status update”" href="https://ktamas.github.io/index.php/2015/06/24/mid-year-status-update/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/2015/">2015</a></li>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://ktamas.github.io/tags/2015/">2015</a></li>
+                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://ktamas.github.io/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
+                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2015/02/19/%d0%be%d0%b4%d0%bd%d1%96%d1%94%d1%97-%d0%bc%d0%be%d0%b2%d0%b8-%d0%bd%d1%96%d0%ba%d0%be%d0%bb%d0%b8-%d0%bd%d0%b5-%d0%b4%d0%be%d1%81%d0%b8%d1%82%d1%8c/</id>
+		<id>https://ktamas.github.io/index.php/2015/02/19/%d0%be%d0%b4%d0%bd%d1%96%d1%94%d1%97-%d0%bc%d0%be%d0%b2%d0%b8-%d0%bd%d1%96%d0%ba%d0%be%d0%bb%d0%b8-%d0%bd%d0%b5-%d0%b4%d0%be%d1%81%d0%b8%d1%82%d1%8c/</id>
 		<title>Однієї мови ніколи не досить</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2015/02/19/%d0%be%d0%b4%d0%bd%d1%96%d1%94%d1%97-%d0%bc%d0%be%d0%b2%d0%b8-%d0%bd%d1%96%d0%ba%d0%be%d0%bb%d0%b8-%d0%bd%d0%b5-%d0%b4%d0%be%d1%81%d0%b8%d1%82%d1%8c/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2015/02/19/%d0%be%d0%b4%d0%bd%d1%96%d1%94%d1%97-%d0%bc%d0%be%d0%b2%d0%b8-%d0%bd%d1%96%d0%ba%d0%be%d0%bb%d0%b8-%d0%bd%d0%b5-%d0%b4%d0%be%d1%81%d0%b8%d1%82%d1%8c/"/>
 		<updated>2015-02-19T15:06:39Z</updated>
 		<published>2015-02-19T15:06:39Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="2015" label="2015"/>
-		<category scheme="https://blog.ktamas.com/tags" term="ontheroad" label="ontheroad"/>
+		<category scheme="https://ktamas.github.io/tags" term="2015" label="2015"/>
+		<category scheme="https://ktamas.github.io/tags" term="ontheroad" label="ontheroad"/>
 		<summary>One language is never enough, is the phrase above, and it’s true. I’ve been here for more, than a week now, and I quickly got used to the fact that things are written in Ukrainian but the people I know here speak Russian (mixed with some Ukrainian) and the people on the street speak, well, both. Because of the subtle differences in the Cyrillic between Ukrainian and Russian, at this point reading Russian is weird to me.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>One language is never enough, is the phrase above, and it&#8217;s true. I&#8217;ve been here for more, than a week now, and I quickly got used to the fact that things are written in Ukrainian but the people I know here speak Russian (mixed with some Ukrainian) and the people on the street speak, well, both. Because of the subtle differences in the Cyrillic between Ukrainian and Russian, at this point reading Russian is weird to me.</p>
 
 <p>Unfortunately, a week here is not enough to make me be able to read Cyrillic at a comfortable speed, I still need to go through every word and transliterate it slowly in my head, but it did improve somewhat. If I&#8217;d live here for a few months (which I really would not want to do&#8230;), I am pretty sure I could get to a conversational level, given that far less people speak English and you are kind of forced to speak Russian/Ukrainian.</p>
@@ -101,32 +101,32 @@
 <p>And I have to say, Ukrainian is a lot more interesting out of these two, although I guess I could not get away learning it without learning Russian too. It&#8217;s a good package deal.</p>
 
 <footer>
-    <a title="Permanent link to “Однієї мови ніколи не досить”" href="https://blog.ktamas.com/index.php/2015/02/19/%d0%be%d0%b4%d0%bd%d1%96%d1%94%d1%97-%d0%bc%d0%be%d0%b2%d0%b8-%d0%bd%d1%96%d0%ba%d0%be%d0%bb%d0%b8-%d0%bd%d0%b5-%d0%b4%d0%be%d1%81%d0%b8%d1%82%d1%8c/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Однієї мови ніколи не досить”" href="https://ktamas.github.io/index.php/2015/02/19/%d0%be%d0%b4%d0%bd%d1%96%d1%94%d1%97-%d0%bc%d0%be%d0%b2%d0%b8-%d0%bd%d1%96%d0%ba%d0%be%d0%bb%d0%b8-%d0%bd%d0%b5-%d0%b4%d0%be%d1%81%d0%b8%d1%82%d1%8c/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/2015/">2015</a></li>
-                <li><a href="https://blog.ktamas.com/tags/ontheroad/">ontheroad</a></li>
+                <li><a href="https://ktamas.github.io/tags/2015/">2015</a></li>
+                <li><a href="https://ktamas.github.io/tags/ontheroad/">ontheroad</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2015/02/13/kiev-day-1-and-2/</id>
+		<id>https://ktamas.github.io/index.php/2015/02/13/kiev-day-1-and-2/</id>
 		<title>Kiev, day 1 and 2</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2015/02/13/kiev-day-1-and-2/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2015/02/13/kiev-day-1-and-2/"/>
 		<updated>2015-02-13T10:58:34Z</updated>
 		<published>2015-02-13T10:58:34Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="2015" label="2015"/>
-		<category scheme="https://blog.ktamas.com/tags" term="ontheroad" label="ontheroad"/>
+		<category scheme="https://ktamas.github.io/tags" term="2015" label="2015"/>
+		<category scheme="https://ktamas.github.io/tags" term="ontheroad" label="ontheroad"/>
 		<summary>I arrived to Kyiv Zhulyany just before 3pm, local time (we are in GMT+2 territory here). I was a bit worried about all the border control things, with leaving the EU and whatnot, but they just looked at my passport, put a stamp in it, looked at my suitcase with the X-Ray machine and I was out of the airport.
 Alex and Artem greeted me and picked me up, then we drove to Artem’s place where I will be staying for most of the time.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p><a href="/wp-content/uploads/2015/02/2015-02-11-15.16.49.jpg"><img src="/wp-content/uploads/2015/02/2015-02-11-15.16.49-1024x768.jpg" alt="2015-02-11 15.16.49" width="625" height="469" class="aligncenter size-large wp-image-2365504" srcset="/wp-content/uploads/2015/02/2015-02-11-15.16.49-1024x768.jpg 1024w, /wp-content/uploads/2015/02/2015-02-11-15.16.49-300x225.jpg 300w, /wp-content/uploads/2015/02/2015-02-11-15.16.49-624x468.jpg 624w" sizes="(max-width: 625px) 100vw, 625px" /></a></p>
 
 <p>I arrived to Kyiv Zhulyany just before 3pm, local time (we are in GMT+2 territory here). I was a bit worried about all the border control things, with leaving the EU and whatnot, but they just looked at my passport, put a stamp in it, looked at my suitcase with the X-Ray machine and I was out of the airport.</p>
@@ -160,33 +160,33 @@ Alex and Artem greeted me and picked me up, then we drove to Artem’s place whe
 <p>I took a lot of pictures which you can find <a href="https://www.dropbox.com/sh/nnrrugb8tm6f9am/AABDsaGmN19OCrZTN0YXBtNHa?dl=0">here</a> and <a href="https://www.dropbox.com/sh/20ahur6bbgi250a/AAC9wbWK3AZ3AdY1uatNhFh1a?dl=0">here</a>.</p>
 
 <footer>
-    <a title="Permanent link to “Kiev, day 1 and 2”" href="https://blog.ktamas.com/index.php/2015/02/13/kiev-day-1-and-2/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Kiev, day 1 and 2”" href="https://ktamas.github.io/index.php/2015/02/13/kiev-day-1-and-2/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/2015/">2015</a></li>
-                <li><a href="https://blog.ktamas.com/tags/ontheroad/">ontheroad</a></li>
+                <li><a href="https://ktamas.github.io/tags/2015/">2015</a></li>
+                <li><a href="https://ktamas.github.io/tags/ontheroad/">ontheroad</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2015/01/27/kyrie-eleison-down-the-road-that-i-must-travel/</id>
+		<id>https://ktamas.github.io/index.php/2015/01/27/kyrie-eleison-down-the-road-that-i-must-travel/</id>
 		<title>Kýrie, eléison, down the road that I must travel</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2015/01/27/kyrie-eleison-down-the-road-that-i-must-travel/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2015/01/27/kyrie-eleison-down-the-road-that-i-must-travel/"/>
 		<updated>2015-01-27T20:37:51Z</updated>
 		<published>2015-01-27T20:37:51Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="2015" label="2015"/>
-		<category scheme="https://blog.ktamas.com/tags" term="ontheroad" label="ontheroad"/>
+		<category scheme="https://ktamas.github.io/tags" term="2015" label="2015"/>
+		<category scheme="https://ktamas.github.io/tags" term="ontheroad" label="ontheroad"/>
 		<summary>This seems like a good time to resurrect my blog, this time in English. Let’s start with a song and a screenshot.
 
  </summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>This seems like a good time to resurrect my blog, this time in English. Let&#8217;s start with a song and a screenshot.</p>
 
 <p><a href="/wp-content/uploads/2015/01/Screenshot-2015-01-27-20.21.46.png"><img src="/wp-content/uploads/2015/01/Screenshot-2015-01-27-20.21.46.png" alt="Screenshot 2015-01-27 20.21.46" width="400" height="215" class="aligncenter size-full wp-image-2365488" srcset="/wp-content/uploads/2015/01/Screenshot-2015-01-27-20.21.46.png 400w, /wp-content/uploads/2015/01/Screenshot-2015-01-27-20.21.46-300x161.png 300w" sizes="(max-width: 400px) 100vw, 400px" /></a></p>
@@ -194,13 +194,13 @@ Alex and Artem greeted me and picked me up, then we drove to Artem’s place whe
 <iframe src="https://embed.spotify.com/?uri=spotify:track:5BXj1QDRU77J1ngVavG1tI" width="300" height="380" frameborder="0"></iframe>
 
 <footer>
-    <a title="Permanent link to “Kýrie, eléison, down the road that I must travel”" href="https://blog.ktamas.com/index.php/2015/01/27/kyrie-eleison-down-the-road-that-i-must-travel/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Kýrie, eléison, down the road that I must travel”" href="https://ktamas.github.io/index.php/2015/01/27/kyrie-eleison-down-the-road-that-i-must-travel/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/2015/">2015</a></li>
-                <li><a href="https://blog.ktamas.com/tags/ontheroad/">ontheroad</a></li>
+                <li><a href="https://ktamas.github.io/tags/2015/">2015</a></li>
+                <li><a href="https://ktamas.github.io/tags/ontheroad/">ontheroad</a></li>
             </ul>
         </div>
 </footer>]]></content>

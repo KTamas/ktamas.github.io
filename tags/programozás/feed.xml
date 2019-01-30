@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
-	<id>https://blog.ktamas.com/tags/programoz%C3%A1s/</id>
+	<id>https://ktamas.github.io/tags/programoz%C3%A1s/</id>
 	<title>programozás on KTamas&#39; blog</title>
 	<subtitle>An ongoing list of KTamas' blog posts about programozás</subtitle>
 	<updated>2012-08-11T18:31:15Z</updated>
-	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/programoz%C3%A1s/feed.xml"/>
-	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/programoz%C3%A1s/"/>
-	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/programoz%C3%A1s/feed.json"/>
+	<link rel="self" type="application/atom+xml" href="https://ktamas.github.io/tags/programoz%C3%A1s/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/programoz%C3%A1s/"/>
+	<link rel="alternate" type="application/json" href="https://ktamas.github.io/tags/programoz%C3%A1s/feed.json"/>
 	<author>
 		<name>KTamas</name>
-		<uri>https://blog.ktamas.com/</uri>
+		<uri>https://ktamas.github.io/</uri>
 	</author>
 	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
-	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
+	<icon>"https://ktamas.github.io/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2012/08/11/hacking-rukkola-avagy-alternativ-kollekciobongeszes/</id>
+		<id>https://ktamas.github.io/index.php/2012/08/11/hacking-rukkola-avagy-alternativ-kollekciobongeszes/</id>
 		<title>Hacking Rukkola, avagy bookmarklet a nem happolhatóak elrejtésére</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2012/08/11/hacking-rukkola-avagy-alternativ-kollekciobongeszes/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2012/08/11/hacking-rukkola-avagy-alternativ-kollekciobongeszes/"/>
 		<updated>2012-08-11T18:31:15Z</updated>
 		<published>2012-08-11T18:31:15Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="programoz%C3%A1s" label="programozás"/>
-		<category scheme="https://blog.ktamas.com/tags" term="rukkola" label="rukkola"/>
+		<category scheme="https://ktamas.github.io/tags" term="programoz%C3%A1s" label="programozás"/>
+		<category scheme="https://ktamas.github.io/tags" term="rukkola" label="rukkola"/>
 		<summary>Szóval elindult a rukkola.hu, közösségi könyvcserélde, remek dolog, próbáljátok ki, felteszitek a megunt könyveiteket, és cserébe szerezhettek másoktól hasonlókat. A böngészés a feltett könyvek között egyelőre még nem tökéletes, engem például borzasztóan zavar, hogy a kollekciók böngészésénél (szerk: és keresésnél) nincs olyan nézet, amikor csak azokat a könyveket látom, amikre ténylegesen lecsaphatok.
 Összedobtam hát gyorsan egy bookmarkletet erre. Chrome Extensionnek indult, de nem érzem elég nagynak, hogy megérje berakni a saját App Storejukba, valamint sóher vagyok kifizetni az öt dollárt érte egyelőre, majd ha még lesz pár ilyen rukkola-módosításom, amit már érdemes felrakni.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Szóval elindult a <a href="http://rukkola.hu/">rukkola.hu</a>, közösségi könyvcserélde, remek dolog, próbáljátok ki, felteszitek a megunt könyveiteket, és cserébe szerezhettek másoktól hasonlókat. A böngészés a feltett könyvek között egyelőre még nem tökéletes, engem például borzasztóan zavar, hogy a <a href="http://rukkola.hu/kollekciok">kollekciók</a> böngészésénél (szerk: és keresésnél) nincs olyan nézet, amikor csak azokat a könyveket látom, amikre ténylegesen lecsaphatok.</p>
 
 <p>Összedobtam hát gyorsan egy bookmarkletet erre. Chrome Extensionnek indult, de nem érzem elég nagynak, hogy megérje berakni a saját App Storejukba, valamint sóher vagyok kifizetni az öt dollárt érte egyelőre, majd ha még lesz pár ilyen rukkola-módosításom, amit már érdemes felrakni. Mindenesetre nincs más dolgoktok, hogy <a href="http://blog.ktamas.com/index.php/rukkola-bookmarklet/">felrakjátok a bookmarklet oldaláról</a>. <del datetime="2012-08-15T16:30:01+00:00">Lapozni a Tovább gombbal lehet, még az oldalakat is mutatja.</del> <strong>Update:</strong> nem kell semmit kattintgatni, <a href="http://blog.ktamas.com/index.php/2012/08/15/rukkola-bookmarklet-update-1-gorgetes-a-vegtelenbe/">van végtelen görgetés</a>.</p>
@@ -52,33 +52,33 @@
 <p>(P.P.S.: A bookmarklet remekül alkalmazható keresésekre is.)</p>
 
 <footer>
-    <a title="Permanent link to “Hacking Rukkola, avagy bookmarklet a nem happolhatóak elrejtésére”" href="https://blog.ktamas.com/index.php/2012/08/11/hacking-rukkola-avagy-alternativ-kollekciobongeszes/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Hacking Rukkola, avagy bookmarklet a nem happolhatóak elrejtésére”" href="https://ktamas.github.io/index.php/2012/08/11/hacking-rukkola-avagy-alternativ-kollekciobongeszes/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/programoz%C3%A1s/">programozás</a></li>
-                <li><a href="https://blog.ktamas.com/tags/rukkola/">rukkola</a></li>
+                <li><a href="https://ktamas.github.io/tags/programoz%C3%A1s/">programozás</a></li>
+                <li><a href="https://ktamas.github.io/tags/rukkola/">rukkola</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2011/05/05/iframek-es-popupok-toredekek-a-fejleszto-naplojabol/</id>
+		<id>https://ktamas.github.io/index.php/2011/05/05/iframek-es-popupok-toredekek-a-fejleszto-naplojabol/</id>
 		<title>iframek es popupok (toredekek a fejleszto naplojabol)</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2011/05/05/iframek-es-popupok-toredekek-a-fejleszto-naplojabol/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2011/05/05/iframek-es-popupok-toredekek-a-fejleszto-naplojabol/"/>
 		<updated>2011-05-05T23:58:46Z</updated>
 		<published>2011-05-05T23:58:46Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="javascript" label="javascript"/>
-		<category scheme="https://blog.ktamas.com/tags" term="programoz%C3%A1s" label="programozás"/>
-		<category scheme="https://blog.ktamas.com/tags" term="random" label="random"/>
+		<category scheme="https://ktamas.github.io/tags" term="javascript" label="javascript"/>
+		<category scheme="https://ktamas.github.io/tags" term="programoz%C3%A1s" label="programozás"/>
+		<category scheme="https://ktamas.github.io/tags" term="random" label="random"/>
 		<summary>Van egy iframed, abbol nyit a felhasznalo egy popupot, kulso webszolgaltatassal valo autenikalas celjabol, adsz neki egy callback URL-t, ami viszont ugye a popupba iranyit vissza, te viszont szeretned, ha az iframe tartalma lecserelodjon, majd bezarodjon a popup. Hogy csinalod? Ugy, hogy egy ilyesfajta HTML-t (es benne levo js-t) adsz meg callbacknek:
   <html> <head> <script type=“text/javascript”> var close_and_redirect = function() { if (opener &amp;&amp; !opener.closed) { opener.location.href = “http://localhost:9610/done"; }</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Van egy iframed, abbol nyit a felhasznalo egy popupot, kulso webszolgaltatassal valo autenikalas celjabol, adsz neki egy callback URL-t, ami viszont ugye a popupba iranyit vissza, te viszont szeretned, ha az iframe tartalma lecserelodjon, majd bezarodjon a popup. Hogy csinalod? Ugy, hogy egy ilyesfajta HTML-t (es benne levo js-t) adsz meg callbacknek:</p>
 
 <p><noscript>
@@ -113,34 +113,34 @@
   </p></p>
 
 <footer>
-    <a title="Permanent link to “iframek es popupok (toredekek a fejleszto naplojabol)”" href="https://blog.ktamas.com/index.php/2011/05/05/iframek-es-popupok-toredekek-a-fejleszto-naplojabol/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “iframek es popupok (toredekek a fejleszto naplojabol)”" href="https://ktamas.github.io/index.php/2011/05/05/iframek-es-popupok-toredekek-a-fejleszto-naplojabol/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/javascript/">javascript</a></li>
-                <li><a href="https://blog.ktamas.com/tags/programoz%C3%A1s/">programozás</a></li>
-                <li><a href="https://blog.ktamas.com/tags/random/">random</a></li>
+                <li><a href="https://ktamas.github.io/tags/javascript/">javascript</a></li>
+                <li><a href="https://ktamas.github.io/tags/programoz%C3%A1s/">programozás</a></li>
+                <li><a href="https://ktamas.github.io/tags/random/">random</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2011/05/05/vim/</id>
+		<id>https://ktamas.github.io/index.php/2011/05/05/vim/</id>
 		<title>vim</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2011/05/05/vim/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2011/05/05/vim/"/>
 		<updated>2011-05-05T09:48:23Z</updated>
 		<published>2011-05-05T09:48:23Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
-		<category scheme="https://blog.ktamas.com/tags" term="programoz%C3%A1s" label="programozás"/>
-		<category scheme="https://blog.ktamas.com/tags" term="vim" label="vim"/>
+		<category scheme="https://ktamas.github.io/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
+		<category scheme="https://ktamas.github.io/tags" term="programoz%C3%A1s" label="programozás"/>
+		<category scheme="https://ktamas.github.io/tags" term="vim" label="vim"/>
 		<summary>Nem tudom mikor kezdodott igazabol. Regen, maces koromban en is TextMatet hasznaltam persze, like all the cool kids in town, akkor foleg Rubyhoz, meg a Railses kiserletezeshez. Kesobb jott a Windows es Ubuntu kozott orlodo korszakom, amikor leginkabb semmit, mert sokkal keveset programoztam, de talan akkor talaltam meg ezt a ket blogpostot: Rails on VIM illetve Rails on Windows.
 (wow, ez tenyleg ket eve volt mar? Repulazido es egyeb kozhelyek.)</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Nem tudom mikor kezdodott igazabol. Regen, maces koromban en is TextMatet hasznaltam persze, <em>like all the cool kids in town</em>, akkor foleg Rubyhoz, meg a Railses kiserletezeshez. Kesobb jott a Windows es Ubuntu kozott orlodo korszakom, amikor leginkabb semmit, mert sokkal keveset programoztam, de talan akkor talaltam meg ezt a ket blogpostot: <a href="http://akitaonrails.com/2009/01/04/rails-on-vim-in-english">Rails on VIM</a> illetve <a href="http://www.akitaonrails.com/2009/01/13/the-best-environment-for-rails-on-windows">Rails on Windows</a>.</p>
 
 <p>(wow, ez tenyleg ket eve volt mar? Repulazido es egyeb kozhelyek.)</p>
@@ -166,35 +166,35 @@
 <p><ESC>:wq</p>
 
 <footer>
-    <a title="Permanent link to “vim”" href="https://blog.ktamas.com/index.php/2011/05/05/vim/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “vim”" href="https://ktamas.github.io/index.php/2011/05/05/vim/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
-                <li><a href="https://blog.ktamas.com/tags/programoz%C3%A1s/">programozás</a></li>
-                <li><a href="https://blog.ktamas.com/tags/vim/">vim</a></li>
+                <li><a href="https://ktamas.github.io/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
+                <li><a href="https://ktamas.github.io/tags/programoz%C3%A1s/">programozás</a></li>
+                <li><a href="https://ktamas.github.io/tags/vim/">vim</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2011/04/30/koltozes-a-felhobe/</id>
+		<id>https://ktamas.github.io/index.php/2011/04/30/koltozes-a-felhobe/</id>
 		<title>Koltozes a felhobe</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2011/04/30/koltozes-a-felhobe/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2011/04/30/koltozes-a-felhobe/"/>
 		<updated>2011-04-30T18:17:56Z</updated>
 		<published>2011-04-30T18:17:56Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://blog.ktamas.com/tags" term="linux" label="linux"/>
-		<category scheme="https://blog.ktamas.com/tags" term="meta" label="meta"/>
-		<category scheme="https://blog.ktamas.com/tags" term="programoz%C3%A1s" label="programozás"/>
-		<category scheme="https://blog.ktamas.com/tags" term="szerverek" label="szerverek"/>
+		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://ktamas.github.io/tags" term="linux" label="linux"/>
+		<category scheme="https://ktamas.github.io/tags" term="meta" label="meta"/>
+		<category scheme="https://ktamas.github.io/tags" term="programoz%C3%A1s" label="programozás"/>
+		<category scheme="https://ktamas.github.io/tags" term="szerverek" label="szerverek"/>
 		<summary>Ket dolog tortent, az egyik, hogy mostanaban folyton elszallt a php-nginx kombo egyszercsak a 64 megas VPS-en, amit anno osszeraktam. Frissitettem, megneztem a konfigokat, megis, egyszercsak elhalt az egesz, kezzel kellett ujrarugni. A masik dolog, ami tortent, hogy mikor tegnap este ismetelten kaptam a pingdomtol emailt, hogy “DOWN alert: blog (blog.ktamas.com) is DOWN”, akkor azt mondtam, hogy oke, eljatszotta az utolso lehetoseget is a helyzet, holnap (azaz ma) uj VPS-t keresunk.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Ket dolog tortent, az egyik, hogy mostanaban folyton elszallt a php-nginx kombo egyszercsak <a href="http://blog.ktamas.com/index.php/2010/10/12/64-megabytes-should-be-enough-for-everyone/">a 64 megas VPS-en</a>, amit anno osszeraktam. Frissitettem, megneztem a konfigokat, megis, egyszercsak elhalt az egesz, kezzel kellett ujrarugni. A masik dolog, ami tortent, hogy mikor tegnap este ismetelten kaptam a pingdomtol emailt, hogy &#8220;DOWN alert: blog (blog.ktamas.com) is DOWN&#8221;, akkor azt mondtam, hogy oke, eljatszotta az utolso lehetoseget is a helyzet, holnap (azaz ma) uj VPS-t keresunk.</p>
 
 <p>Azaz, kerestunk volna, mert ma reggel kaptam egy emailt, ami igy kezdodott:</p>
@@ -210,66 +210,66 @@
 <p>A felho tehat borzasztoan kenyelmesse tesz dolgokat, ami persze nem jelenti azt, a helyzet felhotlen lenne (elnezest), az elmult napokban is voltak erre peldak, ugye, mindenesetre programozooldalrol tenyleg iszonyat kenyelmesse tesz dolgokat, hogy (kis tulzassal) git push, es szevasztok. A bennem levo controlfreak rendszergazda most epp el van tehat nyomva, de biztos ki fog jonni egyszercsak&#8230;</p>
 
 <footer>
-    <a title="Permanent link to “Koltozes a felhobe”" href="https://blog.ktamas.com/index.php/2011/04/30/koltozes-a-felhobe/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Koltozes a felhobe”" href="https://ktamas.github.io/index.php/2011/04/30/koltozes-a-felhobe/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/linux/">linux</a></li>
-                <li><a href="https://blog.ktamas.com/tags/meta/">meta</a></li>
-                <li><a href="https://blog.ktamas.com/tags/programoz%C3%A1s/">programozás</a></li>
-                <li><a href="https://blog.ktamas.com/tags/szerverek/">szerverek</a></li>
+                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://ktamas.github.io/tags/linux/">linux</a></li>
+                <li><a href="https://ktamas.github.io/tags/meta/">meta</a></li>
+                <li><a href="https://ktamas.github.io/tags/programoz%C3%A1s/">programozás</a></li>
+                <li><a href="https://ktamas.github.io/tags/szerverek/">szerverek</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2011/04/30/toredek-a-kalandjaimbol-a-git-vilagaban/</id>
+		<id>https://ktamas.github.io/index.php/2011/04/30/toredek-a-kalandjaimbol-a-git-vilagaban/</id>
 		<title>Toredek a kalandjaimbol a git vilagaban</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2011/04/30/toredek-a-kalandjaimbol-a-git-vilagaban/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2011/04/30/toredek-a-kalandjaimbol-a-git-vilagaban/"/>
 		<updated>2011-04-30T11:10:37Z</updated>
 		<published>2011-04-30T11:10:37Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="programoz%C3%A1s" label="programozás"/>
-		<category scheme="https://blog.ktamas.com/tags" term="random" label="random"/>
+		<category scheme="https://ktamas.github.io/tags" term="programoz%C3%A1s" label="programozás"/>
+		<category scheme="https://ktamas.github.io/tags" term="random" label="random"/>
 		<summary>git submodule foreach git pull origin master
 Na, igy frissitjuk egy paranccsal szepen az osszes submodule-t (termeszetesen vim config bundle mappaja). Kiblogolom, hogy meglegyen c. rovatunkat hallottak.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p><code>git submodule foreach git pull origin master</code></p>
 
 <p>Na, igy frissitjuk egy paranccsal szepen az osszes submodule-t (termeszetesen vim config bundle mappaja). Kiblogolom, hogy meglegyen c. rovatunkat hallottak.</p>
 
 <footer>
-    <a title="Permanent link to “Toredek a kalandjaimbol a git vilagaban”" href="https://blog.ktamas.com/index.php/2011/04/30/toredek-a-kalandjaimbol-a-git-vilagaban/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Toredek a kalandjaimbol a git vilagaban”" href="https://ktamas.github.io/index.php/2011/04/30/toredek-a-kalandjaimbol-a-git-vilagaban/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/programoz%C3%A1s/">programozás</a></li>
-                <li><a href="https://blog.ktamas.com/tags/random/">random</a></li>
+                <li><a href="https://ktamas.github.io/tags/programoz%C3%A1s/">programozás</a></li>
+                <li><a href="https://ktamas.github.io/tags/random/">random</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2010/02/19/hacking_netpincer/</id>
+		<id>https://ktamas.github.io/index.php/2010/02/19/hacking_netpincer/</id>
 		<title>Hacking netpincér</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2010/02/19/hacking_netpincer/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2010/02/19/hacking_netpincer/"/>
 		<updated>2010-02-19T19:24:00Z</updated>
 		<published>2010-02-19T19:24:00Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="netpinc%C3%A9r" label="netpincér"/>
-		<category scheme="https://blog.ktamas.com/tags" term="programoz%C3%A1s" label="programozás"/>
+		<category scheme="https://ktamas.github.io/tags" term="netpinc%C3%A9r" label="netpincér"/>
+		<category scheme="https://ktamas.github.io/tags" term="programoz%C3%A1s" label="programozás"/>
 		<summary>Van ehhez hosszabb háttérsztori is, de a lényeg az hogy kellett volna valami ami berendezi a netpincéren a szállítókat szállítási idő szerint. Ebből lett egy bookmarklet.
 Egyelőre nem tudom, hogy lehet megcsinálni úgy, hogy ide is beilleszthessem, úgyhogy elkészíteni a következőképp lehet: ennek az oldalnak a tartalmát beilleszted ide, majd az eredményt a vágólapra dobod. Csinálsz egy új bookmarkot, adsz neki egy hangzatos nevet, es a Location az lesz, hogy javascript:[a kód beillesztve ide].</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Van ehhez hosszabb háttérsztori is, de a lényeg az hogy kellett volna valami ami berendezi a netpincéren a szállítókat szállítási idő szerint. Ebből lett egy bookmarklet.</p>
 
 <p>Egyelőre nem tudom, hogy lehet megcsinálni úgy, hogy ide is beilleszthessem, úgyhogy elkészíteni a következőképp lehet: <a href="http://github.com/KTamas/netpincer_hacks/raw/master/netpincer_sortbydeliverydate.js">ennek az oldalnak</a> a tartalmát beilleszted <a href="http://javascriptcompressor.com/">ide</a>, majd az eredményt a vágólapra dobod.&nbsp;Csinálsz egy új bookmarkot, adsz neki egy hangzatos nevet, es a Location az lesz, hogy javascript:[a kód beillesztve ide]. Elmész a Netpincér oldalára, kiválasztod a szállítót, megnyomod a gombot, és ta-dám*, máris szállítási idő szerint vannak rendezve. Valahogy igy:</p>
@@ -283,35 +283,35 @@ Egyelőre nem tudom, hogy lehet megcsinálni úgy, hogy ide is beilleszthessem, 
 <p>*P.S.:&nbsp;Igen, a cuccnak kell kb. 2-3 masodperc lefutnia, mert a)&nbsp;betolti eloszor a jqueryt b)&nbsp;sajnos ki kell szednie es visszaraknia a DOM&nbsp;kb. felét amit a böngészők egyelőre nem viselnek jól. Ha valaki tud jobb megoldást, forkra fel.</p>
 
 <footer>
-    <a title="Permanent link to “Hacking netpincér”" href="https://blog.ktamas.com/index.php/2010/02/19/hacking_netpincer/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Hacking netpincér”" href="https://ktamas.github.io/index.php/2010/02/19/hacking_netpincer/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/netpinc%C3%A9r/">netpincér</a></li>
-                <li><a href="https://blog.ktamas.com/tags/programoz%C3%A1s/">programozás</a></li>
+                <li><a href="https://ktamas.github.io/tags/netpinc%C3%A9r/">netpincér</a></li>
+                <li><a href="https://ktamas.github.io/tags/programoz%C3%A1s/">programozás</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2009/06/18/ruby_meg_a_mail_eloadas/</id>
+		<id>https://ktamas.github.io/index.php/2009/06/18/ruby_meg_a_mail_eloadas/</id>
 		<title>Ruby meg a Mail előadás</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/06/18/ruby_meg_a_mail_eloadas/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/06/18/ruby_meg_a_mail_eloadas/"/>
 		<updated>2009-06-18T21:00:41Z</updated>
 		<published>2009-06-18T21:00:41Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="el%C5%91ad%C3%A1s" label="előadás"/>
-		<category scheme="https://blog.ktamas.com/tags" term="programoz%C3%A1s" label="programozás"/>
-		<category scheme="https://blog.ktamas.com/tags" term="ruby" label="ruby"/>
+		<category scheme="https://ktamas.github.io/tags" term="el%C5%91ad%C3%A1s" label="előadás"/>
+		<category scheme="https://ktamas.github.io/tags" term="programoz%C3%A1s" label="programozás"/>
+		<category scheme="https://ktamas.github.io/tags" term="ruby" label="ruby"/>
 		<summary>Szóval előadtunk ma este egy ilyet:
   Lightning Talk Ruby And Mail V2  from KTamas 
 Hasznos linkek pedig akkor:
  RubyMail: Letöltés (vagy fel lehet rakni rubygemsből is) | RDoc RubyFilter: Letöltés: librfilter-ruby1.8 debian package | RDoc (éppen offline sajnos) RDeliver: rdeliver debian package, szép adag example kód: itten  </summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Szóval előadtunk ma este egy ilyet:</p>
 
 <p><iframe src="//www.slideshare.net/slideshow/embed_code/key/HTDrcgdPEOTLVM" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/KTamas/lightning-talk-ruby-and-mail-v2" title="Lightning Talk Ruby And Mail V2" target="_blank">Lightning Talk Ruby And Mail V2</a> </strong> from <strong><a href="https://www.slideshare.net/KTamas" target="_blank">KTamas</a></strong> </div></p>
@@ -325,29 +325,29 @@ Hasznos linkek pedig akkor:
 </ul>
 
 <footer>
-    <a title="Permanent link to “Ruby meg a Mail előadás”" href="https://blog.ktamas.com/index.php/2009/06/18/ruby_meg_a_mail_eloadas/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Ruby meg a Mail előadás”" href="https://ktamas.github.io/index.php/2009/06/18/ruby_meg_a_mail_eloadas/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/el%C5%91ad%C3%A1s/">előadás</a></li>
-                <li><a href="https://blog.ktamas.com/tags/programoz%C3%A1s/">programozás</a></li>
-                <li><a href="https://blog.ktamas.com/tags/ruby/">ruby</a></li>
+                <li><a href="https://ktamas.github.io/tags/el%C5%91ad%C3%A1s/">előadás</a></li>
+                <li><a href="https://ktamas.github.io/tags/programoz%C3%A1s/">programozás</a></li>
+                <li><a href="https://ktamas.github.io/tags/ruby/">ruby</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2009/03/27/miert_fogunk_a_jovoben_excelt_is_rubyban_programozni/</id>
+		<id>https://ktamas.github.io/index.php/2009/03/27/miert_fogunk_a_jovoben_excelt_is_rubyban_programozni/</id>
 		<title>Miért fogunk a jövőben excelt is Rubyban programozni?</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/03/27/miert_fogunk_a_jovoben_excelt_is_rubyban_programozni/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/03/27/miert_fogunk_a_jovoben_excelt_is_rubyban_programozni/"/>
 		<updated>2009-03-27T12:53:36Z</updated>
 		<published>2009-03-27T12:53:36Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="programoz%C3%A1s" label="programozás"/>
+		<category scheme="https://ktamas.github.io/tags" term="programoz%C3%A1s" label="programozás"/>
 		<summary>Ruby:
  require ‘win32ole’
 excel = Win32ole.new(“Excel.Application”)
@@ -371,7 +371,7 @@ excel.ActiveCell.Value2 = “Alma”;
 }
  Na, melik a kevésbé gány megoldás?
 (A szerkesztőségbe várjuk a jobb C#-os megoldásokat.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Ruby:</p>
 
 <blockquote>
@@ -423,45 +423,45 @@ excel.ActiveCell.Value2 = “Alma”;
 <p>(A szerkesztőségbe várjuk a jobb C#-os megoldásokat.)</p>
 
 <footer>
-    <a title="Permanent link to “Miért fogunk a jövőben excelt is Rubyban programozni?”" href="https://blog.ktamas.com/index.php/2009/03/27/miert_fogunk_a_jovoben_excelt_is_rubyban_programozni/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Miért fogunk a jövőben excelt is Rubyban programozni?”" href="https://ktamas.github.io/index.php/2009/03/27/miert_fogunk_a_jovoben_excelt_is_rubyban_programozni/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/programoz%C3%A1s/">programozás</a></li>
+                <li><a href="https://ktamas.github.io/tags/programoz%C3%A1s/">programozás</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2009/01/19/bibliaolvaso/</id>
+		<id>https://ktamas.github.io/index.php/2009/01/19/bibliaolvaso/</id>
 		<title>Bibliaolvasó</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/01/19/bibliaolvaso/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/01/19/bibliaolvaso/"/>
 		<updated>2009-01-19T10:45:37Z</updated>
 		<published>2009-01-19T10:45:37Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="hit" label="hit"/>
-		<category scheme="https://blog.ktamas.com/tags" term="programoz%C3%A1s" label="programozás"/>
-		<category scheme="https://blog.ktamas.com/tags" term="rails" label="rails"/>
+		<category scheme="https://ktamas.github.io/tags" term="hit" label="hit"/>
+		<category scheme="https://ktamas.github.io/tags" term="programoz%C3%A1s" label="programozás"/>
+		<category scheme="https://ktamas.github.io/tags" term="rails" label="rails"/>
 		<summary>Papírformában már régóta léteznek az ún. Biblaolvasó kalauzok, amelyek általában arra szolgálnak, hogy egy adott rendszer szerint végigvezesse az embert egy év alatt a Biblián. Most azonban LacKac megcsinálta ugyanezt online formában is, egyelőre a Károli-féle fordítással és nem utolsó sorban új, izgalmas és bleeding edge technológiákkal, kulcsszavakban: Edge Rails, HAML, SAAS, Compass, CouchDB. Bővebb infó erre.
 P.S: természetesen van RSS feed is :)</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Papírformában már régóta léteznek az ún. Biblaolvasó kalauzok, amelyek általában arra szolgálnak, hogy egy adott rendszer szerint végigvezesse az embert egy év alatt a Biblián. Most azonban LacKac megcsinálta ugyanezt <a href="http://bibliaolvaso.hu">online formában</a> is, egyelőre a Károli-féle fordítással és nem utolsó sorban új, izgalmas és <em>bleeding edge</em> technológiákkal, kulcsszavakban: Edge Rails, HAML, SAAS, Compass, CouchDB. Bővebb infó <a href="http://lackac.hu/2009/01/19/bibliaolvaso">erre</a>.</p>
 
 <p>P.S: természetesen van RSS feed is :)</p>
 
 <footer>
-    <a title="Permanent link to “Bibliaolvasó”" href="https://blog.ktamas.com/index.php/2009/01/19/bibliaolvaso/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Bibliaolvasó”" href="https://ktamas.github.io/index.php/2009/01/19/bibliaolvaso/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/hit/">hit</a></li>
-                <li><a href="https://blog.ktamas.com/tags/programoz%C3%A1s/">programozás</a></li>
-                <li><a href="https://blog.ktamas.com/tags/rails/">rails</a></li>
+                <li><a href="https://ktamas.github.io/tags/hit/">hit</a></li>
+                <li><a href="https://ktamas.github.io/tags/programoz%C3%A1s/">programozás</a></li>
+                <li><a href="https://ktamas.github.io/tags/rails/">rails</a></li>
             </ul>
         </div>
 </footer>]]></content>

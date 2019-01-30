@@ -1,100 +1,100 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
-	<id>https://blog.ktamas.com/tags/vm/</id>
+	<id>https://ktamas.github.io/tags/vm/</id>
 	<title>vm on KTamas&#39; blog</title>
 	<subtitle>An ongoing list of KTamas' blog posts about vm</subtitle>
 	<updated>2011-09-11T21:02:32Z</updated>
-	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/vm/feed.xml"/>
-	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/vm/"/>
-	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/vm/feed.json"/>
+	<link rel="self" type="application/atom+xml" href="https://ktamas.github.io/tags/vm/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/vm/"/>
+	<link rel="alternate" type="application/json" href="https://ktamas.github.io/tags/vm/feed.json"/>
 	<author>
 		<name>KTamas</name>
-		<uri>https://blog.ktamas.com/</uri>
+		<uri>https://ktamas.github.io/</uri>
 	</author>
 	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
-	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
+	<icon>"https://ktamas.github.io/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2011/09/11/napi-loop-air-la-femme-dargent/</id>
+		<id>https://ktamas.github.io/index.php/2011/09/11/napi-loop-air-la-femme-dargent/</id>
 		<title>Napi loop: Air &amp;#8211; La Femme D&amp;#8217;Argent</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2011/09/11/napi-loop-air-la-femme-dargent/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2011/09/11/napi-loop-air-la-femme-dargent/"/>
 		<updated>2011-09-11T21:02:32Z</updated>
 		<published>2011-09-11T21:02:32Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="napiloop" label="napiloop"/>
-		<category scheme="https://blog.ktamas.com/tags" term="vm" label="vm"/>
-		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
+		<category scheme="https://ktamas.github.io/tags" term="napiloop" label="napiloop"/>
+		<category scheme="https://ktamas.github.io/tags" term="vm" label="vm"/>
+		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
 		<summary>Veronica Mars. Gazs hibája. ’nuff said.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<iframe src="https://open.spotify.com/embed/track/3ZzhV6JIDKWvWR7wiKWD0C" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 <p><a href="http://www.youtube.com/watch?v=ZHSkgFgct6E">Veronica Mars</a>. <a href="http://bergengocia.net/">Gazs</a> hibája. &#8217;nuff said.</p>
 
 <footer>
-    <a title="Permanent link to “Napi loop: Air &amp;#8211; La Femme D&amp;#8217;Argent”" href="https://blog.ktamas.com/index.php/2011/09/11/napi-loop-air-la-femme-dargent/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Napi loop: Air &amp;#8211; La Femme D&amp;#8217;Argent”" href="https://ktamas.github.io/index.php/2011/09/11/napi-loop-air-la-femme-dargent/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/napiloop/">napiloop</a></li>
-                <li><a href="https://blog.ktamas.com/tags/vm/">vm</a></li>
-                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
+                <li><a href="https://ktamas.github.io/tags/napiloop/">napiloop</a></li>
+                <li><a href="https://ktamas.github.io/tags/vm/">vm</a></li>
+                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2009/08/13/uj_csengohang/</id>
+		<id>https://ktamas.github.io/index.php/2009/08/13/uj_csengohang/</id>
 		<title>Új csengőhang</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/08/13/uj_csengohang/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/08/13/uj_csengohang/"/>
 		<updated>2009-08-13T22:21:44Z</updated>
 		<published>2009-08-13T22:21:44Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="random" label="random"/>
-		<category scheme="https://blog.ktamas.com/tags" term="sorozat" label="sorozat"/>
-		<category scheme="https://blog.ktamas.com/tags" term="vm" label="vm"/>
-		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
+		<category scheme="https://ktamas.github.io/tags" term="random" label="random"/>
+		<category scheme="https://ktamas.github.io/tags" term="sorozat" label="sorozat"/>
+		<category scheme="https://ktamas.github.io/tags" term="vm" label="vm"/>
+		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
 		<summary>Sacc per kábe kétévente cserélgetem, persze hogy sorozatos, hehe.
 csengohang</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Sacc per kábe kétévente cserélgetem, persze hogy sorozatos, hehe.</p>
 
 <p><a href="http://ktamas.blog.hu/media/image/200908/csengohang.mp3">csengohang</a></p>
 
 <footer>
-    <a title="Permanent link to “Új csengőhang”" href="https://blog.ktamas.com/index.php/2009/08/13/uj_csengohang/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Új csengőhang”" href="https://ktamas.github.io/index.php/2009/08/13/uj_csengohang/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/random/">random</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sorozat/">sorozat</a></li>
-                <li><a href="https://blog.ktamas.com/tags/vm/">vm</a></li>
-                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
+                <li><a href="https://ktamas.github.io/tags/random/">random</a></li>
+                <li><a href="https://ktamas.github.io/tags/sorozat/">sorozat</a></li>
+                <li><a href="https://ktamas.github.io/tags/vm/">vm</a></li>
+                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2009/08/09/veronica_mars_1/</id>
+		<id>https://ktamas.github.io/index.php/2009/08/09/veronica_mars_1/</id>
 		<title>Veronica Mars</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/08/09/veronica_mars_1/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/08/09/veronica_mars_1/"/>
 		<updated>2009-08-09T13:48:17Z</updated>
 		<published>2009-08-09T13:48:17Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="sorozat" label="sorozat"/>
-		<category scheme="https://blog.ktamas.com/tags" term="vm" label="vm"/>
+		<category scheme="https://ktamas.github.io/tags" term="sorozat" label="sorozat"/>
+		<category scheme="https://ktamas.github.io/tags" term="vm" label="vm"/>
 		<summary><p>Az alapsztoriról nem akarok sokat írni, a junkien ezt <a href="http://www.sorozatjunkie.hu/2006/11/08/veronica-mars-irta-imurai/" target="_blank">nálam sokkal jobban leírták</a>, az első két bekezdés a lényeg, inkább foglalkoznék kicsit a karakterekkel meg évadkritikákkal meg a sztorikkal, a tovább után, spoileresen, aki nem látta a sorozatot, az meg rohanjon megnézni, mert jó.</p></summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Az alapsztoriról nem akarok sokat írni, a junkien ezt <a href="http://www.sorozatjunkie.hu/2006/11/08/veronica-mars-irta-imurai/" target="_blank">nálam sokkal jobban leírták</a>, az első két bekezdés a lényeg, inkább foglalkoznék kicsit a karakterekkel meg évadkritikákkal meg a sztorikkal, a tovább után, spoileresen, aki nem látta a sorozatot, az meg rohanjon megnézni, mert jó.</p>
 
 <p>Az első évad talán a legjobb: jó sztorik, jó dumák, jó karakterek: Veronica a topon, Logan baromi jó, ahogy Weevil is, sőt igazából Wallace-ra se lehet panasz. Keith papa meg mindig jó. Duncan elmegy, de lesz ez rosszabb is. Az átívelő szálat jól adagolják, bár a végemegoldás kicsit sántít nekem, mert valahogy a semmiből jön túlságosan, de abszolút elfogadható, és &#8212; persze utólag rájöve &#8212; ügyesen elindítják a második évad átívelőjét is. Szóval ez kap egy erős <sup>8</sup>&frasl;<sub>10</sub>-et. (Plusz Kristen Bell ebben az évadban néz ki a legjobban.) ((Plusz fájdalmasan kevés Mac.))</p>
@@ -113,33 +113,33 @@ csengohang</summary>
   <a href="http://www.sorozatjunkie.hu/2006/11/08/veronica-mars-irta-imurai/">http://www.sorozatjunkie.hu/2006/11/08/veronica-mars-irta-imurai/</a>
 </div></p></p>
 <footer>
-    <a title="Permanent link to “Veronica Mars”" href="https://blog.ktamas.com/index.php/2009/08/09/veronica_mars_1/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Veronica Mars”" href="https://ktamas.github.io/index.php/2009/08/09/veronica_mars_1/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/sorozat/">sorozat</a></li>
-                <li><a href="https://blog.ktamas.com/tags/vm/">vm</a></li>
+                <li><a href="https://ktamas.github.io/tags/sorozat/">sorozat</a></li>
+                <li><a href="https://ktamas.github.io/tags/vm/">vm</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2009/08/06/a_long_time_ago_we_used_to_be_friends/</id>
+		<id>https://ktamas.github.io/index.php/2009/08/06/a_long_time_ago_we_used_to_be_friends/</id>
 		<title>A long time ago&amp;#8230; we used to be friends&amp;#8230;</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/08/06/a_long_time_ago_we_used_to_be_friends/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/08/06/a_long_time_ago_we_used_to_be_friends/"/>
 		<updated>2009-08-06T16:13:34Z</updated>
 		<published>2009-08-06T16:13:34Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="random" label="random"/>
-		<category scheme="https://blog.ktamas.com/tags" term="vm" label="vm"/>
-		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
+		<category scheme="https://ktamas.github.io/tags" term="random" label="random"/>
+		<category scheme="https://ktamas.github.io/tags" term="vm" label="vm"/>
+		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
 		<summary>A (holtversenyben a Las Vegassal!) leghangulatosabb TV-intro (zene).
 (ja és van új tagline is. egyet lehet találni, honnan.)</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<iframe src="https://open.spotify.com/embed/track/7hpFYWL3cw5m4y70cce7Zb" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 <p>A (holtversenyben a Las Vegassal!) leghangulatosabb TV-intro (zene).</p>
@@ -147,14 +147,14 @@ csengohang</summary>
 <p>(ja és van új tagline is. egyet lehet találni, honnan.)</p>
 
 <footer>
-    <a title="Permanent link to “A long time ago&amp;#8230; we used to be friends&amp;#8230;”" href="https://blog.ktamas.com/index.php/2009/08/06/a_long_time_ago_we_used_to_be_friends/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “A long time ago&amp;#8230; we used to be friends&amp;#8230;”" href="https://ktamas.github.io/index.php/2009/08/06/a_long_time_ago_we_used_to_be_friends/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/random/">random</a></li>
-                <li><a href="https://blog.ktamas.com/tags/vm/">vm</a></li>
-                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
+                <li><a href="https://ktamas.github.io/tags/random/">random</a></li>
+                <li><a href="https://ktamas.github.io/tags/vm/">vm</a></li>
+                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>

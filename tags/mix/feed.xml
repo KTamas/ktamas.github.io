@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
-	<id>https://blog.ktamas.com/tags/mix/</id>
+	<id>https://ktamas.github.io/tags/mix/</id>
 	<title>mix on KTamas&#39; blog</title>
 	<subtitle>An ongoing list of KTamas' blog posts about mix</subtitle>
 	<updated>2011-05-12T09:42:29Z</updated>
-	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/mix/feed.xml"/>
-	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/mix/"/>
-	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/mix/feed.json"/>
+	<link rel="self" type="application/atom+xml" href="https://ktamas.github.io/tags/mix/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/mix/"/>
+	<link rel="alternate" type="application/json" href="https://ktamas.github.io/tags/mix/feed.json"/>
 	<author>
 		<name>KTamas</name>
-		<uri>https://blog.ktamas.com/</uri>
+		<uri>https://ktamas.github.io/</uri>
 	</author>
 	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
-	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
+	<icon>"https://ktamas.github.io/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2011/05/12/zene-egesz-napra-electroloop/</id>
+		<id>https://ktamas.github.io/index.php/2011/05/12/zene-egesz-napra-electroloop/</id>
 		<title>Zene egesz napra: Electroloop</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2011/05/12/zene-egesz-napra-electroloop/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2011/05/12/zene-egesz-napra-electroloop/"/>
 		<updated>2011-05-12T09:42:29Z</updated>
 		<published>2011-05-12T09:42:29Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
-		<category scheme="https://blog.ktamas.com/tags" term="mix" label="mix"/>
-		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
+		<category scheme="https://ktamas.github.io/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
+		<category scheme="https://ktamas.github.io/tags" term="mix" label="mix"/>
+		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
 		<summary>Szoval tegnapelott newtech meetup volt, az egyik valaha volt legjobb, es jatszottam egy orat szantog Red Bull RPM HD appjaval az ipadjen, a vilag egyik legmenobb dolga, de tenyleg, szoval kozben volt ket szam, ami megtetszett, azota az megy korbe es korbe es korbe, alabb embedelem.
 Electroloop
 Tracklist: 1. Mord Fustang – The Electric Dream 2. Rip &amp; Barbara Tucker – RESPECT</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Szoval tegnapelott newtech meetup volt, az egyik valaha volt legjobb, es jatszottam egy orat <a href="http://szantog.com/">szantog</a> <a href="http://www.redbull.com/cs/Satellite/en_INT/Red-Bull-BPM-HD/001242901768754">Red Bull RPM HD</a> appjaval az ipadjen, a vilag egyik legmenobb dolga, de tenyleg, szoval kozben volt ket szam, ami megtetszett, azota az megy korbe es korbe es korbe, alabb embedelem.</p>
 
 <p><a href="https://www.dropbox.com/s/qtvtgq56ebkguhy/electroloop.mp3?dl=0">Electroloop</a></p>
@@ -40,35 +40,35 @@ Tracklist: 1. Mord Fustang – The Electric Dream 2. Rip &amp; Barbara Tucker �
 2. Rip &amp; Barbara Tucker &#8211; RESPECT</p>
 
 <footer>
-    <a title="Permanent link to “Zene egesz napra: Electroloop”" href="https://blog.ktamas.com/index.php/2011/05/12/zene-egesz-napra-electroloop/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Zene egesz napra: Electroloop”" href="https://ktamas.github.io/index.php/2011/05/12/zene-egesz-napra-electroloop/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
-                <li><a href="https://blog.ktamas.com/tags/mix/">mix</a></li>
-                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
+                <li><a href="https://ktamas.github.io/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
+                <li><a href="https://ktamas.github.io/tags/mix/">mix</a></li>
+                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2011/05/06/tree63-megamix/</id>
+		<id>https://ktamas.github.io/index.php/2011/05/06/tree63-megamix/</id>
 		<title>Tree63 megamix</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2011/05/06/tree63-megamix/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2011/05/06/tree63-megamix/"/>
 		<updated>2011-05-06T11:07:54Z</updated>
 		<published>2011-05-06T11:07:54Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
-		<category scheme="https://blog.ktamas.com/tags" term="mix" label="mix"/>
-		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
+		<category scheme="https://ktamas.github.io/tags" term="aj%C3%A1nl%C3%B3" label="ajánló"/>
+		<category scheme="https://ktamas.github.io/tags" term="mix" label="mix"/>
+		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
 		<summary>A last.fm statjaim szerint nagyon sok Tree 63-et hallgatok mostanaban, nem veletlenul, iszonyat jo dalokat csinaltak.
 Leginkabb ezek mennek.
  </summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>A <a href="http://www.last.fm/user/KTamasEnty">last.fm statjaim</a> szerint nagyon sok Tree 63-et hallgatok mostanaban, nem veletlenul, iszonyat jo dalokat csinaltak.</p>
 
 <p>Leginkabb ezek mennek.</p>
@@ -76,14 +76,14 @@ Leginkabb ezek mennek.
 <iframe src="https://open.spotify.com/embed/user/ktamas/playlist/4lnePparXskGJKJqcK6ZaW" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 <footer>
-    <a title="Permanent link to “Tree63 megamix”" href="https://blog.ktamas.com/index.php/2011/05/06/tree63-megamix/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Tree63 megamix”" href="https://ktamas.github.io/index.php/2011/05/06/tree63-megamix/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
-                <li><a href="https://blog.ktamas.com/tags/mix/">mix</a></li>
-                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
+                <li><a href="https://ktamas.github.io/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
+                <li><a href="https://ktamas.github.io/tags/mix/">mix</a></li>
+                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>

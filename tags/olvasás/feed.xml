@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
-	<id>https://blog.ktamas.com/tags/olvas%C3%A1s/</id>
+	<id>https://ktamas.github.io/tags/olvas%C3%A1s/</id>
 	<title>olvasás on KTamas&#39; blog</title>
 	<subtitle>An ongoing list of KTamas' blog posts about olvasás</subtitle>
 	<updated>2014-05-11T10:49:22Z</updated>
-	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/olvas%C3%A1s/feed.xml"/>
-	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/olvas%C3%A1s/"/>
-	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/olvas%C3%A1s/feed.json"/>
+	<link rel="self" type="application/atom+xml" href="https://ktamas.github.io/tags/olvas%C3%A1s/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/olvas%C3%A1s/"/>
+	<link rel="alternate" type="application/json" href="https://ktamas.github.io/tags/olvas%C3%A1s/feed.json"/>
 	<author>
 		<name>KTamas</name>
-		<uri>https://blog.ktamas.com/</uri>
+		<uri>https://ktamas.github.io/</uri>
 	</author>
 	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
-	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
+	<icon>"https://ktamas.github.io/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2014/05/11/napi-olvasnivalo-a-ruhak-szineirol-az-olvasasrol-es-a-melegjogokrol/</id>
+		<id>https://ktamas.github.io/index.php/2014/05/11/napi-olvasnivalo-a-ruhak-szineirol-az-olvasasrol-es-a-melegjogokrol/</id>
 		<title>Napi olvasnivaló: A ruhák színeiről, az olvasásról és a melegjogokról</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2014/05/11/napi-olvasnivalo-a-ruhak-szineirol-az-olvasasrol-es-a-melegjogokrol/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2014/05/11/napi-olvasnivalo-a-ruhak-szineirol-az-olvasasrol-es-a-melegjogokrol/"/>
 		<updated>2014-05-11T10:49:22Z</updated>
 		<published>2014-05-11T10:49:22Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="olvas%C3%A1s" label="olvasás"/>
+		<category scheme="https://ktamas.github.io/tags" term="olvas%C3%A1s" label="olvasás"/>
 		<summary>When Did Girls Start Wearing Pink? Spoilerezek, nem olyan régóta rózsaszín a lányok színe.
 My 6,128 Favorite Books. Egy remek cikk nagyon sok elolvasott könyvről.
 Love on the March. A melegjogok története Amerikában, egészen 2012 Novemberéig, hasznos olvasmány. Azóta eltelt viszont másfél év, már nincs DOMA például, meg sok egyéb dolog is történt.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p><a href="http://www.smithsonianmag.com/arts-culture/When-Did-Girls-Start-Wearing-Pink.html?c=y&amp;page=1">When Did Girls Start Wearing Pink?</a> Spoilerezek, nem olyan régóta rózsaszín a lányok színe.</p>
 
 <p><a href="http://online.wsj.com/article/SB10000872396390444868204578064483923017090.html">My 6,128 Favorite Books</a>. Egy remek cikk nagyon sok elolvasott könyvről.</p>
@@ -36,30 +36,30 @@ Love on the March. A melegjogok története Amerikában, egészen 2012 November�
 <p><a href="http://www.newyorker.com/reporting/2012/11/12/121112fa_fact_ross?currentPage=all">Love on the March</a>. A melegjogok története Amerikában, egészen 2012 Novemberéig, hasznos olvasmány. Azóta eltelt viszont másfél év, már nincs <a href="http://en.wikipedia.org/wiki/Defense_of_Marriage_Act">DOMA</a> például, meg sok egyéb dolog is történt.</p>
 
 <footer>
-    <a title="Permanent link to “Napi olvasnivaló: A ruhák színeiről, az olvasásról és a melegjogokról”" href="https://blog.ktamas.com/index.php/2014/05/11/napi-olvasnivalo-a-ruhak-szineirol-az-olvasasrol-es-a-melegjogokrol/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Napi olvasnivaló: A ruhák színeiről, az olvasásról és a melegjogokról”" href="https://ktamas.github.io/index.php/2014/05/11/napi-olvasnivalo-a-ruhak-szineirol-az-olvasasrol-es-a-melegjogokrol/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/olvas%C3%A1s/">olvasás</a></li>
+                <li><a href="https://ktamas.github.io/tags/olvas%C3%A1s/">olvasás</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2013/08/06/napi-olvasnivalo-szomoru-kedd/</id>
+		<id>https://ktamas.github.io/index.php/2013/08/06/napi-olvasnivalo-szomoru-kedd/</id>
 		<title>Napi olvasnivaló: szomorú kedd</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/08/06/napi-olvasnivalo-szomoru-kedd/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/08/06/napi-olvasnivalo-szomoru-kedd/"/>
 		<updated>2013-08-06T14:25:31Z</updated>
 		<published>2013-08-06T14:25:31Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="olvas%C3%A1s" label="olvasás"/>
+		<category scheme="https://ktamas.github.io/tags" term="olvas%C3%A1s" label="olvasás"/>
 		<summary>Ma csak két olvasnivaló lesz, de azt hiszem, ez a kettő bőven elég, iszonyat jó, de annál szomorúbb sztorik ezek.
 – You Owe Me. The children I write with die, no matter how much I love them, no matter how creative they are, no matter how many poems they have written, or how much they want to live. Ezzel a mondattal kezdődik Miah Arnold irománya, akik halálos beteg gyerekeket tanít verseket és prózákat írni.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Ma csak két olvasnivaló lesz, de azt hiszem, ez a kettő bőven elég, iszonyat jó, de annál szomorúbb sztorik ezek.</p>
 
 <p>&#8211; <a href="http://quod.lib.umich.edu/cgi/t/text/text-idx?cc=mqr;c=mqr;c=mqrarchive;idno=act2080.0050.112;rgn=main;view=text;xc=1;g=mqrg&amp;buffer_share=10e40">You Owe Me</a>. <em>The children I write with die, no matter how much I love them, no matter how creative they are, no matter how many poems they have written, or how much they want to live.</em> Ezzel a mondattal kezdődik Miah Arnold irománya, akik halálos beteg gyerekeket tanít verseket és prózákat írni. Nem lesz vidámabb, ettől még szerintem kötelező olvasmány.</p>
@@ -67,59 +67,59 @@ Love on the March. A melegjogok története Amerikában, egészen 2012 November�
 <p>&#8211; <a href="http://the-toast.net/2013/07/04/things-of-which-i-may-not-speak/">There Are Things of Which I May Not Speak</a>. Anne Helen Petersen sztorija arról, hogy szerinte mindenki életében van egy pont, egy esemény, amikortól felnőtté válik az ember. A szerzőnél ez a pillanat az volt, mikor meghalt a barátja az iraki háborúban.</p>
 
 <footer>
-    <a title="Permanent link to “Napi olvasnivaló: szomorú kedd”" href="https://blog.ktamas.com/index.php/2013/08/06/napi-olvasnivalo-szomoru-kedd/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Napi olvasnivaló: szomorú kedd”" href="https://ktamas.github.io/index.php/2013/08/06/napi-olvasnivalo-szomoru-kedd/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/olvas%C3%A1s/">olvasás</a></li>
+                <li><a href="https://ktamas.github.io/tags/olvas%C3%A1s/">olvasás</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2013/08/05/napi-olvasnivalo-roadok-es-sun/</id>
+		<id>https://ktamas.github.io/index.php/2013/08/05/napi-olvasnivalo-roadok-es-sun/</id>
 		<title>Napi olvasnivaló: Roadok és Sun</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/08/05/napi-olvasnivalo-roadok-es-sun/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/08/05/napi-olvasnivalo-roadok-es-sun/"/>
 		<updated>2013-08-05T14:13:28Z</updated>
 		<published>2013-08-05T14:13:28Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="olvas%C3%A1s" label="olvasás"/>
+		<category scheme="https://ktamas.github.io/tags" term="olvas%C3%A1s" label="olvasás"/>
 		<summary>Alapvetően borzasztóan szeretem az ún. oral history kategóriába eső könyveket-irományokat: nem tudok igazán jó fordítást a műfajra, alapvetően valaminek a története sztorizgatva elmesélve. Ezért van például az igen kis könyvespolcomon kötelezően egy példány Ómolnár Miklós A rock napszámosai c. könyvéből is, ami ennek a műfajnak az egyik remekműve, ebben magyar roadok (a zenekarok háttértechnikusai) mesélnek az életükről, világukról, majdnem három évtizeden keresztül, 1987-ig. Az egésszel amúgy édesapám fertőzött meg, ő roadkodott egy ideig.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Alapvetően borzasztóan szeretem az ún. oral history kategóriába eső könyveket-irományokat: nem tudok igazán jó fordítást a műfajra, alapvetően valaminek a története sztorizgatva elmesélve. Ezért van például az igen kis könyvespolcomon kötelezően egy példány Ómolnár Miklós <a href="http://moly.hu/konyvek/omolnar-miklos-a-rock-napszamosai">A rock napszámosai</a> c. könyvéből is, ami ennek a műfajnak az egyik remekműve, ebben magyar roadok (a zenekarok háttértechnikusai) mesélnek az életükről, világukról, majdnem három évtizeden keresztül, 1987-ig. Az egésszel amúgy édesapám fertőzött meg, ő roadkodott egy ideig.</p>
 
 <p>Az új kedvenc pedig Nancy Hauge irományai, aki a nyolcvanas és a kilencvenes években volt a Sun Microsystemsnél főleg HR-es, és még 2010-ben írt meg (amikor az Oracle felvásárolta a céget) egy csomó remek sztorit iszonyat szórakoztató stílusban. <a href="https://news.ycombinator.com/item?id=6093556">Itt a linkgyűjtemény a posztokhoz</a>.</p>
 
 <footer>
-    <a title="Permanent link to “Napi olvasnivaló: Roadok és Sun”" href="https://blog.ktamas.com/index.php/2013/08/05/napi-olvasnivalo-roadok-es-sun/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Napi olvasnivaló: Roadok és Sun”" href="https://ktamas.github.io/index.php/2013/08/05/napi-olvasnivalo-roadok-es-sun/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/olvas%C3%A1s/">olvasás</a></li>
+                <li><a href="https://ktamas.github.io/tags/olvas%C3%A1s/">olvasás</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2013/07/25/napi-olvasnivalo-amerikai-beavatas-a-francia-divat-idegenlegiojaba/</id>
+		<id>https://ktamas.github.io/index.php/2013/07/25/napi-olvasnivalo-amerikai-beavatas-a-francia-divat-idegenlegiojaba/</id>
 		<title>Napi olvasnivaló: amerikai beavatás a francia divat idegenlégiójába</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/07/25/napi-olvasnivalo-amerikai-beavatas-a-francia-divat-idegenlegiojaba/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/07/25/napi-olvasnivalo-amerikai-beavatas-a-francia-divat-idegenlegiojaba/"/>
 		<updated>2013-07-25T14:20:23Z</updated>
 		<published>2013-07-25T14:20:23Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="olvas%C3%A1s" label="olvasás"/>
+		<category scheme="https://ktamas.github.io/tags" term="olvas%C3%A1s" label="olvasás"/>
 		<summary>A mai olvasnivalók:
 – How Zara Grew Into the World’s Largest Fashion Retailer. A Zara nagyon remek üzleti érzékkel vált a világ egyik legnagyobb divatüzletláncává, úgy, hogy a gyártás például a mai napig spanyolországban van, nem indiában vagy kínában — csak így tudják eszement sebességgel változtatni folyamatosan a kínálatot.
 – The Expendables. Megjött a cikk, ami szépen, aprólékosan lerombolja minden romantikát, amit valaha is felépítettél magadban a francia idegenlégióval kapcsolatban. A szerző több hónapot tölt el változatos helyeken, alaposan körbejárva a légió múltját, jelenjét és jövőjét.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>A mai olvasnivalók:</p>
 
 <p>&#8211; <a href="http://www.nytimes.com/2012/11/11/magazine/how-zara-grew-into-the-worlds-largest-fashion-retailer.html?_r=3&amp;pagewanted=all&amp;">How Zara Grew Into the World’s Largest Fashion Retailer</a>. A Zara nagyon remek üzleti érzékkel vált a világ egyik legnagyobb divatüzletláncává, úgy, hogy a gyártás például a mai napig spanyolországban van, nem indiában vagy kínában &#8212; csak így tudják eszement sebességgel változtatni folyamatosan a kínálatot.</p>
@@ -129,31 +129,31 @@ Love on the March. A melegjogok története Amerikában, egészen 2012 November�
 <p>&#8211; <a href="http://www.tampabay.com/news/humaninterest/recounting-the-deadly-hazing-that-destroyed-famu-bands-reputation/1260765">Recounting the deadly hazing that destroyed FAMU band&#8217;s reputation</a>. A Florida A&amp;M Egyetem &#8220;Marching 100&#8221; nevű rezesbandája országszerte híres volt, játszott a Superbowl szünetében&#8230; aztán a tagok egyszer túl messze mentek az egészen kegyetlen beavatási szertartásaikkal.</p>
 
 <footer>
-    <a title="Permanent link to “Napi olvasnivaló: amerikai beavatás a francia divat idegenlégiójába”" href="https://blog.ktamas.com/index.php/2013/07/25/napi-olvasnivalo-amerikai-beavatas-a-francia-divat-idegenlegiojaba/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Napi olvasnivaló: amerikai beavatás a francia divat idegenlégiójába”" href="https://ktamas.github.io/index.php/2013/07/25/napi-olvasnivalo-amerikai-beavatas-a-francia-divat-idegenlegiojaba/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/olvas%C3%A1s/">olvasás</a></li>
+                <li><a href="https://ktamas.github.io/tags/olvas%C3%A1s/">olvasás</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2013/07/24/napi-olvasnivalo-kansas-szovjet-antiszemitizmus-es-nickelback/</id>
+		<id>https://ktamas.github.io/index.php/2013/07/24/napi-olvasnivalo-kansas-szovjet-antiszemitizmus-es-nickelback/</id>
 		<title>Napi olvasnivaló: Kansas, szovjet antiszemitizmus és Nickelback</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/07/24/napi-olvasnivalo-kansas-szovjet-antiszemitizmus-es-nickelback/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/07/24/napi-olvasnivalo-kansas-szovjet-antiszemitizmus-es-nickelback/"/>
 		<updated>2013-07-24T14:25:56Z</updated>
 		<published>2013-07-24T14:25:56Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="olvas%C3%A1s" label="olvasás"/>
+		<category scheme="https://ktamas.github.io/tags" term="olvas%C3%A1s" label="olvasás"/>
 		<summary>Mára akkor:
 – Can’t a guy just make some friends around here? Maybe. Főhősünk egy átlagos amerikai nagyvárosba költözik, valahol a keleti és a nyugati part között, és szociális életet szeretne építeni magának. Nem egyszerű.
 – The Fifth problem: math &amp; anti-Semitism in the Soviet Union. A Szovjetunióban lévő erős antiszemitizmussal való találkozását meséli el a szerző, akinek bár explicit megmondták, hogy moszkvai egyetemre nem vesznek fel zsidókat, ő dafke megpróbálta.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Mára akkor:</p>
 
 <p>&#8211; <a href="http://www.pitch.com/kansascity/alone-in-kc/Content?oid=3057325&amp;showFullText=true&amp;src=longreads">Can&#8217;t a guy just make some friends around here? Maybe.</a> Főhősünk egy átlagos amerikai nagyvárosba költözik, valahol a keleti és a nyugati part között, és szociális életet szeretne építeni magának. Nem egyszerű.</p>
@@ -167,31 +167,31 @@ Love on the March. A melegjogok története Amerikában, egészen 2012 November�
 <p>(Ez a Readlist dolog az evek folyaman sajnos eltort. RIP.)</p>
 
 <footer>
-    <a title="Permanent link to “Napi olvasnivaló: Kansas, szovjet antiszemitizmus és Nickelback”" href="https://blog.ktamas.com/index.php/2013/07/24/napi-olvasnivalo-kansas-szovjet-antiszemitizmus-es-nickelback/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Napi olvasnivaló: Kansas, szovjet antiszemitizmus és Nickelback”" href="https://ktamas.github.io/index.php/2013/07/24/napi-olvasnivalo-kansas-szovjet-antiszemitizmus-es-nickelback/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/olvas%C3%A1s/">olvasás</a></li>
+                <li><a href="https://ktamas.github.io/tags/olvas%C3%A1s/">olvasás</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2013/07/23/napi-olvasnivalo-csodagyerekek-hosszu-eletu-emberek-es-egy-bizarr-golfpalya/</id>
+		<id>https://ktamas.github.io/index.php/2013/07/23/napi-olvasnivalo-csodagyerekek-hosszu-eletu-emberek-es-egy-bizarr-golfpalya/</id>
 		<title>Napi olvasnivaló: csodagyerekek, hosszú életű emberek és egy bizarr golfpálya</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/07/23/napi-olvasnivalo-csodagyerekek-hosszu-eletu-emberek-es-egy-bizarr-golfpalya/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/07/23/napi-olvasnivalo-csodagyerekek-hosszu-eletu-emberek-es-egy-bizarr-golfpalya/"/>
 		<updated>2013-07-23T14:25:31Z</updated>
 		<published>2013-07-23T14:25:31Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="olvas%C3%A1s" label="olvasás"/>
+		<category scheme="https://ktamas.github.io/tags" term="olvas%C3%A1s" label="olvasás"/>
 		<summary>A mai olvasnivalók pediglen:
 – How Do You Raise a Prodigy? A cikk azt a témát járja körül, hogyan lehet felnevelni egy csodagyerereket. Spoiler: sokféleképpen, és semmiképpen se egyszerűen.
 – The Island Where People Forget to Die. Görögországban, Ikaria szigetén az emberek kiugróan hosszabb ideig élnek, mint kábé bárhol máshol, ami természetesen sok ember figyelmét felkeltette. A cikk szépen körbejárja a témát, a kutatások eredményeit, és azt, hogy lehet, az egész szép lassan meg fog szűnni.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>A mai olvasnivalók pediglen:</p>
 
 <p>&#8211; <a href="http://www.nytimes.com/2012/11/04/magazine/how-do-you-raise-a-prodigy.html?pagewanted=all&amp;_r=0">How Do You Raise a Prodigy?</a> A cikk azt a témát járja körül, hogyan lehet felnevelni egy csodagyerereket. Spoiler: sokféleképpen, és semmiképpen se egyszerűen.</p>
@@ -201,31 +201,31 @@ Love on the March. A melegjogok története Amerikában, egészen 2012 November�
 <p>&#8211; <a href="http://tomorrowthemag.com/articles/a-gated-community">A Gated Community</a>. Louisiana egyetlen maximum biztonságú börtönében van egy golfpálya, amit a helyi rabok tartanak karba. A cikkből azt is megtudjuk, hogy a börtönturizmus egyáltalán nem szokatlan dolog, sőt, régen talán még népszerűbb volt.</p>
 
 <footer>
-    <a title="Permanent link to “Napi olvasnivaló: csodagyerekek, hosszú életű emberek és egy bizarr golfpálya”" href="https://blog.ktamas.com/index.php/2013/07/23/napi-olvasnivalo-csodagyerekek-hosszu-eletu-emberek-es-egy-bizarr-golfpalya/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Napi olvasnivaló: csodagyerekek, hosszú életű emberek és egy bizarr golfpálya”" href="https://ktamas.github.io/index.php/2013/07/23/napi-olvasnivalo-csodagyerekek-hosszu-eletu-emberek-es-egy-bizarr-golfpalya/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/olvas%C3%A1s/">olvasás</a></li>
+                <li><a href="https://ktamas.github.io/tags/olvas%C3%A1s/">olvasás</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2013/07/22/napi-olvasnivalo-tarantino-eszak-korea-es-fitnessz/</id>
+		<id>https://ktamas.github.io/index.php/2013/07/22/napi-olvasnivalo-tarantino-eszak-korea-es-fitnessz/</id>
 		<title>Napi olvasnivaló: Tarantino, Észak-Korea és fitnessz</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/07/22/napi-olvasnivalo-tarantino-eszak-korea-es-fitnessz/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/07/22/napi-olvasnivalo-tarantino-eszak-korea-es-fitnessz/"/>
 		<updated>2013-07-22T14:27:52Z</updated>
 		<published>2013-07-22T14:27:52Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="olvas%C3%A1s" label="olvasás"/>
+		<category scheme="https://ktamas.github.io/tags" term="olvas%C3%A1s" label="olvasás"/>
 		<summary>És akkor itt vannak a mai olvasnivalók:
 – Cinema Tarantino: The Making of Pulp Fiction. A Ponyvaregény Tarantino talán leghíresebb filmje, a Vanity Fair hosszú és igen jó cikkben járja körül a keletkezésének a történet.
 – Dear Leader Dreams of Sushi. Kenji Fujimoto 11 évig volt Észak-Korea fejének személyes séfje, rajta keresztül tudott meg a külvilág egy rakat dolgot az amúgy közismerten igen zárt országról. Nagyon érdekes, hogy a cikk nem teljesen úgy, és abba az irányba halad, ahogy az ember elsőre képzelné — de nem lövöm le előre az egészet.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>És akkor itt vannak a mai olvasnivalók:</p>
 
 <p>&#8211; <a href="http://www.vanityfair.com/hollywood/2013/03/making-of-pulp-fiction-oral-history">Cinema Tarantino: The Making of Pulp Fiction</a>. A Ponyvaregény Tarantino talán leghíresebb filmje, a Vanity Fair hosszú és igen jó cikkben járja körül a keletkezésének a történet.</p>
@@ -235,32 +235,32 @@ Love on the March. A melegjogok története Amerikában, egészen 2012 November�
 <p>&#8211; <a href="http://archive.mensjournal.com/everything-you-know-about-fitness-is-a-lie/print/">Everything You Know About Fitness Is a Lie</a>. A cikk a fitnesszőrületet járja körül, lerombol egy rakat tévhitet, aminek az egyik fontos pontja természtesen az, hogy nem attól leszünk jobb formába, ha puccosabbnál puccosabb kondigépeket használunk, ellenben a jó öreg guggolásokkal &#8212; ha az ember jól csinája! &#8212; remek eredményeket lehet elérni.</p>
 
 <footer>
-    <a title="Permanent link to “Napi olvasnivaló: Tarantino, Észak-Korea és fitnessz”" href="https://blog.ktamas.com/index.php/2013/07/22/napi-olvasnivalo-tarantino-eszak-korea-es-fitnessz/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Napi olvasnivaló: Tarantino, Észak-Korea és fitnessz”" href="https://ktamas.github.io/index.php/2013/07/22/napi-olvasnivalo-tarantino-eszak-korea-es-fitnessz/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/olvas%C3%A1s/">olvasás</a></li>
+                <li><a href="https://ktamas.github.io/tags/olvas%C3%A1s/">olvasás</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2013/07/19/napi-olvasnivalo-2/</id>
+		<id>https://ktamas.github.io/index.php/2013/07/19/napi-olvasnivalo-2/</id>
 		<title>Napi olvasnivaló</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/07/19/napi-olvasnivalo-2/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/07/19/napi-olvasnivalo-2/"/>
 		<updated>2013-07-19T14:35:15Z</updated>
 		<published>2013-07-19T14:35:15Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="olvas%C3%A1s" label="olvasás"/>
+		<category scheme="https://ktamas.github.io/tags" term="olvas%C3%A1s" label="olvasás"/>
 		<summary>A mai napi olvasnivalók pedig:
 – The 4 A.M. Army. Sztori és áttekintés az amerikai ideiglenes alkalmazottaknak elég elkeserítő helyzetéről.
 – How Companies Learn Your Secrets. Remek cikk a magatartáskutatásról, és arról, hogyan használják ezt a cégek arra, hogy többet vásárolj náluk.
 – You’re Distracted. This Professor Can Help. Hatalmas közhely, de a világban egyre több dolog kűzd a figyelmünkért, egyre több inger ér minket. Egy amerikai professzor ezeknek a felismerésére, és kezelésére tanítja a diákjait (és az olvasókat).</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>A mai napi olvasnivalók pedig:</p>
 
 <p>&#8211; <a href="http://nation.time.com/2013/06/27/the-4-am-army/print/">The 4 A.M. Army</a>. Sztori és áttekintés az amerikai ideiglenes alkalmazottaknak elég elkeserítő helyzetéről.</p>
@@ -270,31 +270,31 @@ Love on the March. A melegjogok története Amerikában, egészen 2012 November�
 <p>&#8211; <a href="http://chronicle.com/article/Youre-Distracted-This/138079/">You&#8217;re Distracted. This Professor Can Help.</a> Hatalmas közhely, de a világban egyre több dolog kűzd a figyelmünkért, egyre több inger ér minket. Egy amerikai professzor ezeknek a felismerésére, és kezelésére tanítja a diákjait (és az olvasókat).</p>
 
 <footer>
-    <a title="Permanent link to “Napi olvasnivaló”" href="https://blog.ktamas.com/index.php/2013/07/19/napi-olvasnivalo-2/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Napi olvasnivaló”" href="https://ktamas.github.io/index.php/2013/07/19/napi-olvasnivalo-2/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/olvas%C3%A1s/">olvasás</a></li>
+                <li><a href="https://ktamas.github.io/tags/olvas%C3%A1s/">olvasás</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2013/07/18/napi-olvasnivalo/</id>
+		<id>https://ktamas.github.io/index.php/2013/07/18/napi-olvasnivalo/</id>
 		<title>Napi olvasnivaló</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/07/18/napi-olvasnivalo/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/07/18/napi-olvasnivalo/"/>
 		<updated>2013-07-18T14:31:41Z</updated>
 		<published>2013-07-18T14:31:41Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="olvas%C3%A1s" label="olvasás"/>
+		<category scheme="https://ktamas.github.io/tags" term="olvas%C3%A1s" label="olvasás"/>
 		<summary>Mint azt tegnap felvezettem, elkezdem itt megosztogatni azokat a dolgokat, amiket Instapaperben (vagy egyéb helyeken) elolvastam, és nem képezik részét az egyéb internetes megosztásaimnak, amik általában a napi RSS-olvasáson keresztül mennek.
 – The Shooter, egy nagyon hosszú, nagyon jó profil Az Emberről Aki Lelőtte Osama Bin Ladent.
 – Surviving 12 Hours in Quicksand, ami arról szól, hogyan lehet túlélni egy fél napot a futóhomokban, és örökre lerombolja minden sztereotípiánkat, amit ezzel kapcsolatban felszedtünk különböző filmekből</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Mint azt <a href="http://blog.ktamas.com/index.php/2013/07/17/az-olvasasrol/" title="Az olvasásról">tegnap felvezettem</a>, elkezdem itt megosztogatni azokat a dolgokat, amiket Instapaperben (vagy egyéb helyeken) elolvastam, és nem képezik részét az <a href="http://ktamas.newsblur.com">egyéb internetes megosztásaimnak</a>, amik általában a napi RSS-olvasáson keresztül mennek.</p>
 
 <p>&#8211; <a href="http://cironline.org/node/4139">The Shooter</a>, egy nagyon hosszú, nagyon jó profil Az Emberről Aki Lelőtte Osama Bin Ladent.</p>
@@ -304,32 +304,32 @@ Love on the March. A melegjogok története Amerikában, egészen 2012 November�
 <p>&#8211; <a href="http://www.wired.com/business/2013/06/meditation-mindfulness-silicon-valley/all/">Enlightement Engineers</a>, ami a viszonylag friss, szilíciumvölgyi meditációs mozgalomról szól, ami egészen furcsára torzította az eredeti buddhista tanításokat</p>
 
 <footer>
-    <a title="Permanent link to “Napi olvasnivaló”" href="https://blog.ktamas.com/index.php/2013/07/18/napi-olvasnivalo/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Napi olvasnivaló”" href="https://ktamas.github.io/index.php/2013/07/18/napi-olvasnivalo/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/olvas%C3%A1s/">olvasás</a></li>
+                <li><a href="https://ktamas.github.io/tags/olvas%C3%A1s/">olvasás</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2013/07/17/az-olvasasrol/</id>
+		<id>https://ktamas.github.io/index.php/2013/07/17/az-olvasasrol/</id>
 		<title>Az olvasásról</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/07/17/az-olvasasrol/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/07/17/az-olvasasrol/"/>
 		<updated>2013-07-17T10:15:13Z</updated>
 		<published>2013-07-17T10:15:13Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://blog.ktamas.com/tags" term="olvas%C3%A1s" label="olvasás"/>
-		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://ktamas.github.io/tags" term="olvas%C3%A1s" label="olvasás"/>
+		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
 		<summary>Alig olvasok amióta Svédországban vagyok, sajnos, az iPademen is eladtam kb. a második hónapban, mert azt amúgyis főleg csak olvasásra tartottam már (azóta persze egy iPad mini után vágyakozok, de már majdnem meggyőztem magam, hogy ki kell várni a 2. generációt). Megvan még a Kindle 1-em, amit szintén nagyrészt hanyagolok, amikor viszont olvasok, akkor azt általában az ájfónon teszem.
 Útközben vagyok, az esik kézre, van rá Kindle app — ami újabban kikapcsolhatatlanul kötőjelezi a könyveket, minden esetben angol szabályokkal –, Instapaper kliens, meg a The Magazine.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Alig olvasok amióta Svédországban vagyok, sajnos, az iPademen is eladtam kb. a második hónapban, mert azt amúgyis főleg csak olvasásra tartottam már (azóta persze egy iPad mini után vágyakozok, de már majdnem meggyőztem magam, hogy ki kell várni a 2. generációt). Megvan még a Kindle 1-em, amit szintén nagyrészt hanyagolok, amikor viszont olvasok, akkor azt általában az ájfónon teszem.</p>
 
 <p>Útközben vagyok, az esik kézre, van rá Kindle app &#8212; ami újabban kikapcsolhatatlanul kötőjelezi a könyveket, minden esetben angol szabályokkal &#8211;, Instapaper kliens, meg a <a href="http://the-magazine.org/">The Magazine</a>. Ez utóbbi még <a href="http://www.marco.org/2012/10/11/the-magazine">tavaly ősszel indult</a>, aztán tavasszal beleolvastam, és bár az első pár szám kicsit gyenge, a minőség egyre csak javul, és azóta fizetem érte a havi 2 dollárt, amiért kapok havonta két számot öt cikkel amiből átlag 2-3 minimum jó, és ennyit már megér a dolog. Sőt, nemrég áttértem éves előfizetésre, igazából véletlen, bénáztam a számlázási rendszerükben, de nem bánom, megéri a pénzét bőven. Akik nem fizettek elő, azok is olvashatnap havi egy cikket, olvassátok el például a <a href="https://the-magazine.org/17/a-ribbon-runs-through-it">A Ribbon Runs Through It</a>-et, ami a varrásról, a <a href="https://the-magazine.org/14/pinball-wizards">Pinball Wizards</a>, ami a flipperrajongókról, <a href="https://the-magazine.org/18/an-inconvenient-tooth">An Inconvenient Tooth</a>, ami a portlandiak fluoridellenességéről, vagy a <a href="https://the-magazine.org/15/give-it-your-best-shot">Give It Your Best Shot</a>, ami az amerikai oltásellenes mozgalomról szól.</p>
@@ -343,14 +343,14 @@ Love on the March. A melegjogok története Amerikában, egészen 2012 November�
 <p>&#8211; <a href="http://www.gwern.net/Silk%20Road">Silk Road: Theory &amp; Practice</a>, ami a híres-hírhedt bitcoinos online drogpiacról szól.</p>
 
 <footer>
-    <a title="Permanent link to “Az olvasásról”" href="https://blog.ktamas.com/index.php/2013/07/17/az-olvasasrol/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Az olvasásról”" href="https://ktamas.github.io/index.php/2013/07/17/az-olvasasrol/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/olvas%C3%A1s/">olvasás</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://ktamas.github.io/tags/olvas%C3%A1s/">olvasás</a></li>
+                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
             </ul>
         </div>
 </footer>]]></content>

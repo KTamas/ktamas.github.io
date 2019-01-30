@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
-	<id>https://blog.ktamas.com/tags/vend%C3%A9gek/</id>
+	<id>https://ktamas.github.io/tags/vend%C3%A9gek/</id>
 	<title>vendégek on KTamas&#39; blog</title>
 	<subtitle>An ongoing list of KTamas' blog posts about vendégek</subtitle>
 	<updated>2013-08-08T14:39:49Z</updated>
-	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/vend%C3%A9gek/feed.xml"/>
-	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/vend%C3%A9gek/"/>
-	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/vend%C3%A9gek/feed.json"/>
+	<link rel="self" type="application/atom+xml" href="https://ktamas.github.io/tags/vend%C3%A9gek/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/vend%C3%A9gek/"/>
+	<link rel="alternate" type="application/json" href="https://ktamas.github.io/tags/vend%C3%A9gek/feed.json"/>
 	<author>
 		<name>KTamas</name>
-		<uri>https://blog.ktamas.com/</uri>
+		<uri>https://ktamas.github.io/</uri>
 	</author>
 	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
-	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
+	<icon>"https://ktamas.github.io/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2013/08/08/a-ben-jerrysrol/</id>
+		<id>https://ktamas.github.io/index.php/2013/08/08/a-ben-jerrysrol/</id>
 		<title>A Ben &amp;#038; Jerry&amp;#8217;sről</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/08/08/a-ben-jerrysrol/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/08/08/a-ben-jerrysrol/"/>
 		<updated>2013-08-08T14:39:49Z</updated>
 		<published>2013-08-08T14:39:49Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://blog.ktamas.com/tags" term="fagyi" label="fagyi"/>
-		<category scheme="https://blog.ktamas.com/tags" term="kaja" label="kaja"/>
-		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
-		<category scheme="https://blog.ktamas.com/tags" term="vend%C3%A9gek" label="vendégek"/>
+		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://ktamas.github.io/tags" term="fagyi" label="fagyi"/>
+		<category scheme="https://ktamas.github.io/tags" term="kaja" label="kaja"/>
+		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://ktamas.github.io/tags" term="vend%C3%A9gek" label="vendégek"/>
 		<summary>A Ben &amp; Jerry’s nekem mindig is legenda volt a fagylaltok tekintetében, ódákat zengettek róla az interneten. Ellenben először sehol, utána pedig csak a Culinarisban lehetett beszerezni pesten, méregdrágán, szóval sohasem jutottam el odáig, hogy megkóstoljak akár egyet is. Közben aztán laktózérzékeny lettem, és a laktóztabletták se voltak tökéletesek, így végképp hanyagolva lett a dolog.
 Itt Svédországban a márka termékei azonban minden nagyobb boltban megtalálhatóak, széles választékban, ráadásul itteni viszonylatban nem is igazán drágán: persze, drágább, mint a fagyik nagy része, de egyáltalán nem kiugróan, egy félliteres bödön belőle 49 SEK.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>A Ben &amp; Jerry&#8217;s nekem mindig is legenda volt a fagylaltok tekintetében, ódákat zengettek róla az interneten. Ellenben először sehol, utána pedig csak a Culinarisban lehetett beszerezni pesten, méregdrágán, szóval sohasem jutottam el odáig, hogy megkóstoljak akár egyet is. Közben aztán laktózérzékeny lettem, és a laktóztabletták se voltak tökéletesek, így végképp hanyagolva lett a dolog.</p>
 
 <p>Itt Svédországban a márka termékei azonban minden nagyobb boltban megtalálhatóak, széles választékban, ráadásul itteni viszonylatban nem is igazán drágán: persze, drágább, mint a fagyik nagy része, de egyáltalán nem kiugróan, egy félliteres bödön belőle 49 SEK. Eredetileg azt terveztem, hogy meghívom a vendégeimet rá, én meg csak egy-két falat erejéig kipróbálom; persze az lett belőle, hogy a harmadik kanál után úgy döntöttem, ezt nem lehet abbahagyni, megkerestem a múltkorról megmaradt laktóztablettáimat, és lesz ami lesz, bevettem kettőt, majd belevetettem magamat a fagylaltevésbe.</p>
@@ -45,35 +45,35 @@ Itt Svédországban a márka termékei azonban minden nagyobb boltban megtalálh
 <p>Augusztusban is lesznek vendégeim&#8230;</p>
 
 <footer>
-    <a title="Permanent link to “A Ben &amp;#038; Jerry&amp;#8217;sről”" href="https://blog.ktamas.com/index.php/2013/08/08/a-ben-jerrysrol/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “A Ben &amp;#038; Jerry&amp;#8217;sről”" href="https://ktamas.github.io/index.php/2013/08/08/a-ben-jerrysrol/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/fagyi/">fagyi</a></li>
-                <li><a href="https://blog.ktamas.com/tags/kaja/">kaja</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
-                <li><a href="https://blog.ktamas.com/tags/vend%C3%A9gek/">vendégek</a></li>
+                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://ktamas.github.io/tags/fagyi/">fagyi</a></li>
+                <li><a href="https://ktamas.github.io/tags/kaja/">kaja</a></li>
+                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://ktamas.github.io/tags/vend%C3%A9gek/">vendégek</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2013/08/08/lazabb-szombat-es-vasarnap-meg-kicsi-hetfo/</id>
+		<id>https://ktamas.github.io/index.php/2013/08/08/lazabb-szombat-es-vasarnap-meg-kicsi-hetfo/</id>
 		<title>Lazább szombat és vasárnap (meg kicsi hétfő)</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/08/08/lazabb-szombat-es-vasarnap-meg-kicsi-hetfo/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/08/08/lazabb-szombat-es-vasarnap-meg-kicsi-hetfo/"/>
 		<updated>2013-08-08T11:25:39Z</updated>
 		<published>2013-08-08T11:25:39Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
-		<category scheme="https://blog.ktamas.com/tags" term="vend%C3%A9gek" label="vendégek"/>
+		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://ktamas.github.io/tags" term="vend%C3%A9gek" label="vendégek"/>
 		<summary>A szombatot lazára fogtuk: én ugyan nem, de Bencze és főleg Hanna jó sokáig aludt. A reggelit emiatt kollektíve kihagytuk és elmentünk újra a Jensen’sbe ebédelni. Utána bóklásztunk kicsit a városban, majd megnéztük a Wallenberg-emlékszobrot, ami egy szép nagy kődarab rajta a fiatalkori képével. Ezek után elmentünk bevásárolni, vettünk többek között fagyit (Ben &amp; Jerry’s, ők külön posztot kapnak), én otthon maradtam pihenni, ők meg elmentek a tőlem nem messze lévő Slottskugen parkba sétálni.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>A szombatot lazára fogtuk: én ugyan nem, de Bencze és főleg Hanna jó sokáig aludt. A reggelit emiatt kollektíve kihagytuk és elmentünk újra a Jensen&#8217;sbe ebédelni. Utána bóklásztunk kicsit a városban, majd megnéztük a Wallenberg-emlékszobrot, ami egy szép nagy kődarab rajta a fiatalkori képével. Ezek után elmentünk bevásárolni, vettünk többek között fagyit (Ben &amp; Jerry&#8217;s, ők külön posztot kapnak), én otthon maradtam pihenni, ők meg elmentek a tőlem nem messze lévő Slottskugen parkba sétálni. Este újranéztük a Red c. filmet, megittunk közbe egy üveg bort (a borok is kapnak saját posztot), utána még beszélgettünk kicsit.</p>
 
 <p>Vasárnap természetesen gyülekezet, jó volt, ráadásul sokan is voltak most, részben a pénteknél már emlegetett két család, részben meg elkezdtek emberek megjönni a nyaralásból. Igét a mozambikben lévő misszionárius családapa hírdetett, én meg közben tolmácsoltam magyarra Benczének, ami nehezebb volt mint gondoltam: leginkább, mert a csóka először elmondott egy mondatot svédül, majd azt lefordította valaki angolra, és én azt tudtam fordítani magyarra, de közben jött már a következő svéd ami aztán ment angolra ami aztán&#8230; néha kicsit elvesztettem a fonalat, meg amúgyse tolmácsoltam már több éve, de összességében sikeresen átment a lényeg.</p>
@@ -103,34 +103,34 @@ Itt Svédországban a márka termékei azonban minden nagyobb boltban megtalálh
 </div>
 
 <footer>
-    <a title="Permanent link to “Lazább szombat és vasárnap (meg kicsi hétfő)”" href="https://blog.ktamas.com/index.php/2013/08/08/lazabb-szombat-es-vasarnap-meg-kicsi-hetfo/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Lazább szombat és vasárnap (meg kicsi hétfő)”" href="https://ktamas.github.io/index.php/2013/08/08/lazabb-szombat-es-vasarnap-meg-kicsi-hetfo/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
-                <li><a href="https://blog.ktamas.com/tags/vend%C3%A9gek/">vendégek</a></li>
+                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://ktamas.github.io/tags/vend%C3%A9gek/">vendégek</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2013/08/07/hono-szigeten-pentek/</id>
+		<id>https://ktamas.github.io/index.php/2013/08/07/hono-szigeten-pentek/</id>
 		<title>Hönö szigetén péntek</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/08/07/hono-szigeten-pentek/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/08/07/hono-szigeten-pentek/"/>
 		<updated>2013-08-07T11:35:42Z</updated>
 		<published>2013-08-07T11:35:42Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
-		<category scheme="https://blog.ktamas.com/tags" term="vend%C3%A9gek" label="vendégek"/>
+		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://ktamas.github.io/tags" term="vend%C3%A9gek" label="vendégek"/>
 		<summary>(Ez a pár poszt július végéről pár napot dokumentál. Kicsit elmaradtam a blogolással, szóval csak most. A dolgot ebben a posztban vezettem fel.)
 Csütörtök este az volt a nagy kérdés, hogy az északi vagy a déli szigetekre menjünk: mindenki szinte mindig a délieket ajánlja, ellenben, mikor itt voltak a szüleim, ők bejárták az összes északit, és voltak délen is, és nekik észak sokkal jobban bejött. Hosszas vacilálás és guglizás után észak lett kiválasztva, azon belül is Hönö szigete.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p><em>(<a href="http://blog.ktamas.com/index.php/2013/08/06/flashback-megjott-bencze-es-hanna-csutortok/">Ez</a> a pár poszt július végéről pár napot dokumentál. Kicsit elmaradtam a blogolással, szóval csak most. A dolgot <a href="http://blog.ktamas.com/index.php/2013/07/25/allapotjelentes-es-wallander/">ebben a posztban</a> vezettem fel.)</em></p>
 
 <p>Csütörtök este az volt a nagy kérdés, hogy az északi vagy a déli szigetekre menjünk: mindenki szinte mindig a délieket ajánlja, ellenben, mikor itt voltak a szüleim, ők bejárták az összes északit, és voltak délen is, és nekik észak sokkal jobban bejött. Hosszas vacilálás és guglizás után észak lett kiválasztva, azon belül is Hönö szigete. Nem bántuk meg.<figure id="attachment_2365116" style="width: 625px" class="wp-caption aligncenter"></p>
@@ -186,34 +186,34 @@ Csütörtök este az volt a nagy kérdés, hogy az északi vagy a déli szigetek
 <p><a href="/wp-content/uploads/2013/08/2013-07-26-19.11.37.jpg"><img src="/wp-content/uploads/2013/08/2013-07-26-19.11.37-1024x768.jpg" alt="Saláta, a gyülekezetben" width="625" height="468" class="size-large wp-image-2365129" srcset="/wp-content/uploads/2013/08/2013-07-26-19.11.37-1024x768.jpg 1024w, /wp-content/uploads/2013/08/2013-07-26-19.11.37-300x225.jpg 300w, /wp-content/uploads/2013/08/2013-07-26-19.11.37-624x467.jpg 624w" sizes="(max-width: 625px) 100vw, 625px" /></a><figcaption class="wp-caption-text">Saláta, a gyülekezetben</figcaption></figure></p>
 
 <footer>
-    <a title="Permanent link to “Hönö szigetén péntek”" href="https://blog.ktamas.com/index.php/2013/08/07/hono-szigeten-pentek/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Hönö szigetén péntek”" href="https://ktamas.github.io/index.php/2013/08/07/hono-szigeten-pentek/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
-                <li><a href="https://blog.ktamas.com/tags/vend%C3%A9gek/">vendégek</a></li>
+                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://ktamas.github.io/tags/vend%C3%A9gek/">vendégek</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2013/08/06/flashback-megjott-bencze-es-hanna-csutortok/</id>
+		<id>https://ktamas.github.io/index.php/2013/08/06/flashback-megjott-bencze-es-hanna-csutortok/</id>
 		<title>Flashback: Megjött Bencze és Hanna csütörtök</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/08/06/flashback-megjott-bencze-es-hanna-csutortok/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/08/06/flashback-megjott-bencze-es-hanna-csutortok/"/>
 		<updated>2013-08-06T11:53:54Z</updated>
 		<published>2013-08-06T11:53:54Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
-		<category scheme="https://blog.ktamas.com/tags" term="vend%C3%A9gek" label="vendégek"/>
+		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://ktamas.github.io/tags" term="vend%C3%A9gek" label="vendégek"/>
 		<summary>(A következő pár poszt július végéről pár napot dokumentál. Kicsit elmaradtam a blogolással, szóval csak most. A dolgot ebben a posztban vezettem fel.)
 Csütörtök délelőtt megjött Bencze és Hanna, vettünk két 72 órás bérletet, leraktuk a cuccokat az albérletbe, és aztán visszamentünk a városba ebédelni. A Jensen’sbe mentünk, olcsó és jó kaja, kicsit (nem kicsit) lassú cserébe, az ebédmenüs idejük alatt (11-16h) folyamatosan tele van. Nem rohantuk sehova, szóval nem volt gond, ebéd után még beneveztem őket az ottani all-you-can-eat fagyira, amikor kapsz egy kelyhet, és aztán tölthetsz bele ilyen McDonalds-szerű vaníliafagylatot és rakhatsz rá húszféle feltét.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p><em>(A következő pár poszt július végéről pár napot dokumentál. Kicsit elmaradtam a blogolással, szóval csak most. A dolgot <a href="http://blog.ktamas.com/index.php/2013/07/25/allapotjelentes-es-wallander/">ebben a posztban</a> vezettem fel.)</em></p>
 
 <p>Csütörtök délelőtt megjött Bencze és Hanna, vettünk két 72 órás bérletet, leraktuk a cuccokat az albérletbe, és aztán visszamentünk a városba ebédelni. A Jensen&#8217;sbe mentünk, olcsó és jó kaja, kicsit (nem kicsit) lassú cserébe, az ebédmenüs idejük alatt (11-16h) folyamatosan tele van. Nem rohantuk sehova, szóval nem volt gond, ebéd után még beneveztem őket az ottani all-you-can-eat fagyira, amikor kapsz egy kelyhet, és aztán tölthetsz bele ilyen McDonalds-szerű vaníliafagylatot és rakhatsz rá húszféle feltét. Akárhányszor.</p>
@@ -255,14 +255,14 @@ Csütörtök délelőtt megjött Bencze és Hanna, vettünk két 72 órás bérl
 <p>Jól sikerült választani amúgy innivalót estére, de lesz majd külön poszt az elfogyasztott borokról.</p>
 
 <footer>
-    <a title="Permanent link to “Flashback: Megjött Bencze és Hanna csütörtök”" href="https://blog.ktamas.com/index.php/2013/08/06/flashback-megjott-bencze-es-hanna-csutortok/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Flashback: Megjött Bencze és Hanna csütörtök”" href="https://ktamas.github.io/index.php/2013/08/06/flashback-megjott-bencze-es-hanna-csutortok/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
-                <li><a href="https://blog.ktamas.com/tags/vend%C3%A9gek/">vendégek</a></li>
+                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://ktamas.github.io/tags/vend%C3%A9gek/">vendégek</a></li>
             </ul>
         </div>
 </footer>]]></content>

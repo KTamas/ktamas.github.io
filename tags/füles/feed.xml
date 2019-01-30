@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
-	<id>https://blog.ktamas.com/tags/f%C3%BCles/</id>
+	<id>https://ktamas.github.io/tags/f%C3%BCles/</id>
 	<title>füles on KTamas&#39; blog</title>
 	<subtitle>An ongoing list of KTamas' blog posts about füles</subtitle>
 	<updated>2009-07-03T10:00:27Z</updated>
-	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/f%C3%BCles/feed.xml"/>
-	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/f%C3%BCles/"/>
-	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/f%C3%BCles/feed.json"/>
+	<link rel="self" type="application/atom+xml" href="https://ktamas.github.io/tags/f%C3%BCles/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/f%C3%BCles/"/>
+	<link rel="alternate" type="application/json" href="https://ktamas.github.io/tags/f%C3%BCles/feed.json"/>
 	<author>
 		<name>KTamas</name>
-		<uri>https://blog.ktamas.com/</uri>
+		<uri>https://ktamas.github.io/</uri>
 	</author>
 	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
-	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
+	<icon>"https://ktamas.github.io/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2009/07/03/yuin/</id>
+		<id>https://ktamas.github.io/index.php/2009/07/03/yuin/</id>
 		<title>Yuin</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2009/07/03/yuin/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2009/07/03/yuin/"/>
 		<updated>2009-07-03T10:00:27Z</updated>
 		<published>2009-07-03T10:00:27Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="f%C3%BCles" label="füles"/>
-		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
+		<category scheme="https://ktamas.github.io/tags" term="f%C3%BCles" label="füles"/>
+		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
 		<summary>Van ez a kínai cég — tessék szépen tovább olvasni, nem gagyikat csinálnak –, füleseket gyártanak, hagyományos fülhalgatókkal kezdték (PK sorozat), aztán mostmár vannak félig-agybadugós (OK sorozat) meg fülre csiptethető (G sorozat) cuccaik is, ezek közül nekem két PK-val van tapasztalatom.
 PK1
 **
 **
 Erről nem akarok sokat írni, mert nem hallottam élőben, mindenesetre az okosok azt mondják, hogy bitangjól szól, mint egy igazi nagy fejhallgató. Egyetlen hátránya, hogy 150 ohmos, azaz hordozható lejátszó nem nagyon fogja tudni rendesen ‘meghajtani’ — ehhez már rendes hordozható erősítő kell (ezek egészen érdekes és zseniális szerkezetek amikről majdegyszer egy másik postban írok).</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Van ez a kínai cég &#8212; tessék szépen tovább olvasni, nem gagyikat csinálnak &#8211;, füleseket gyártanak, hagyományos fülhalgatókkal kezdték (PK sorozat), aztán mostmár vannak félig-agybadugós (OK sorozat) meg fülre csiptethető (G sorozat) cuccaik is, ezek közül nekem két PK-val van tapasztalatom.</p>
 
 <p><strong>PK1</strong></p>
@@ -63,13 +63,13 @@ Erről nem akarok sokat írni, mert nem hallottam élőben, mindenesetre az okos
 <p>(disclaimer: nem reklámpost, tényleg rajongok ezekért a fülesekért. A képeket szintén a Head-Directtől nyúltuk, remélem nem haragudnak meg majd érte.)</p>
 
 <footer>
-    <a title="Permanent link to “Yuin”" href="https://blog.ktamas.com/index.php/2009/07/03/yuin/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Yuin”" href="https://ktamas.github.io/index.php/2009/07/03/yuin/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/f%C3%BCles/">füles</a></li>
-                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
+                <li><a href="https://ktamas.github.io/tags/f%C3%BCles/">füles</a></li>
+                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>

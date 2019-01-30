@@ -1,70 +1,70 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
-	<id>https://blog.ktamas.com/tags/magyarorsz%C3%A1g/</id>
+	<id>https://ktamas.github.io/tags/magyarorsz%C3%A1g/</id>
 	<title>magyarország on KTamas&#39; blog</title>
 	<subtitle>An ongoing list of KTamas' blog posts about magyarország</subtitle>
 	<updated>2014-01-21T09:46:58Z</updated>
-	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/magyarorsz%C3%A1g/feed.xml"/>
-	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/magyarorsz%C3%A1g/"/>
-	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/magyarorsz%C3%A1g/feed.json"/>
+	<link rel="self" type="application/atom+xml" href="https://ktamas.github.io/tags/magyarorsz%C3%A1g/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/magyarorsz%C3%A1g/"/>
+	<link rel="alternate" type="application/json" href="https://ktamas.github.io/tags/magyarorsz%C3%A1g/feed.json"/>
 	<author>
 		<name>KTamas</name>
-		<uri>https://blog.ktamas.com/</uri>
+		<uri>https://ktamas.github.io/</uri>
 	</author>
 	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
-	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
+	<icon>"https://ktamas.github.io/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2014/01/21/kepek-budapest-201401/</id>
+		<id>https://ktamas.github.io/index.php/2014/01/21/kepek-budapest-201401/</id>
 		<title>Képek (Budapest 2014/01)</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2014/01/21/kepek-budapest-201401/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2014/01/21/kepek-budapest-201401/"/>
 		<updated>2014-01-21T09:46:58Z</updated>
 		<published>2014-01-21T09:46:58Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="budapest" label="budapest"/>
-		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://blog.ktamas.com/tags" term="fot%C3%B3z%C3%A1s" label="fotózás"/>
-		<category scheme="https://blog.ktamas.com/tags" term="magyarorsz%C3%A1g" label="magyarország"/>
-		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://ktamas.github.io/tags" term="budapest" label="budapest"/>
+		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://ktamas.github.io/tags" term="fot%C3%B3z%C3%A1s" label="fotózás"/>
+		<category scheme="https://ktamas.github.io/tags" term="magyarorsz%C3%A1g" label="magyarország"/>
+		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
 		<summary>Mint már mondtam, vannak képek is, most végre kikerültek Lightroomból, fel az internetre. Illetve beillesztve alább.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p><a href="http://blog.ktamas.com/index.php/2014/01/16/25-1-2013-2014/" title="25, 1, 2013, 2014">Mint már mondtam</a>, vannak képek is, most végre kikerültek Lightroomból, <a href="http://www.flickr.com/photos/tamaskadar/sets/72157639982935053/">fel az internetre</a>. Illetve beillesztve alább.</p>
 
 <p><a data-flickr-embed="true"  href="https://www.flickr.com/photos/tamaskadar/albums/72157639982935053" title="Budapest 2014/01"><img src="https://farm3.staticflickr.com/2887/12056478715_7cd373dcc4_z.jpg" width="640" height="513" alt="Budapest 2014/01"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
 
 <footer>
-    <a title="Permanent link to “Képek (Budapest 2014/01)”" href="https://blog.ktamas.com/index.php/2014/01/21/kepek-budapest-201401/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Képek (Budapest 2014/01)”" href="https://ktamas.github.io/index.php/2014/01/21/kepek-budapest-201401/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/budapest/">budapest</a></li>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
-                <li><a href="https://blog.ktamas.com/tags/magyarorsz%C3%A1g/">magyarország</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://ktamas.github.io/tags/budapest/">budapest</a></li>
+                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://ktamas.github.io/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
+                <li><a href="https://ktamas.github.io/tags/magyarorsz%C3%A1g/">magyarország</a></li>
+                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2013/09/30/pesten-penteken/</id>
+		<id>https://ktamas.github.io/index.php/2013/09/30/pesten-penteken/</id>
 		<title>Pesten, pénteken</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/09/30/pesten-penteken/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/09/30/pesten-penteken/"/>
 		<updated>2013-09-30T15:10:21Z</updated>
 		<published>2013-09-30T15:10:21Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://blog.ktamas.com/tags" term="magyarorsz%C3%A1g" label="magyarország"/>
+		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://ktamas.github.io/tags" term="magyarorsz%C3%A1g" label="magyarország"/>
 		<summary>A pénteket azzal kezdtem, hogy megnéztem az Orange is the New Black utolsó két részét az első évadból. Elég vegyesek az érzelmeim a sorozattal kapcsolatban: mindenképpen érdemes megnézni, de zavar, hogy szinte minden aspektusa más, hasonló sorozatokban sokkal jobban meg volt csinálva. Leginkább az Oz jut eszembe, ami nálam az etalon a börtönsorozatok tekintetében, és mindenkinek ajánlom megnézésre.
 Délelőtt vadásztam ajándékot egy jóbarátom születésnapi bulijára, majd elmentem ebédelni az Iguanába Krisztiánnal, ami még mindig egy nagyon remek Tex-Mex étterem, még ha meg is kérik az árát.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>A pénteket azzal kezdtem, hogy megnéztem az Orange is the New Black utolsó két részét az első évadból. Elég vegyesek az érzelmeim a sorozattal kapcsolatban: mindenképpen érdemes megnézni, de zavar, hogy szinte minden aspektusa más, hasonló sorozatokban sokkal jobban meg volt csinálva. Leginkább az Oz jut eszembe, ami nálam az etalon a börtönsorozatok tekintetében, és mindenkinek ajánlom megnézésre.</p>
 
 <p>Délelőtt vadásztam ajándékot egy jóbarátom születésnapi bulijára, majd elmentem ebédelni az <a href="http://iguana.hu/">Iguanába</a> Krisztiánnal, ami még mindig egy nagyon remek Tex-Mex étterem, még ha meg is kérik az árát.</p>
@@ -72,33 +72,33 @@ Délelőtt vadásztam ajándékot egy jóbarátom születésnapi bulijára, majd
 <p>A délutánt az espell irodában töltöttem, jó volt beszélgetni egy csomó emberrel, meg volt időm kicsit pihenni, RSS-t olvasgatni, ilyesmi. Este pedig elmentünk Gazzsal ázni egyet a Széchenyi fürdőbe, ami nagyon jól esett, le is fárasztott rendesen, este gyakorlatilag bezuhantam az ágyba.</p>
 
 <footer>
-    <a title="Permanent link to “Pesten, pénteken”" href="https://blog.ktamas.com/index.php/2013/09/30/pesten-penteken/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Pesten, pénteken”" href="https://ktamas.github.io/index.php/2013/09/30/pesten-penteken/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/magyarorsz%C3%A1g/">magyarország</a></li>
+                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://ktamas.github.io/tags/magyarorsz%C3%A1g/">magyarország</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2013/09/29/pesten-csutortokon/</id>
+		<id>https://ktamas.github.io/index.php/2013/09/29/pesten-csutortokon/</id>
 		<title>Pesten, csütörtökön</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/09/29/pesten-csutortokon/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/09/29/pesten-csutortokon/"/>
 		<updated>2013-09-29T10:31:59Z</updated>
 		<published>2013-09-29T10:31:59Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://blog.ktamas.com/tags" term="fog%C3%A1szat" label="fogászat"/>
-		<category scheme="https://blog.ktamas.com/tags" term="magyarorsz%C3%A1g" label="magyarország"/>
+		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://ktamas.github.io/tags" term="fog%C3%A1szat" label="fogászat"/>
+		<category scheme="https://ktamas.github.io/tags" term="magyarorsz%C3%A1g" label="magyarország"/>
 		<summary>Csütörtök reggel a fogorvosnál kezdtem, sikerült sajnos kicsit elkésnem, mert a buszom is lassú volt, én pedig elnéztem az átszállást. Valamint megtudtam, hogy üres gyomorral nem jó ötlet fogorvoshoz menni, mert akkor nem hat rendesen a helyi érzéstelenítő. Ezt a problémát mindenesetre helyben áthidaltuk.
 A nap legjobb híre mindenképpen az volt, hogy a helyzet a számban egyáltalán nem olyan súlyos, mint ahogy gondoltam, illetve leginkább máshogyan rossz, de ami a lényeg, hogy most rövidtávon nem sok művelet szükséges, és mindez éppen hogy csak, de belefér az anyagi keretembe.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Csütörtök reggel a fogorvosnál kezdtem, sikerült sajnos kicsit elkésnem, mert a buszom is lassú volt, én pedig elnéztem az átszállást. Valamint megtudtam, hogy üres gyomorral nem jó ötlet fogorvoshoz menni, mert akkor nem hat rendesen a helyi érzéstelenítő. Ezt a problémát mindenesetre helyben áthidaltuk.</p>
 
 <p>A nap legjobb híre mindenképpen az volt, hogy a helyzet a számban egyáltalán nem olyan súlyos, mint ahogy gondoltam, illetve leginkább máshogyan rossz, de ami a lényeg, hogy most rövidtávon nem sok művelet szükséges, és mindez éppen hogy csak, de belefér az anyagi keretembe. Külön öröm, hogy a tegnapi fogkőleszedésnek és egy kisebbfajta csodának hála azok a dolgok, amik még a panorámán lyuknak tűntek, másnap már egyáltalán nem voltak azok. Így aznap sikerült mindent megcsinálni: két fogamon kicserélni-megerősíteni a tömést, egy harmadikon meg megerősíteni a tizenkevés éve készült pótlást, illetve két kicsit egymásba dőlt fogat szétválasztani.</p>
@@ -110,34 +110,34 @@ A nap legjobb híre mindenképpen az volt, hogy a helyzet a számban egyáltalá
 <p>Kaptam kölcsön egyébként Krisztiántól többek között egy elsőgenerációs Kindle Fire-t pár napra, leginkább játszani vele, meg megnézni, hol is tart ez az androidos tablet dolog. Felraktam rá a legfrissebb CyanogenModot, meg egy jó adag appot, és az összkép, nos, továbbra is siralmas. Mert ha kivonom az egészből a hardver limitációit (kevés memória, alacsony felbontású kijelző), akkor is az marad, hogy az appok túlnyomó többsége nincs rendesen tabletre optimalizálva, ami igen, azt is lehetne sokkal jobban. Így, bár szemezgettem egy Nexus 7-ttel, csak az lesz, hogy megvárom az októberi új iPadeket, és reménykedek, hogy lesz retinás mini.</p>
 
 <footer>
-    <a title="Permanent link to “Pesten, csütörtökön”" href="https://blog.ktamas.com/index.php/2013/09/29/pesten-csutortokon/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Pesten, csütörtökön”" href="https://ktamas.github.io/index.php/2013/09/29/pesten-csutortokon/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/fog%C3%A1szat/">fogászat</a></li>
-                <li><a href="https://blog.ktamas.com/tags/magyarorsz%C3%A1g/">magyarország</a></li>
+                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://ktamas.github.io/tags/fog%C3%A1szat/">fogászat</a></li>
+                <li><a href="https://ktamas.github.io/tags/magyarorsz%C3%A1g/">magyarország</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2013/09/28/pesten-kedden-es-szerdan/</id>
+		<id>https://ktamas.github.io/index.php/2013/09/28/pesten-kedden-es-szerdan/</id>
 		<title>Pesten, kedden és szerdán</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/09/28/pesten-kedden-es-szerdan/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/09/28/pesten-kedden-es-szerdan/"/>
 		<updated>2013-09-28T12:23:16Z</updated>
 		<published>2013-09-28T12:23:16Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://blog.ktamas.com/tags" term="fogorvos" label="fogorvos"/>
-		<category scheme="https://blog.ktamas.com/tags" term="magyarorsz%C3%A1g" label="magyarország"/>
+		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://ktamas.github.io/tags" term="fogorvos" label="fogorvos"/>
+		<category scheme="https://ktamas.github.io/tags" term="magyarorsz%C3%A1g" label="magyarország"/>
 		<summary>Kedd este leszállt a repülőgépem, vettem egy BKV-jegyet, elmentem a KöKire, vettem még pár jegyet, és elbékávéztam Keltékhez, akinél lakni fogok amíg itt vagyok. Erre a napra más már nem nagyon jutott, leginkább az alvás.
 Szerdán elmentem reggel csinálni egy digitális körpanorámát a fogaimról, majd a fogorvosomnál folytattam. A kettő között a biztonság kedvéért leöntöttem egy kis teával a Macbook billentyűzetét, aminek a folyománya, hogy az most nem annyira működik, egy USB-ssel gépelem ezt a posztot is, nem vagyok túl boldog ettől.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Kedd este leszállt a repülőgépem, vettem egy BKV-jegyet, elmentem a KöKire, vettem még pár jegyet, és elbékávéztam <a href="https://twitter.com/kelt">Kelt</a>ékhez, akinél lakni fogok amíg itt vagyok. Erre a napra más már nem nagyon jutott, leginkább az alvás.</p>
 
 <p>Szerdán elmentem reggel csinálni egy digitális körpanorámát a fogaimról, majd a fogorvosomnál folytattam. A kettő között a biztonság kedvéért leöntöttem egy kis teával a Macbook billentyűzetét, aminek a folyománya, hogy az most nem annyira működik, egy USB-ssel gépelem ezt a posztot is, nem vagyok túl boldog ettől.</p>
@@ -147,34 +147,34 @@ Szerdán elmentem reggel csinálni egy digitális körpanorámát a fogaimról, 
 <p>Ezekután elmentem az óbudai Eurocenterbe, az elhagyott magyar SIM kártyám pótlására, és most sikerült úgy és olyan mobilinternetet rakni rá, ami kell, májusban a hülye rendszer miatt eléggé megszívtam ezzel. Zárásképpen pedig este megittünk egy sört Kelttel és <a href="http://twitter.com/gazs">Gazzsal</a> a <a href="http://sorspecialista.hu/">Ganz</a>ban.</p>
 
 <footer>
-    <a title="Permanent link to “Pesten, kedden és szerdán”" href="https://blog.ktamas.com/index.php/2013/09/28/pesten-kedden-es-szerdan/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Pesten, kedden és szerdán”" href="https://ktamas.github.io/index.php/2013/09/28/pesten-kedden-es-szerdan/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/fogorvos/">fogorvos</a></li>
-                <li><a href="https://blog.ktamas.com/tags/magyarorsz%C3%A1g/">magyarország</a></li>
+                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://ktamas.github.io/tags/fogorvos/">fogorvos</a></li>
+                <li><a href="https://ktamas.github.io/tags/magyarorsz%C3%A1g/">magyarország</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2013/09/06/szolgalati-kozlemenyek-uj-munka-es-fogorvosturizmus/</id>
+		<id>https://ktamas.github.io/index.php/2013/09/06/szolgalati-kozlemenyek-uj-munka-es-fogorvosturizmus/</id>
 		<title>Szolgálati közlemények: új munka és fogorvosturizmus</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/09/06/szolgalati-kozlemenyek-uj-munka-es-fogorvosturizmus/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/09/06/szolgalati-kozlemenyek-uj-munka-es-fogorvosturizmus/"/>
 		<updated>2013-09-06T15:39:28Z</updated>
 		<published>2013-09-06T15:39:28Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://blog.ktamas.com/tags" term="magyarorsz%C3%A1g" label="magyarország"/>
-		<category scheme="https://blog.ktamas.com/tags" term="munka" label="munka"/>
-		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://ktamas.github.io/tags" term="magyarorsz%C3%A1g" label="magyarország"/>
+		<category scheme="https://ktamas.github.io/tags" term="munka" label="munka"/>
+		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
 		<summary>Hihetetlen mennyi minden tud változni három nap alatt, például az, hogy rekordgyorsasággal vettek fel az új munkahelyemre. Tanácsadócég, WCOM a neve, remek lesz többek között arra, hogy megismerkedjek ezzel a világgal. Nagyobb részben rendszergazdasággal, kisebb részben programozással fogok ott foglalkozni, kifejezetten problémamegoldós meló, ami nekem nagyon fekszik. Szűk hónap múlva kezdek ott, izgalmas lesz. Borzasztóan hiányozni fog a mostani munkahelyem meg a kollégák, ugyanakkor jelentős előrelépés lesz egy csomó tekintetben ez a váltás.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Hihetetlen mennyi minden tud változni három nap alatt, például az, hogy rekordgyorsasággal vettek fel az új munkahelyemre. Tanácsadócég, <a href="http://wcom.se">WCOM</a> a neve, remek lesz többek között arra, hogy megismerkedjek ezzel a világgal. Nagyobb részben rendszergazdasággal, kisebb részben programozással fogok ott foglalkozni, kifejezetten problémamegoldós meló, ami nekem nagyon fekszik. Szűk hónap múlva kezdek ott, izgalmas lesz. Borzasztóan hiányozni fog a mostani munkahelyem meg a kollégák, ugyanakkor jelentős előrelépés lesz egy csomó tekintetben ez a váltás.</p>
 
 <p>Ugyanitt, a hónap végén (szept 24 &#8211; okt 3) jövök egy bő hétre Pestre, fogorvosturistáskodni, ugyanis itt valami embertelen drága a fogászat. Hallottam már számokat ismerősöktől korábban, de az előbb megnéztem a <a href="http://www.citydental.se/priser.asp">legolcsóbb és legrosszabb hírrel rendelkező stockholmi fogászat árait</a>, és hát lementem hídba.</p>
@@ -182,36 +182,36 @@ Szerdán elmentem reggel csinálni egy digitális körpanorámát a fogaimról, 
 <p>Igen tudom kimaradt egy teljes augusztus blogolásilag, egyszer majd összeszedem magam.</p>
 
 <footer>
-    <a title="Permanent link to “Szolgálati közlemények: új munka és fogorvosturizmus”" href="https://blog.ktamas.com/index.php/2013/09/06/szolgalati-kozlemenyek-uj-munka-es-fogorvosturizmus/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Szolgálati közlemények: új munka és fogorvosturizmus”" href="https://ktamas.github.io/index.php/2013/09/06/szolgalati-kozlemenyek-uj-munka-es-fogorvosturizmus/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/magyarorsz%C3%A1g/">magyarország</a></li>
-                <li><a href="https://blog.ktamas.com/tags/munka/">munka</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://ktamas.github.io/tags/magyarorsz%C3%A1g/">magyarország</a></li>
+                <li><a href="https://ktamas.github.io/tags/munka/">munka</a></li>
+                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2013/05/19/kultursokk-es-honvagy-napok/</id>
+		<id>https://ktamas.github.io/index.php/2013/05/19/kultursokk-es-honvagy-napok/</id>
 		<title>Kultúrsokk és honvágy napok</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/05/19/kultursokk-es-honvagy-napok/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/05/19/kultursokk-es-honvagy-napok/"/>
 		<updated>2013-05-19T10:12:08Z</updated>
 		<published>2013-05-19T10:12:08Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://blog.ktamas.com/tags" term="magyarorsz%C3%A1g" label="magyarország"/>
-		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://ktamas.github.io/tags" term="magyarorsz%C3%A1g" label="magyarország"/>
+		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
 		<summary>Kicsit (nagyon) könnyen beszéltem, amikor úgy gondoltam, hogy három hónap után már túl vagyok a kultúrsokk fázisain. Volt egy csomó elképzelésem arról, hogy mi lesz, mikor hazamegyek Magyarországra először ennyi idő után szűk két hétre: ennek egy jórésze egyébként úgy is volt, ahogy gondoltam. De aztán hazajövök, ide, Svédországba, és minden megy tovább úgy, ahogy eddig ment.
 Hát egy frászt. Az igazi kultúrsokk most ütött be.
 Mert hazajöttem, és egyrészt nagyon örültem, hogy újra itt vagyok, igyekszem visszazökkenni a napi kerékvágásba, de valahogy sokkal döcögősebben megy, mint azt gondoltam volna.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Kicsit (nagyon) könnyen beszéltem, amikor úgy gondoltam, hogy három hónap után már túl vagyok a kultúrsokk fázisain. Volt egy csomó elképzelésem arról, hogy mi lesz, mikor hazamegyek Magyarországra először ennyi idő után szűk két hétre: ennek egy jórésze egyébként úgy is volt, ahogy gondoltam. De aztán hazajövök, ide, Svédországba, és minden megy tovább úgy, ahogy eddig ment.</p>
 
 <p>Hát egy frászt. Az igazi kultúrsokk most ütött be.</p>
@@ -229,34 +229,34 @@ Mert hazajöttem, és egyrészt nagyon örültem, hogy újra itt vagyok, igyeksz
 <p>(((<em>&#8230;</em>)))</p>
 
 <footer>
-    <a title="Permanent link to “Kultúrsokk és honvágy napok”" href="https://blog.ktamas.com/index.php/2013/05/19/kultursokk-es-honvagy-napok/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Kultúrsokk és honvágy napok”" href="https://ktamas.github.io/index.php/2013/05/19/kultursokk-es-honvagy-napok/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/magyarorsz%C3%A1g/">magyarország</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://ktamas.github.io/tags/magyarorsz%C3%A1g/">magyarország</a></li>
+                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2013/05/14/hazafele-kedden/</id>
+		<id>https://ktamas.github.io/index.php/2013/05/14/hazafele-kedden/</id>
 		<title>Hazafele kedden</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/05/14/hazafele-kedden/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/05/14/hazafele-kedden/"/>
 		<updated>2013-05-14T09:59:50Z</updated>
 		<published>2013-05-14T09:59:50Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://blog.ktamas.com/tags" term="magyarorsz%C3%A1g" label="magyarország"/>
-		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://ktamas.github.io/tags" term="magyarorsz%C3%A1g" label="magyarország"/>
+		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
 		<summary>Kedd reggel van, itt ülök a bőröndömmel egy Starbucksban, leginkább, mert itt van kávé is, internet is, meg jó helyen van most számomra. Nemsokára kitömegközlekedek Ferihegyre, ahonnan már csak egy köpés Göteborg.
 A pénteki konferencia után voltam egy éjszakát Szentbékkálán, lógtam Gazs kanapéján, volt egy családi ebédem, tegnap pedig volt volt egy fantasztikus ebédem Gáborral, aki a mentorom lassam több, mint 8 (?) éve. Este pedig volt egy sörözésem, ami bár sajnos nem olyan lett, amilyennek szerettem volna, így is nagyon hasznos volt és jól esett.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Kedd reggel van, itt ülök a bőröndömmel egy Starbucksban, leginkább, mert itt van kávé is, internet is, meg jó helyen van most számomra. Nemsokára kitömegközlekedek Ferihegyre, ahonnan már csak egy köpés Göteborg.</p>
 
 <p>A pénteki konferencia után voltam egy éjszakát Szentbékkálán, lógtam Gazs kanapéján, volt egy családi ebédem, tegnap pedig volt volt egy fantasztikus ebédem Gáborral, aki a mentorom lassam több, mint 8 (?) éve. Este pedig volt egy sörözésem, ami bár sajnos nem olyan lett, amilyennek szerettem volna, így is nagyon hasznos volt és jól esett.</p>
@@ -268,34 +268,34 @@ A pénteki konferencia után voltam egy éjszakát Szentbékkálán, lógtam Gaz
 <p>Még valószínű egyszer fogok írni a témáról, ha visszaértem, és kicsit leülepedett bennem már ott a dolog. Holnaptól újra munka, én pedig valószínűleg visszatérek a &#8220;régi&#8221; blogrendre.</p>
 
 <footer>
-    <a title="Permanent link to “Hazafele kedden”" href="https://blog.ktamas.com/index.php/2013/05/14/hazafele-kedden/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Hazafele kedden”" href="https://ktamas.github.io/index.php/2013/05/14/hazafele-kedden/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/magyarorsz%C3%A1g/">magyarország</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://ktamas.github.io/tags/magyarorsz%C3%A1g/">magyarország</a></li>
+                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2013/05/10/figyeljetek-a-kezem-csalok-bo-egyhetes-osszefoglalo/</id>
+		<id>https://ktamas.github.io/index.php/2013/05/10/figyeljetek-a-kezem-csalok-bo-egyhetes-osszefoglalo/</id>
 		<title>Figyeljétek a kezem, csalok (bő egyhetes összefoglaló)</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/05/10/figyeljetek-a-kezem-csalok-bo-egyhetes-osszefoglalo/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/05/10/figyeljetek-a-kezem-csalok-bo-egyhetes-osszefoglalo/"/>
 		<updated>2013-05-10T12:29:09Z</updated>
 		<published>2013-05-10T12:29:09Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://blog.ktamas.com/tags" term="magyarorsz%C3%A1g" label="magyarország"/>
-		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://ktamas.github.io/tags" term="magyarorsz%C3%A1g" label="magyarország"/>
+		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
 		<summary>It has come to my attention, hogy majdnem egy héttel el vagyok maradva a jelenhez képest és hát ez így nem állapot. Nem lesznek valószínű megszokott posztok erről a szűk két hétről, őszintén bevallom, nincs motivációm ezeknek a megírására, valamint ez kicsit más is. A kötelező kép, amit minden fényképezőgéppel egyszer megcsinálok
 Még most is processzálom, hogy milyen újra Magyarországon így három hónap után, még ha csak szűk két hétre is.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p><em>It has come to my attention</em>, hogy majdnem egy héttel el vagyok maradva a jelenhez képest és hát ez így nem állapot. Nem lesznek valószínű megszokott posztok erről a szűk két hétről, őszintén bevallom, nincs motivációm ezeknek a megírására, valamint ez kicsit más is. <figure id="attachment_2364578" style="width: 612px" class="wp-caption aligncenter"></p>
 
 <p><a href="/wp-content/uploads/2013/05/7ede85a6b3c011e2975a22000a1fd171_7.jpg"><img src="/wp-content/uploads/2013/05/7ede85a6b3c011e2975a22000a1fd171_7.jpg" alt="A kötelező kép amit minden fényképezőgéppel egyszer megcsinálok" width="612" height="612" class="size-full wp-image-2364578" srcset="/wp-content/uploads/2013/05/7ede85a6b3c011e2975a22000a1fd171_7.jpg 612w, /wp-content/uploads/2013/05/7ede85a6b3c011e2975a22000a1fd171_7-150x150.jpg 150w, /wp-content/uploads/2013/05/7ede85a6b3c011e2975a22000a1fd171_7-300x300.jpg 300w" sizes="(max-width: 612px) 100vw, 612px" /></a><figcaption class="wp-caption-text">A kötelező kép, amit minden fényképezőgéppel egyszer megcsinálok</figcaption></figure></p>
@@ -319,33 +319,33 @@ Még most is processzálom, hogy milyen újra Magyarországon így három hónap
 <p>Mint azt fentebb is írtam, még mindig dolgozom fel ezt az egészet, nagyon furcsa élmény, de egy továbbra is biztos: hasznos.</p>
 
 <footer>
-    <a title="Permanent link to “Figyeljétek a kezem, csalok (bő egyhetes összefoglaló)”" href="https://blog.ktamas.com/index.php/2013/05/10/figyeljetek-a-kezem-csalok-bo-egyhetes-osszefoglalo/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Figyeljétek a kezem, csalok (bő egyhetes összefoglaló)”" href="https://ktamas.github.io/index.php/2013/05/10/figyeljetek-a-kezem-csalok-bo-egyhetes-osszefoglalo/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/magyarorsz%C3%A1g/">magyarország</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://ktamas.github.io/tags/magyarorsz%C3%A1g/">magyarország</a></li>
+                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2013/05/07/sok-nyafogas-csutortok-mar-pesten/</id>
+		<id>https://ktamas.github.io/index.php/2013/05/07/sok-nyafogas-csutortok-mar-pesten/</id>
 		<title>Sok nyafogás (csütörtök, már Pesten)</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/05/07/sok-nyafogas-csutortok-mar-pesten/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/05/07/sok-nyafogas-csutortok-mar-pesten/"/>
 		<updated>2013-05-07T19:10:52Z</updated>
 		<published>2013-05-07T19:10:52Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://blog.ktamas.com/tags" term="magyarorsz%C3%A1g" label="magyarország"/>
+		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://ktamas.github.io/tags" term="magyarorsz%C3%A1g" label="magyarország"/>
 		<summary>Leszállt a gépem, bekapcsoltam a telefonom, és tárcsáztam édesapámat, hogy kicsit késni fogok a 8-as találkozónkról. Volna. Mert ekkor szembesültem azzal, hogy a roamingom, aminek elvben működnie kellett volna, a gyakorlatban nem teszi: a T közli velem, hogy a kimenő hívásokat letiltották, hívjam az ÜFSZ-t, SMS-t nem tudok küldeni, internet nuku.
 Ez mindenesetre remek alkalmat biztosított arra, hogy megspóróljam a városba taxizást: ha már úgyse érek oda, akkor menjünk tömegközlekedéssel. Rezignáltam vettem tudomásul, hogy BKV bérletet nem lehet a reptéren venni (illetve de, délután fél 4-ig, köszi), szóval vettem egy jegyet, felszálltam egy 200E-re, majd megnéztem, ahogy az orrom előtt elmegy a vonat a Nyugati felé.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Leszállt a gépem, bekapcsoltam a telefonom, és tárcsáztam édesapámat, hogy kicsit késni fogok a 8-as találkozónkról. Volna. Mert ekkor szembesültem azzal, hogy a roamingom, aminek elvben működnie kellett volna, a gyakorlatban nem teszi: a T közli velem, hogy a kimenő hívásokat letiltották, hívjam az ÜFSZ-t, SMS-t nem tudok küldeni, internet nuku.</p>
 
 <p>Ez mindenesetre remek alkalmat biztosított arra, hogy megspóróljam a városba taxizást: ha már úgyse érek oda, akkor menjünk tömegközlekedéssel. Rezignáltam vettem tudomásul, hogy BKV bérletet nem lehet a reptéren venni (illetve de, délután fél 4-ig, köszi), szóval vettem egy jegyet, felszálltam egy 200E-re, majd megnéztem, ahogy az orrom előtt elmegy a vonat a Nyugati felé. A következő természetesen 30 percet késett, az utána következő már csak ötöt, szóval cca. 40 perc várakozás és húsz perc vonatozás után 9 körül beértem a városba.</p>
@@ -363,13 +363,13 @@ Ez mindenesetre remek alkalmat biztosított arra, hogy megspóróljam a városba
 <p>A hely 11-es zárása után pedig elballagtam a szállásomra, ahol bár megkűzdöttem a vízcsap kinyitásával, de sikerrel zárult a projekt, végül 1 körül teljesen kidőltem.</p>
 
 <footer>
-    <a title="Permanent link to “Sok nyafogás (csütörtök, már Pesten)”" href="https://blog.ktamas.com/index.php/2013/05/07/sok-nyafogas-csutortok-mar-pesten/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Sok nyafogás (csütörtök, már Pesten)”" href="https://ktamas.github.io/index.php/2013/05/07/sok-nyafogas-csutortok-mar-pesten/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/magyarorsz%C3%A1g/">magyarország</a></li>
+                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://ktamas.github.io/tags/magyarorsz%C3%A1g/">magyarország</a></li>
             </ul>
         </div>
 </footer>]]></content>

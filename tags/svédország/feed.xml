@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
-	<id>https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/</id>
+	<id>https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/</id>
 	<title>svédország on KTamas&#39; blog</title>
 	<subtitle>An ongoing list of KTamas' blog posts about svédország</subtitle>
 	<updated>2015-06-24T10:42:52Z</updated>
-	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/feed.xml"/>
-	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/"/>
-	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/feed.json"/>
+	<link rel="self" type="application/atom+xml" href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/"/>
+	<link rel="alternate" type="application/json" href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/feed.json"/>
 	<author>
 		<name>KTamas</name>
-		<uri>https://blog.ktamas.com/</uri>
+		<uri>https://ktamas.github.io/</uri>
 	</author>
 	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
-	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
+	<icon>"https://ktamas.github.io/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2015/06/24/mid-year-status-update/</id>
+		<id>https://ktamas.github.io/index.php/2015/06/24/mid-year-status-update/</id>
 		<title>Mid-year status update</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2015/06/24/mid-year-status-update/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2015/06/24/mid-year-status-update/"/>
 		<updated>2015-06-24T10:42:52Z</updated>
 		<published>2015-06-24T10:42:52Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="2015" label="2015"/>
-		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://blog.ktamas.com/tags" term="fot%C3%B3z%C3%A1s" label="fotózás"/>
-		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://ktamas.github.io/tags" term="2015" label="2015"/>
+		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://ktamas.github.io/tags" term="fot%C3%B3z%C3%A1s" label="fotózás"/>
+		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
 		<summary>Work I quit my day job at the end of last year to become a freelance consultant, and so far it has been going well. The first few months were much harder, than I thought it would be, with the newfound freedom bringing much more free time, but a lot of stress, financial and otherwise. However, now I am six months in, and I have already worked with several clients, sorted out accounting (ugh), realized it’s a really bad idea to have my work e-mail mixed with my personal ones, and I’m heading to Southern Europe for 2 months in a week.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<h1 id="work">Work</h1>
 
 <p>I quit my day job at the end of last year to become a freelance consultant, and so far it has been going well. The first few months were much harder, than I thought it would be, with the newfound freedom bringing much more free time, but a lot of stress, financial and otherwise. However, now I am six months in, and I have already worked with several clients, sorted out accounting (ugh), realized it&#8217;s a really bad idea to have my work e-mail mixed with my personal ones, and I&#8217;m heading to Southern Europe for 2 months in a week.</p>
@@ -67,36 +67,36 @@
 <p>Eventually.</p>
 
 <footer>
-    <a title="Permanent link to “Mid-year status update”" href="https://blog.ktamas.com/index.php/2015/06/24/mid-year-status-update/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Mid-year status update”" href="https://ktamas.github.io/index.php/2015/06/24/mid-year-status-update/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/2015/">2015</a></li>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://ktamas.github.io/tags/2015/">2015</a></li>
+                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://ktamas.github.io/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
+                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2014/05/10/internet-lol-internet-dsl-und-world-wide-web-2014-03-24/</id>
+		<id>https://ktamas.github.io/index.php/2014/05/10/internet-lol-internet-dsl-und-world-wide-web-2014-03-24/</id>
 		<title>Internet, LOL, Internet / DSL und World Wide Web (2014-03-24)</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2014/05/10/internet-lol-internet-dsl-und-world-wide-web-2014-03-24/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2014/05/10/internet-lol-internet-dsl-und-world-wide-web-2014-03-24/"/>
 		<updated>2014-05-10T10:10:02Z</updated>
 		<published>2014-05-10T10:10:02Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9n" label="én"/>
-		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://ktamas.github.io/tags" term="%C3%A9n" label="én"/>
+		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
 		<summary>(Ezt a posztot több hónapja írtam eredetileg, elkezdem kitakarítani a draft mappámat a cult of done jegyében. Az internet azóta remekül megy.)
 Első nap
 Este elfogy az internet. Tudtuk, hogy ez a pillanat el fog jönni valamikor, amikor az albiba beköltöztünk, volt a falban internet, még az előző lakóktól. A főbérlő mondott valamit, hogy valami hűségszerződés és akármi, ha akarjuk beszéljük le a dolgot az illetékesekkel, ebből végül nem lett semmi, ők se eröltették a dolgot.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p><em>(Ezt a posztot több hónapja írtam eredetileg, elkezdem kitakarítani a draft mappámat a <a href="http://www.brepettis.com/blog/2009/3/3/the-cult-of-done-manifesto.html">cult of done</a> jegyében. Az internet azóta remekül megy.)</em></p>
 
 <p><em>Első nap</em></p>
@@ -132,64 +132,64 @@ Este elfogy az internet. Tudtuk, hogy ez a pillanat el fog jönni valamikor, ami
 <p><iframe src="//www.youtube.com/embed/gqDvLeG1pgU?rel=0" width="640" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 
 <footer>
-    <a title="Permanent link to “Internet, LOL, Internet / DSL und World Wide Web (2014-03-24)”" href="https://blog.ktamas.com/index.php/2014/05/10/internet-lol-internet-dsl-und-world-wide-web-2014-03-24/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Internet, LOL, Internet / DSL und World Wide Web (2014-03-24)”" href="https://ktamas.github.io/index.php/2014/05/10/internet-lol-internet-dsl-und-world-wide-web-2014-03-24/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9n/">én</a></li>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://ktamas.github.io/tags/%C3%A9n/">én</a></li>
+                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2014/05/09/a-prioritasokrol-es-az-idorol-2014-01-24/</id>
+		<id>https://ktamas.github.io/index.php/2014/05/09/a-prioritasokrol-es-az-idorol-2014-01-24/</id>
 		<title>A prioritásokról és az időről (2014-01-24)</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2014/05/09/a-prioritasokrol-es-az-idorol-2014-01-24/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2014/05/09/a-prioritasokrol-es-az-idorol-2014-01-24/"/>
 		<updated>2014-05-09T09:39:15Z</updated>
 		<published>2014-05-09T09:39:15Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
 		<summary>(Ezt a posztot több hónapja írtam eredetileg, elkezdem kitakarítani a draft mappámat a cult of done jegyében. Időm azóta is sokkal kevesebb van, de már kevésbé bánom, mert az idő alapvetően hasznos dolgokkal telik.)
 Szeretnék itt és most ujjal mutogatva kiröhögni korábbi énmagamat, aki az elmúlt években arra panaszkodott néha, hogy nincs elég ideje dolgokra, mert az az ember nem tudott semmit arról, amikor az embernek hirtelen tényleg elkezd sok dolga és kevés ideje lenni.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p><em>(Ezt a posztot több hónapja írtam eredetileg, elkezdem kitakarítani a draft mappámat a <a href="http://www.brepettis.com/blog/2009/3/3/the-cult-of-done-manifesto.html">cult of done</a> jegyében. Időm azóta is sokkal kevesebb van, de már kevésbé bánom, mert az idő alapvetően hasznos dolgokkal telik.)</em></p>
 
 <p>Szeretnék itt és most ujjal mutogatva kiröhögni korábbi énmagamat, aki az elmúlt években arra panaszkodott néha, hogy nincs elég ideje dolgokra, mert az az ember nem tudott semmit arról, amikor az embernek hirtelen tényleg elkezd sok dolga és kevés ideje lenni. Aztán lehet, hogy évek múlva a mostani időszakra fogok ugyanígy visszanézni&#8230;</p>
 
 <footer>
-    <a title="Permanent link to “A prioritásokról és az időről (2014-01-24)”" href="https://blog.ktamas.com/index.php/2014/05/09/a-prioritasokrol-es-az-idorol-2014-01-24/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “A prioritásokról és az időről (2014-01-24)”" href="https://ktamas.github.io/index.php/2014/05/09/a-prioritasokrol-es-az-idorol-2014-01-24/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2014/05/08/statusz-2013-12-12/</id>
+		<id>https://ktamas.github.io/index.php/2014/05/08/statusz-2013-12-12/</id>
 		<title>Státusz (2013-12-12)</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2014/05/08/statusz-2013-12-12/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2014/05/08/statusz-2013-12-12/"/>
 		<updated>2014-05-08T10:33:58Z</updated>
 		<published>2014-05-08T10:33:58Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
 		<summary>(Ezt a posztot több hónapja írtam eredetileg, elkezdem kitakarítani a draft mappámat a cult of done jegyében. A munka továbbra is sok, az új albérletet nagyon megszerettem, a házicsoport azóta más napon van, meg ott amúgyis voltak változások, például én kezdtem el vezetni az egyik felét. Ennek a posztnak sincs vége, dehát ez van.)
 Fent és lent, ez megy mostanában. Sokáig úgy gondoltam, hogy akkor nem blogolok, amikor épp kevésbé mennek jól a dolgok, ez részben igaz is, amikor nyugi van és/vagy pörgök, akkor írok mostanában, amúgy fájdalmasan hanyagolva van ez a hely, pedig.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p><em>(Ezt a posztot több hónapja írtam eredetileg, elkezdem kitakarítani a draft mappámat a <a href="http://www.brepettis.com/blog/2009/3/3/the-cult-of-done-manifesto.html">cult of done</a> jegyében. A munka továbbra is sok, az új albérletet nagyon megszerettem, a házicsoport azóta más napon van, meg ott amúgyis voltak változások, például én kezdtem el vezetni az egyik felét. Ennek a posztnak sincs vége, dehát ez van.)</em></p>
 
 <p>Fent és lent, ez megy mostanában. Sokáig úgy gondoltam, hogy akkor nem blogolok, amikor épp kevésbé mennek jól a dolgok, ez részben igaz is, amikor nyugi van és/vagy pörgök, akkor írok mostanában, amúgy fájdalmasan hanyagolva van ez a hely, pedig. Bár így visszanézve, önmagamhoz képest egészen sokáig írtam az ideköltözés után, szóval mindenképpen siker.</p>
@@ -201,32 +201,32 @@ Fent és lent, ez megy mostanában. Sokáig úgy gondoltam, hogy akkor nem blogo
 <p>Azt néztem pár napja, hogy több, mint egy év telt el azóta az email óta, ami úgy igazán elindította a folyamatot, hogy ideköltözzek.</p>
 
 <footer>
-    <a title="Permanent link to “Státusz (2013-12-12)”" href="https://blog.ktamas.com/index.php/2014/05/08/statusz-2013-12-12/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Státusz (2013-12-12)”" href="https://ktamas.github.io/index.php/2014/05/08/statusz-2013-12-12/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2014/05/07/a-naplozasrol-jegyzetelesrol-moleskinerol-augusztus-recap-2013-09-28/</id>
+		<id>https://ktamas.github.io/index.php/2014/05/07/a-naplozasrol-jegyzetelesrol-moleskinerol-augusztus-recap-2013-09-28/</id>
 		<title>A naplózásról, jegyzetelésről, moleskineről (Augusztusi összefoglaló) (2013-09-28)</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2014/05/07/a-naplozasrol-jegyzetelesrol-moleskinerol-augusztus-recap-2013-09-28/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2014/05/07/a-naplozasrol-jegyzetelesrol-moleskinerol-augusztus-recap-2013-09-28/"/>
 		<updated>2014-05-07T09:32:49Z</updated>
 		<published>2014-05-07T09:32:49Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
 		<summary>(Ezt a posztot sok hónapja írtam eredetileg, elkezdem kitakarítani a draft mappámat a cult of done jegyében. A napló azóta is íródik, megtöltöttem pár Moleskinet meg Field Notesot, mindig ott van a zsebemben egy. A laptop halott maradt. A nyelvtanulás azóta is elég rapszodikus, leginkább ragad rám a svéd, majd egyszer talán írok a dologról.)
 Elkezdtem naplót írni. Papíron, tollal, mint az állatok. Mostmár két hónapja csinálom, a kezdeti lelkesedés után volt egy rövidebb időszak, amikor alig írtam bele, de mostanra beállt valamiféle rutin.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p><em>(Ezt a posztot sok hónapja írtam eredetileg, elkezdem kitakarítani a draft mappámat a <a href="http://www.brepettis.com/blog/2009/3/3/the-cult-of-done-manifesto.html">cult of done</a> jegyében. A napló azóta is íródik, megtöltöttem pár <a href="http://www.moleskine.com/en/">Moleskine</a>t meg <a href="http://fieldnotesbrand.com/">Field Notes</a>ot, mindig ott van a zsebemben egy. A laptop halott maradt. A nyelvtanulás azóta is elég rapszodikus, leginkább ragad rám a svéd, majd egyszer talán írok a dologról.)</em></p>
 
 <p>Elkezdtem naplót írni. Papíron, tollal, mint az állatok. Mostmár két hónapja csinálom, a kezdeti lelkesedés után volt egy rövidebb időszak, amikor alig írtam bele, de mostanra beállt valamiféle rutin. A napló csak az egyik része a dolognak, megy oda mindenféle egyéb jegyzet is. Egy kisalakú vastag Moleskine-be írom a dolgokat, zsebrevágható, ami fontos. Az egyetlen hibája, hogy keményborítós, olyat többet nem veszünk.</p>
@@ -238,36 +238,36 @@ Elkezdtem naplót írni. Papíron, tollal, mint az állatok. Mostmár két hóna
 <p>A munkámban belefutottam egy olyan laptopba, ami olyan szinten és olyan furcsán volt elromolva, amit még sose láttam. Leginkább nem volt hajlandó semmiról bebootolni, csak merevlemezről, aztán mikor elkezdtem azt piszkálni kicsit, már onnan se.</p>
 
 <footer>
-    <a title="Permanent link to “A naplózásról, jegyzetelésről, moleskineről (Augusztusi összefoglaló) (2013-09-28)”" href="https://blog.ktamas.com/index.php/2014/05/07/a-naplozasrol-jegyzetelesrol-moleskinerol-augusztus-recap-2013-09-28/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “A naplózásról, jegyzetelésről, moleskineről (Augusztusi összefoglaló) (2013-09-28)”" href="https://ktamas.github.io/index.php/2014/05/07/a-naplozasrol-jegyzetelesrol-moleskinerol-augusztus-recap-2013-09-28/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2014/05/06/halas-vagyok-2013-04-23/</id>
+		<id>https://ktamas.github.io/index.php/2014/05/06/halas-vagyok-2013-04-23/</id>
 		<title>Hálás vagyok (2013-04-23)</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2014/05/06/halas-vagyok-2013-04-23/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2014/05/06/halas-vagyok-2013-04-23/"/>
 		<updated>2014-05-06T09:27:15Z</updated>
 		<published>2014-05-06T09:27:15Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
 		<summary>(Ezt a posztot több, mint egy éve írtam eredetileg, elkezdem kitakarítani a draft mappámat a cult of done jegyében. Ekkor már két és fél hónapja voltam Svédországban, a kultúrsokknak még mindig bőven a mézesheteiben, csetlog amibol nem lett poszt végül, vagyis csak ez.)
 Kelt: egyre kevésbé tudom mit csinálsz te ott
 Kelt: pedig olvasom a blogod
 Kelt: lehet ezért :D
 KT: nem ertem a kerdest
 KT: a melora gondolsz? v mi?</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p><em>(Ezt a posztot több, mint egy éve írtam eredetileg, elkezdem kitakarítani a draft mappámat a <a href="http://www.brepettis.com/blog/2009/3/3/the-cult-of-done-manifesto.html">cult of done</a> jegyében. Ekkor már két és fél hónapja voltam Svédországban, a kultúrsokknak még mindig bőven a mézesheteiben, csetlog amibol nem lett poszt végül, vagyis csak ez.)</em></p>
 
 <p>Kelt: egyre kevésbé tudom mit csinálsz te ott</p>
@@ -301,32 +301,32 @@ KT: a melora gondolsz? v mi?</summary>
 <p>Kelt: erről írhatnál :)</p>
 
 <footer>
-    <a title="Permanent link to “Hálás vagyok (2013-04-23)”" href="https://blog.ktamas.com/index.php/2014/05/06/halas-vagyok-2013-04-23/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Hálás vagyok (2013-04-23)”" href="https://ktamas.github.io/index.php/2014/05/06/halas-vagyok-2013-04-23/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2014/05/05/recap-episode-2013-04-19/</id>
+		<id>https://ktamas.github.io/index.php/2014/05/05/recap-episode-2013-04-19/</id>
 		<title>77 nap után (2013-04-19)</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2014/05/05/recap-episode-2013-04-19/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2014/05/05/recap-episode-2013-04-19/"/>
 		<updated>2014-05-05T09:19:40Z</updated>
 		<published>2014-05-05T09:19:40Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
 		<summary>(Ezt a posztot több, mint egy éve írtam eredetileg, elkezdem kitakarítani a draft mappámat a cult of done jegyében. Ekkor már két és fél hónapja voltam Svédországban, a kultúrsokknak még mindig bőven a mézesheteiben, ne tévesszen meg senkit az, hogy akkor azt gondoltam, hogy árnyaltan látom a dolgokat, haha. A munkahely azóta más, a gyülekezet, a házicsoport és a barátok azóta is megvannak. Ennek a posztnak sincs vége.)
 4 hónapja és 20 napja kaptam egy e-mailt ami ahhoz vezetett, hogy január 15-én megérkeztem életemben először Göteborgba, aznap délután pedig már írtam alá az új munkaszerződésem.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p><em>(Ezt a posztot több, mint egy éve írtam eredetileg, elkezdem kitakarítani a draft mappámat a <a href="http://www.brepettis.com/blog/2009/3/3/the-cult-of-done-manifesto.html">cult of done</a> jegyében. Ekkor már két és fél hónapja voltam Svédországban, a kultúrsokknak még mindig bőven a mézesheteiben, ne tévesszen meg senkit az, hogy akkor azt gondoltam, hogy árnyaltan látom a dolgokat, haha. A munkahely azóta más, a gyülekezet, a házicsoport és a barátok azóta is megvannak. Ennek a posztnak sincs vége.)</em></p>
 
 <p>4 hónapja és 20 napja kaptam egy e-mailt ami ahhoz vezetett, hogy január 15-én megérkeztem életemben először Göteborgba, aznap délután pedig már írtam alá az új munkaszerződésem. Tíz nappal később volt az utolsó munkanapom az espellnél és január 29-én megérkeztem két óriási bőrönddel az új albérletembe, pár nappal később, pénteken, február elsején pedig elkezdtem dolgozni a Kommuniceránál.</p>
@@ -336,32 +336,32 @@ KT: a melora gondolsz? v mi?</summary>
 <p>Természetesen nem minden rózsaszín, ennyi idő után már kicsit árnyaltabban látom a dolgokat,</p>
 
 <footer>
-    <a title="Permanent link to “77 nap után (2013-04-19)”" href="https://blog.ktamas.com/index.php/2014/05/05/recap-episode-2013-04-19/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “77 nap után (2013-04-19)”" href="https://ktamas.github.io/index.php/2014/05/05/recap-episode-2013-04-19/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2014/05/04/szamvetes-szombat-2013-02-28/</id>
+		<id>https://ktamas.github.io/index.php/2014/05/04/szamvetes-szombat-2013-02-28/</id>
 		<title>Számvetés szombat (2013-02-28)</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2014/05/04/szamvetes-szombat-2013-02-28/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2014/05/04/szamvetes-szombat-2013-02-28/"/>
 		<updated>2014-05-04T09:14:07Z</updated>
 		<published>2014-05-04T09:14:07Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
 		<summary>_(Ezt a posztot több, mint egy éve írtam eredetileg, elkezdem kitakarítani a draft mappámat a cult of done jegyében. Még csak egy hónapja laktam Svédországban, a kultúrsokknak bőven a mézesheteiben. A svédek továbbra se sietnek sehova. A posztnak nincs vége, ez van.)_
 Eltelt egy teljes február, több mint egy hónapja vagyok itt, kicsit ijesztő belegondolni, mennyi minden történt egy bő hónap alatt. Január 29-én hajnalban érkeztem meg, volt pár napom akklimatizálódni, és február 1-én már kezdtem is az új munkahelyemen, ahol úgy érzem, elég sok dolgot sikerült elérni egy hónap alatt.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>_(Ezt a posztot több, mint egy éve írtam eredetileg, elkezdem kitakarítani a draft mappámat a <a href="http://www.brepettis.com/blog/2009/3/3/the-cult-of-done-manifesto.html">cult of done</a> jegyében. Még csak egy hónapja laktam Svédországban, <a href="http://en.wikipedia.org/wiki/Culture_shock">a kultúrsokknak bőven a mézesheteiben</a>. A svédek továbbra se sietnek sehova. A posztnak nincs vége, ez van.)_</p>
 
 <p>Eltelt egy teljes február, több mint egy hónapja vagyok itt, kicsit ijesztő belegondolni, mennyi minden történt egy bő hónap alatt. Január 29-én hajnalban érkeztem meg, volt pár napom akklimatizálódni, és február 1-én már kezdtem is az új munkahelyemen, ahol úgy érzem, elég sok dolgot sikerült elérni egy hónap alatt. De leginkább nagyon sokat tanultam.</p>
@@ -371,33 +371,33 @@ Eltelt egy teljes február, több mint egy hónapja vagyok itt, kicsit ijesztő 
 <p>Hatalmas fórral kezdek, mert rögtön egy olyan munkahelyre kerültem, ahol fantasztikus kollégáim vannak, akik egyenesen vártak, befogadtak, értékelnek (nem mintha ez nem lett volna igaz az előzőre). Emellett munkaügyileg is lekerült rólam egy csomó stressz: itt tényleg az van, hogy bemegyek nyolcra, és hazamegyek négykor, ez a normális, a legtöbben ugyanezt csinálják. Ez nem jelenti azt, hogy bárki lazsálna: kemény munka folyik, ugyanakkor, lásd feljebb, a svédek nem sietnek sehova. Persze vannak határidők, vannak néha túlórák embereknek, de összességében nyugi van. A munkahelyi légkör kiváló, alapvetően felszabadult, és nem áll össze ez a poszt, folytatjuk hétvégén</p>
 
 <footer>
-    <a title="Permanent link to “Számvetés szombat (2013-02-28)”" href="https://blog.ktamas.com/index.php/2014/05/04/szamvetes-szombat-2013-02-28/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Számvetés szombat (2013-02-28)”" href="https://ktamas.github.io/index.php/2014/05/04/szamvetes-szombat-2013-02-28/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2014/02/08/a-nyelvtanulasrol-meg-egy-jo-dokumentumfilmrol-twin-sisters-tvillingsostrene-tvillingsystrar/</id>
+		<id>https://ktamas.github.io/index.php/2014/02/08/a-nyelvtanulasrol-meg-egy-jo-dokumentumfilmrol-twin-sisters-tvillingsostrene-tvillingsystrar/</id>
 		<title>A nyelvtanulásról, meg egy jó dokumentumfilmről (Twin Sisters / Tvillingsøstrene / Tvillingsystrar)</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2014/02/08/a-nyelvtanulasrol-meg-egy-jo-dokumentumfilmrol-twin-sisters-tvillingsostrene-tvillingsystrar/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2014/02/08/a-nyelvtanulasrol-meg-egy-jo-dokumentumfilmrol-twin-sisters-tvillingsostrene-tvillingsystrar/"/>
 		<updated>2014-02-08T10:45:19Z</updated>
 		<published>2014-02-08T10:45:19Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://blog.ktamas.com/tags" term="film" label="film"/>
-		<category scheme="https://blog.ktamas.com/tags" term="norv%C3%A9gia" label="norvégia"/>
-		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://ktamas.github.io/tags" term="film" label="film"/>
+		<category scheme="https://ktamas.github.io/tags" term="norv%C3%A9gia" label="norvégia"/>
+		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
 		<summary>Tegnap néztem meg a tévében a Twin Sisters című dokumentumfilmet, amire még a helyi filmfesztivál programja között figyeltem fel. Egy születésükkor kettészakított-örökbefogadott ikerpárról szól, akiknek a szüleik azonban egy véletlen (?) során találkoztak az árvaházban, és feltűnt nekik, hogy hát a két gyerek kissé hasonlít. Aztán mindenki hazavitte a sajátját, de tartották a kapcsolatot, hat hónappal később egy DNS teszt megerősítette, hogy tényleg ikrek. Ezek után követjük végig azt, hogy nő fel a két gyerek két teljesen különböző környezetben (Sacramento, CA, USA, illetve Fresvik, Norvégia), valamint hogy veszik fel a kapcsolatot egymással, majd találkoznak újra hatévesen.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Tegnap néztem meg a <a href="http://www.svtplay.se/video/1786001/tvillingsystrar">tévében</a> a <a href="https://www.facebook.com/twinsistersdocumentary">Twin Sisters című dokumentumfilmet</a>, amire még a <a href="http://filmweb01.filmfestival.org/filmfestival/info/sv/festivalprogram/programentry?date=19000101&amp;programSectionId=0&amp;cinemaId=0&amp;countryId=0&amp;freeText=twin">helyi filmfesztivál programja</a> között figyeltem fel. Egy születésükkor kettészakított-örökbefogadott ikerpárról szól, akiknek a szüleik azonban egy véletlen (?) során találkoztak az árvaházban, és feltűnt nekik, hogy hát a két gyerek kissé hasonlít. Aztán mindenki hazavitte a sajátját, de tartották a kapcsolatot, hat hónappal később egy DNS teszt megerősítette, hogy tényleg ikrek. Ezek után követjük végig azt, hogy nő fel a két gyerek két teljesen különböző környezetben (<a href="https://www.google.se/maps/preview/place/Sacramento,+Kalifornien/@37.7292672,-119.9237094,8z/data=!4m2!3m1!1s0x809ac672b28397f9:0x921f6aaa74197fdb">Sacramento, CA, USA</a>, illetve <a href="https://www.google.se/maps/preview/place/Fresvik/@60.6479978,8.8407623,7z/data=!4m2!3m1!1s0x463e015c70d219f1:0x6fdf8565f8bb1770">Fresvik, Norvégia</a>), valamint hogy veszik fel a kapcsolatot egymással, majd találkoznak újra hatévesen.</p>
 
 <p>Zárójel, Norvégia egészen brutálisan szép, már így a képernyőn keresztül is, Muszáj lesz élőben megnézni.</p>
@@ -407,35 +407,35 @@ Eltelt egy teljes február, több mint egy hónapja vagyok itt, kicsit ijesztő 
 <p>(Ha valakit érdekel, át tudom küldeni a filmet, sajnos csak a fenti &#8212; norvég+angol hang, svéd felirat &#8212; konstrukcióban.)</p>
 
 <footer>
-    <a title="Permanent link to “A nyelvtanulásról, meg egy jó dokumentumfilmről (Twin Sisters / Tvillingsøstrene / Tvillingsystrar)”" href="https://blog.ktamas.com/index.php/2014/02/08/a-nyelvtanulasrol-meg-egy-jo-dokumentumfilmrol-twin-sisters-tvillingsostrene-tvillingsystrar/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “A nyelvtanulásról, meg egy jó dokumentumfilmről (Twin Sisters / Tvillingsøstrene / Tvillingsystrar)”" href="https://ktamas.github.io/index.php/2014/02/08/a-nyelvtanulasrol-meg-egy-jo-dokumentumfilmrol-twin-sisters-tvillingsostrene-tvillingsystrar/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/film/">film</a></li>
-                <li><a href="https://blog.ktamas.com/tags/norv%C3%A9gia/">norvégia</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://ktamas.github.io/tags/film/">film</a></li>
+                <li><a href="https://ktamas.github.io/tags/norv%C3%A9gia/">norvégia</a></li>
+                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2014/01/31/random-csapongasok-a-fotozasrol-dddddd-akarom-mondani-6d/</id>
+		<id>https://ktamas.github.io/index.php/2014/01/31/random-csapongasok-a-fotozasrol-dddddd-akarom-mondani-6d/</id>
 		<title>Random csapongások a fotózásról (DDDDDD, akarom mondani 6D)</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2014/01/31/random-csapongasok-a-fotozasrol-dddddd-akarom-mondani-6d/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2014/01/31/random-csapongasok-a-fotozasrol-dddddd-akarom-mondani-6d/"/>
 		<updated>2014-01-31T10:53:21Z</updated>
 		<published>2014-01-31T10:53:21Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://blog.ktamas.com/tags" term="fot%C3%B3z%C3%A1s" label="fotózás"/>
-		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://ktamas.github.io/tags" term="fot%C3%B3z%C3%A1s" label="fotózás"/>
+		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
 		<summary>Megvan több, mint egy hónapja a 6D, lőttem vele úgy ezer képet, kezd valami véleményem kialakulni róla.
 Az első és a legfontosabb, hogy ez egy piszokjó vas. Még mindig nehezen lépek túl azon, hogy ha nem is simán, de mondjuk okosan jól lehet fotózni ISO12800-on, sőt, ISO25600-on is, elképesztő, ahogy a szenzortechnológia fejlődik. Ha már szenzor, az is durva, hogy (középen) tényleg képes autofókuszálni nevetséges fénykörülmények között is lazán, többnyire pontosan, sokszor nagyon hasznosan jön ez.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Megvan több, mint egy hónapja a 6D, lőttem vele úgy ezer képet, kezd valami véleményem kialakulni róla.</p>
 
 <p>Az első és a legfontosabb, hogy ez egy piszokjó vas. Még mindig nehezen lépek túl azon, hogy ha nem is simán, de mondjuk okosan jól lehet fotózni ISO12800-on, sőt, ISO25600-on is, elképesztő, ahogy a szenzortechnológia fejlődik. Ha már szenzor, az is durva, hogy (középen) tényleg képes autofókuszálni nevetséges fénykörülmények között is lazán, többnyire pontosan, sokszor nagyon hasznosan jön ez.</p>
@@ -461,65 +461,65 @@ Az első és a legfontosabb, hogy ez egy piszokjó vas. Még mindig nehezen lép
 <p>Az éjszakai városi fotózáshoz pedig majd valami 35 és/vagy azalatti fókusztávú objektívet. De nem sietek sehova, szépen, apránként.</p>
 
 <footer>
-    <a title="Permanent link to “Random csapongások a fotózásról (DDDDDD, akarom mondani 6D)”" href="https://blog.ktamas.com/index.php/2014/01/31/random-csapongasok-a-fotozasrol-dddddd-akarom-mondani-6d/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Random csapongások a fotózásról (DDDDDD, akarom mondani 6D)”" href="https://ktamas.github.io/index.php/2014/01/31/random-csapongasok-a-fotozasrol-dddddd-akarom-mondani-6d/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://ktamas.github.io/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
+                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2014/01/29/elso-evfordulo-de-most-tenyleg/</id>
+		<id>https://ktamas.github.io/index.php/2014/01/29/elso-evfordulo-de-most-tenyleg/</id>
 		<title>Első évforduló, de most tényleg</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2014/01/29/elso-evfordulo-de-most-tenyleg/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2014/01/29/elso-evfordulo-de-most-tenyleg/"/>
 		<updated>2014-01-29T22:23:14Z</updated>
 		<published>2014-01-29T22:23:14Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9vfordul%C3%B3" label="évforduló"/>
-		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://ktamas.github.io/tags" term="%C3%A9vfordul%C3%B3" label="évforduló"/>
+		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
 		<summary>Egy előző posztban részben megemlékeztem már róla, de legyünk pontosak, ma van egy éve, hogy kiköltöztem ide, Göteborgba, Svédországba. Ennek ünneplésére (najó, ettől függetlenül) ma elmentem kipróbálni az egyik nemrég felfedezett Burrito bart, azonban elbambultam, és rossz villamosra szálltam, így kénytelen voltam kipróbálni a másik, nemrég felfedezett Burrito bart. Nem csalódtam, korrekt, amerikai stílusban (Mission-style) csinálják, árban teljesen rendben van a dolog, jól is lakik az ember vele, egy lassan főzött, kicsit csípős marhásat ettem mexikói rizzsel, babbal, salsával, tejföllel és sajttal, remek volt, ide vissza kell járni, pláne, hogy a városközpontban van, sokszor útba esik.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p><a href="http://blog.ktamas.com/index.php/2014/01/16/25-1-2013-2014/">Egy előző posztban részben megemlékeztem már róla</a>, de legyünk pontosak, ma van egy éve, hogy kiköltöztem ide, Göteborgba, Svédországba. Ennek ünneplésére (najó, ettől függetlenül) ma elmentem kipróbálni az <a href="https://www.facebook.com/tomtomsburrito">egyik</a> nemrég felfedezett Burrito bart, azonban elbambultam, és rossz villamosra szálltam, így <em>kénytelen voltam</em> kipróbálni a <a href="https://www.facebook.com/WrappedBurritoBar">másik</a>, nemrég felfedezett Burrito bart. Nem csalódtam, korrekt, amerikai stílusban (<a href="http://en.wikipedia.org/wiki/Mission_burrito">Mission-style</a>) csinálják, árban teljesen rendben van a dolog, jól is lakik az ember vele, egy lassan főzött, kicsit csípős marhásat ettem mexikói rizzsel, babbal, salsával, tejföllel és sajttal, remek volt, ide vissza kell járni, pláne, hogy a városközpontban van, sokszor útba esik.</p>
 
 <p>Holnap, ha lesz rá idő, kipróbálom a másik helyet is.</p>
 
 <footer>
-    <a title="Permanent link to “Első évforduló, de most tényleg”" href="https://blog.ktamas.com/index.php/2014/01/29/elso-evfordulo-de-most-tenyleg/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Első évforduló, de most tényleg”" href="https://ktamas.github.io/index.php/2014/01/29/elso-evfordulo-de-most-tenyleg/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9vfordul%C3%B3/">évforduló</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://ktamas.github.io/tags/%C3%A9vfordul%C3%B3/">évforduló</a></li>
+                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2014/01/24/sesam/</id>
+		<id>https://ktamas.github.io/index.php/2014/01/24/sesam/</id>
 		<title>Sesam</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2014/01/24/sesam/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2014/01/24/sesam/"/>
 		<updated>2014-01-24T20:53:22Z</updated>
 		<published>2014-01-24T20:53:22Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
 		<summary>Az úgy volt, hogy átugrutt Göteborgba két napra Sesam.
 Csütörtök este elmentünk a Krakow nevű étterembe, ahol közösen megállapítottuk, hogy hát itt eszetlen jól főznek, én pierogit ettem, főzve, pirítva, hússal, anélkül, igazából egyik se rossz, a legjobb mindenképp a pirított-husos. Ja és tényleg mindenre raknak szalonnát, még a savanyúkáposztához is, amit szintén nagyon jól művelnek. Itt fogok enni holnap is, amikor visszamegyek megünnepelni oda (újra) a születésnapomat az itteni ismerősökkel, barátokkal a gyülekezetből.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Az úgy volt, hogy átugrutt Göteborgba két napra <a href="http://www.sesam.hu">Sesam</a>.</p>
 
 <p>Csütörtök este elmentünk a <a href="http://krakow.nu">Krakow</a> nevű étterembe, ahol közösen megállapítottuk, hogy hát itt eszetlen jól főznek, én <a href="http://en.wikipedia.org/wiki/Pierogi">pierogi</a>t ettem, főzve, pirítva, hússal, anélkül, igazából egyik se rossz, a legjobb mindenképp a pirított-husos. Ja és tényleg mindenre raknak szalonnát, még a savanyúkáposztához is, amit szintén nagyon jól művelnek. Itt fogok enni holnap is, amikor visszamegyek megünnepelni oda (újra) a születésnapomat az itteni ismerősökkel, barátokkal a gyülekezetből.</p>
@@ -537,70 +537,70 @@ Csütörtök este elmentünk a Krakow nevű étterembe, ahol közösen megállap
 <p>A többi kép <a href="http://www.flickr.com/photos/tamaskadar/sets/72157640069618404/">itten található</a>.</p>
 
 <footer>
-    <a title="Permanent link to “Sesam”" href="https://blog.ktamas.com/index.php/2014/01/24/sesam/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Sesam”" href="https://ktamas.github.io/index.php/2014/01/24/sesam/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2014/01/21/kepek-budapest-201401/</id>
+		<id>https://ktamas.github.io/index.php/2014/01/21/kepek-budapest-201401/</id>
 		<title>Képek (Budapest 2014/01)</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2014/01/21/kepek-budapest-201401/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2014/01/21/kepek-budapest-201401/"/>
 		<updated>2014-01-21T09:46:58Z</updated>
 		<published>2014-01-21T09:46:58Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="budapest" label="budapest"/>
-		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://blog.ktamas.com/tags" term="fot%C3%B3z%C3%A1s" label="fotózás"/>
-		<category scheme="https://blog.ktamas.com/tags" term="magyarorsz%C3%A1g" label="magyarország"/>
-		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://ktamas.github.io/tags" term="budapest" label="budapest"/>
+		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://ktamas.github.io/tags" term="fot%C3%B3z%C3%A1s" label="fotózás"/>
+		<category scheme="https://ktamas.github.io/tags" term="magyarorsz%C3%A1g" label="magyarország"/>
+		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
 		<summary>Mint már mondtam, vannak képek is, most végre kikerültek Lightroomból, fel az internetre. Illetve beillesztve alább.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p><a href="http://blog.ktamas.com/index.php/2014/01/16/25-1-2013-2014/" title="25, 1, 2013, 2014">Mint már mondtam</a>, vannak képek is, most végre kikerültek Lightroomból, <a href="http://www.flickr.com/photos/tamaskadar/sets/72157639982935053/">fel az internetre</a>. Illetve beillesztve alább.</p>
 
 <p><a data-flickr-embed="true"  href="https://www.flickr.com/photos/tamaskadar/albums/72157639982935053" title="Budapest 2014/01"><img src="https://farm3.staticflickr.com/2887/12056478715_7cd373dcc4_z.jpg" width="640" height="513" alt="Budapest 2014/01"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
 
 <footer>
-    <a title="Permanent link to “Képek (Budapest 2014/01)”" href="https://blog.ktamas.com/index.php/2014/01/21/kepek-budapest-201401/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Képek (Budapest 2014/01)”" href="https://ktamas.github.io/index.php/2014/01/21/kepek-budapest-201401/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/budapest/">budapest</a></li>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
-                <li><a href="https://blog.ktamas.com/tags/magyarorsz%C3%A1g/">magyarország</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://ktamas.github.io/tags/budapest/">budapest</a></li>
+                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://ktamas.github.io/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
+                <li><a href="https://ktamas.github.io/tags/magyarorsz%C3%A1g/">magyarország</a></li>
+                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2014/01/16/25-1-2013-2014/</id>
+		<id>https://ktamas.github.io/index.php/2014/01/16/25-1-2013-2014/</id>
 		<title>25, 1, 2013, 2014</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2014/01/16/25-1-2013-2014/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2014/01/16/25-1-2013-2014/"/>
 		<updated>2014-01-16T09:50:21Z</updated>
 		<published>2014-01-16T09:50:21Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
 		<summary>Ma vagyok 25 éves, ma van egy éve és egy napja, hogy felvettek dolgozni a Kommunicerához Göteborgra, ma van majdnem egy éve, hogy kiköltöztem ide.
 Mit mondjak? Jó.
 Bővebben? Nagyon jó.
 Voltam pár napot Pesten megint, még decemberben derült ki hogy nem nagyon tudok halogatni egy újabb látogatást a fogorvosnál, úgyhogy a tavaszi dátumot előrehozva január elején ejtettük meg az újabb adag reszelést és fúrást a számban. Hosszú menet volt, de minden sikeresen zárult, folyt.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p><a href="/wp-content/uploads/2014/01/move.png"><img class="alignleft size-full wp-image-2365261" alt="move" src="/wp-content/uploads/2014/01/move.png" width="173" height="145" /></a>Ma vagyok 25 éves, ma van egy éve és egy napja, hogy <a href="http://blog.ktamas.com/index.php/2013/01/15/ktamas-svedorszagba-megy-1-resz/" title="KTamas Svédországba megy, -1. rész">felvettek dolgozni a Kommunicerához</a> Göteborgra, ma van majdnem egy éve, hogy <a href="http://blog.ktamas.com/index.php/2013/01/28/ktamas-svedorszagba-megy-es-koltozik/" title="KTamas Svédországba megy, és költözik">kiköltöztem</a> <a href="http://blog.ktamas.com/index.php/2013/01/29/ktamas-svedorszagba-megy-elso-resz-es-elso-nap/" title="KTamas Svédországba megy, első rész és első nap">ide</a>.</p>
 
 <p>Mit mondjak? Jó.</p>
@@ -618,66 +618,66 @@ Voltam pár napot Pesten megint, még decemberben derült ki hogy nem nagyon tud
 <p>(Vannak képek is, de még utómunka alatt a Lightroomban.)</p>
 
 <footer>
-    <a title="Permanent link to “25, 1, 2013, 2014”" href="https://blog.ktamas.com/index.php/2014/01/16/25-1-2013-2014/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “25, 1, 2013, 2014”" href="https://ktamas.github.io/index.php/2014/01/16/25-1-2013-2014/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2014/01/16/sved-zenek-lillasyster-roar/</id>
+		<id>https://ktamas.github.io/index.php/2014/01/16/sved-zenek-lillasyster-roar/</id>
 		<title>Svéd zenék: Lillasyster &amp;#8211; Roar</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2014/01/16/sved-zenek-lillasyster-roar/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2014/01/16/sved-zenek-lillasyster-roar/"/>
 		<updated>2014-01-16T09:09:05Z</updated>
 		<published>2014-01-16T09:09:05Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="napiloop" label="napiloop"/>
-		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
-		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dzenes" label="svédzenes"/>
-		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
+		<category scheme="https://ktamas.github.io/tags" term="napiloop" label="napiloop"/>
+		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dzenes" label="svédzenes"/>
+		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
 		<summary>Ezt jáccák a helyi rádiók orrba-szájba, merthát helyi együttes meg minden gondolom, de amúgy a szám is jó.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Ezt jáccák a helyi rádiók orrba-szájba, merthát helyi együttes meg minden gondolom, de amúgy a szám is jó.</p>
 
 <p><iframe src="https://embed.spotify.com/?uri=spotify:track:30cmQLBpopRA6KLI2OsP9U" width="300" height="380" frameborder="0"></iframe></p>
 
 <footer>
-    <a title="Permanent link to “Svéd zenék: Lillasyster &amp;#8211; Roar”" href="https://blog.ktamas.com/index.php/2014/01/16/sved-zenek-lillasyster-roar/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Svéd zenék: Lillasyster &amp;#8211; Roar”" href="https://ktamas.github.io/index.php/2014/01/16/sved-zenek-lillasyster-roar/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/napiloop/">napiloop</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dzenes/">svédzenes</a></li>
-                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
+                <li><a href="https://ktamas.github.io/tags/napiloop/">napiloop</a></li>
+                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dzenes/">svédzenes</a></li>
+                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2014/01/03/az-eskuvoi-fotozasrol/</id>
+		<id>https://ktamas.github.io/index.php/2014/01/03/az-eskuvoi-fotozasrol/</id>
 		<title>Az esküvői fotózásról</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2014/01/03/az-eskuvoi-fotozasrol/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2014/01/03/az-eskuvoi-fotozasrol/"/>
 		<updated>2014-01-03T09:12:03Z</updated>
 		<published>2014-01-03T09:12:03Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://blog.ktamas.com/tags" term="fot%C3%B3z%C3%A1s" label="fotózás"/>
-		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://ktamas.github.io/tags" term="fot%C3%B3z%C3%A1s" label="fotózás"/>
+		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
 		<summary>Közvetlenül azelőtt, hogy megvettem volna a 6D-t”), vicces időzítés, de így jött ki, még végigfotóztam gyorsan egy esküvőt. Illetve hát, magát az esküvői szertartást pont nem, mert éppen hangosítottam, de előtte, és főleg és sokkalinkább utána lőttem képeket. Ehhez egy volt kollégától kértem kölcsön gépet, minden kép egy Nikon D200-zzal és egy 50 f/1.4-es lencsével készült, nagyrészt ISO800-on, mert mégiscsak bent voltunk, és fény az csak korlátozott mennyiségben volt elérhető, bár az időjáráshoz képest viszonylag sok volt belőle.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Közvetlenül azelőtt, hogy <a href="http://blog.ktamas.com/index.php/2013/12/30/a-fotozasrol-megint-sokadszorra-egyaltalan-nem-utoljara-sot-6d/ &quot;A fotózásról, megint, sokadszorra, egyáltalán nem utoljára, sőt (6D">megvettem volna a 6D-t</a>&rdquo;), <em>vicces időzítés, de így jött ki,</em> még végigfotóztam gyorsan egy esküvőt. Illetve hát, magát az esküvői szertartást pont nem, mert éppen hangosítottam, de előtte, és főleg és sokkalinkább utána lőttem képeket. Ehhez egy volt kollégától kértem kölcsön gépet, minden kép egy Nikon D200-zzal és egy 50 f/1.4-es lencsével készült, nagyrészt ISO800-on, mert mégiscsak bent voltunk, és fény az csak korlátozott mennyiségben volt elérhető, bár az időjáráshoz képest viszonylag sok volt belőle. Összesen 772 kép készült, sok óra utómunkával lett belőle 63 <em>és még abból is lehetett volna vágni párat asszem, csak már nem volt hozzá szivem</em>, most pedig az ifjú pár feltöltött belőle egy adagot, <a href="https://www.facebook.com/saran.run.5/media_set?set=a.531728020268336.1073741837.100002934270671&amp;type=1">itten találhatóak meg</a>.</p>
 
 <p>Iszonyat jó móka volt, a jövőben több esküvőt kell fotóznom.</p>
@@ -685,35 +685,35 @@ Voltam pár napot Pesten megint, még decemberben derült ki hogy nem nagyon tud
 <p>(az első és a harmadik kép nem az enyém, valamint az a kettő se, amin én vagyok, természetesen)</p>
 
 <footer>
-    <a title="Permanent link to “Az esküvői fotózásról”" href="https://blog.ktamas.com/index.php/2014/01/03/az-eskuvoi-fotozasrol/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Az esküvői fotózásról”" href="https://ktamas.github.io/index.php/2014/01/03/az-eskuvoi-fotozasrol/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://ktamas.github.io/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
+                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2013/12/01/sved-zenek-avicii-wake-me-up/</id>
+		<id>https://ktamas.github.io/index.php/2013/12/01/sved-zenek-avicii-wake-me-up/</id>
 		<title>Svéd zenék: Avicii &amp;#8211; Wake Me Up</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/12/01/sved-zenek-avicii-wake-me-up/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/12/01/sved-zenek-avicii-wake-me-up/"/>
 		<updated>2013-12-01T06:30:29Z</updated>
 		<published>2013-12-01T06:30:29Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://blog.ktamas.com/tags" term="napiloop" label="napiloop"/>
-		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
-		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
+		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://ktamas.github.io/tags" term="napiloop" label="napiloop"/>
+		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
 		<summary>Szépjóreggelt, itt a december, kezdődik a karácsonyi szezon, advent első vasárnapja, ami mint kiderült, itt Svédországban meglepően fontos nap.
 Mint mindig, most is el vagyok maradva a blogolással, ez a zene vagy’ egy hónapja ment körbekörbe egy jó adagot, de azért rakjuk el, emlékezzünk meg róla, a zunokáknak.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Szépjóreggelt, itt a december, kezdődik a karácsonyi szezon, advent első vasárnapja, ami mint kiderült, itt Svédországban meglepően fontos nap.</p>
 
 <p>Mint mindig, most is el vagyok maradva a blogolással, ez a zene vagy&#8217; egy hónapja ment körbekörbe egy jó adagot, de azért rakjuk el, emlékezzünk meg róla, a zunokáknak.</p>
@@ -721,36 +721,36 @@ Mint mindig, most is el vagyok maradva a blogolással, ez a zene vagy’ egy hó
 <p><iframe width="640" height="360" src="//www.youtube.com/embed/IcrbM1l_BoI?rel=0" frameborder="0" allowfullscreen=""></iframe></p>
 
 <footer>
-    <a title="Permanent link to “Svéd zenék: Avicii &amp;#8211; Wake Me Up”" href="https://blog.ktamas.com/index.php/2013/12/01/sved-zenek-avicii-wake-me-up/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Svéd zenék: Avicii &amp;#8211; Wake Me Up”" href="https://ktamas.github.io/index.php/2013/12/01/sved-zenek-avicii-wake-me-up/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/napiloop/">napiloop</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
-                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
+                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://ktamas.github.io/tags/napiloop/">napiloop</a></li>
+                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2013/11/01/sved-zenek-laleh/</id>
+		<id>https://ktamas.github.io/index.php/2013/11/01/sved-zenek-laleh/</id>
 		<title>Svéd zenék: Laleh</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/11/01/sved-zenek-laleh/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/11/01/sved-zenek-laleh/"/>
 		<updated>2013-11-01T20:18:33Z</updated>
 		<published>2013-11-01T20:18:33Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
-		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dzene" label="svédzene"/>
-		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
+		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dzene" label="svédzene"/>
+		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
 		<summary>Új sorozatot kezdünk, amelyben a kontentet youtubevideókkal fogjuk helyettesíteni mindenféle ismert és kevésbé ismert svéd előadók fognak feltűnni. Leginkább, mert egy rakat jó svéd előadó / zenekar van, és az utóbbi hónapokban egyre többet hallgatok belőlük.
 Elsőképp jöjjön Laleh, aki szinésznőként kezdte anno, de aztán viszonylag gyorsan elment zenét csinálni. Az első dalra a rádióban figyeltem fel, merthogy az irodában megy általában a háttérbe valami, persze pont olyan halkan, hogy ha felrak az ember egy fülest, akkor nem hallatszik be.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Új sorozatot kezdünk, amelyben <del datetime="2013-11-01T19:08:50+00:00">a kontentet youtubevideókkal fogjuk helyettesíteni</del> mindenféle ismert és kevésbé ismert svéd előadók fognak feltűnni. Leginkább, mert egy rakat jó svéd előadó / zenekar van, és az utóbbi hónapokban egyre többet hallgatok belőlük.</p>
 
 <p>Elsőképp jöjjön <a href="http://en.wikipedia.org/wiki/Laleh_Pourkarim">Laleh</a>, aki szinésznőként kezdte anno, de aztán viszonylag gyorsan elment zenét csinálni. Az első dalra a rádióban figyeltem fel, merthogy az irodában megy általában a háttérbe valami, persze pont olyan halkan, hogy ha felrak az ember egy fülest, akkor nem hallatszik be. Utána már persze elővettem a Spotifyt, kijött egy új cédé is, felfedeztem új dalokat.</p>
@@ -760,36 +760,36 @@ Elsőképp jöjjön Laleh, aki szinésznőként kezdte anno, de aztán viszonyla
 <p><iframe width="640" height="360" src="//www.youtube.com/embed/mqKrIDRcKgc?rel=0" frameborder="0" allowfullscreen=""></iframe></p>
 
 <footer>
-    <a title="Permanent link to “Svéd zenék: Laleh”" href="https://blog.ktamas.com/index.php/2013/11/01/sved-zenek-laleh/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Svéd zenék: Laleh”" href="https://ktamas.github.io/index.php/2013/11/01/sved-zenek-laleh/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dzene/">svédzene</a></li>
-                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
+                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dzene/">svédzene</a></li>
+                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2013/10/19/az-elso-ket-het-a-munkahelyen/</id>
+		<id>https://ktamas.github.io/index.php/2013/10/19/az-elso-ket-het-a-munkahelyen/</id>
 		<title>Az első két hét a munkahelyen</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/10/19/az-elso-ket-het-a-munkahelyen/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/10/19/az-elso-ket-het-a-munkahelyen/"/>
 		<updated>2013-10-19T20:40:38Z</updated>
 		<published>2013-10-19T20:40:38Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://blog.ktamas.com/tags" term="munka" label="munka"/>
-		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://ktamas.github.io/tags" term="munka" label="munka"/>
+		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
 		<summary>(igen megint ugrottunk az időben, ezvan.)
 Az első két hét az új munkahelyen leginkább úgy telt, mint az első két hét az országban: az idő sokkal lassabban telt érzésre. Figyelembe véve, hogy ez volt az eddigi legnagyobb váltás a karrieremben, azt hiszem, ez normális.
 Az új iroda tökmáshol van, mint a régi: Mölndalban, azon kívül is a semmi közepén, pontosabban egy olyan környéken, ahol sok más cégnek is van irodája (a legnagyobb azt hiszem az AstraZeneca, saját buszmegállójuk van).</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p><em>(igen megint ugrottunk az időben, ezvan.)</em></p>
 
 <p>Az első két hét az új munkahelyen leginkább úgy telt, mint az első két hét az országban: az idő sokkal lassabban telt érzésre. Figyelembe véve, hogy ez volt az eddigi legnagyobb váltás a karrieremben, azt hiszem, ez normális.</p>
@@ -809,34 +809,34 @@ Az új iroda tökmáshol van, mint a régi: Mölndalban, azon kívül is a semmi
 <p>Ez volt nagyjából az első két hét, nem tudok jó befejezést a posztnak.</p>
 
 <footer>
-    <a title="Permanent link to “Az első két hét a munkahelyen”" href="https://blog.ktamas.com/index.php/2013/10/19/az-elso-ket-het-a-munkahelyen/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Az első két hét a munkahelyen”" href="https://ktamas.github.io/index.php/2013/10/19/az-elso-ket-het-a-munkahelyen/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/munka/">munka</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://ktamas.github.io/tags/munka/">munka</a></li>
+                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2013/10/02/az-uj-alberletrol/</id>
+		<id>https://ktamas.github.io/index.php/2013/10/02/az-uj-alberletrol/</id>
 		<title>Az új albérletről</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/10/02/az-uj-alberletrol/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/10/02/az-uj-alberletrol/"/>
 		<updated>2013-10-02T09:38:43Z</updated>
 		<published>2013-10-02T09:38:43Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
 		<summary>Merthogy megint költözök.
 Az úgy volt, hogy az új munkahelyem irodája elég messze volt az albitól, amivel amúgy is volt több egyéb gond, például a megbízható és emberi sebességű internet hiánya, illetve a szituáció is inkább ilyen átmeneti volt. Közben az egyik gyülekezetben megismert srác szintén lakást keresett, és mivel egyikünk se bánta, hogyha valakivel együtt kell élni, valamint mindkettőnknek hasonló irányba van munkahely, elhatároztuk keresünk valamit.
 Sikerült is a múlt hét végén találni egyet, két hálószoba, nagyszoba, rendes konyha, fürdőszoba, kis erkény, remek környéken, és csak egy kicsit drágán.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Merthogy megint költözök.</p>
 
 <p>Az úgy volt, hogy az új munkahelyem irodája elég messze volt az albitól, amivel amúgy is volt több egyéb gond, például a megbízható és emberi sebességű internet hiánya, illetve a szituáció is inkább ilyen átmeneti volt. Közben az egyik gyülekezetben megismert srác szintén lakást keresett, és mivel egyikünk se bánta, hogyha valakivel együtt kell élni, valamint mindkettőnknek hasonló irányba van munkahely, elhatároztuk keresünk valamit.</p>
@@ -852,33 +852,33 @@ Sikerült is a múlt hét végén találni egyet, két hálószoba, nagyszoba, r
 <p>Most szombaton a lakótársam kifizette a kauciót és az első havi lakbért, ő már be is költözött, én meg majd csütörtökön este valószínű, mikor visszaérek Svédországba.</p>
 
 <footer>
-    <a title="Permanent link to “Az új albérletről”" href="https://blog.ktamas.com/index.php/2013/10/02/az-uj-alberletrol/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Az új albérletről”" href="https://ktamas.github.io/index.php/2013/10/02/az-uj-alberletrol/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2013/09/06/szolgalati-kozlemenyek-uj-munka-es-fogorvosturizmus/</id>
+		<id>https://ktamas.github.io/index.php/2013/09/06/szolgalati-kozlemenyek-uj-munka-es-fogorvosturizmus/</id>
 		<title>Szolgálati közlemények: új munka és fogorvosturizmus</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/09/06/szolgalati-kozlemenyek-uj-munka-es-fogorvosturizmus/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/09/06/szolgalati-kozlemenyek-uj-munka-es-fogorvosturizmus/"/>
 		<updated>2013-09-06T15:39:28Z</updated>
 		<published>2013-09-06T15:39:28Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://blog.ktamas.com/tags" term="magyarorsz%C3%A1g" label="magyarország"/>
-		<category scheme="https://blog.ktamas.com/tags" term="munka" label="munka"/>
-		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://ktamas.github.io/tags" term="magyarorsz%C3%A1g" label="magyarország"/>
+		<category scheme="https://ktamas.github.io/tags" term="munka" label="munka"/>
+		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
 		<summary>Hihetetlen mennyi minden tud változni három nap alatt, például az, hogy rekordgyorsasággal vettek fel az új munkahelyemre. Tanácsadócég, WCOM a neve, remek lesz többek között arra, hogy megismerkedjek ezzel a világgal. Nagyobb részben rendszergazdasággal, kisebb részben programozással fogok ott foglalkozni, kifejezetten problémamegoldós meló, ami nekem nagyon fekszik. Szűk hónap múlva kezdek ott, izgalmas lesz. Borzasztóan hiányozni fog a mostani munkahelyem meg a kollégák, ugyanakkor jelentős előrelépés lesz egy csomó tekintetben ez a váltás.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Hihetetlen mennyi minden tud változni három nap alatt, például az, hogy rekordgyorsasággal vettek fel az új munkahelyemre. Tanácsadócég, <a href="http://wcom.se">WCOM</a> a neve, remek lesz többek között arra, hogy megismerkedjek ezzel a világgal. Nagyobb részben rendszergazdasággal, kisebb részben programozással fogok ott foglalkozni, kifejezetten problémamegoldós meló, ami nekem nagyon fekszik. Szűk hónap múlva kezdek ott, izgalmas lesz. Borzasztóan hiányozni fog a mostani munkahelyem meg a kollégák, ugyanakkor jelentős előrelépés lesz egy csomó tekintetben ez a váltás.</p>
 
 <p>Ugyanitt, a hónap végén (szept 24 &#8211; okt 3) jövök egy bő hétre Pestre, fogorvosturistáskodni, ugyanis itt valami embertelen drága a fogászat. Hallottam már számokat ismerősöktől korábban, de az előbb megnéztem a <a href="http://www.citydental.se/priser.asp">legolcsóbb és legrosszabb hírrel rendelkező stockholmi fogászat árait</a>, és hát lementem hídba.</p>
@@ -886,35 +886,35 @@ Sikerült is a múlt hét végén találni egyet, két hálószoba, nagyszoba, r
 <p>Igen tudom kimaradt egy teljes augusztus blogolásilag, egyszer majd összeszedem magam.</p>
 
 <footer>
-    <a title="Permanent link to “Szolgálati közlemények: új munka és fogorvosturizmus”" href="https://blog.ktamas.com/index.php/2013/09/06/szolgalati-kozlemenyek-uj-munka-es-fogorvosturizmus/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Szolgálati közlemények: új munka és fogorvosturizmus”" href="https://ktamas.github.io/index.php/2013/09/06/szolgalati-kozlemenyek-uj-munka-es-fogorvosturizmus/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/magyarorsz%C3%A1g/">magyarország</a></li>
-                <li><a href="https://blog.ktamas.com/tags/munka/">munka</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://ktamas.github.io/tags/magyarorsz%C3%A1g/">magyarország</a></li>
+                <li><a href="https://ktamas.github.io/tags/munka/">munka</a></li>
+                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2013/08/22/random-dolgok/</id>
+		<id>https://ktamas.github.io/index.php/2013/08/22/random-dolgok/</id>
 		<title>Random dolgok</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/08/22/random-dolgok/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/08/22/random-dolgok/"/>
 		<updated>2013-08-22T11:49:19Z</updated>
 		<published>2013-08-22T11:49:19Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
-		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
+		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
 		<summary>Péntek este jön a legidősebb hugom meg a sógorom egy szűk hétre, remek lesz. A múlt hétvégén meg a gyülekezeti táborban voltam. Ezek a rövidebb szünetek nekem sokkal jobban fekszenek, mint az, hogy elmegyek valahova három hétre egyhuzamba, bár megértem, miért szeretik azt az emberek.Ilyen szép volt a táj a gyülekezeti táborban
 A cégnél leporoltam egy kiselejtezett Dual G5-ös Power Macet, Tiger fut rajta, ami még mindig a kedvenc OSX-verzióm, bár ha felfrissíteném Leopardra, akkor kicsit több dolog futna rajta.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Péntek este jön a legidősebb hugom meg a sógorom egy szűk hétre, remek lesz. A múlt hétvégén meg a gyülekezeti táborban voltam. Ezek a rövidebb szünetek nekem sokkal jobban fekszenek, mint az, hogy elmegyek valahova három hétre egyhuzamba, bár megértem, miért szeretik azt az emberek.<figure id="attachment_2365162" style="width: 612px" class="wp-caption aligncenter"></p>
 
 <p><a href="/wp-content/uploads/2013/08/36d6e6be078411e3919b22000a9f1988_7.jpg"><img src="/wp-content/uploads/2013/08/36d6e6be078411e3919b22000a9f1988_7.jpg" alt="Ilyen szép volt a táj a gyülekezeti táborban" width="612" height="612" class="size-full wp-image-2365162" srcset="/wp-content/uploads/2013/08/36d6e6be078411e3919b22000a9f1988_7.jpg 612w, /wp-content/uploads/2013/08/36d6e6be078411e3919b22000a9f1988_7-150x150.jpg 150w, /wp-content/uploads/2013/08/36d6e6be078411e3919b22000a9f1988_7-300x300.jpg 300w" sizes="(max-width: 612px) 100vw, 612px" /></a><figcaption class="wp-caption-text">Ilyen szép volt a táj a gyülekezeti táborban</figcaption></figure></p>
@@ -930,35 +930,35 @@ A cégnél leporoltam egy kiselejtezett Dual G5-ös Power Macet, Tiger fut rajta
 <p><iframe src="//www.youtube.com/embed/videoseries?list=PLyALKMPGOR5ekmH_SRyCwodXnkRtPy7R5" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 
 <footer>
-    <a title="Permanent link to “Random dolgok”" href="https://blog.ktamas.com/index.php/2013/08/22/random-dolgok/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Random dolgok”" href="https://ktamas.github.io/index.php/2013/08/22/random-dolgok/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
-                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
+                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2013/08/10/a-piacrol-a-bevasarlasrol-es-a-tervezesrol/</id>
+		<id>https://ktamas.github.io/index.php/2013/08/10/a-piacrol-a-bevasarlasrol-es-a-tervezesrol/</id>
 		<title>A piacról, a bevásárlásról és a tervezésről</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/08/10/a-piacrol-a-bevasarlasrol-es-a-tervezesrol/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/08/10/a-piacrol-a-bevasarlasrol-es-a-tervezesrol/"/>
 		<updated>2013-08-10T11:31:41Z</updated>
 		<published>2013-08-10T11:31:41Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://blog.ktamas.com/tags" term="kaja" label="kaja"/>
-		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://ktamas.github.io/tags" term="kaja" label="kaja"/>
+		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
 		<summary>(Igen, ez a poszt pont egy hetes, de lassan visszatérünk a jelenbe.)
 Az úgy volt, hogy meg kéne tanulnom kicsit tovább tervezni étkezések tekintetében, mint az aktuálisan következő, akkor kicsit kevesebbet kéne járnom boltba, meg sokkal kevesebb időt töltenék el azzal, hogy akkor most mit is egyek. A középtávú cél az, hogy össze tudjam állítani többé-kevésbé egy hétre előre, mit fogok enni.
 Ennek első lépéseként összeírtam legalább részben, hogy mik azok a dolgok, amiket és ahol enni szoktam, utána pedig ma elmentem egyrészt a piacra, másrészt a viszonylag közel lévő igen nagy szupermarketbe félig bevásárolni, félig további ötleteket gyűjteni.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p><em>(Igen, ez a poszt pont egy hetes, de lassan visszatérünk a jelenbe.)</em></p>
 
 <p>Az úgy volt, hogy meg kéne tanulnom kicsit tovább tervezni étkezések tekintetében, mint az aktuálisan következő, akkor kicsit kevesebbet kéne járnom boltba, meg sokkal kevesebb időt töltenék el azzal, hogy akkor most mit is egyek. A középtávú cél az, hogy össze tudjam állítani többé-kevésbé egy hétre előre, mit fogok enni.</p>
@@ -976,34 +976,34 @@ Ennek első lépéseként összeírtam legalább részben, hogy mik azok a dolgo
 <p>Most van kajám a hétvégére, meg valamennyi tán a jövőhétre, meglátjuk, hogy fog haladni meg fejlődni a projekt.</p>
 
 <footer>
-    <a title="Permanent link to “A piacról, a bevásárlásról és a tervezésről”" href="https://blog.ktamas.com/index.php/2013/08/10/a-piacrol-a-bevasarlasrol-es-a-tervezesrol/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “A piacról, a bevásárlásról és a tervezésről”" href="https://ktamas.github.io/index.php/2013/08/10/a-piacrol-a-bevasarlasrol-es-a-tervezesrol/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/kaja/">kaja</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://ktamas.github.io/tags/kaja/">kaja</a></li>
+                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2013/08/09/a-borokrol/</id>
+		<id>https://ktamas.github.io/index.php/2013/08/09/a-borokrol/</id>
 		<title>A borokról</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/08/09/a-borokrol/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/08/09/a-borokrol/"/>
 		<updated>2013-08-09T10:35:50Z</updated>
 		<published>2013-08-09T10:35:50Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="bor" label="bor"/>
-		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://ktamas.github.io/tags" term="bor" label="bor"/>
+		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
 		<summary>Az alkohollal mindig is bonyolult kapcsolatom volt. 18 éves koromig leginkább semmilyen, már ha leszámítjuk, hogy először a svédcsepp, aztán meg az Unikum mindig is univerzális (és működő!) gyomorgyógyszerként funkcionált a családban, dehát ugye az évente úgy maximum kétszer kell. Ebből (is) kifolyólag mindig van egy üveg belőle a mélyhűtőben.
 Aztán persze szépen lassan megbarátkoztam először a röviditalokkal, majd tavaly a borral is, a sörrel még nem sikerült, bár újabban kicsit aktívabban próbálkozok.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Az alkohollal mindig is bonyolult kapcsolatom volt. 18 éves koromig leginkább semmilyen, már ha leszámítjuk, hogy először a svédcsepp, aztán meg az Unikum mindig is univerzális (és működő!) gyomorgyógyszerként funkcionált a családban, dehát ugye az évente úgy maximum kétszer kell. Ebből (is) kifolyólag mindig van egy üveg belőle a mélyhűtőben.</p>
 
 <p>Aztán persze szépen lassan megbarátkoztam először a röviditalokkal, majd tavaly a borral is, a sörrel még nem sikerült, bár újabban kicsit aktívabban próbálkozok. Nem sűrűn iszok egyébként, és akkor se sokat: az egyik legfőbb ok az, hogy gyűlölök másnapos lenni.</p>
@@ -1023,36 +1023,36 @@ Aztán persze szépen lassan megbarátkoztam először a röviditalokkal, majd t
 <p>A legolcsóbb a 69 SEK-be kerülő ausztrál <a href="http://www.systembolaget.se/Sok-dryck/Dryck/?varuNr=6131">The Black Shiraz</a> (2012) volt: igazából nincs benne semmi különleges, sokkal könnyebb mint a Gumfields Pinot Noirja, meg persze érezni is rajta, hogy majd&#8217; feleannyiba kerül: ugyanakkor árkategóriájából maximálisan kihozza, amit lehet, nagyon kellemes, szerintem fogok még venni.</p>
 
 <footer>
-    <a title="Permanent link to “A borokról”" href="https://blog.ktamas.com/index.php/2013/08/09/a-borokrol/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “A borokról”" href="https://ktamas.github.io/index.php/2013/08/09/a-borokrol/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/bor/">bor</a></li>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://ktamas.github.io/tags/bor/">bor</a></li>
+                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2013/08/08/a-ben-jerrysrol/</id>
+		<id>https://ktamas.github.io/index.php/2013/08/08/a-ben-jerrysrol/</id>
 		<title>A Ben &amp;#038; Jerry&amp;#8217;sről</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/08/08/a-ben-jerrysrol/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/08/08/a-ben-jerrysrol/"/>
 		<updated>2013-08-08T14:39:49Z</updated>
 		<published>2013-08-08T14:39:49Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://blog.ktamas.com/tags" term="fagyi" label="fagyi"/>
-		<category scheme="https://blog.ktamas.com/tags" term="kaja" label="kaja"/>
-		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
-		<category scheme="https://blog.ktamas.com/tags" term="vend%C3%A9gek" label="vendégek"/>
+		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://ktamas.github.io/tags" term="fagyi" label="fagyi"/>
+		<category scheme="https://ktamas.github.io/tags" term="kaja" label="kaja"/>
+		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://ktamas.github.io/tags" term="vend%C3%A9gek" label="vendégek"/>
 		<summary>A Ben &amp; Jerry’s nekem mindig is legenda volt a fagylaltok tekintetében, ódákat zengettek róla az interneten. Ellenben először sehol, utána pedig csak a Culinarisban lehetett beszerezni pesten, méregdrágán, szóval sohasem jutottam el odáig, hogy megkóstoljak akár egyet is. Közben aztán laktózérzékeny lettem, és a laktóztabletták se voltak tökéletesek, így végképp hanyagolva lett a dolog.
 Itt Svédországban a márka termékei azonban minden nagyobb boltban megtalálhatóak, széles választékban, ráadásul itteni viszonylatban nem is igazán drágán: persze, drágább, mint a fagyik nagy része, de egyáltalán nem kiugróan, egy félliteres bödön belőle 49 SEK.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>A Ben &amp; Jerry&#8217;s nekem mindig is legenda volt a fagylaltok tekintetében, ódákat zengettek róla az interneten. Ellenben először sehol, utána pedig csak a Culinarisban lehetett beszerezni pesten, méregdrágán, szóval sohasem jutottam el odáig, hogy megkóstoljak akár egyet is. Közben aztán laktózérzékeny lettem, és a laktóztabletták se voltak tökéletesek, így végképp hanyagolva lett a dolog.</p>
 
 <p>Itt Svédországban a márka termékei azonban minden nagyobb boltban megtalálhatóak, széles választékban, ráadásul itteni viszonylatban nem is igazán drágán: persze, drágább, mint a fagyik nagy része, de egyáltalán nem kiugróan, egy félliteres bödön belőle 49 SEK. Eredetileg azt terveztem, hogy meghívom a vendégeimet rá, én meg csak egy-két falat erejéig kipróbálom; persze az lett belőle, hogy a harmadik kanál után úgy döntöttem, ezt nem lehet abbahagyni, megkerestem a múltkorról megmaradt laktóztablettáimat, és lesz ami lesz, bevettem kettőt, majd belevetettem magamat a fagylaltevésbe.</p>
@@ -1066,35 +1066,35 @@ Itt Svédországban a márka termékei azonban minden nagyobb boltban megtalálh
 <p>Augusztusban is lesznek vendégeim&#8230;</p>
 
 <footer>
-    <a title="Permanent link to “A Ben &amp;#038; Jerry&amp;#8217;sről”" href="https://blog.ktamas.com/index.php/2013/08/08/a-ben-jerrysrol/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “A Ben &amp;#038; Jerry&amp;#8217;sről”" href="https://ktamas.github.io/index.php/2013/08/08/a-ben-jerrysrol/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/fagyi/">fagyi</a></li>
-                <li><a href="https://blog.ktamas.com/tags/kaja/">kaja</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
-                <li><a href="https://blog.ktamas.com/tags/vend%C3%A9gek/">vendégek</a></li>
+                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://ktamas.github.io/tags/fagyi/">fagyi</a></li>
+                <li><a href="https://ktamas.github.io/tags/kaja/">kaja</a></li>
+                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://ktamas.github.io/tags/vend%C3%A9gek/">vendégek</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2013/08/08/lazabb-szombat-es-vasarnap-meg-kicsi-hetfo/</id>
+		<id>https://ktamas.github.io/index.php/2013/08/08/lazabb-szombat-es-vasarnap-meg-kicsi-hetfo/</id>
 		<title>Lazább szombat és vasárnap (meg kicsi hétfő)</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/08/08/lazabb-szombat-es-vasarnap-meg-kicsi-hetfo/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/08/08/lazabb-szombat-es-vasarnap-meg-kicsi-hetfo/"/>
 		<updated>2013-08-08T11:25:39Z</updated>
 		<published>2013-08-08T11:25:39Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
-		<category scheme="https://blog.ktamas.com/tags" term="vend%C3%A9gek" label="vendégek"/>
+		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://ktamas.github.io/tags" term="vend%C3%A9gek" label="vendégek"/>
 		<summary>A szombatot lazára fogtuk: én ugyan nem, de Bencze és főleg Hanna jó sokáig aludt. A reggelit emiatt kollektíve kihagytuk és elmentünk újra a Jensen’sbe ebédelni. Utána bóklásztunk kicsit a városban, majd megnéztük a Wallenberg-emlékszobrot, ami egy szép nagy kődarab rajta a fiatalkori képével. Ezek után elmentünk bevásárolni, vettünk többek között fagyit (Ben &amp; Jerry’s, ők külön posztot kapnak), én otthon maradtam pihenni, ők meg elmentek a tőlem nem messze lévő Slottskugen parkba sétálni.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>A szombatot lazára fogtuk: én ugyan nem, de Bencze és főleg Hanna jó sokáig aludt. A reggelit emiatt kollektíve kihagytuk és elmentünk újra a Jensen&#8217;sbe ebédelni. Utána bóklásztunk kicsit a városban, majd megnéztük a Wallenberg-emlékszobrot, ami egy szép nagy kődarab rajta a fiatalkori képével. Ezek után elmentünk bevásárolni, vettünk többek között fagyit (Ben &amp; Jerry&#8217;s, ők külön posztot kapnak), én otthon maradtam pihenni, ők meg elmentek a tőlem nem messze lévő Slottskugen parkba sétálni. Este újranéztük a Red c. filmet, megittunk közbe egy üveg bort (a borok is kapnak saját posztot), utána még beszélgettünk kicsit.</p>
 
 <p>Vasárnap természetesen gyülekezet, jó volt, ráadásul sokan is voltak most, részben a pénteknél már emlegetett két család, részben meg elkezdtek emberek megjönni a nyaralásból. Igét a mozambikben lévő misszionárius családapa hírdetett, én meg közben tolmácsoltam magyarra Benczének, ami nehezebb volt mint gondoltam: leginkább, mert a csóka először elmondott egy mondatot svédül, majd azt lefordította valaki angolra, és én azt tudtam fordítani magyarra, de közben jött már a következő svéd ami aztán ment angolra ami aztán&#8230; néha kicsit elvesztettem a fonalat, meg amúgyse tolmácsoltam már több éve, de összességében sikeresen átment a lényeg.</p>
@@ -1124,34 +1124,34 @@ Itt Svédországban a márka termékei azonban minden nagyobb boltban megtalálh
 </div>
 
 <footer>
-    <a title="Permanent link to “Lazább szombat és vasárnap (meg kicsi hétfő)”" href="https://blog.ktamas.com/index.php/2013/08/08/lazabb-szombat-es-vasarnap-meg-kicsi-hetfo/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Lazább szombat és vasárnap (meg kicsi hétfő)”" href="https://ktamas.github.io/index.php/2013/08/08/lazabb-szombat-es-vasarnap-meg-kicsi-hetfo/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
-                <li><a href="https://blog.ktamas.com/tags/vend%C3%A9gek/">vendégek</a></li>
+                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://ktamas.github.io/tags/vend%C3%A9gek/">vendégek</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2013/08/07/hono-szigeten-pentek/</id>
+		<id>https://ktamas.github.io/index.php/2013/08/07/hono-szigeten-pentek/</id>
 		<title>Hönö szigetén péntek</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/08/07/hono-szigeten-pentek/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/08/07/hono-szigeten-pentek/"/>
 		<updated>2013-08-07T11:35:42Z</updated>
 		<published>2013-08-07T11:35:42Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
-		<category scheme="https://blog.ktamas.com/tags" term="vend%C3%A9gek" label="vendégek"/>
+		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://ktamas.github.io/tags" term="vend%C3%A9gek" label="vendégek"/>
 		<summary>(Ez a pár poszt július végéről pár napot dokumentál. Kicsit elmaradtam a blogolással, szóval csak most. A dolgot ebben a posztban vezettem fel.)
 Csütörtök este az volt a nagy kérdés, hogy az északi vagy a déli szigetekre menjünk: mindenki szinte mindig a délieket ajánlja, ellenben, mikor itt voltak a szüleim, ők bejárták az összes északit, és voltak délen is, és nekik észak sokkal jobban bejött. Hosszas vacilálás és guglizás után észak lett kiválasztva, azon belül is Hönö szigete.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p><em>(<a href="http://blog.ktamas.com/index.php/2013/08/06/flashback-megjott-bencze-es-hanna-csutortok/">Ez</a> a pár poszt július végéről pár napot dokumentál. Kicsit elmaradtam a blogolással, szóval csak most. A dolgot <a href="http://blog.ktamas.com/index.php/2013/07/25/allapotjelentes-es-wallander/">ebben a posztban</a> vezettem fel.)</em></p>
 
 <p>Csütörtök este az volt a nagy kérdés, hogy az északi vagy a déli szigetekre menjünk: mindenki szinte mindig a délieket ajánlja, ellenben, mikor itt voltak a szüleim, ők bejárták az összes északit, és voltak délen is, és nekik észak sokkal jobban bejött. Hosszas vacilálás és guglizás után észak lett kiválasztva, azon belül is Hönö szigete. Nem bántuk meg.<figure id="attachment_2365116" style="width: 625px" class="wp-caption aligncenter"></p>
@@ -1207,34 +1207,34 @@ Csütörtök este az volt a nagy kérdés, hogy az északi vagy a déli szigetek
 <p><a href="/wp-content/uploads/2013/08/2013-07-26-19.11.37.jpg"><img src="/wp-content/uploads/2013/08/2013-07-26-19.11.37-1024x768.jpg" alt="Saláta, a gyülekezetben" width="625" height="468" class="size-large wp-image-2365129" srcset="/wp-content/uploads/2013/08/2013-07-26-19.11.37-1024x768.jpg 1024w, /wp-content/uploads/2013/08/2013-07-26-19.11.37-300x225.jpg 300w, /wp-content/uploads/2013/08/2013-07-26-19.11.37-624x467.jpg 624w" sizes="(max-width: 625px) 100vw, 625px" /></a><figcaption class="wp-caption-text">Saláta, a gyülekezetben</figcaption></figure></p>
 
 <footer>
-    <a title="Permanent link to “Hönö szigetén péntek”" href="https://blog.ktamas.com/index.php/2013/08/07/hono-szigeten-pentek/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Hönö szigetén péntek”" href="https://ktamas.github.io/index.php/2013/08/07/hono-szigeten-pentek/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
-                <li><a href="https://blog.ktamas.com/tags/vend%C3%A9gek/">vendégek</a></li>
+                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://ktamas.github.io/tags/vend%C3%A9gek/">vendégek</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2013/08/06/flashback-megjott-bencze-es-hanna-csutortok/</id>
+		<id>https://ktamas.github.io/index.php/2013/08/06/flashback-megjott-bencze-es-hanna-csutortok/</id>
 		<title>Flashback: Megjött Bencze és Hanna csütörtök</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/08/06/flashback-megjott-bencze-es-hanna-csutortok/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/08/06/flashback-megjott-bencze-es-hanna-csutortok/"/>
 		<updated>2013-08-06T11:53:54Z</updated>
 		<published>2013-08-06T11:53:54Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
-		<category scheme="https://blog.ktamas.com/tags" term="vend%C3%A9gek" label="vendégek"/>
+		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://ktamas.github.io/tags" term="vend%C3%A9gek" label="vendégek"/>
 		<summary>(A következő pár poszt július végéről pár napot dokumentál. Kicsit elmaradtam a blogolással, szóval csak most. A dolgot ebben a posztban vezettem fel.)
 Csütörtök délelőtt megjött Bencze és Hanna, vettünk két 72 órás bérletet, leraktuk a cuccokat az albérletbe, és aztán visszamentünk a városba ebédelni. A Jensen’sbe mentünk, olcsó és jó kaja, kicsit (nem kicsit) lassú cserébe, az ebédmenüs idejük alatt (11-16h) folyamatosan tele van. Nem rohantuk sehova, szóval nem volt gond, ebéd után még beneveztem őket az ottani all-you-can-eat fagyira, amikor kapsz egy kelyhet, és aztán tölthetsz bele ilyen McDonalds-szerű vaníliafagylatot és rakhatsz rá húszféle feltét.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p><em>(A következő pár poszt július végéről pár napot dokumentál. Kicsit elmaradtam a blogolással, szóval csak most. A dolgot <a href="http://blog.ktamas.com/index.php/2013/07/25/allapotjelentes-es-wallander/">ebben a posztban</a> vezettem fel.)</em></p>
 
 <p>Csütörtök délelőtt megjött Bencze és Hanna, vettünk két 72 órás bérletet, leraktuk a cuccokat az albérletbe, és aztán visszamentünk a városba ebédelni. A Jensen&#8217;sbe mentünk, olcsó és jó kaja, kicsit (nem kicsit) lassú cserébe, az ebédmenüs idejük alatt (11-16h) folyamatosan tele van. Nem rohantuk sehova, szóval nem volt gond, ebéd után még beneveztem őket az ottani all-you-can-eat fagyira, amikor kapsz egy kelyhet, és aztán tölthetsz bele ilyen McDonalds-szerű vaníliafagylatot és rakhatsz rá húszféle feltét. Akárhányszor.</p>
@@ -1276,33 +1276,33 @@ Csütörtök délelőtt megjött Bencze és Hanna, vettünk két 72 órás bérl
 <p>Jól sikerült választani amúgy innivalót estére, de lesz majd külön poszt az elfogyasztott borokról.</p>
 
 <footer>
-    <a title="Permanent link to “Flashback: Megjött Bencze és Hanna csütörtök”" href="https://blog.ktamas.com/index.php/2013/08/06/flashback-megjott-bencze-es-hanna-csutortok/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Flashback: Megjött Bencze és Hanna csütörtök”" href="https://ktamas.github.io/index.php/2013/08/06/flashback-megjott-bencze-es-hanna-csutortok/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
-                <li><a href="https://blog.ktamas.com/tags/vend%C3%A9gek/">vendégek</a></li>
+                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://ktamas.github.io/tags/vend%C3%A9gek/">vendégek</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2013/08/05/az-uj-lakasrol/</id>
+		<id>https://ktamas.github.io/index.php/2013/08/05/az-uj-lakasrol/</id>
 		<title>Az új lakásról</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/08/05/az-uj-lakasrol/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/08/05/az-uj-lakasrol/"/>
 		<updated>2013-08-05T10:10:23Z</updated>
 		<published>2013-08-05T10:10:23Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://blog.ktamas.com/tags" term="lak%C3%A1s" label="lakás"/>
-		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://ktamas.github.io/tags" term="lak%C3%A1s" label="lakás"/>
+		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
 		<summary>Szerdán este átvettem a kulcsokat majd a Kommunicera CEO-jának és CFO-jának a segítségével gyorsan átköltöztem. Még nem pakoltam ki teljesen, ki kell találnom, hova fogom rakni a cuccaimat, mert kicsit kevés a szabad szekrény, ez speciel nem tűnt fel, mikor néztem a helyet, meg az se, hogy nincs mikró. Ez utóbbi nem fáj annyira, mint gondoltam, persze meglátjuk, hosszútávon mekkora szívás. A minap mondta egy kolléganő hogy lesz egy ingyen két hónap múlva, addig szerintem kihúzom.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Szerdán este átvettem a kulcsokat majd a Kommunicera CEO-jának és CFO-jának a segítségével gyorsan átköltöztem. Még nem pakoltam ki teljesen, ki kell találnom, hova fogom rakni a cuccaimat, mert kicsit kevés a szabad szekrény, ez speciel nem tűnt fel, mikor néztem a helyet, meg az se, hogy nincs mikró. Ez utóbbi nem fáj annyira, mint gondoltam, persze meglátjuk, hosszútávon mekkora szívás. A minap mondta egy kolléganő hogy lesz egy ingyen két hónap múlva, addig szerintem kihúzom.</p>
 
 <p>A lakás kicsit kisebb és kicsit kevésbé világos mint a régi (földszinti), ráadásul mindkét ablaka az udvarra néz, szóval kevésbé csendes, de egyik se kiemelten zavaró tényező. Határozott előrelépés, hogy a mosóépületben rögtön két szoba is van, ezért nincs túlterhelve a rendszer, és majdnem akkor mosok amikor akarok. Sőt! A mosógépek mellett szárítógépek is vannak. Ja, és van tévém is, csatornákkal, meg minden, olyan, mint az internet, csak kényelmetlenebb.</p>
@@ -1312,61 +1312,61 @@ Csütörtök délelőtt megjött Bencze és Hanna, vettünk két 72 órás bérl
 <p>Az új hely amúgy potom tíz percre van gyalog az irodától, speciel haza tudok járni minden nap ebédelni, ha nagyon akarok. Ha sikerül ezt kombinálni azzal, hogy meghívok kollégákat, akkor több motivációm lesz asszem a főzésre is.</p>
 
 <footer>
-    <a title="Permanent link to “Az új lakásról”" href="https://blog.ktamas.com/index.php/2013/08/05/az-uj-lakasrol/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Az új lakásról”" href="https://ktamas.github.io/index.php/2013/08/05/az-uj-lakasrol/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/lak%C3%A1s/">lakás</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://ktamas.github.io/tags/lak%C3%A1s/">lakás</a></li>
+                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2013/07/30/szolgalati-kozlemeny-vegre-koltozok/</id>
+		<id>https://ktamas.github.io/index.php/2013/07/30/szolgalati-kozlemeny-vegre-koltozok/</id>
 		<title>Szolgálati közlemény: végre költözök</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/07/30/szolgalati-kozlemeny-vegre-koltozok/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/07/30/szolgalati-kozlemeny-vegre-koltozok/"/>
 		<updated>2013-07-30T20:55:12Z</updated>
 		<published>2013-07-30T20:55:12Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
 		<summary>Ma félig megírtam egy összefoglalóposztot arról, hogy bármennyire is sokat rinyálok, valójában nagyon jó nekem és nagyon szeretek itt lenni, nos, most kicsit mégjobb, mert az utolsó pillanatban sikerült találni új albérletet (merthogy a régiből el kellett mennem igen rövid felmondási idővel) ami szebb, jobb, és sokkal olcsóbb, szóval most nagyon örülök. Már az előző albérlet is kisebbfajta csoda volt, ez inkább egy nagyobbfajta, mert ez a “piac” — amit szándékosan rakok idézőjelbe, mert ezt piacnak nevezni inzultus az igazi piacokra nézve — eszméletlenül beteg, hatalmas a kereslet és iszonyat alacsony a kínálat, szóval ez tényleg nem kevesebb mint egy csoda és egy sokadik megerősítés abban a hitben, hogy Isten mindig gondoskodik rólam.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Ma félig megírtam egy összefoglalóposztot arról, hogy bármennyire is sokat rinyálok, valójában nagyon jó nekem és nagyon szeretek itt lenni, nos, most kicsit mégjobb, mert az utolsó pillanatban sikerült találni új albérletet (merthogy <a href="http://blog.ktamas.com/index.php/2013/07/21/megszakitjuk-adasunkat/">a régiből el kellett mennem igen rövid felmondási idővel</a>) ami szebb, jobb, és sokkal olcsóbb, szóval most nagyon örülök. Már az előző albérlet is kisebbfajta csoda volt, ez inkább egy nagyobbfajta, mert ez a &#8220;piac&#8221; &#8212; amit szándékosan rakok idézőjelbe, mert ezt piacnak nevezni inzultus az igazi piacokra nézve &#8212; eszméletlenül beteg, hatalmas a kereslet és iszonyat alacsony a kínálat, szóval ez tényleg nem kevesebb mint egy csoda és egy sokadik megerősítés abban a hitben, hogy Isten mindig gondoskodik rólam. Egy barátom segítségével már összepakoltam a cuccaimat, holnap délután-este költözés és hamarosan lesz újra kontent is a blogon.</p>
 
 <footer>
-    <a title="Permanent link to “Szolgálati közlemény: végre költözök”" href="https://blog.ktamas.com/index.php/2013/07/30/szolgalati-kozlemeny-vegre-koltozok/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Szolgálati közlemény: végre költözök”" href="https://ktamas.github.io/index.php/2013/07/30/szolgalati-kozlemeny-vegre-koltozok/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2013/07/25/allapotjelentes-es-wallander/</id>
+		<id>https://ktamas.github.io/index.php/2013/07/25/allapotjelentes-es-wallander/</id>
 		<title>Állapotjelentés és Wallander</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/07/25/allapotjelentes-es-wallander/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/07/25/allapotjelentes-es-wallander/"/>
 		<updated>2013-07-25T10:29:53Z</updated>
 		<published>2013-07-25T10:29:53Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://blog.ktamas.com/tags" term="sorozatok" label="sorozatok"/>
-		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://ktamas.github.io/tags" term="sorozatok" label="sorozatok"/>
+		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
 		<summary>Csütörtök reggel van, itt ülök és várok a város egyetlen bevásárlóközpontjában, ma jön Bencze és Hanna pár napra látogatóba, vártam már nagyon. Ha lakásavatót nem is tartottam, úgy tűnik, velük tartok lakásbúcsúztatót, bár még mindig nincs meg az új albérlet, de még van egy szűk hetem, addig annyi minden történhet még. Például van már egy papíron remeknek látszó lakás, jó a méret, iszonyat jó környéken, pofátlanul olcsón, már csak az kéne, hogy a tulaj felvegye a telefonját.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Csütörtök reggel van, itt ülök és várok a város egyetlen bevásárlóközpontjában, ma jön Bencze és Hanna pár napra látogatóba, vártam már nagyon. Ha lakásavatót nem is tartottam, úgy tűnik, velük tartok lakásbúcsúztatót, bár még mindig nincs meg az új albérlet, de még van egy szűk hetem, addig annyi minden történhet még. Például van már egy papíron remeknek látszó lakás, jó a méret, iszonyat jó környéken, pofátlanul olcsón, már csak az kéne, hogy a tulaj felvegye a telefonját.</p>
 
 <p>Wallander mindenkinek megvan? Henning Mankell <a href="http://en.wikipedia.org/wiki/Henning_Mankell#Crime_fiction">könyvsorozata</a>, jó kis krimi, főszereplője <del datetime="2013-07-25T08:11:11+00:00">Kenneth Branagh</del> Kurt Wallander, svéd nyomozó, aki borostás, kicsit elhízott, magánéleti problémája és úgy általában rossz napja van. Ezen csak rontanak az Ystad városában történő bűnesetek. A könyvsorozatból készült három feldolgozás is: <a href="http://en.wikipedia.org/wiki/Wallander_(film_series)">svéd mozifilmek</a>, <a href="http://en.wikipedia.org/wiki/Wallander_(Swedish_TV_series)">svéd tévésorozat</a>, <a href="http://en.wikipedia.org/wiki/Wallander_(UK_TV_series)">brit tévésorozat</a>. Ebből még anno a legutóbbit sózta rám Gazs, és az nagyon remek: leginkább <a href="http://en.wikipedia.org/wiki/Kenneth_Branagh">Kenneth Branagh</a> miatt, aki közel tökéletesen alakítja a borostás, elhízott, magánéleti problémákkal rendelkező Wallandert, akinek nagyon rossz napja van.</p>
@@ -1376,33 +1376,33 @@ Csütörtök délelőtt megjött Bencze és Hanna, vettünk két 72 órás bérl
 <p>Írok a svéd verzióról is hamarosan.</p>
 
 <footer>
-    <a title="Permanent link to “Állapotjelentés és Wallander”" href="https://blog.ktamas.com/index.php/2013/07/25/allapotjelentes-es-wallander/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “Állapotjelentés és Wallander”" href="https://ktamas.github.io/index.php/2013/07/25/allapotjelentes-es-wallander/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sorozatok/">sorozatok</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://ktamas.github.io/tags/sorozatok/">sorozatok</a></li>
+                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
             </ul>
         </div>
 </footer>]]></content>
 	</entry>
 	<entry>
-		<id>https://blog.ktamas.com/index.php/2013/07/24/a-felhoben-levo-zenerol-avagy-eljen-a-spotify-meg-a-google-music/</id>
+		<id>https://ktamas.github.io/index.php/2013/07/24/a-felhoben-levo-zenerol-avagy-eljen-a-spotify-meg-a-google-music/</id>
 		<title>A felhőben lévő zenéről, avagy éljen a Spotify (meg a Google Music)</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2013/07/24/a-felhoben-levo-zenerol-avagy-eljen-a-spotify-meg-a-google-music/"/>
+		<link rel="alternate" type="text/html" href="https://ktamas.github.io/index.php/2013/07/24/a-felhoben-levo-zenerol-avagy-eljen-a-spotify-meg-a-google-music/"/>
 		<updated>2013-07-24T11:47:00Z</updated>
 		<published>2013-07-24T11:47:00Z</published>
 		<author>
 			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
+			<uri>https://ktamas.github.io/</uri>
 		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
-		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
+		<category scheme="https://ktamas.github.io/tags" term="%C3%A9nblog" label="énblog"/>
+		<category scheme="https://ktamas.github.io/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
+		<category scheme="https://ktamas.github.io/tags" term="zene" label="zene"/>
 		<summary>Ha mondjuk tavaly ősszel azt fogja mondani valaki, hogy jövőre a zenéim többségét a felhőből fogom hallgatni, akkor körberöhögöm. Egyrészt akkor még Magyarországon laktam és semmi igazán jó nem volt elérhető, másrészt meg na, a koncepció is teljesen nonszensznek tűnt. Persze kényelmetlen volt a 20+ giga zene a 120 gigás SSD-n (meg sokkal több régebbi, külső merevlemezen), de azért elvoltam. Aztán valamikor késő ősszel/télen bejött komolyabban a Deezer magyarországra, ráadásul ingyenesen adták egy ideig, elkezdtem kisérletezni vele.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+		<content type="text/html" xml:base="https://ktamas.github.io/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Ha mondjuk tavaly ősszel azt fogja mondani valaki, hogy jövőre a zenéim többségét a felhőből fogom hallgatni, akkor körberöhögöm. Egyrészt akkor még Magyarországon laktam és semmi igazán jó nem volt elérhető, másrészt meg na, a koncepció is teljesen nonszensznek tűnt. Persze kényelmetlen volt a 20+ giga zene a 120 gigás SSD-n (meg sokkal több régebbi, külső merevlemezen), de azért elvoltam. Aztán valamikor késő ősszel/télen bejött komolyabban a <a href="http://www.deezer.com">Deezer</a> magyarországra, ráadásul ingyenesen adták egy ideig, elkezdtem kisérletezni vele.</p>
 
 <p>Szép volt, jó volt, de kicsit sok dolog volt benne geobanolva, valamint, ami nagyon fájt, nem volt hozzá asztali kliens se, a böngészőből zenét hallgatni hosszabb távon meg hát&#8230; izé, nem, én nagyon szeretem a webes dolgokat, de a zenelejátszóm kapjon saját alkalmazást. És aztán kiköltöztem Svédországba.</p>
@@ -1418,14 +1418,14 @@ Csütörtök délelőtt megjött Bencze és Hanna, vettünk két 72 órás bérl
 <p>Tisztába vagyok, hogy egyáltalán nem biztos, hogy ez a felállás fogja megmenteni a zeneipart, a Spotify lejátszásonként fizet filléreket, emiatt van az is, hogy hiányzik belőle az &#8220;ismételj egy dalt&#8221; funkció, ez a legnagyobb kényelmetlenségem, ezt egydalos lejátszási listákkal hidalom át. Valamint még egy rahedli országban nem érhető el, Magyarországra is ki tudja mikor jön, nekem megvan az előnyöm, hogy abban az országban élek, ami a Spotifyt adta a világnak. Egy biztos, nekem, mint felhasználónak ez most egy nem tökéletes, de igen jó felállás.</p>
 
 <footer>
-    <a title="Permanent link to “A felhőben lévő zenéről, avagy éljen a Spotify (meg a Google Music)”" href="https://blog.ktamas.com/index.php/2013/07/24/a-felhoben-levo-zenerol-avagy-eljen-a-spotify-meg-a-google-music/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    <a title="Permanent link to “A felhőben lévő zenéről, avagy éljen a Spotify (meg a Google Music)”" href="https://ktamas.github.io/index.php/2013/07/24/a-felhoben-levo-zenerol-avagy-eljen-a-spotify-meg-a-google-music/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://ktamas.github.io/">KTamas&#39; blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
-                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
+                <li><a href="https://ktamas.github.io/tags/%C3%A9nblog/">énblog</a></li>
+                <li><a href="https://ktamas.github.io/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
+                <li><a href="https://ktamas.github.io/tags/zene/">zene</a></li>
             </ul>
         </div>
 </footer>]]></content>
