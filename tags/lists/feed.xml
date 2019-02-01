@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
 	<id>https://blog.ktamas.com/tags/lists/</id>
-	<title>lists on KTamas&#39; blog</title>
-	<subtitle>An ongoing list of KTamas' blog posts about lists</subtitle>
+	<title>lists on KTamas&#39; Blog</title>
+	<subtitle>An ongoing list of KTamas' Blog posts about lists</subtitle>
 	<updated>2019-01-02T16:07:02Z</updated>
 	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/lists/feed.xml"/>
 	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/lists/"/>
@@ -54,7 +54,7 @@
 
 <footer>
     <a title="Permanent link to “My Favorite Newsletters”" href="https://blog.ktamas.com/index.php/2019/01/02/my-favorite-newsletters/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
             <h5>More about…</h5>
             <ul>
