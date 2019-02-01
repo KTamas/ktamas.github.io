@@ -3,7 +3,7 @@
 	<id>https://blog.ktamas.com/</id>
 	<title>KTamas&#39; blog</title>
 	<subtitle>Bringing you irregular content since 2009. By KTamas.</subtitle>
-	<updated>2019-01-06T12:17:20Z</updated>
+	<updated>2019-02-01T11:46:09Z</updated>
 	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/feed.xml"/>
 	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/"/>
 	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/feed.json"/>
@@ -14,6 +14,70 @@
 	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
 	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
+	<entry>
+		<id>https://blog.ktamas.com/index.php/2019/02/01/converting-my-blog-to-hugo-and-getting-rid-of-my-vps/</id>
+		<title>Converting My Blog To Hugo and Getting Rid of My VPS</title>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2019/02/01/converting-my-blog-to-hugo-and-getting-rid-of-my-vps/"/>
+		<updated>2019-02-01T11:46:09Z</updated>
+		<published>2019-02-01T11:46:09Z</published>
+		<author>
+			<name>KTamas</name>
+			<uri>https://blog.ktamas.com/</uri>
+		</author>
+		<category scheme="https://blog.ktamas.com/tags" term="meta" label="meta"/>
+		<category scheme="https://blog.ktamas.com/tags" term="tech" label="tech"/>
+		<category scheme="https://blog.ktamas.com/tags" term="hugo" label="hugo"/>
+		<category scheme="https://blog.ktamas.com/tags" term="writetogether" label="writetogether"/>
+		<summary>I have a blog (you’re reading it!). It’s got history: I set it up in early 2009, and I have almost 600 posts, mostly in Hungarian. I had one before that, between 2005 and 2008, but it was lost due to a variety of reasons, including my failure to properly back things up. Small bits of it are still up in the Wayback Machine, though. It was all in Wordpress, which does its job, though even in 2019 it can be a pain to update things.</summary>
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+<![CDATA[<p><a href="https://blog.ktamas.com">I have a blog</a> (you&rsquo;re reading it!). It&rsquo;s got history: I set it up in early 2009, and I have almost 600 posts, mostly in Hungarian. I had one before that, between 2005 and 2008, but it was lost due to a variety of reasons, including my failure to properly back things up. Small bits of it are still <a href="http://web.archive.org/web/20070208165650/http://blog.ktamas.com/">up in the Wayback Machine</a>, though. It was all in Wordpress, which does its job, though even in 2019 it can be a pain to update things.</p>
+
+<h3 id="from-wordpress-to-jekyll-to-hugo">From Wordpress to Jekyll to Hugo</h3>
+
+<p>About a week ago I decided it was time to migrate it to <a href="https://jekyllrb.com/">Jekyll</a>. I was bored, and it gave me a good excuse to play with a static site generator. Plus, doing this kind of conversion became a rite of passage for people working in tech these days.</p>
+
+<p><em>This is not a complete guide; you can find hundreds of them with a <a href="https://www.google.com/search?q=convert+wordpress+to+jekyll">quick google</a>. I will, however, provide a general overview of the process with some helpful pointers and links.</em></p>
+
+<p>I started by migrating all the comments to Disqus with their <a href="https://wordpress.org/plugins/disqus-comment-system/">official Wordpress plugin</a>. After that, I used a <a href="https://wordpress.org/plugins/jekyll-exporter/">Jekyll exporter plugin</a> that converted all my posts into markdown&hellip; except it stripped all the embeds.</p>
+
+<p>I used to blog a lot about music, so I had a lot of embeds, mostly from Youtube. In retrospect, I could have saved myself some time by patching the exporter or finding another one. In the end, however, I ended up fixing every single post by hand. I replaced old, pre-iframe flash embed codes with updated ones and changed the newer, but still http ones to https. In most places, if the video was not necessary or wasn&rsquo;t available anymore, I added the song to the post via Spotify. The chances of a given song being up on Spotify in a few years feels <em>marginally</em> higher than on Youtube right now. I had a few other embeds that I could fix with newer code (Soundcloud) and others that I couldn&rsquo;t (Deezer), but most of the time I could find the given song or playlist within Spotify. All of this had the benefit of walking down on memory lane, reading 10-year old blog posts and cringing a lot. <em>I was so young.</em></p>
+
+<hr />
+
+<p>I&rsquo;ve found a <a href="https://github.com/vinitkumar/white-paper">reasonably decent theme</a> for Jekyll, which felt like a good starting point, though it didn&rsquo;t have built-in support for tags or archives. I started googling how to implement that, and around the same time I was venting about my embed issues on the XOXO slack. That was when <a href="https://twitter.com/theory">David</a> chimed in about his experiences on doing this exact same process, except he ended up using <a href="https://gohugo.io">Hugo</a>, another popular static site generator that&rsquo;s kind of like Jekyll except faster. <a href="https://github.com/theory/justatheory/tree/master/themes/justatheory">The theme</a> of <a href="https://justatheory.com">his blog</a> had everything I wanted: a fancy archives page and proper support for tags. So I figured I might as well continue my journey: switch to Hugo and use his theme as a basis.</p>
+
+<p>Jekyll is written in Ruby and uses a simple templating language. Hugo&rsquo;s code is in Go, and it uses Go&rsquo;s own templates; they definitely have a learning curve, even if you have coded in Go before. With some help, googling and a lot of trial and error, I got the hang of it and managed to change things to my liking as well as the look and the color scheme of the site. I converted most of my posts&rsquo; <a href="https://gohugo.io/content-management/front-matter/">front matter</a> <a href="https://github.com/coderzh/ConvertToHugo">with a script</a> and fixed the rest with a few search-and-replaces. With 8-10 hours of work behind me — half of that was fixing those embeds — I had my new blog ready to be <a href="https://pages.github.com/">hosted on Github Pages for free</a>. I use a modified version of the <a href="https://gohugo.io/hosting-and-deployment/hosting-on-github/#put-it-into-a-script-1">sample deploy script</a> they have in Hugo&rsquo;s documentation.</p>
+
+<h3 id="getting-rid-of-my-vps">Getting Rid of My VPS</h3>
+
+<p>I had a small VPS at Linode for years now, hosting my pet projects, my blog and a bunch of static sites (like my <a href="https://ktamas.com">home page</a>) over the years. It also had OpenVPN installed so I could watch iPlayer for free until BBC started cracking down on that. By now it only had my blog and those static sites; I figured if I could find something for the latter, I could ditch the VPS entirely.</p>
+
+<p>I don&rsquo;t remember how, but I came across <a href="https://netlify.com">Netlify</a>. They give you free static hosting with extremely generous soft limits (100 gigs of storage, 100 GB/month transfer). You just point them to a Github repository, and about 30 seconds later you have your site ready, with support for multiple custom domains and SSL.</p>
+
+<p>I spent an hour or two moving everything to Netlify, changing the necessary DNS entries and in the end, I was ready to say goodbye to my VPS and save a grand total of $7 a month in the future. I made backups of everything and then, somewhat emotionally pressed the &ldquo;Delete&rdquo; button on Linode&rsquo;s control panel. I wouldn&rsquo;t be surprised if I would get another one eventually for a side project or something, but for now, I&rsquo;m happy with my all my stuff hosted around the internet for free and stored in git repos.</p>
+
+<h3 id="on-the-future-of-my-blog">On the Future of My Blog</h3>
+
+<p>Making this move also means that I will start cross-posting my posts from <a href="https://writetogether.space/users/ktamas">WriteTogether</a> to here. One-off posts like this one will definitely make it here; the ongoing series I have at WriteTogether will probably stay there until they are done, and then I&rsquo;ll re-edit them into long-form posts and publish them here. I will also post content here that doesn&rsquo;t fit WriteTogether for one reason or another. Feel free to <a href="http://feeds.feedburner.com/KTamasBlog">subscribe to this blog</a> in your favorite RSS reader.</p>
+
+<p>Hugo gives me a lot of ways to tinker; I am already thinking about replacing the commenting system, adding reading time, word count and so on. I might write something on this in again in the future.</p>
+
+<p><em>This post was not sponsored by anyone, just in case some of it reads like an ad for Github or Netlify or whatever.</em></p>
+
+<footer>
+    <a title="Permanent link to “Converting My Blog To Hugo and Getting Rid of My VPS”" href="https://blog.ktamas.com/index.php/2019/02/01/converting-my-blog-to-hugo-and-getting-rid-of-my-vps/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+        <div class="tags">
+            <h5>More about…</h5>
+            <ul>
+                <li><a href="https://blog.ktamas.com/tags/meta/">meta</a></li>
+                <li><a href="https://blog.ktamas.com/tags/tech/">tech</a></li>
+                <li><a href="https://blog.ktamas.com/tags/hugo/">hugo</a></li>
+                <li><a href="https://blog.ktamas.com/tags/writetogether/">writetogether</a></li>
+            </ul>
+        </div>
+</footer>]]></content>
+	</entry>
 	<entry>
 		<id>https://blog.ktamas.com/index.php/2019/01/06/see-you-at-write-together/</id>
 		<title>Follow Me on WriteTogether</title>
@@ -1242,59 +1306,6 @@ Elkezdődött tehát a 2000-es év, és ahogy az előző években a Y2K kapcsán
 
 <footer>
     <a title="Permanent link to “Slashdot interjúk: 2000”" href="https://blog.ktamas.com/index.php/2014/05/03/slashdot-interjuk-2000/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
-</footer>]]></content>
-	</entry>
-	<entry>
-		<id>https://blog.ktamas.com/index.php/2014/05/02/slashdot-interjuk-1999/</id>
-		<title>Slashdot interjúk: 1999</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2014/05/02/slashdot-interjuk-1999/"/>
-		<updated>2014-05-02T09:02:47Z</updated>
-		<published>2014-05-02T09:02:47Z</published>
-		<author>
-			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
-		</author>
-		<summary>(Ezt a posztot több, mint két éve írtam eredetileg, elkezdem kitakarítani a draft mappámat a cult of done jegyében. Csak két évet írtam meg, de az is több a semminél, valamint az egész szerintem tök érdekes. Eredetileg tán a Kalcsán jelent volna meg.)
-Kelt osztott meg egy interjút John Carmackkal még 1999-ből, és akkor merült fel az ötlet, hogy biztos van még ilyen, és össze kéne gyűjteni őket, így neki is estem.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
-<![CDATA[<p><em>(Ezt a posztot több, mint két éve írtam eredetileg, elkezdem kitakarítani a draft mappámat a <a href="http://www.brepettis.com/blog/2009/3/3/the-cult-of-done-manifesto.html">cult of done</a> jegyében. Csak két évet írtam meg, de az is több a semminél, valamint az egész szerintem tök érdekes. Eredetileg tán a <a href="http://cyberculture.hu">Kalcsán</a> jelent volna meg.)</em></p>
-
-<p>Kelt osztott meg egy interjút John Carmackkal még 1999-ből, és akkor merült fel az ötlet, hogy biztos van még ilyen, és össze kéne gyűjteni őket, így neki is estem. Kezdjük is 1999-el, mert akkor kezdték el ezeket készíteni.</p>
-
-<p><a href="http://slashdot.org/story/99/10/29/0832246/crypto-guru-bruce-schneier-answers">Bruce Schneier</a>. Két évvel <sup>9</sup>&frasl;<sub>11</sub> előtt, négy évvel a <a href="http://www.amazon.com/Beyond-Fear-Thinking-Sensibly-Uncertain/dp/0387026207/ref=sr_1_1?ie=UTF8&amp;qid=1335611251&amp;sr=8-1">&#8220;security theater&#8221; megalkotása</a> előtt, akkor már egy éve futott viszont a <a href="http://www.schneier.com/crypto-gram-back.html">Crypto-gram nevű hírlevele</a>, ami még így 14 év után is aktív. Valamint már akkor megjegyezte, hogy központi CA-kra építkezni nem biztos, hogy a legjobb ötlet&#8230;</p>
-
-<p><a href="http://games.slashdot.org/story/99/10/15/1012230/john-carmack-answers">John Carmack</a>. Az interjú kb. egy hónappal a Quake 3: Arena megjelenése előtt készült. John kedvenc operációs rendszere a Windows NT, de használ azért mellette Win98-at, Mac OS 8-at, és azért néha eljátszik egy Irixszel vagy egy Mac OS X-szel, amiből az első publikus béta csak egy évvel késöbb jelenik meg, így addig is maradt a Mac OS X Server valamelik bétája, ami még régi, OS8-as kinézettel futott. Ezenfelül a pénz nem feltétlen boldogít, de jó érzés mindennap Ferrarival menni munkába.</p>
-
-<p><a href="http://news.slashdot.org/story/99/09/10/1234207/interview-tim-oreilly-answers">Tim O&#8217;Reilly.</a> Az O&#8217;Reilly &amp; Associates (mostmár O&#8217;Reilly Media) alapítója, akik már 1992-ben kiadtak könyvet az Internetről, és az ő könyveik borítóján vannak mindig furcsa állatok. Már ekkor felmerülnek az ekönyvek a <a href="http://en.wikipedia.org/wiki/Fatbrain">Fatbrain.com</a> kapcsán, akiket aztán két évvel késöbb megvesz a Barnes &amp; Noble.</p>
-
-<p><a href="http://news.slashdot.org/story/99/10/22/1157259/bizzare-answers-from-cult-of-the-dead-cow">Cult of the Dead Cow</a>. Ők csinálták például híres Back Orifice-t, ami nézőpont kérdése, hogy rendszergazdai adminisztrációs eszköz, vagy egy jó kis trójai, mindenesetre a Win98-ban található biztonság teljes hiányára akartak rámutatni az elkészítésével. És muszáj idemásolnom a következő kérdés-választ:</p>
-
-<p><em>How would you define the implementation of security on the major OS today?</em></p>
-
-<p>DilDog answers:</p>
-
-<ul>
-<li>Windows95 / 98 &#8211; Shit happens</li>
-<li>Commercial Unix &#8211; Shit happens over RPC.</li>
-<li>Linux &#8211; When shit happens, you fix it.</li>
-<li>FreeBSD &#8211; Shit would happen, but there&#8217;s no driver for it yet.</li>
-<li>NT &#8211; Shit wouldn&#8217;t happen if you&#8217;d just spend a few months performing 300+ modifications to our default installation, you lazy sysadmin. Get your MCSE.</li>
-<li>Windows 2000 (NT5) &#8211; Shit happens over DCOM.</li>
-</ul>
-
-<p><a href="http://tech.slashdot.org/story/99/11/04/1716225/interview-queen-elizabeth-iis-webmaster-answers">Második Erzsébet királynő webmestere</a>. Linux, script kiddie-k, és hogy olvassa-e a királynő a Slashdotot (spoiler: nem.)</p>
-
-<p><a href="http://interviews.slashdot.org/story/99/11/19/1020217/interview-antitrust-experts-respond-re-ms">Antitrust Experts Respond re MS</a>. Ugye ekkor még javában folyt az MS ellen az <a href="http://en.wikipedia.org/wiki/Microsoft_antitrust">antitröszt per</a>, felmerült, hogy fel kéne szabdalni a céget több részre, és egyéb vad ötletek. Ment ez egészen 2001-ig, amikor is  megszületett a settlement, és az MS megigérte, hogy megosztja az API-jait másokkal is. Szegény MS-t azóta főleg az EU zaklatja, ezért van nekünk böngészőválasztó ablakunk is például, meg Windows Media Player nélküli N-es Windows.</p>
-
-<p><a href="http://tech.slashdot.org/story/99/12/31/1030242/interview-the-l0pht-answers">L0pth</a>. Bevallom, nem hallottam róluk eddig semmit, leginkább, mert 2000-ben security startuppá alakultak, ahol megcsinálták a <a href="http://en.wikipedia.org/wiki/L0phtCrack">L0pthCracket</a>, majd 2004-ben felvásárolta őket a Symantec. Viszont, ők voltak az egyik első hackerspace, 1992-ben alakulva Bostonban. A legjobb kérdés az, hogy miket is használnak keresésre: természetesen Altavistát, NorthernLightot, Ask Jeeveset és végül a Yahoot.</p>
-
-<p><a href="http://tech.slashdot.org/story/99/11/26/1126252/interview-kde-developers-answer-your-questions">KDE fejlesztők</a>. Ekkor még csak az 1.0-ánál tartottak, ahogy a GNOME is, és már akkor javában folyt a flame; a KDE 2 csak egy év múlva jön csak ki. Szó esik a Konquerorról, a beépített böngészőről, ami a <a href="http://en.wikipedia.org/wiki/Khtml">KHTML</a> motort használta: ezt forkolja 2002-ben az Apple a Safarihoz, WebKit néven, amit használ többek között a Chrome is, meg egy tucat mobilböngésző, és úgy általában dominál jelenleg a második helyen az IE mögött.</p>
-
-<p>És hát van még több is, akit érdekel az összes, az <a href="http://interviews.slashdot.org/index2.pl?section=39&amp;color=green&amp;index=1&amp;view=stories&amp;duration=-1&amp;startdate=1999">kattintson ide</a>. Folytatjuk hamarosan 2000-el&#8230;</p>
-
-<footer>
-    <a title="Permanent link to “Slashdot interjúk: 1999”" href="https://blog.ktamas.com/index.php/2014/05/02/slashdot-interjuk-1999/">&nbsp;&nbsp;</a>
     By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
 </footer>]]></content>
 	</entry>

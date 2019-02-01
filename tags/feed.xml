@@ -319,6 +319,14 @@
 		<summary>Posts about hit</summary>
 	</entry>
 	<entry>
+		<id>https://blog.ktamas.com/tags/hugo/</id>
+		<title>hugo</title>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/hugo/"/>
+		<updated>2019-02-01T11:46:09Z</updated>
+		<published>2019-02-01T11:46:09Z</published>
+		<summary>Posts about hugo</summary>
+	</entry>
+	<entry>
 		<id>https://blog.ktamas.com/tags/hurr%C3%A1nyaralunk/</id>
 		<title>hurrányaralunk</title>
 		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/hurr%C3%A1nyaralunk/"/>
@@ -546,8 +554,8 @@
 		<id>https://blog.ktamas.com/tags/meta/</id>
 		<title>meta</title>
 		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/meta/"/>
-		<updated>2011-04-30T18:17:56Z</updated>
-		<published>2011-04-30T18:17:56Z</published>
+		<updated>2019-02-01T11:46:09Z</updated>
+		<published>2019-02-01T11:46:09Z</published>
 		<summary>Posts about meta</summary>
 	</entry>
 	<entry>
@@ -882,8 +890,8 @@
 		<id>https://blog.ktamas.com/tags/tech/</id>
 		<title>tech</title>
 		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/tech/"/>
-		<updated>2019-01-01T16:00:02Z</updated>
-		<published>2019-01-01T16:00:02Z</published>
+		<updated>2019-02-01T11:46:09Z</updated>
+		<published>2019-02-01T11:46:09Z</published>
 		<summary>Posts about tech</summary>
 	</entry>
 	<entry>
@@ -1010,8 +1018,8 @@
 		<id>https://blog.ktamas.com/tags/writetogether/</id>
 		<title>writetogether</title>
 		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/writetogether/"/>
-		<updated>2019-01-06T12:17:20Z</updated>
-		<published>2019-01-06T12:17:20Z</published>
+		<updated>2019-02-01T11:46:09Z</updated>
+		<published>2019-02-01T11:46:09Z</published>
 		<summary>Posts about writetogether</summary>
 	</entry>
 	<entry>

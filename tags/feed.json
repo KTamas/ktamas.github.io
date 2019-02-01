@@ -316,6 +316,14 @@
 			"content_text": "Posts about hit."
 		}, 
 		{
+			"id": "https://blog.ktamas.com/tags/hugo/",
+			"url": "https://blog.ktamas.com/tags/hugo/",
+			"title": "hugo",
+			"date_published": "2019-02-01T11:46:09Z",
+			"content_html": "\u003cp\u003ePosts about hugo.\u003c/p\u003e",
+			"content_text": "Posts about hugo."
+		}, 
+		{
 			"id": "https://blog.ktamas.com/tags/hurr%C3%A1nyaralunk/",
 			"url": "https://blog.ktamas.com/tags/hurr%C3%A1nyaralunk/",
 			"title": "hurrányaralunk",
@@ -543,7 +551,7 @@
 			"id": "https://blog.ktamas.com/tags/meta/",
 			"url": "https://blog.ktamas.com/tags/meta/",
 			"title": "meta",
-			"date_published": "2011-04-30T18:17:56Z",
+			"date_published": "2019-02-01T11:46:09Z",
 			"content_html": "\u003cp\u003ePosts about meta.\u003c/p\u003e",
 			"content_text": "Posts about meta."
 		}, 
@@ -879,7 +887,7 @@
 			"id": "https://blog.ktamas.com/tags/tech/",
 			"url": "https://blog.ktamas.com/tags/tech/",
 			"title": "tech",
-			"date_published": "2019-01-01T16:00:02Z",
+			"date_published": "2019-02-01T11:46:09Z",
 			"content_html": "\u003cp\u003ePosts about tech.\u003c/p\u003e",
 			"content_text": "Posts about tech."
 		}, 
@@ -1007,7 +1015,7 @@
 			"id": "https://blog.ktamas.com/tags/writetogether/",
 			"url": "https://blog.ktamas.com/tags/writetogether/",
 			"title": "writetogether",
-			"date_published": "2019-01-06T12:17:20Z",
+			"date_published": "2019-02-01T11:46:09Z",
 			"content_html": "\u003cp\u003ePosts about writetogether.\u003c/p\u003e",
 			"content_text": "Posts about writetogether."
 		}, 

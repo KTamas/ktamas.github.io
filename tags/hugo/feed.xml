@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
-	<id>https://blog.ktamas.com/tags/tech/</id>
-	<title>tech on KTamas&#39; blog</title>
-	<subtitle>An ongoing list of KTamas' blog posts about tech</subtitle>
+	<id>https://blog.ktamas.com/tags/hugo/</id>
+	<title>hugo on KTamas&#39; blog</title>
+	<subtitle>An ongoing list of KTamas' blog posts about hugo</subtitle>
 	<updated>2019-02-01T11:46:09Z</updated>
-	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/tech/feed.xml"/>
-	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/tech/"/>
-	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/tech/feed.json"/>
+	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/hugo/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/hugo/"/>
+	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/hugo/feed.json"/>
 	<author>
 		<name>KTamas</name>
 		<uri>https://blog.ktamas.com/</uri>
@@ -74,85 +74,6 @@
                 <li><a href="https://blog.ktamas.com/tags/tech/">tech</a></li>
                 <li><a href="https://blog.ktamas.com/tags/hugo/">hugo</a></li>
                 <li><a href="https://blog.ktamas.com/tags/writetogether/">writetogether</a></li>
-            </ul>
-        </div>
-</footer>]]></content>
-	</entry>
-	<entry>
-		<id>https://blog.ktamas.com/index.php/2019/01/01/a-year-in-smartphones/</id>
-		<title>A Year in Smartphones</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2019/01/01/a-year-in-smartphones/"/>
-		<updated>2019-01-01T16:00:02Z</updated>
-		<published>2019-01-01T16:00:02Z</published>
-		<author>
-			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
-		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="tech" label="tech"/>
-		<category scheme="https://blog.ktamas.com/tags" term="phones" label="phones"/>
-		<category scheme="https://blog.ktamas.com/tags" term="writetogether" label="writetogether"/>
-		<summary>I started 2018 with wanting to try Android after not using it for like five years; I had a Nexus S with Android 4 point something back in 2013 before jumping on to the iPhone bandwagon. So I got myself a cheap Moto G5 Plus just to play around with it, and to my surprise, I promptly fell in love with the whole thing.
-Android has come a long way, and in many ways, it’s a better fit for me than iOS.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
-<![CDATA[<p>I started 2018 with wanting to try Android after not using it for like five years; I had a Nexus S with Android 4 point something back in 2013 before jumping on to the iPhone bandwagon. So I got myself a cheap Moto G5 Plus just to play around with it, and to my surprise, I promptly fell in love with the whole thing.</p>
-
-<p>Android has come a long way, and in many ways, it&rsquo;s a better fit for me than iOS. I like the (relative) openness of it, the way it handles notifications, the ability to turn off animations (I hate UI animations with a passion), the customizability in general, better integration with Google and so on. The G5 Plus shipped with 7.0 Nougat, with the promise of an Oreo upgrade coming in late 2017, which arrived at the end of 2018 and made an otherwise fast phone somewhat slow. It ships with a vanilla version of Android, with a few enhancements from Motorola that are actually useful: a few gestures (for example, shake twice for flashlight) and a really good implementation of an active display (you can preview and even dismiss notifications from it very quickly). Oh and it had a great battery life.</p>
-
-<p>The phone did have one major flaw: the camera sucks. It&rsquo;s&hellip; passable at best, but even with the best daylight conditions, pictures simple look off at best, because of Motorola applying some extremely aggressive sharpening. Low-light performance? What low-light performance?</p>
-
-<p>So I replaced it with a Pixel 2 which, at the time had the best camera on the market (it still is one of the best ones) and it was pretty great, except the GPS in it was pretty shitty, and I was used to using my phones for running. After it spending literally months in repair &ndash; which is hard in a country where you can only buy grey market imports; mine is from Canada &ndash;, going back and forth and getting nowhere, I just got fed up with the whole thing and sold it. Only later I learned that many of the high-end phones lately come with shitty GPSes and if you wanna go running, you better buy yourself a running watch.</p>
-
-<p>In any case, I decided to jump back to iOS and got myself an iPhone X, about two months before the fall keynote. I figured I&rsquo;d replace it with the new model when it comes out but the XS is a ridiculously incremental upgrade and I have no desire whatsoever to spend money upgrading. Maybe next fall.</p>
-
-<p>The X also has a good camera, and the optical 2x zoom should be mandatory on phones; its portrait mode is, in my experience, ever-so-slightly better than the Pixel 2&rsquo;s (its low light performance, on the other hand, is miles behind). I shot a <a href="http://facesofxoxo2018.tumblr.com">series of portraits with it on XOXO 2018</a>, and I was pretty satisfied with the results.</p>
-
-<p>I do miss Android, but I came to appreciate the big screen in a relatively small package &ndash; I can still more or less use the X with one hand &ndash; as well as the build quality. iOS 12 was a very welcome update as well with a few small things (faster animations! less waiting!).</p>
-
-<p>And there are certain things that, even in 2018 are just better in my experience on an iPhone; small things, like the smoothness of the touchscreen and the handle of touch in general, or having a working implementation of auto-brightness that not even the Pixel 2 can get right.</p>
-
-<p>Overall I am pretty happy with the X, and I will stick with it for the foreseeable future, even though I recently got myself a Pixel 2 again because I needed an ARCore-capable phone for AR game development.</p>
-
-<p>The moral of the story is that I have disposable income and I was bored. I am tempted to say that none of this stuff really matters but I spend a fair amount of time on my phone every day so&hellip; it kinda does for me.</p>
-
-<p>This post originally appeared on <a href="https://writetogether.space/posts/5/a-year-in-smartphones">WriteTogether</a>.</p>
-
-<footer>
-    <a title="Permanent link to “A Year in Smartphones”" href="https://blog.ktamas.com/index.php/2019/01/01/a-year-in-smartphones/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
-        <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/tech/">tech</a></li>
-                <li><a href="https://blog.ktamas.com/tags/phones/">phones</a></li>
-                <li><a href="https://blog.ktamas.com/tags/writetogether/">writetogether</a></li>
-            </ul>
-        </div>
-</footer>]]></content>
-	</entry>
-	<entry>
-		<id>https://blog.ktamas.com/index.php/2011/11/04/internetmegosztas/</id>
-		<title>Internetmegosztás</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2011/11/04/internetmegosztas/"/>
-		<updated>2011-11-04T09:32:37Z</updated>
-		<published>2011-11-04T09:32:37Z</published>
-		<author>
-			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
-		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="random" label="random"/>
-		<category scheme="https://blog.ktamas.com/tags" term="tech" label="tech"/>
-		<summary>Mit csinál az ember, ha elvágják az épületben a koaxot és hirtelen egy egész iroda marad internet nélkül? 40 ember nem tud éppen dolgozni, valamit muszáj kezdeni a helyzettel. Mobilnetünk van, és a céges routeren van külön USB port ennek — de pont a mi modemünket nem támogatja. Pánikra azonban semmi ok: mobilnetet be a gépünkbe, fel vele az világhálóra, majd azt azt továbbosztjuk rögtön a gép hálókártyájára. Ezután a kábelmodem WAN portjából átdugjuk a hálókábelt a gépbe, és már csak a routernek kell megmondani, hogy az internetet DHCP-n kérje, és hirtelen az egész irodában újra van net.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
-<![CDATA[<p>Mit csinál az ember, ha elvágják az épületben a koaxot és hirtelen egy egész iroda marad internet nélkül? 40 ember nem tud éppen dolgozni, valamit muszáj kezdeni a helyzettel. Mobilnetünk van, és a céges routeren van külön USB port ennek &#8212; de pont a mi modemünket nem támogatja. Pánikra azonban semmi ok: mobilnetet be a gépünkbe, fel vele az világhálóra, majd azt azt továbbosztjuk rögtön a gép hálókártyájára. Ezután a kábelmodem WAN portjából átdugjuk a hálókábelt a gépbe, és már csak a routernek kell megmondani, hogy az internetet DHCP-n kérje, és hirtelen az egész irodában újra van net. Távolról sem olyan gyors ugyan, mint 120 megabites UPC, de arra a fél órára tökéletes&#8230;</p>
-
-<footer>
-    <a title="Permanent link to “Internetmegosztás”" href="https://blog.ktamas.com/index.php/2011/11/04/internetmegosztas/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
-        <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/random/">random</a></li>
-                <li><a href="https://blog.ktamas.com/tags/tech/">tech</a></li>
             </ul>
         </div>
 </footer>]]></content>
