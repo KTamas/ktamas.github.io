@@ -20,6 +20,14 @@
 			"content_text": "Posts about 2015."
 		}, 
 		{
+			"id": "https://blog.ktamas.com/tags/adhd/",
+			"url": "https://blog.ktamas.com/tags/adhd/",
+			"title": "adhd",
+			"date_published": "2019-01-03T16:10:20Z",
+			"content_html": "\u003cp\u003ePosts about adhd.\u003c/p\u003e",
+			"content_text": "Posts about adhd."
+		}, 
+		{
 			"id": "https://blog.ktamas.com/tags/agymenes/",
 			"url": "https://blog.ktamas.com/tags/agymenes/",
 			"title": "agymenes",
@@ -476,6 +484,14 @@
 			"content_text": "Posts about linux."
 		}, 
 		{
+			"id": "https://blog.ktamas.com/tags/lists/",
+			"url": "https://blog.ktamas.com/tags/lists/",
+			"title": "lists",
+			"date_published": "2019-01-02T16:07:02Z",
+			"content_html": "\u003cp\u003ePosts about lists.\u003c/p\u003e",
+			"content_text": "Posts about lists."
+		}, 
+		{
 			"id": "https://blog.ktamas.com/tags/lol/",
 			"url": "https://blog.ktamas.com/tags/lol/",
 			"title": "lol",
@@ -508,6 +524,14 @@
 			"content_text": "Posts about mail."
 		}, 
 		{
+			"id": "https://blog.ktamas.com/tags/mediadiet/",
+			"url": "https://blog.ktamas.com/tags/mediadiet/",
+			"title": "mediadiet",
+			"date_published": "2018-12-31T13:18:41Z",
+			"content_html": "\u003cp\u003ePosts about mediadiet.\u003c/p\u003e",
+			"content_text": "Posts about mediadiet."
+		}, 
+		{
 			"id": "https://blog.ktamas.com/tags/megoszt%C3%A1sok/",
 			"url": "https://blog.ktamas.com/tags/megoszt%C3%A1sok/",
 			"title": "megosztások",
@@ -522,6 +546,14 @@
 			"date_published": "2011-04-30T18:17:56Z",
 			"content_html": "\u003cp\u003ePosts about meta.\u003c/p\u003e",
 			"content_text": "Posts about meta."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/metablogging/",
+			"url": "https://blog.ktamas.com/tags/metablogging/",
+			"title": "metablogging",
+			"date_published": "2019-01-03T16:10:20Z",
+			"content_html": "\u003cp\u003ePosts about metablogging.\u003c/p\u003e",
+			"content_text": "Posts about metablogging."
 		}, 
 		{
 			"id": "https://blog.ktamas.com/tags/mix/",
@@ -644,6 +676,14 @@
 			"content_text": "Posts about pda."
 		}, 
 		{
+			"id": "https://blog.ktamas.com/tags/phones/",
+			"url": "https://blog.ktamas.com/tags/phones/",
+			"title": "phones",
+			"date_published": "2019-01-01T16:00:02Z",
+			"content_html": "\u003cp\u003ePosts about phones.\u003c/p\u003e",
+			"content_text": "Posts about phones."
+		}, 
+		{
 			"id": "https://blog.ktamas.com/tags/politika/",
 			"url": "https://blog.ktamas.com/tags/politika/",
 			"title": "politika",
@@ -674,6 +714,22 @@
 			"date_published": "2013-08-09T11:01:47Z",
 			"content_html": "\u003cp\u003ePosts about random.\u003c/p\u003e",
 			"content_text": "Posts about random."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/recaps/",
+			"url": "https://blog.ktamas.com/tags/recaps/",
+			"title": "recaps",
+			"date_published": "2018-12-30T13:06:11Z",
+			"content_html": "\u003cp\u003ePosts about recaps.\u003c/p\u003e",
+			"content_text": "Posts about recaps."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/recommendations/",
+			"url": "https://blog.ktamas.com/tags/recommendations/",
+			"title": "recommendations",
+			"date_published": "2019-01-02T16:07:02Z",
+			"content_html": "\u003cp\u003ePosts about recommendations.\u003c/p\u003e",
+			"content_text": "Posts about recommendations."
 		}, 
 		{
 			"id": "https://blog.ktamas.com/tags/rss/",
@@ -823,7 +879,7 @@
 			"id": "https://blog.ktamas.com/tags/tech/",
 			"url": "https://blog.ktamas.com/tags/tech/",
 			"title": "tech",
-			"date_published": "2011-11-04T09:32:37Z",
+			"date_published": "2019-01-01T16:00:02Z",
 			"content_html": "\u003cp\u003ePosts about tech.\u003c/p\u003e",
 			"content_text": "Posts about tech."
 		}, 
@@ -834,6 +890,14 @@
 			"date_published": "2014-03-07T18:37:35Z",
 			"content_html": "\u003cp\u003ePosts about telefon.\u003c/p\u003e",
 			"content_text": "Posts about telefon."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/thoughts/",
+			"url": "https://blog.ktamas.com/tags/thoughts/",
+			"title": "thoughts",
+			"date_published": "2018-12-31T13:18:41Z",
+			"content_html": "\u003cp\u003ePosts about thoughts.\u003c/p\u003e",
+			"content_text": "Posts about thoughts."
 		}, 
 		{
 			"id": "https://blog.ktamas.com/tags/t%C3%A1rsasj%C3%A1t%C3%A9k/",
@@ -938,6 +1002,14 @@
 			"date_published": "2009-04-21T19:20:05Z",
 			"content_html": "\u003cp\u003ePosts about woohoo.\u003c/p\u003e",
 			"content_text": "Posts about woohoo."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/writetogether/",
+			"url": "https://blog.ktamas.com/tags/writetogether/",
+			"title": "writetogether",
+			"date_published": "2019-01-06T12:17:20Z",
+			"content_html": "\u003cp\u003ePosts about writetogether.\u003c/p\u003e",
+			"content_text": "Posts about writetogether."
 		}, 
 		{
 			"id": "https://blog.ktamas.com/tags/wtf/",

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
+	<id>https://blog.ktamas.com/tags/metablogging/</id>
+	<title>metablogging on KTamas&#39; blog</title>
+	<subtitle>An ongoing list of KTamas' blog posts about metablogging</subtitle>
+	<updated>2019-01-03T16:10:20Z</updated>
+	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/metablogging/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/metablogging/"/>
+	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/metablogging/feed.json"/>
+	<author>
+		<name>KTamas</name>
+		<uri>https://blog.ktamas.com/</uri>
+	</author>
+	<generator uri="https://gohugo.io/" version="0.53">Hugo</generator>
+	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
+	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
+	<entry>
+		<id>https://blog.ktamas.com/index.php/2019/01/03/on-blogging-journaling-evernote-todos-and-thinking-in-weeks/</id>
+		<title>On blogging, journaling, Evernote, todos and thinking in weeks</title>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2019/01/03/on-blogging-journaling-evernote-todos-and-thinking-in-weeks/"/>
+		<updated>2019-01-03T16:10:20Z</updated>
+		<published>2019-01-03T16:10:20Z</published>
+		<author>
+			<name>KTamas</name>
+			<uri>https://blog.ktamas.com/</uri>
+		</author>
+		<category scheme="https://blog.ktamas.com/tags" term="metablogging" label="metablogging"/>
+		<category scheme="https://blog.ktamas.com/tags" term="adhd" label="adhd"/>
+		<category scheme="https://blog.ktamas.com/tags" term="writetogether" label="writetogether"/>
+		<summary>Well, it’s day 5 of my streak, and I have no idea what to write about. But they say you just have to start and eventually something will come out of it, so that’s what I am doing now.
+Thing is, I have a blog, although I have not blogged regularly for years now. The only time I did that was in early 2013 when I moved to Sweden from Hungary.</summary>
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+<![CDATA[<p>Well, it&rsquo;s day 5 of my streak, and I have no idea what to write about. But they say you just have to start and eventually something will come out of it, so that&rsquo;s what I am doing now.</p>
+
+<p>Thing is, <a href="https://blog.ktamas.com/">I have a blog</a>, although I have not blogged regularly for years now. The only time I did that was in early 2013 when I moved to Sweden from Hungary. For a while I did post daily because things were new and exciting, but eventually it just became regular life stuff, and I slowly stopped; other things became priority. Nevertheless, it was an important period in my life, and I&rsquo;m glad I have written memories of it.</p>
+
+<p>Around 2013 I got myself a pocket-sized Moleskine, and I started writing down whatever came to my mind, journaling, more or less. I had that notebook with me religiously, in my right pocket, next to my wallet and in the next year and a half, I filled several of them. My favorite was the Evernote edition, which is not sold anymore. It gave you three months of Evernote premium but more importantly, it had nice, light, dot-grid pages which quickly became my favorite.</p>
+
+<p>I kept writing in my notebooks until the start of 2015 when I went digital and started writing all the things down in Evernote. Now, Evernote is by no means a perfect app: it&rsquo;s bloated, slow and clumsy in many ways. And yet to this day, I have found no suitable replacement for it. It&rsquo;s one of those softwares that my brain got hardwired to (like OSX, or Lightroom). Plus it&rsquo;s available for every platform ever.</p>
+
+<p>I usually make a note a day with the title being the current date. I make a lot of ad-hoc todo lists which is as close as I get to being organized with my todos, being tried at least a half dozen apps by now and never being able to stick to one.</p>
+
+<p>(I still carry a paper notebook with me everywhere, an A5 dotted Leuchtturm1917 Bullet Journal that I use for regular notebook purposes because BuJoing turned out to be Not My Thing™, but they make good notebooks. I mostly use it to take notes when I&rsquo;m at my therapist.)</p>
+
+<p>In the last few weeks, I&rsquo;m trying a new experiment with the todos, which is moving to a weekly format, so I have one Note with the todos for Week 51, one for Week 52 and so on. In each note, I have each day and a &ldquo;Later&rdquo; section, and I try to add as many things as possible because it gives me a sense of achievement and it&rsquo;s nice to look back on days when I thought I got nothing done.</p>
+
+<p>P.S. Thinking in weeks is a very Swedish thing to do. In Sweden, everyone knows what week it is, and they frequently refer to them as in &ldquo;I&rsquo;m doing this on week X&rdquo; or &ldquo;I&rsquo;ll be on vacation between week Y and Z.&rdquo; If my memory serves me right, one of the most popular apps in the Swedish App Store for a long time was called &ldquo;Week Calendar&rdquo; until Apple added the option to display week numbers in Calendar. It drove me crazy for a long time, but I have to admit that it makes sense because it&rsquo;s a good unit of time. I&rsquo;ve been told the Germans do the same.</p>
+
+<p>This post originally appeared on <a href="https://writetogether.space/posts/5/on-blogging-journaling-evernote-todos-and-thinking-in-weeks">WriteTogether</a>.</p>
+
+<footer>
+    <a title="Permanent link to “On blogging, journaling, Evernote, todos and thinking in weeks”" href="https://blog.ktamas.com/index.php/2019/01/03/on-blogging-journaling-evernote-todos-and-thinking-in-weeks/">&nbsp;&nbsp;</a>
+    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; blog</a>
+        <div class="tags">
+            <h5>More about…</h5>
+            <ul>
+                <li><a href="https://blog.ktamas.com/tags/metablogging/">metablogging</a></li>
+                <li><a href="https://blog.ktamas.com/tags/adhd/">adhd</a></li>
+                <li><a href="https://blog.ktamas.com/tags/writetogether/">writetogether</a></li>
+            </ul>
+        </div>
+</footer>]]></content>
+	</entry>
+</feed>

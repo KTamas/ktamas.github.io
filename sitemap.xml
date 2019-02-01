@@ -8,6 +8,31 @@
   </url>
   
   <url>
+    <loc>https://blog.ktamas.com/index.php/2019/01/03/on-blogging-journaling-evernote-todos-and-thinking-in-weeks/</loc>
+    <lastmod>2019-01-03T16:10:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ktamas.com/index.php/2019/01/02/my-favorite-newsletters/</loc>
+    <lastmod>2019-01-02T16:07:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ktamas.com/index.php/2019/01/01/a-year-in-smartphones/</loc>
+    <lastmod>2019-01-01T16:00:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ktamas.com/index.php/2018/12/31/my-recent-media-diet-on-the-last-days-of-2018/</loc>
+    <lastmod>2018-12-31T13:18:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ktamas.com/index.php/2018/12/30/a-recap-of-2018-and-what-to-come-in-2019/</loc>
+    <lastmod>2018-12-30T13:06:11+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.ktamas.com/index.php/2017/09/07/please-subscribe/</loc>
     <lastmod>2017-09-07T14:09:02+00:00</lastmod>
   </url>
@@ -2913,6 +2938,12 @@
   </url>
   
   <url>
+    <loc>https://blog.ktamas.com/tags/adhd/</loc>
+    <lastmod>2019-01-03T16:10:20+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.ktamas.com/tags/agymenes/</loc>
     <lastmod>2011-11-01T21:52:17+00:00</lastmod>
     <priority>0</priority>
@@ -3255,6 +3286,12 @@
   </url>
   
   <url>
+    <loc>https://blog.ktamas.com/tags/lists/</loc>
+    <lastmod>2019-01-02T16:07:02+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.ktamas.com/tags/lol/</loc>
     <lastmod>2009-07-20T09:30:03+00:00</lastmod>
     <priority>0</priority>
@@ -3279,6 +3316,12 @@
   </url>
   
   <url>
+    <loc>https://blog.ktamas.com/tags/mediadiet/</loc>
+    <lastmod>2018-12-31T13:18:41+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.ktamas.com/tags/megoszt%C3%A1sok/</loc>
     <lastmod>2013-04-03T13:39:18+00:00</lastmod>
     <priority>0</priority>
@@ -3287,6 +3330,12 @@
   <url>
     <loc>https://blog.ktamas.com/tags/meta/</loc>
     <lastmod>2011-04-30T18:17:56+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ktamas.com/tags/metablogging/</loc>
+    <lastmod>2019-01-03T16:10:20+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3381,6 +3430,12 @@
   </url>
   
   <url>
+    <loc>https://blog.ktamas.com/tags/phones/</loc>
+    <lastmod>2019-01-01T16:00:02+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.ktamas.com/tags/politika/</loc>
     <lastmod>2009-03-30T11:14:13+00:00</lastmod>
     <priority>0</priority>
@@ -3401,6 +3456,18 @@
   <url>
     <loc>https://blog.ktamas.com/tags/random/</loc>
     <lastmod>2013-08-09T11:01:47+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ktamas.com/tags/recaps/</loc>
+    <lastmod>2018-12-30T13:06:11+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ktamas.com/tags/recommendations/</loc>
+    <lastmod>2019-01-02T16:07:02+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3514,13 +3581,19 @@
   
   <url>
     <loc>https://blog.ktamas.com/tags/tech/</loc>
-    <lastmod>2011-11-04T09:32:37+00:00</lastmod>
+    <lastmod>2019-01-01T16:00:02+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blog.ktamas.com/tags/telefon/</loc>
     <lastmod>2014-03-07T18:37:35+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ktamas.com/tags/thoughts/</loc>
+    <lastmod>2018-12-31T13:18:41+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3599,6 +3672,12 @@
   <url>
     <loc>https://blog.ktamas.com/tags/woohoo/</loc>
     <lastmod>2009-04-21T19:20:05+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ktamas.com/tags/writetogether/</loc>
+    <lastmod>2019-01-06T12:17:20+00:00</lastmod>
     <priority>0</priority>
   </url>
   
