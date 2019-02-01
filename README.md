@@ -1,1 +1,0 @@
-# ktamas.github.io
