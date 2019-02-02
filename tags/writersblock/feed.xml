@@ -3,7 +3,7 @@
 	<id>https://blog.ktamas.com/tags/writersblock/</id>
 	<title>writersblock on KTamas&#39; Blog</title>
 	<subtitle>An ongoing list of KTamas' Blog posts about writersblock</subtitle>
-	<updated>2019-01-18T16:11:50Z</updated>
+	<updated>2019-01-31T16:40:50Z</updated>
 	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/writersblock/feed.xml"/>
 	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/writersblock/"/>
 	<author>
@@ -13,6 +13,106 @@
 	<generator uri="https://gohugo.io/" version="0.54.0">Hugo</generator>
 	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
+	<entry>
+		<id>https://blog.ktamas.com/index.php/2019/01/31/on-wine-and-anxiety/</id>
+		<title>On Wine and Anxiety</title>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2019/01/31/on-wine-and-anxiety/"/>
+		<updated>2019-01-31T16:40:50Z</updated>
+		<published>2019-01-31T16:40:50Z</published>
+		<author>
+			<name>KTamas</name>
+			<uri>https://blog.ktamas.com/</uri>
+		</author>
+		<category scheme="https://blog.ktamas.com/tags" term="writersblock" label="writersblock"/>
+		<category scheme="https://blog.ktamas.com/tags" term="wine" label="wine"/>
+		<category scheme="https://blog.ktamas.com/tags" term="writetogether" label="writetogether"/>
+		<summary>I’m sitting in a wine bar and waiting for my friends to arrive to hang out. I spent my free time today working my converting my blog from Wordpress to Hugo — with a detour of Jekyll — and moving my static sites to Netlify so that I can shut down my barely-used VPS. A full write-up about this is coming soon.
+I have about 20 minutes before said friends arrive so this will be one of those stream of consciousness posts where I just start writing and see what comes out of it.</summary>
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+<![CDATA[<p>I&rsquo;m sitting in a wine bar and waiting for my friends to arrive to hang out. I spent my free time today working my converting my blog from Wordpress to Hugo — with a detour of Jekyll — and moving my static sites to Netlify so that I can shut down my barely-used VPS. A full write-up about this is coming soon.</p>
+
+<p>I have about 20 minutes before said friends arrive so this will be one of those stream of consciousness posts where I just start writing and see what comes out of it.</p>
+
+<hr />
+
+<p>For the longest time, I did not like neither beer nor wine. Sure, both are acquired tastes, but I tried plenty (especially beer) and it just never clicked. To this day the only beer I drink is alcohol-free lager since it&rsquo;s the one that tastes the least like actual beer and it has the advantage of, well, not having alcohol in it. If I wanted to get tipsy or drunk I would go with shots or cocktails. That changed in recent years, though; I finally got a taste of wine, dry red wine, to be exact.</p>
+
+<hr />
+
+<p>I mentioned a bunch of times already that in 2012 my untreated anxiety disorder got to the point where I started having panic attacks and forced me to seek treatment. One of the side-effects of all this is that my stomach was shot. I had severe discomfort/pain for months; at one point, someone accidentally figured out that the primary cause was high stomach acid and antacid pills help. Slowly, I started recovering. To aid the process and my digestion (in retrospect, maybe my anxiety as well), my old GP, who was somewhat old-school prescribed me a deciliter of red wine, every day, after lunch. It&rsquo;s not like I had anything to lose, and it&rsquo;s not enough alcohol to get me tipsy anyway.</p>
+
+<p>So I did that for like two months, and after a few weeks, I started not hating red wine. A few weeks after that, I was a convert. Since then it became my go-to drink of choice.</p>
+
+<hr />
+
+<p>I don&rsquo;t know much about wine. &ldquo;It&rsquo;s good&rdquo; or &ldquo;It sucks&rdquo; is as far as I can go. I did develop preferences over the years; by far and large, I like a good Merlot or Pinot Noir. Above all, Shiraz (Syrah) wines, mostly from Australia and New Zealand are among my favorites.</p>
+
+<p>When I lived in Sweden, I had the luxury of having a selection of 100s of different wines from at least 20 different countries. See, in Sweden, there is a government monopoly on selling alcohol above 3.5%; you can only buy the serious stuff in state-run alcohol shops. The pros and cons of this system are beyond the scope of this post, but one huge pro was the selection I&rsquo;ve mentioned above.</p>
+
+<hr />
+
+<p>I&rsquo;m back in Hungary now, and though there are stores where you can get import wine, most of the wine here is local. Which is not a bad thing, of course; Hungarian is a wine country, and our wine is renowned for its quality. I do miss being able to pick from all the different countries, though.</p>
+
+<hr />
+
+<p>My friends started arriving. Time for me to order a glass of Syrah&hellip;</p>
+
+<p><em>This post originally appeared on <a href="https://writetogether.space/posts/5/on-wine-and-anxiety">WriteTogether</a>.</em></p>
+
+<footer>
+    <a title="Permanent link to “On Wine and Anxiety”" href="https://blog.ktamas.com/index.php/2019/01/31/on-wine-and-anxiety/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+        <div class="tags">
+            <i class="fas fa-tags"></i>
+            <a href='/tags/writersblock/'>writersblock</a>, <a href='/tags/wine/'>wine</a>, <a href='/tags/writetogether/'>writetogether</a>
+        </div>
+</footer>]]></content>
+	</entry>
+	<entry>
+		<id>https://blog.ktamas.com/index.php/2019/01/24/cult-of-done/</id>
+		<title>Cult of Done</title>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2019/01/24/cult-of-done/"/>
+		<updated>2019-01-24T16:34:02Z</updated>
+		<published>2019-01-24T16:34:02Z</published>
+		<author>
+			<name>KTamas</name>
+			<uri>https://blog.ktamas.com/</uri>
+		</author>
+		<category scheme="https://blog.ktamas.com/tags" term="cultofdone" label="cultofdone"/>
+		<category scheme="https://blog.ktamas.com/tags" term="writersblock" label="writersblock"/>
+		<category scheme="https://blog.ktamas.com/tags" term="writetogether" label="writetogether"/>
+		<summary>I was planning to finish my series about ADHD today, but poor time management and unexpected troubles at work got in the way, so this is one of those posts that I’ll just start writing, and the words will come because they usually do. That’s all I have time for today.
+I have to say I am unusually proud of myself about yesterday’s post. I had something written already the day before yesterday, but I wasn’t too happy with that; it was long and disorganized and lacked structure.</summary>
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+<![CDATA[<p>I was planning to finish <a href="https://writetogether.space/posts/ktamas/re-take-your-pills-part-1">my series about ADHD</a> today, but poor time management and unexpected troubles at work got in the way, so this is one of those posts that I&rsquo;ll just start writing, and the words will come because they usually do. That&rsquo;s all I have time for today.</p>
+
+<p>I have to say I am unusually proud of myself about yesterday&rsquo;s post. I had something written already the day before yesterday, but I wasn&rsquo;t too happy with that; it was long and disorganized and lacked structure. I took a break, and the next day I started looking at it with fresh eyes. I started editing it, stumbled upon a good article in my research that provided me with an idea for structuring those 34 or so paragraphs. A journalist friend helpfully pointed out that adding subheadings helps to break the text up. I cleaned up a few things in the post with the help of <a href="https://grammarly.com">Grammarly</a> and <a href="http://hemingwayapp.com">Hemingway</a>.</p>
+
+<p>Two hours or so later, I had something ready to publish. I could have written twice as much, given the time, but I would have had an even harder time structuring that, and it felt way too long already. I also didn&rsquo;t want to break my streak, which meant I had to publish it that day. So I decided I got to a point where I was reasonably and pressed &ldquo;Publish&rdquo; (and then quickly fixed five more things I discovered after that).</p>
+
+<hr />
+
+<p>I&rsquo;ve re-read the <a href="https://medium.com/@bre/the-cult-of-done-manifesto-724ca1c2ff13">Cult of Done Manifesto</a> and to be honest, I don&rsquo;t agree with many of its points, but at least one of them I find very, very true:</p>
+
+<blockquote>
+<p>Laugh at perfection. It’s boring and keeps you from being done.</p>
+</blockquote>
+
+<p>I feel like the constraints WriteTogether gives you help you get writing done. You don&rsquo;t have any excuses: at least 300 words, each day, or you lose your streak. It&rsquo;s harsh, it could use some refinement (and likely will), but for now, I like it.</p>
+
+<p>See you tomorrow, hopefully with Part 3 of my series done.</p>
+
+<p><em>This post originally appeared on <a href="https://writetogether.space/posts/5/cult-of-done">WriteTogether</a>.</em></p>
+
+<footer>
+    <a title="Permanent link to “Cult of Done”" href="https://blog.ktamas.com/index.php/2019/01/24/cult-of-done/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+        <div class="tags">
+            <i class="fas fa-tags"></i>
+            <a href='/tags/cultofdone/'>cultofdone</a>, <a href='/tags/writersblock/'>writersblock</a>, <a href='/tags/writetogether/'>writetogether</a>
+        </div>
+</footer>]]></content>
+	</entry>
 	<entry>
 		<id>https://blog.ktamas.com/index.php/2019/01/18/writer-unblocked/</id>
 		<title>Writer, Unblocked</title>

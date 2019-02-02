@@ -175,6 +175,14 @@
 		<summary>Posts about commandline</summary>
 	</entry>
 	<entry>
+		<id>https://blog.ktamas.com/tags/cultofdone/</id>
+		<title>cultofdone</title>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/cultofdone/"/>
+		<updated>2019-01-24T16:34:02Z</updated>
+		<published>2019-01-24T16:34:02Z</published>
+		<summary>Posts about cultofdone</summary>
+	</entry>
+	<entry>
 		<id>https://blog.ktamas.com/tags/c%C3%A9g/</id>
 		<title>cég</title>
 		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/c%C3%A9g/"/>
@@ -623,6 +631,14 @@
 		<summary>Posts about metablogging</summary>
 	</entry>
 	<entry>
+		<id>https://blog.ktamas.com/tags/milestones/</id>
+		<title>milestones</title>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/milestones/"/>
+		<updated>2019-01-29T16:38:36Z</updated>
+		<published>2019-01-29T16:38:36Z</published>
+		<summary>Posts about milestones</summary>
+	</entry>
+	<entry>
 		<id>https://blog.ktamas.com/tags/mix/</id>
 		<title>mix</title>
 		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/mix/"/>
@@ -1063,6 +1079,14 @@
 		<summary>Posts about windows</summary>
 	</entry>
 	<entry>
+		<id>https://blog.ktamas.com/tags/wine/</id>
+		<title>wine</title>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/wine/"/>
+		<updated>2019-01-31T16:40:50Z</updated>
+		<published>2019-01-31T16:40:50Z</published>
+		<summary>Posts about wine</summary>
+	</entry>
+	<entry>
 		<id>https://blog.ktamas.com/tags/winmobile/</id>
 		<title>winmobile</title>
 		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/winmobile/"/>
@@ -1082,8 +1106,8 @@
 		<id>https://blog.ktamas.com/tags/writersblock/</id>
 		<title>writersblock</title>
 		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/writersblock/"/>
-		<updated>2019-01-18T16:11:50Z</updated>
-		<published>2019-01-18T16:11:50Z</published>
+		<updated>2019-01-31T16:40:50Z</updated>
+		<published>2019-01-31T16:40:50Z</published>
 		<summary>Posts about writersblock</summary>
 	</entry>
 	<entry>

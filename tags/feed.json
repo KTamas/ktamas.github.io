@@ -172,6 +172,14 @@
 			"content_text": "Posts about commandline."
 		}, 
 		{
+			"id": "https://blog.ktamas.com/tags/cultofdone/",
+			"url": "https://blog.ktamas.com/tags/cultofdone/",
+			"title": "cultofdone",
+			"date_published": "2019-01-24T16:34:02Z",
+			"content_html": "\u003cp\u003ePosts about cultofdone.\u003c/p\u003e",
+			"content_text": "Posts about cultofdone."
+		}, 
+		{
 			"id": "https://blog.ktamas.com/tags/c%C3%A9g/",
 			"url": "https://blog.ktamas.com/tags/c%C3%A9g/",
 			"title": "cég",
@@ -620,6 +628,14 @@
 			"content_text": "Posts about metablogging."
 		}, 
 		{
+			"id": "https://blog.ktamas.com/tags/milestones/",
+			"url": "https://blog.ktamas.com/tags/milestones/",
+			"title": "milestones",
+			"date_published": "2019-01-29T16:38:36Z",
+			"content_html": "\u003cp\u003ePosts about milestones.\u003c/p\u003e",
+			"content_text": "Posts about milestones."
+		}, 
+		{
 			"id": "https://blog.ktamas.com/tags/mix/",
 			"url": "https://blog.ktamas.com/tags/mix/",
 			"title": "mix",
@@ -1060,6 +1076,14 @@
 			"content_text": "Posts about windows."
 		}, 
 		{
+			"id": "https://blog.ktamas.com/tags/wine/",
+			"url": "https://blog.ktamas.com/tags/wine/",
+			"title": "wine",
+			"date_published": "2019-01-31T16:40:50Z",
+			"content_html": "\u003cp\u003ePosts about wine.\u003c/p\u003e",
+			"content_text": "Posts about wine."
+		}, 
+		{
 			"id": "https://blog.ktamas.com/tags/winmobile/",
 			"url": "https://blog.ktamas.com/tags/winmobile/",
 			"title": "winmobile",
@@ -1079,7 +1103,7 @@
 			"id": "https://blog.ktamas.com/tags/writersblock/",
 			"url": "https://blog.ktamas.com/tags/writersblock/",
 			"title": "writersblock",
-			"date_published": "2019-01-18T16:11:50Z",
+			"date_published": "2019-01-31T16:40:50Z",
 			"content_html": "\u003cp\u003ePosts about writersblock.\u003c/p\u003e",
 			"content_text": "Posts about writersblock."
 		}, 
