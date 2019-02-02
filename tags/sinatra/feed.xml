@@ -34,8 +34,9 @@ A másik dolog, ami viszont iszonyat menő az a Sinatra. Semmi sallang, a világ
 <p>A másik dolog, ami viszont iszonyat menő az a <a href="http://www.sinatrarb.com/">Sinatra</a>. Semmi sallang, a világ legminimalistább REST frameworkje,  hihetetlenül tökéletes mindenféle utiloknak webes frontendet adni, főleg ha <a href="http://www.google.hu/url?sa=t&amp;source=web&amp;ct=res&amp;cd=1&amp;url=http%3A%2F%2Fhaml.hamptoncatlin.com%2F&amp;ei=2f4SSuKvK5Ofsga9qemEDg&amp;usg=AFQjCNFNaMHSao_Y_Gp7FH_HBj2d5XIALg&amp;sig2=UR253dc3_ZDc8DJPaEK6zg">HAML-lel és SASS-szel</a> kombináljuk (ez utóbbi mondjuk épp nem akar menni, de majd fog), legalább egy közeljövőbeli projekt pl. tuti erre épül majd.</p>
 
 <footer>
-    <a title="Permanent link to “Ruby, Sinatra és egyebek”" href="https://blog.ktamas.com/index.php/2009/05/19/ruby_sinatra_es_egyebek/">Content</a>
+    <a title="Permanent link to “Ruby, Sinatra és egyebek”" href="https://blog.ktamas.com/index.php/2009/05/19/ruby_sinatra_es_egyebek/">Ruby, Sinatra és egyebek</a>
     by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    Tagged
         <div class="tags">
             <i class="fas fa-tags"></i>
             <a href='/tags/mail/'>mail</a>, <a href='/tags/ruby/'>ruby</a>, <a href='/tags/sinatra/'>sinatra</a>

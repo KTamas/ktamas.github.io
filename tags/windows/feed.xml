@@ -37,8 +37,9 @@ Windows 7 alatt is, meg OSX alatt is jól el van rejtve ez.</summary>
 <p>Windows 7 alatt is, meg OSX alatt is jól el van rejtve ez. Az előbbi alatt az <a href="http://windows.microsoft.com/en-us/windows7/change-the-order-of-network-protocol-bindings">itt található leírást</a> kell követni a megfelelő ablak eléréséig, míg OSX alatt a System Preferences &#8211; Network &#8211; fogaskerék ikon baloldalt lent &#8211; Set Service order&#8230; menüpont alatt lehet beállítani a megfelelő sorrendet. Ezzel elkerülhető az, amibe például legutóbb futottam, hogy a céges VPN-re kapcsolódva 3G/4G-ről hirtelen elment az internetem, mert magasabb volt a prioritása a kapcsolatnak, míg wifin ez nem jött elő, mert azt még régebben a megfelelő helyre ráncigáltam az említett listán&#8230;</p>
 
 <footer>
-    <a title="Permanent link to “Közérdekű közlemény: Service Order, avagy a hálózati kapcsolatok prioritása”" href="https://blog.ktamas.com/index.php/2013/08/09/kozerdeku-kozlemeny-service-order-avagy-a-halozati-kapcsolatok-prioritasa/">Content</a>
+    <a title="Permanent link to “Közérdekű közlemény: Service Order, avagy a hálózati kapcsolatok prioritása”" href="https://blog.ktamas.com/index.php/2013/08/09/kozerdeku-kozlemeny-service-order-avagy-a-halozati-kapcsolatok-prioritasa/">Közérdekű közlemény: Service Order, avagy a hálózati kapcsolatok prioritása</a>
     by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    Tagged
         <div class="tags">
             <i class="fas fa-tags"></i>
             <a href='/tags/osx/'>osx</a>, <a href='/tags/random/'>random</a>, <a href='/tags/windows/'>windows</a>
@@ -78,8 +79,9 @@ It Just Works A telepito CD/Pendrive berakasa utan legkesobb harminc perccel muk
 <p>Es most elkezdhetnek panaszkodni, hogy de nincs rendes parancssor vagy epp posix, es kulonben is, de nem, ez nem arra van, amit kapunk, az egy gyors, stabil, hasznalhato operacios rendszer, se tobb, se kevesebb, es pont ennyi kell a legtobb embernek (es sokszor nekem is), es vegre megkapjak, es ez annyira jo.</p>
 
 <footer>
-    <a title="Permanent link to “Endorsement (My name is KTamas and I approve this message)”" href="https://blog.ktamas.com/index.php/2010/06/12/my_name_is_ktamas_and_i_approve_this_message/">Content</a>
+    <a title="Permanent link to “Endorsement (My name is KTamas and I approve this message)”" href="https://blog.ktamas.com/index.php/2010/06/12/my_name_is_ktamas_and_i_approve_this_message/">Endorsement (My name is KTamas and I approve this message)</a>
     by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    Tagged
         <div class="tags">
             <i class="fas fa-tags"></i>
             <a href='/tags/geekdom/'>geekdom</a>, <a href='/tags/linux/'>linux</a>, <a href='/tags/mac/'>mac</a>, <a href='/tags/random/'>random</a>, <a href='/tags/windows/'>windows</a>
@@ -110,8 +112,9 @@ It Just Works A telepito CD/Pendrive berakasa utan legkesobb harminc perccel muk
 <p>&nbsp;</p>
 
 <footer>
-    <a title="Permanent link to “When in doubt, run Process Monitor”" href="https://blog.ktamas.com/index.php/2010/03/09/when_in_doubt_run_process_monitor/">Content</a>
+    <a title="Permanent link to “When in doubt, run Process Monitor”" href="https://blog.ktamas.com/index.php/2010/03/09/when_in_doubt_run_process_monitor/">When in doubt, run Process Monitor</a>
     by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    Tagged
         <div class="tags">
             <i class="fas fa-tags"></i>
             <a href='/tags/random/'>random</a>, <a href='/tags/windows/'>windows</a>
@@ -153,8 +156,9 @@ Persze, jó volna egy olyan rendszert használni, ami alatt van például tiszte
 <p>(Jaigen, új taglájn, <a href="http://miafene.hu/2009/11/19/jpod/">Gazs szokta mondogatni</a>, de én szeretem a webcomicokat, na.)</p>
 
 <footer>
-    <a title="Permanent link to “Linux Blues, avagy hogyan (nem) lettem (még) Desktoplinux-júzer?”" href="https://blog.ktamas.com/index.php/2010/01/17/linux_blues_avagy_hogyan_nem_lettem_meg_desktoplinux_juzer/">Content</a>
+    <a title="Permanent link to “Linux Blues, avagy hogyan (nem) lettem (még) Desktoplinux-júzer?”" href="https://blog.ktamas.com/index.php/2010/01/17/linux_blues_avagy_hogyan_nem_lettem_meg_desktoplinux_juzer/">Linux Blues, avagy hogyan (nem) lettem (még) Desktoplinux-júzer?</a>
     by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    Tagged
         <div class="tags">
             <i class="fas fa-tags"></i>
             <a href='/tags/geekdom/'>geekdom</a>, <a href='/tags/linux/'>linux</a>, <a href='/tags/windows/'>windows</a>
@@ -180,8 +184,9 @@ Persze, jó volna egy olyan rendszert használni, ami alatt van például tiszte
 <p>Valaki megcsinalta az osszes Win98 Plus! temat Windows 7-re, ikonokkal, kurzorokkal, hangokkal, hatterkepekkel. Nosztagia felsofokon, tovabbi infok <a href="http://www.beingmanan.com/wp/2009/04/windows-98-plus-themes-for-windows-7/" target="_blank">itten talalhatoak</a>.</p>
 
 <footer>
-    <a title="Permanent link to “Windows 7 Plus!”" href="https://blog.ktamas.com/index.php/2009/05/15/windows_7_plus/">Content</a>
+    <a title="Permanent link to “Windows 7 Plus!”" href="https://blog.ktamas.com/index.php/2009/05/15/windows_7_plus/">Windows 7 Plus!</a>
     by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    Tagged
         <div class="tags">
             <i class="fas fa-tags"></i>
             <a href='/tags/aj%C3%A1nl%C3%B3/'>ajánló</a>, <a href='/tags/windows/'>windows</a>
@@ -217,8 +222,9 @@ Asztali gép: wifi nincs, viszont van videókártya (hehe), mégpedig ATi, abbó
 <p>Mindenesetre, ha helyreáll az asztali gép, nem kizárt, hogy tovább fogom használni, már amikor tudom, mert hosszútávon nincs értelme annak, ha az egyetlen nyitott ablak egy terminal services client valamelyik virtgépünkre&#8230;</p>
 
 <footer>
-    <a title="Permanent link to “Hetyke Nyúltilop”" href="https://blog.ktamas.com/index.php/2009/05/09/hetyke_nyultilop/">Content</a>
+    <a title="Permanent link to “Hetyke Nyúltilop”" href="https://blog.ktamas.com/index.php/2009/05/09/hetyke_nyultilop/">Hetyke Nyúltilop</a>
     by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    Tagged
         <div class="tags">
             <i class="fas fa-tags"></i>
             <a href='/tags/linux/'>linux</a>, <a href='/tags/ubuntu/'>ubuntu</a>, <a href='/tags/windows/'>windows</a>
@@ -250,8 +256,9 @@ Ja amugy ez csak egy a sok kozul, a taskbar pl. rendszeresen villog meg ablakok 
 <p>Ja amugy ez csak egy a sok kozul, a taskbar pl. rendszeresen villog meg ablakok random reszei lesznek atlatszoak, meg ilyesmi.</p>
 
 <footer>
-    <a title="Permanent link to “Kicsit bugzik a betas Intel driver Win7 alatt”" href="https://blog.ktamas.com/index.php/2009/05/01/kicsit_bugzik_a_betas_intel_driver_win7_alatt/">Content</a>
+    <a title="Permanent link to “Kicsit bugzik a betas Intel driver Win7 alatt”" href="https://blog.ktamas.com/index.php/2009/05/01/kicsit_bugzik_a_betas_intel_driver_win7_alatt/">Kicsit bugzik a betas Intel driver Win7 alatt</a>
     by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    Tagged
         <div class="tags">
             <i class="fas fa-tags"></i>
             <a href='/tags/agymenes/'>agymenes</a>, <a href='/tags/nocomment/'>nocomment</a>, <a href='/tags/win7/'>win7</a>, <a href='/tags/windows/'>windows</a>, <a href='/tags/wtf/'>wtf</a>
@@ -289,8 +296,9 @@ Ja amugy ez csak egy a sok kozul, a taskbar pl. rendszeresen villog meg ablakok 
 <p>Kb. 2-3 hetes Samsung notebook winchi&#8230;</p>
 
 <footer>
-    <a title="Permanent link to “Napi káromkodás”" href="https://blog.ktamas.com/index.php/2009/03/16/napi_karomkodas/">Content</a>
+    <a title="Permanent link to “Napi káromkodás”" href="https://blog.ktamas.com/index.php/2009/03/16/napi_karomkodas/">Napi káromkodás</a>
     by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    Tagged
         <div class="tags">
             <i class="fas fa-tags"></i>
             <a href='/tags/agymenes/'>agymenes</a>, <a href='/tags/windows/'>windows</a>
@@ -338,8 +346,9 @@ Hopp, mégegy… óbazdmeg. Felmegyünk a Nod fórumjára, hamar kiderül, nem m
 <p>(A HVG-s címért én kérek elnézést)</p>
 
 <footer>
-    <a title="Permanent link to “A mi ESETeink”" href="https://blog.ktamas.com/index.php/2009/03/11/a_mi_eseteink/">Content</a>
+    <a title="Permanent link to “A mi ESETeink”" href="https://blog.ktamas.com/index.php/2009/03/11/a_mi_eseteink/">A mi ESETeink</a>
     by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    Tagged
         <div class="tags">
             <i class="fas fa-tags"></i>
             <a href='/tags/szerverek/'>szerverek</a>, <a href='/tags/windows/'>windows</a>
@@ -401,8 +410,9 @@ Kezdjük a másik oldalon, mi a jó az OSX-ben? Először is kapunk egy nagyon f
 <p>Minden hibája ellenére továbbra is egy alapjába véve jó oprendszernek tartom az OSX-et (bár távolról se tökéletes lásd fentebb), lehet Snow Leo kap majd valamilyen módon egy esélyt, de a fenti okok miatt egyelőre nem hiszem, hogy egyhamar újra primary oprendszer lehetne. Tudom, a Win se tokeletes, de jelenleg teljesen megfelel, amire kell.</p>
 
 <footer>
-    <a title="Permanent link to “Mi a bajom az OSX-szel?”" href="https://blog.ktamas.com/index.php/2009/02/12/mi_a_bajom_az_osx_szel/">Content</a>
+    <a title="Permanent link to “Mi a bajom az OSX-szel?”" href="https://blog.ktamas.com/index.php/2009/02/12/mi_a_bajom_az_osx_szel/">Mi a bajom az OSX-szel?</a>
     by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    Tagged
         <div class="tags">
             <i class="fas fa-tags"></i>
             <a href='/tags/mac/'>mac</a>, <a href='/tags/switch/'>switch</a>, <a href='/tags/win7/'>win7</a>, <a href='/tags/windows/'>windows</a>
@@ -436,8 +446,9 @@ Kezdjük a másik oldalon, mi a jó az OSX-ben? Először is kapunk egy nagyon f
 <p>P.P.S.: Lesz hamarosan egy részletesebb írás is arról, hogy miért hagytam ott az OSX-et. Van is, <a href="http://ktamas.blog.hu/2009/02/12/mi_a_bajom_az_osx_szel" target="_blank">itt</a>.</p>
 
 <footer>
-    <a title="Permanent link to “Bye-bye Macbook, hello X61s”" href="https://blog.ktamas.com/index.php/2009/02/11/bye_bye_macbook_hello_x61s_1/">Content</a>
+    <a title="Permanent link to “Bye-bye Macbook, hello X61s”" href="https://blog.ktamas.com/index.php/2009/02/11/bye_bye_macbook_hello_x61s_1/">Bye-bye Macbook, hello X61s</a>
     by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    Tagged
         <div class="tags">
             <i class="fas fa-tags"></i>
             <a href='/tags/mac/'>mac</a>, <a href='/tags/switch/'>switch</a>, <a href='/tags/win7/'>win7</a>, <a href='/tags/windows/'>windows</a>

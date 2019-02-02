@@ -37,8 +37,9 @@ Windows 7 alatt is, meg OSX alatt is jól el van rejtve ez.</summary>
 <p>Windows 7 alatt is, meg OSX alatt is jól el van rejtve ez. Az előbbi alatt az <a href="http://windows.microsoft.com/en-us/windows7/change-the-order-of-network-protocol-bindings">itt található leírást</a> kell követni a megfelelő ablak eléréséig, míg OSX alatt a System Preferences &#8211; Network &#8211; fogaskerék ikon baloldalt lent &#8211; Set Service order&#8230; menüpont alatt lehet beállítani a megfelelő sorrendet. Ezzel elkerülhető az, amibe például legutóbb futottam, hogy a céges VPN-re kapcsolódva 3G/4G-ről hirtelen elment az internetem, mert magasabb volt a prioritása a kapcsolatnak, míg wifin ez nem jött elő, mert azt még régebben a megfelelő helyre ráncigáltam az említett listán&#8230;</p>
 
 <footer>
-    <a title="Permanent link to “Közérdekű közlemény: Service Order, avagy a hálózati kapcsolatok prioritása”" href="https://blog.ktamas.com/index.php/2013/08/09/kozerdeku-kozlemeny-service-order-avagy-a-halozati-kapcsolatok-prioritasa/">Content</a>
+    <a title="Permanent link to “Közérdekű közlemény: Service Order, avagy a hálózati kapcsolatok prioritása”" href="https://blog.ktamas.com/index.php/2013/08/09/kozerdeku-kozlemeny-service-order-avagy-a-halozati-kapcsolatok-prioritasa/">Közérdekű közlemény: Service Order, avagy a hálózati kapcsolatok prioritása</a>
     by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    Tagged
         <div class="tags">
             <i class="fas fa-tags"></i>
             <a href='/tags/osx/'>osx</a>, <a href='/tags/random/'>random</a>, <a href='/tags/windows/'>windows</a>
@@ -66,8 +67,9 @@ Windows 7 alatt is, meg OSX alatt is jól el van rejtve ez.</summary>
 <p><a href="/wp-content/uploads/2013/06/gw.png"><img src="/wp-content/uploads/2013/06/gw.png" alt="gw" width="579" height="293" class="aligncenter size-full wp-image-2364830" srcset="/wp-content/uploads/2013/06/gw.png 579w, /wp-content/uploads/2013/06/gw-300x151.png 300w" sizes="(max-width: 579px) 100vw, 579px" /></a></p>
 
 <footer>
-    <a title="Permanent link to “Hasznos OSX-es cuccok: Grabbox”" href="https://blog.ktamas.com/index.php/2013/06/13/hasznos-osx-es-cuccok-grabbox/">Content</a>
+    <a title="Permanent link to “Hasznos OSX-es cuccok: Grabbox”" href="https://blog.ktamas.com/index.php/2013/06/13/hasznos-osx-es-cuccok-grabbox/">Hasznos OSX-es cuccok: Grabbox</a>
     by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    Tagged
         <div class="tags">
             <i class="fas fa-tags"></i>
             <a href='/tags/mac/'>mac</a>, <a href='/tags/osx/'>osx</a>
@@ -101,8 +103,9 @@ Ez a szolgáltatás sajnos teljesen hiányzik az OSX-ből, szerencsére élelmes
 <p><small>* Asszem valójában Vista óta, de mint az köztudott, a Vista nem történt meg</small></p>
 
 <footer>
-    <a title="Permanent link to “Hasznos OSX-es cuccok: Day-O”" href="https://blog.ktamas.com/index.php/2013/06/11/hasznos-osx-es-cuccok-day-o/">Content</a>
+    <a title="Permanent link to “Hasznos OSX-es cuccok: Day-O”" href="https://blog.ktamas.com/index.php/2013/06/11/hasznos-osx-es-cuccok-day-o/">Hasznos OSX-es cuccok: Day-O</a>
     by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    Tagged
         <div class="tags">
             <i class="fas fa-tags"></i>
             <a href='/tags/mac/'>mac</a>, <a href='/tags/osx/'>osx</a>
@@ -138,8 +141,9 @@ A Jumpcut egy kőegyszerű vágólap-kezelő: eltárolja nekünk az utolsó x (m
 <p>Ja, és ne ijesszen el senkit az, hogy nem volt több, mint 4 éve frissítve, a mai napig hibátlanul üzemel a legújabb OSX verzió alatt is.</p>
 
 <footer>
-    <a title="Permanent link to “Hasznos OSX-es cuccok: Jumpcut”" href="https://blog.ktamas.com/index.php/2013/06/10/hasznos-osx-es-cuccok-jumpcut/">Content</a>
+    <a title="Permanent link to “Hasznos OSX-es cuccok: Jumpcut”" href="https://blog.ktamas.com/index.php/2013/06/10/hasznos-osx-es-cuccok-jumpcut/">Hasznos OSX-es cuccok: Jumpcut</a>
     by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    Tagged
         <div class="tags">
             <i class="fas fa-tags"></i>
             <a href='/tags/mac/'>mac</a>, <a href='/tags/osx/'>osx</a>
@@ -165,8 +169,9 @@ A Jumpcut egy kőegyszerű vágólap-kezelő: eltárolja nekünk az utolsó x (m
 <p><a href="/wp-content/uploads/2013/06/gp.png"><img src="/wp-content/uploads/2013/06/gp.png" alt="gp" width="668" height="598" class="aligncenter size-full wp-image-2364773" srcset="/wp-content/uploads/2013/06/gp.png 668w, /wp-content/uploads/2013/06/gp-300x268.png 300w, /wp-content/uploads/2013/06/gp-624x558.png 624w" sizes="(max-width: 668px) 100vw, 668px" /></a></p>
 
 <footer>
-    <a title="Permanent link to “Hasznos OSX-es cuccok: váltás a billentyűkiosztások között Caps Lockkal”" href="https://blog.ktamas.com/index.php/2013/06/07/valtas-a-billentyukiosztasok-kozott-caps-lockkal-osx-alatt/">Content</a>
+    <a title="Permanent link to “Hasznos OSX-es cuccok: váltás a billentyűkiosztások között Caps Lockkal”" href="https://blog.ktamas.com/index.php/2013/06/07/valtas-a-billentyukiosztasok-kozott-caps-lockkal-osx-alatt/">Hasznos OSX-es cuccok: váltás a billentyűkiosztások között Caps Lockkal</a>
     by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    Tagged
         <div class="tags">
             <i class="fas fa-tags"></i>
             <a href='/tags/mac/'>mac</a>, <a href='/tags/osx/'>osx</a>
@@ -206,8 +211,9 @@ A rendes felhasználó természetesen először a hivatalos megoldással próbá
 <p>(igen tudom hogy lassan kéne csinálnom egy külön blogot a tech dolgoknak)</p>
 
 <footer>
-    <a title="Permanent link to “RDP OSX alatt”" href="https://blog.ktamas.com/index.php/2012/08/07/rdp-osx-alatt/">Content</a>
+    <a title="Permanent link to “RDP OSX alatt”" href="https://blog.ktamas.com/index.php/2012/08/07/rdp-osx-alatt/">RDP OSX alatt</a>
     by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    Tagged
         <div class="tags">
             <i class="fas fa-tags"></i>
             <a href='/tags/commandline/'>commandline</a>, <a href='/tags/mac/'>mac</a>, <a href='/tags/osx/'>osx</a>

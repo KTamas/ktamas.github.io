@@ -64,8 +64,9 @@
 <p><em>This post was not sponsored by anyone, just in case some of it reads like an ad for Github or Netlify or whatever.</em></p>
 
 <footer>
-    <a title="Permanent link to “Converting My Blog To Hugo and Getting Rid of My VPS”" href="https://blog.ktamas.com/index.php/2019/02/01/converting-my-blog-to-hugo-and-getting-rid-of-my-vps/">Content</a>
+    <a title="Permanent link to “Converting My Blog To Hugo and Getting Rid of My VPS”" href="https://blog.ktamas.com/index.php/2019/02/01/converting-my-blog-to-hugo-and-getting-rid-of-my-vps/">Converting My Blog To Hugo and Getting Rid of My VPS</a>
     by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    Tagged
         <div class="tags">
             <i class="fas fa-tags"></i>
             <a href='/tags/meta/'>meta</a>, <a href='/tags/tech/'>tech</a>, <a href='/tags/hugo/'>hugo</a>, <a href='/tags/writetogether/'>writetogether</a>
@@ -111,8 +112,9 @@ Android has come a long way, and in many ways, it’s a better fit for me than i
 <p><em>This post originally appeared on <a href="https://writetogether.space/posts/5/a-year-in-smartphones">WriteTogether</a>.</em></p>
 
 <footer>
-    <a title="Permanent link to “A Year in Smartphones”" href="https://blog.ktamas.com/index.php/2019/01/01/a-year-in-smartphones/">Content</a>
+    <a title="Permanent link to “A Year in Smartphones”" href="https://blog.ktamas.com/index.php/2019/01/01/a-year-in-smartphones/">A Year in Smartphones</a>
     by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    Tagged
         <div class="tags">
             <i class="fas fa-tags"></i>
             <a href='/tags/tech/'>tech</a>, <a href='/tags/phones/'>phones</a>, <a href='/tags/writetogether/'>writetogether</a>
@@ -136,8 +138,9 @@ Android has come a long way, and in many ways, it’s a better fit for me than i
 <![CDATA[<p>Mit csinál az ember, ha elvágják az épületben a koaxot és hirtelen egy egész iroda marad internet nélkül? 40 ember nem tud éppen dolgozni, valamit muszáj kezdeni a helyzettel. Mobilnetünk van, és a céges routeren van külön USB port ennek &#8212; de pont a mi modemünket nem támogatja. Pánikra azonban semmi ok: mobilnetet be a gépünkbe, fel vele az világhálóra, majd azt azt továbbosztjuk rögtön a gép hálókártyájára. Ezután a kábelmodem WAN portjából átdugjuk a hálókábelt a gépbe, és már csak a routernek kell megmondani, hogy az internetet DHCP-n kérje, és hirtelen az egész irodában újra van net. Távolról sem olyan gyors ugyan, mint 120 megabites UPC, de arra a fél órára tökéletes&#8230;</p>
 
 <footer>
-    <a title="Permanent link to “Internetmegosztás”" href="https://blog.ktamas.com/index.php/2011/11/04/internetmegosztas/">Content</a>
+    <a title="Permanent link to “Internetmegosztás”" href="https://blog.ktamas.com/index.php/2011/11/04/internetmegosztas/">Internetmegosztás</a>
     by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    Tagged
         <div class="tags">
             <i class="fas fa-tags"></i>
             <a href='/tags/random/'>random</a>, <a href='/tags/tech/'>tech</a>

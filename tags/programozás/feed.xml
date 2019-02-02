@@ -51,8 +51,9 @@
 <p>(P.P.S.: A bookmarklet remekül alkalmazható keresésekre is.)</p>
 
 <footer>
-    <a title="Permanent link to “Hacking Rukkola, avagy bookmarklet a nem happolhatóak elrejtésére”" href="https://blog.ktamas.com/index.php/2012/08/11/hacking-rukkola-avagy-alternativ-kollekciobongeszes/">Content</a>
+    <a title="Permanent link to “Hacking Rukkola, avagy bookmarklet a nem happolhatóak elrejtésére”" href="https://blog.ktamas.com/index.php/2012/08/11/hacking-rukkola-avagy-alternativ-kollekciobongeszes/">Hacking Rukkola, avagy bookmarklet a nem happolhatóak elrejtésére</a>
     by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    Tagged
         <div class="tags">
             <i class="fas fa-tags"></i>
             <a href='/tags/programoz%C3%A1s/'>programozás</a>, <a href='/tags/rukkola/'>rukkola</a>
@@ -109,8 +110,9 @@
   </p></p>
 
 <footer>
-    <a title="Permanent link to “iframek es popupok (toredekek a fejleszto naplojabol)”" href="https://blog.ktamas.com/index.php/2011/05/05/iframek-es-popupok-toredekek-a-fejleszto-naplojabol/">Content</a>
+    <a title="Permanent link to “iframek es popupok (toredekek a fejleszto naplojabol)”" href="https://blog.ktamas.com/index.php/2011/05/05/iframek-es-popupok-toredekek-a-fejleszto-naplojabol/">iframek es popupok (toredekek a fejleszto naplojabol)</a>
     by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    Tagged
         <div class="tags">
             <i class="fas fa-tags"></i>
             <a href='/tags/javascript/'>javascript</a>, <a href='/tags/programoz%C3%A1s/'>programozás</a>, <a href='/tags/random/'>random</a>
@@ -158,8 +160,9 @@
 <p><ESC>:wq</p>
 
 <footer>
-    <a title="Permanent link to “vim”" href="https://blog.ktamas.com/index.php/2011/05/05/vim/">Content</a>
+    <a title="Permanent link to “vim”" href="https://blog.ktamas.com/index.php/2011/05/05/vim/">vim</a>
     by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    Tagged
         <div class="tags">
             <i class="fas fa-tags"></i>
             <a href='/tags/aj%C3%A1nl%C3%B3/'>ajánló</a>, <a href='/tags/programoz%C3%A1s/'>programozás</a>, <a href='/tags/vim/'>vim</a>
@@ -198,8 +201,9 @@
 <p>A felho tehat borzasztoan kenyelmesse tesz dolgokat, ami persze nem jelenti azt, a helyzet felhotlen lenne (elnezest), az elmult napokban is voltak erre peldak, ugye, mindenesetre programozooldalrol tenyleg iszonyat kenyelmesse tesz dolgokat, hogy (kis tulzassal) git push, es szevasztok. A bennem levo controlfreak rendszergazda most epp el van tehat nyomva, de biztos ki fog jonni egyszercsak&#8230;</p>
 
 <footer>
-    <a title="Permanent link to “Koltozes a felhobe”" href="https://blog.ktamas.com/index.php/2011/04/30/koltozes-a-felhobe/">Content</a>
+    <a title="Permanent link to “Koltozes a felhobe”" href="https://blog.ktamas.com/index.php/2011/04/30/koltozes-a-felhobe/">Koltozes a felhobe</a>
     by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    Tagged
         <div class="tags">
             <i class="fas fa-tags"></i>
             <a href='/tags/%C3%A9nblog/'>énblog</a>, <a href='/tags/linux/'>linux</a>, <a href='/tags/meta/'>meta</a>, <a href='/tags/programoz%C3%A1s/'>programozás</a>, <a href='/tags/szerverek/'>szerverek</a>
@@ -226,8 +230,9 @@ Na, igy frissitjuk egy paranccsal szepen az osszes submodule-t (termeszetesen vi
 <p>Na, igy frissitjuk egy paranccsal szepen az osszes submodule-t (termeszetesen vim config bundle mappaja). Kiblogolom, hogy meglegyen c. rovatunkat hallottak.</p>
 
 <footer>
-    <a title="Permanent link to “Toredek a kalandjaimbol a git vilagaban”" href="https://blog.ktamas.com/index.php/2011/04/30/toredek-a-kalandjaimbol-a-git-vilagaban/">Content</a>
+    <a title="Permanent link to “Toredek a kalandjaimbol a git vilagaban”" href="https://blog.ktamas.com/index.php/2011/04/30/toredek-a-kalandjaimbol-a-git-vilagaban/">Toredek a kalandjaimbol a git vilagaban</a>
     by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    Tagged
         <div class="tags">
             <i class="fas fa-tags"></i>
             <a href='/tags/programoz%C3%A1s/'>programozás</a>, <a href='/tags/random/'>random</a>
@@ -262,8 +267,9 @@ Egyelőre nem tudom, hogy lehet megcsinálni úgy, hogy ide is beilleszthessem, 
 <p>*P.S.:&nbsp;Igen, a cuccnak kell kb. 2-3 masodperc lefutnia, mert a)&nbsp;betolti eloszor a jqueryt b)&nbsp;sajnos ki kell szednie es visszaraknia a DOM&nbsp;kb. felét amit a böngészők egyelőre nem viselnek jól. Ha valaki tud jobb megoldást, forkra fel.</p>
 
 <footer>
-    <a title="Permanent link to “Hacking netpincér”" href="https://blog.ktamas.com/index.php/2010/02/19/hacking_netpincer/">Content</a>
+    <a title="Permanent link to “Hacking netpincér”" href="https://blog.ktamas.com/index.php/2010/02/19/hacking_netpincer/">Hacking netpincér</a>
     by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    Tagged
         <div class="tags">
             <i class="fas fa-tags"></i>
             <a href='/tags/netpinc%C3%A9r/'>netpincér</a>, <a href='/tags/programoz%C3%A1s/'>programozás</a>
@@ -301,8 +307,9 @@ Hasznos linkek pedig akkor:
 </ul>
 
 <footer>
-    <a title="Permanent link to “Ruby meg a Mail előadás”" href="https://blog.ktamas.com/index.php/2009/06/18/ruby_meg_a_mail_eloadas/">Content</a>
+    <a title="Permanent link to “Ruby meg a Mail előadás”" href="https://blog.ktamas.com/index.php/2009/06/18/ruby_meg_a_mail_eloadas/">Ruby meg a Mail előadás</a>
     by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    Tagged
         <div class="tags">
             <i class="fas fa-tags"></i>
             <a href='/tags/el%C5%91ad%C3%A1s/'>előadás</a>, <a href='/tags/programoz%C3%A1s/'>programozás</a>, <a href='/tags/ruby/'>ruby</a>
@@ -395,8 +402,9 @@ excel.ActiveCell.Value2 = “Alma”;
 <p>(A szerkesztőségbe várjuk a jobb C#-os megoldásokat.)</p>
 
 <footer>
-    <a title="Permanent link to “Miért fogunk a jövőben excelt is Rubyban programozni?”" href="https://blog.ktamas.com/index.php/2009/03/27/miert_fogunk_a_jovoben_excelt_is_rubyban_programozni/">Content</a>
+    <a title="Permanent link to “Miért fogunk a jövőben excelt is Rubyban programozni?”" href="https://blog.ktamas.com/index.php/2009/03/27/miert_fogunk_a_jovoben_excelt_is_rubyban_programozni/">Miért fogunk a jövőben excelt is Rubyban programozni?</a>
     by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    Tagged
         <div class="tags">
             <i class="fas fa-tags"></i>
             <a href='/tags/programoz%C3%A1s/'>programozás</a>
@@ -424,8 +432,9 @@ P.S: természetesen van RSS feed is :)</summary>
 <p>P.S: természetesen van RSS feed is :)</p>
 
 <footer>
-    <a title="Permanent link to “Bibliaolvasó”" href="https://blog.ktamas.com/index.php/2009/01/19/bibliaolvaso/">Content</a>
+    <a title="Permanent link to “Bibliaolvasó”" href="https://blog.ktamas.com/index.php/2009/01/19/bibliaolvaso/">Bibliaolvasó</a>
     by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    Tagged
         <div class="tags">
             <i class="fas fa-tags"></i>
             <a href='/tags/hit/'>hit</a>, <a href='/tags/programoz%C3%A1s/'>programozás</a>, <a href='/tags/rails/'>rails</a>

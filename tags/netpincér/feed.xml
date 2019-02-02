@@ -41,8 +41,9 @@ Egyelőre nem tudom, hogy lehet megcsinálni úgy, hogy ide is beilleszthessem, 
 <p>*P.S.:&nbsp;Igen, a cuccnak kell kb. 2-3 masodperc lefutnia, mert a)&nbsp;betolti eloszor a jqueryt b)&nbsp;sajnos ki kell szednie es visszaraknia a DOM&nbsp;kb. felét amit a böngészők egyelőre nem viselnek jól. Ha valaki tud jobb megoldást, forkra fel.</p>
 
 <footer>
-    <a title="Permanent link to “Hacking netpincér”" href="https://blog.ktamas.com/index.php/2010/02/19/hacking_netpincer/">Content</a>
+    <a title="Permanent link to “Hacking netpincér”" href="https://blog.ktamas.com/index.php/2010/02/19/hacking_netpincer/">Hacking netpincér</a>
     by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    Tagged
         <div class="tags">
             <i class="fas fa-tags"></i>
             <a href='/tags/netpinc%C3%A9r/'>netpincér</a>, <a href='/tags/programoz%C3%A1s/'>programozás</a>
