@@ -23,11 +23,19 @@
 		<summary>Posts about 2015</summary>
 	</entry>
 	<entry>
+		<id>https://blog.ktamas.com/tags/2019/</id>
+		<title>2019</title>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/2019/"/>
+		<updated>2019-01-21T16:24:31Z</updated>
+		<published>2019-01-21T16:24:31Z</published>
+		<summary>Posts about 2019</summary>
+	</entry>
+	<entry>
 		<id>https://blog.ktamas.com/tags/30/</id>
 		<title>30</title>
 		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/30/"/>
-		<updated>2019-01-16T10:32:14Z</updated>
-		<published>2019-01-16T10:32:14Z</published>
+		<updated>2019-01-17T16:07:55Z</updated>
+		<published>2019-01-17T16:07:55Z</published>
 		<summary>Posts about 30</summary>
 	</entry>
 	<entry>
@@ -279,6 +287,14 @@
 		<summary>Posts about fotózás</summary>
 	</entry>
 	<entry>
+		<id>https://blog.ktamas.com/tags/freehugs/</id>
+		<title>freehugs</title>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/freehugs/"/>
+		<updated>2019-01-20T16:22:29Z</updated>
+		<published>2019-01-20T16:22:29Z</published>
+		<summary>Posts about freehugs</summary>
+	</entry>
+	<entry>
 		<id>https://blog.ktamas.com/tags/furcsak%C3%A9p/</id>
 		<title>furcsakép</title>
 		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/furcsak%C3%A9p/"/>
@@ -293,6 +309,14 @@
 		<updated>2009-08-02T15:24:01Z</updated>
 		<published>2009-08-02T15:24:01Z</published>
 		<summary>Posts about futurama</summary>
+	</entry>
+	<entry>
+		<id>https://blog.ktamas.com/tags/future/</id>
+		<title>future</title>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/future/"/>
+		<updated>2019-01-21T16:24:31Z</updated>
+		<published>2019-01-21T16:24:31Z</published>
+		<summary>Posts about future</summary>
 	</entry>
 	<entry>
 		<id>https://blog.ktamas.com/tags/f%C3%BCles/</id>
@@ -317,6 +341,14 @@
 		<updated>2010-06-12T11:00:00Z</updated>
 		<published>2010-06-12T11:00:00Z</published>
 		<summary>Posts about geekdom</summary>
+	</entry>
+	<entry>
+		<id>https://blog.ktamas.com/tags/goals/</id>
+		<title>goals</title>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/goals/"/>
+		<updated>2019-01-21T16:24:31Z</updated>
+		<published>2019-01-21T16:24:31Z</published>
+		<summary>Posts about goals</summary>
 	</entry>
 	<entry>
 		<id>https://blog.ktamas.com/tags/googlereader/</id>
@@ -349,6 +381,14 @@
 		<updated>2009-08-02T15:07:29Z</updated>
 		<published>2009-08-02T15:07:29Z</published>
 		<summary>Posts about hurrányaralunk</summary>
+	</entry>
+	<entry>
+		<id>https://blog.ktamas.com/tags/ideas/</id>
+		<title>ideas</title>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/ideas/"/>
+		<updated>2019-01-19T16:18:04Z</updated>
+		<published>2019-01-19T16:18:04Z</published>
+		<summary>Posts about ideas</summary>
 	</entry>
 	<entry>
 		<id>https://blog.ktamas.com/tags/id%C3%A9zet/</id>
@@ -922,9 +962,17 @@
 		<id>https://blog.ktamas.com/tags/thoughts/</id>
 		<title>thoughts</title>
 		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/thoughts/"/>
-		<updated>2019-01-16T10:32:14Z</updated>
-		<published>2019-01-16T10:32:14Z</published>
+		<updated>2019-01-20T16:22:29Z</updated>
+		<published>2019-01-20T16:22:29Z</published>
 		<summary>Posts about thoughts</summary>
+	</entry>
+	<entry>
+		<id>https://blog.ktamas.com/tags/turulcsirip/</id>
+		<title>turulcsirip</title>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/turulcsirip/"/>
+		<updated>2019-01-19T16:18:04Z</updated>
+		<published>2019-01-19T16:18:04Z</published>
+		<summary>Posts about turulcsirip</summary>
 	</entry>
 	<entry>
 		<id>https://blog.ktamas.com/tags/t%C3%A1rsasj%C3%A1t%C3%A9k/</id>
@@ -1029,6 +1077,14 @@
 		<updated>2009-04-21T19:20:05Z</updated>
 		<published>2009-04-21T19:20:05Z</published>
 		<summary>Posts about woohoo</summary>
+	</entry>
+	<entry>
+		<id>https://blog.ktamas.com/tags/writersblock/</id>
+		<title>writersblock</title>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/writersblock/"/>
+		<updated>2019-01-18T16:11:50Z</updated>
+		<published>2019-01-18T16:11:50Z</published>
+		<summary>Posts about writersblock</summary>
 	</entry>
 	<entry>
 		<id>https://blog.ktamas.com/tags/writetogether/</id>

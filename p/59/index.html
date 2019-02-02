@@ -52,6 +52,129 @@
 		
 		    <article class="post">
         <header>
+            <h1 class="post"><a href="/index.php/2009/01/11/1234567890/">1234567890</a></h1>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2009/01/11/1234567890/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2009-01-11T15:20:18Z">Sunday, January 11, 2009</time> · 63 words · 1 min read</div>
+        </header>
+        <div class="text">
+
+<p><a href="http://turulcsirip.hu/user/andreisen/" target="_blank">Andrei</a> összerakott egy <a href="http://cntdwn.eu/" target="_blank">visszaszámlálót</a>, amely abban a pillanatban éri el a 0-t, mikor az aktuális Unix timestamp 1234567890 lesz.</p>
+
+<p>Az Unix timestampet 1970. január 1-től számítjuk, a másodpercek számolásával, a részletes leírása <a href="http://en.wikipedia.org/wiki/Unix_time" target="_blank">itt olvasható</a>, a lényeg hogy sacc/kb 33 nap és pár óra mulva lesz az 1234567890. másodperc ami egy szép, kerek szám. Ehhez kapcsolódik a <a href="http://en.wikipedia.org/wiki/Year_2038_problem" target="_blank">Y2K38</a> is, lehet egyszer arról is írok&#8230;</p>
+
+        </div>
+
+        <div class="tags">
+            <i class="fas fa-tags"></i>
+            <a href='/tags/geekdom/'>geekdom</a>, <a href='/tags/linux/'>linux</a>
+        </div>
+    </article>
+
+		
+		    <article class="post">
+        <header>
+            <h1 class="post"><a href="/index.php/2009/01/11/we_re_not_gonna_take_it/">We&#8217;re not gonna take it</a></h1>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2009/01/11/we_re_not_gonna_take_it/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2009-01-11T12:00:19Z">Sunday, January 11, 2009</time> · 17 words · 1 min read</div>
+        </header>
+        <div class="text">
+
+<p>Ezt egyszerűen muszáj, annyira jó (<a href="http://web.archive.org/web/20090316032958/http://mentalstatic.info/blogs/index.php/2009/01/11/zene-ilyen-mar-ugy-is-regen-volt" target="_blank">Dutow blogjából</a> lopva):</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gxmb7yf0IzI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p>(P.S.: Nézzétek meg a csávó <a href="http://www.youtube.com/user/juniorx5" target="_blank">többi videóját</a> is, érdemes)</p>
+
+        </div>
+
+        <div class="tags">
+            <i class="fas fa-tags"></i>
+            <a href='/tags/zene/'>zene</a>
+        </div>
+    </article>
+
+		
+		    <article class="post">
+        <header>
+            <h1 class="post"><a href="/index.php/2009/01/10/sargetol_a_hyper_v_ig_masodik_resz/">Sargetól a Hyper-V-ig, második rész</a></h1>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2009/01/10/sargetol_a_hyper_v_ig_masodik_resz/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2009-01-10T13:16:01Z">Saturday, January 10, 2009</time> · 172 words · 1 min read</div>
+        </header>
+        <div class="text">
+
+<p>Szóval ott tartottunk a sztorival hogy naív kislányként úgy gondoltam, hogy akkor majd berakom RAID-be utólag (háháháhá). Mint az kiderült, ez nem annyira egyszerű, főleg ha LVM is van az adott winchin, amit én &#8220;miért is ne&#8221; alapon raktam fel &#8212; igen, ekkor még elég kezdő linuxos voltam. Mindenesetre nagy nehezen sikerült levadásznom egy laza 8 oldalas guideot a howtoforge-ról, és nekiestem, gondoltam megvan pár óra alatt (háháháhá). Ez gyakorlatilag egy éjszakányi szívást jelentett&#8230; ugyanis, pár nappal azelőzőleg backupként át-dd-ztem (igen, tudom, hülyeség) egy másik winchire az adott winchit backup okán, na most ez azt eredményezte, hogy teljesen meghülyült az mdadm (ez a linuxos softraid progi), mert a két winchit teljesen megegyezőnek látta. Mindenesetre reggelre sikerült megcsinálni úgy, hogy működjön igaz újraindítani már nem tudtam a dolgot, mert gondok voltak a /etc/fstab-bal&#8230; ezt egy újabb pár órányi szívás helyretette.</p>
+
+<p>Volt még pár elég furcsa linuxos szívásom, például mikor a rendszer úgy döntött ő most fél napnyi adatot korruptál, azóta se tudni miért, és azt se, miért csak az aznapi adatok&#8230;</p>
+
+<p>Majd folytatjuk.</p>
+
+        </div>
+
+        <div class="tags">
+            <i class="fas fa-tags"></i>
+            <a href='/tags/linux/'>linux</a>, <a href='/tags/szerverek/'>szerverek</a>
+        </div>
+    </article>
+
+		
+		    <article class="post">
+        <header>
+            <h1 class="post"><a href="/index.php/2009/01/08/sargetol_a_hyper_v_ig_elso_resz/">Sargetól a Hyper-V-ig, első rész</a></h1>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2009/01/08/sargetol_a_hyper_v_ig_elso_resz/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2009-01-08T11:34:49Z">Thursday, January 8, 2009</time> · 190 words · 1 min read</div>
+        </header>
+        <div class="text">
+
+<p>Szóval az egész úgy kezdődött hogy elkezdtem dolgozni, és pár hónap után már mint társrendszergazdaként (is) tengettem az életem. Az akkori felállás egyszerű volt: 1 db szerver, rajta egy (már akkor kicsit outdated) Debian Sarge, Samba a fájloknak meg egy Apache a projektkezelőrendszernek. A hálózatos háttérről is fogok írni majd de az egy másik post lesz.</p>
+
+<p>Szóval így kezdtünk, sajnos szegény szerver egy kis kondi nélküli szobában tengette az életét, amit bizony megsínylett, talán emiatt lehetett az, hogy az alaplap IDE, majd később a SATA vezérlője is erősen hisztis volt, és egy idő után egyre több nagyon gyanús hibát dobált.</p>
+
+<p>Szóval akkor alaplapcsere. Én akkor még elég kezdő voltam linuxban, de hallottam hogy az még az alaplapcserét is túléli (háháháhá). Winchi átrak, power gomb megnyom, kernel pánik. <a href="http://mentalstatic.info/blogs/" target="_blank">Linuxos ismerős</a> zaklatása, hát bizony a Sarge kernele nem nagyon ismeri a vadiúj alaplap ICH9R-jét. Backportsból új kernel, de nem elég új&#8230; akkor új Linux. Ubuntu Gutsy Server fel, aztán meg mindenféle dolgok konfigurálása Dutow (lásd Linuxos ismerős) aktív zaklatása mellett. A végére mindenesetre megtanultam egy rakat dolgot. Persze LVM-mel installáltam (virtuális partíciómanager), és gondoltam majd utólag berakom RAID-be (háháháhá).</p>
+
+<p>Tu bí kontinjúd&#8230;</p>
+
+        </div>
+
+        <div class="tags">
+            <i class="fas fa-tags"></i>
+            <a href='/tags/linux/'>linux</a>, <a href='/tags/szerverek/'>szerverek</a>
+        </div>
+    </article>
+
+		
+		    <article class="post">
+        <header>
+            <h1 class="post"><a href="/index.php/2009/01/06/az_fotozasrul_avagy_fotozni_jo/">Az fotózásrul, avagy fotózni jó</a></h1>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2009/01/06/az_fotozasrul_avagy_fotozni_jo/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2009-01-06T13:56:54Z">Tuesday, January 6, 2009</time> · 312 words · 2 min read</div>
+        </header>
+        <div class="text">
+
+<p>Az egész valószínű azzal kezdődött hogy még zsenge újságíró koromban lehetőségem nyílt tesztelni az akkor megjelent Olympus E-1 digigépet. Pontosabban nem nekem &#8212; mert nem értettem semmit a dologhoz &#8211;, hanem édesapámnak, aki tud egyet s mást a szakmáról. Így született meg <a href="http://www.hoc.hu/index.php?p=articles&cid=5&y=113" target="_blank">ez a cikk</a> és számára szerelem volt első látásra. Nem sokkal később alkalma is nyílt vásárolni egyet, köszönhetően az akkor futó hihetetlen diákkedvezménynek (asszem 250-ért adtak vázat + a legjobb 14-54mm f2,8-3,5 objektívet) meg persze Istennek. Ebből kifolyólag én is azon a gépen tanultam fotózni.</p>
+
+<p style="text-align: center;">
+  <img class="size-full wp-image-37 aligncenter" src="http://ktamas.blog.hu/media/image/200901/frontview.jpg" alt="Olympus E-1 (kép a DPReviewról)" width="500" height="366" />
+</p></p> 
+
+<p>Elég régóta terveztem magamnak is egy digigép beszerzését, azonban mindíg volt valami fontosabb, amire inkább áldoztam pénzt. Aztán pár héttel ezelőtt ráakadtam egy nagyon megkímélt, ugyanakkor nagyon jó árú E-1-re, és gyorsan lecsaptam rá meg egy 14-45mm f3,5-5,6-os teleobjektívre. Ezt gyorsan követte egy FL-36-os vaku meg egy 40-150mm f3,5-4,5 zoomobi is, úgyhogy most egy jó időre betáraztunk, legközelebb 1-2 év múlva fogok ehhez valamit venni, ami valszeg egy új váz lesz (E-5&#215;0?). Vagy ha megütöm a lottóötöst, akkor pár visz0nylag drága objektívet :)</p>
+
+<p>Miért pont az E-1? Egyrészt mert eddig is azon fotózgattam, így kezdő gépnek nagyszerű lesz, másrészt mert még így 5 évvel a kiadása után is piszokjó képeket tud csinálni. Emellett viszonylag nagy és nehéz darab; van rendes markolata (nem úgy mint a mostani, belépő szintű DSLR-eknek) és a súlya kifejezetten segít, mikor alacsony rekeszidővel kell fotózni. Plusz időjárásálló, magnézium házzal rendelkezik.</p>
+
+<p>Ettől függetlenül nem tökéletes: nincs beépített vaku ill. képstabilizátor, ISO400 és afelett az átlagnál jobban zajosodik és a beépített zajszűrő pedig használhatatlanul lassú. Ez utóbbi két problémát viszont nagyszerűen orvosolja a Lightroom &#8212; hamar megtanultam, hogy csakis RAW-ba szabad fotózni. Ja és nincs Live View sem, de az annyira nem érdekel. A Lightroomról fogok majd írni, mert ez a szoftver minden fotós legjobb barátja, egyszerűen nélkülözhetetlen.</p>
+
+<p>Lesz post mindjárt egy-két képről is (önreklám, hihi), de addig is nézegessétek az Indafotó accountomat.</p>
+
+        </div>
+
+        <div class="tags">
+            <i class="fas fa-tags"></i>
+            <a href='/tags/fot%C3%B3z%C3%A1s/'>fotózás</a>
+        </div>
+    </article>
+
+		
+		    <article class="post">
+        <header>
             <h1 class="post"><a href="/index.php/2009/01/05/united_states_csongrad/">//United States/Csongrád</a></h1>
             <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2009/01/05/united_states_csongrad/"><i class="far fa-bookmark"></i></a>
             <time datetime="2009-01-05T14:21:51Z">Monday, January 5, 2009</time> · 15 words · 1 min read</div>
@@ -165,47 +288,6 @@
             <i class="fas fa-tags"></i>
             <a href='/tags/%C3%A9nblog/'>énblog</a>
         </div>
-    </article>
-
-		
-		    <article class="about">
-        <header>
-            <h1 class="post"><a href="/about/">About</a></h1>
-            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/about/"><i class="far fa-bookmark"></i></a>
-            <time datetime="0001-01-01T00:00:00Z">Monday, January 1, 0001</time> · 116 words · 1 min read</div>
-        </header>
-        <div class="text">
-
-
-
-<p>This is the personal blog of Tamas Kadar aka KTamas. If you&rsquo;d like to get in touch, catch me on <a href="https://twitter.com/ktamas">Twitter</a> or send email
-to <a href="mailto:ktamas@ktamas.com">ktamas@ktamas.com</a>.</p>
-
-<h2 id="colophon">Colophon</h2>
-
-<p>This blog is written in <a href="http://daringfireball.net/projects/markdown/">Markdown</a>, built and published with <a href="https://gohugo.io">Hugo</a>, and
-hosted on <a href="https://pages.github.com">Github Pages</a>. Its set in <a href="https://fonts.google.com/specimen/Roboto">Roboto</a> and <a href="https://fonts.google.com/specimen/Open%20Sans">Open Sans</a>, with fixed-width type set in <a href="https://github.com/adobe-fonts/source-code-pro">Source Code Pro</a>. The icons are by <a href="https://fontawesome.com">Font Awesome</a>.</p>
-
-<p>This site uses JavaScript and also Google Analytics. Nevertheless, JavaScript is only required for Disqus comments and you can block Google Analytics with your favorite adblocker.</p>
-
-<p>This site uses a modified version of the <a href="https://github.com/theory/justatheory/tree/master/themes/justatheory">justatheory theme</a> by <a href="http://justatheory.com/">David E. Wheeler</a>. Thanks David for helping me get started with Hugo and this theme.</p>
-
-        </div>
-
-    </article>
-
-		
-		    <article class="archive">
-        <header>
-            <h1 class="post"><a href="/archive/">Previously, on KTamas' Blog</a></h1>
-            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/archive/"><i class="far fa-bookmark"></i></a>
-            <time datetime="0001-01-01T00:00:00Z">Monday, January 1, 0001</time> · 0 words · 0 min read</div>
-        </header>
-        <div class="text">
-
-
-        </div>
-
     </article>
 
 		
@@ -765,12 +847,23 @@ hosted on <a href="https://pages.github.com">Github Pages</a>. Its set in <a hre
     <li class="page-item active"><a class="page-link" href="/p/59/">59</a></li>
     
     
-    <li class="page-item disabled">
-    <a href="" class="page-link" aria-label="Next"><span aria-hidden="true">&raquo;</span></a>
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item"><a class="page-link" href="/p/60/">60</a></li>
+    
+    
+    <li class="page-item">
+    <a href="/p/60/" class="page-link" aria-label="Next"><span aria-hidden="true">&raquo;</span></a>
     </li>
     
     <li class="page-item">
-        <a href="/p/59/" class="page-link" aria-label="Last"><span aria-hidden="true">&raquo;&raquo;</span></a>
+        <a href="/p/60/" class="page-link" aria-label="Last"><span aria-hidden="true">&raquo;&raquo;</span></a>
     </li>
     
 </ul>

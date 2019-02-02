@@ -20,10 +20,18 @@
 			"content_text": "Posts about 2015."
 		}, 
 		{
+			"id": "https://blog.ktamas.com/tags/2019/",
+			"url": "https://blog.ktamas.com/tags/2019/",
+			"title": "2019",
+			"date_published": "2019-01-21T16:24:31Z",
+			"content_html": "\u003cp\u003ePosts about 2019.\u003c/p\u003e",
+			"content_text": "Posts about 2019."
+		}, 
+		{
 			"id": "https://blog.ktamas.com/tags/30/",
 			"url": "https://blog.ktamas.com/tags/30/",
 			"title": "30",
-			"date_published": "2019-01-16T10:32:14Z",
+			"date_published": "2019-01-17T16:07:55Z",
 			"content_html": "\u003cp\u003ePosts about 30.\u003c/p\u003e",
 			"content_text": "Posts about 30."
 		}, 
@@ -276,6 +284,14 @@
 			"content_text": "Posts about fotózás."
 		}, 
 		{
+			"id": "https://blog.ktamas.com/tags/freehugs/",
+			"url": "https://blog.ktamas.com/tags/freehugs/",
+			"title": "freehugs",
+			"date_published": "2019-01-20T16:22:29Z",
+			"content_html": "\u003cp\u003ePosts about freehugs.\u003c/p\u003e",
+			"content_text": "Posts about freehugs."
+		}, 
+		{
 			"id": "https://blog.ktamas.com/tags/furcsak%C3%A9p/",
 			"url": "https://blog.ktamas.com/tags/furcsak%C3%A9p/",
 			"title": "furcsakép",
@@ -290,6 +306,14 @@
 			"date_published": "2009-08-02T15:24:01Z",
 			"content_html": "\u003cp\u003ePosts about futurama.\u003c/p\u003e",
 			"content_text": "Posts about futurama."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/future/",
+			"url": "https://blog.ktamas.com/tags/future/",
+			"title": "future",
+			"date_published": "2019-01-21T16:24:31Z",
+			"content_html": "\u003cp\u003ePosts about future.\u003c/p\u003e",
+			"content_text": "Posts about future."
 		}, 
 		{
 			"id": "https://blog.ktamas.com/tags/f%C3%BCles/",
@@ -314,6 +338,14 @@
 			"date_published": "2010-06-12T11:00:00Z",
 			"content_html": "\u003cp\u003ePosts about geekdom.\u003c/p\u003e",
 			"content_text": "Posts about geekdom."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/goals/",
+			"url": "https://blog.ktamas.com/tags/goals/",
+			"title": "goals",
+			"date_published": "2019-01-21T16:24:31Z",
+			"content_html": "\u003cp\u003ePosts about goals.\u003c/p\u003e",
+			"content_text": "Posts about goals."
 		}, 
 		{
 			"id": "https://blog.ktamas.com/tags/googlereader/",
@@ -346,6 +378,14 @@
 			"date_published": "2009-08-02T15:07:29Z",
 			"content_html": "\u003cp\u003ePosts about hurrányaralunk.\u003c/p\u003e",
 			"content_text": "Posts about hurrányaralunk."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/ideas/",
+			"url": "https://blog.ktamas.com/tags/ideas/",
+			"title": "ideas",
+			"date_published": "2019-01-19T16:18:04Z",
+			"content_html": "\u003cp\u003ePosts about ideas.\u003c/p\u003e",
+			"content_text": "Posts about ideas."
 		}, 
 		{
 			"id": "https://blog.ktamas.com/tags/id%C3%A9zet/",
@@ -919,9 +959,17 @@
 			"id": "https://blog.ktamas.com/tags/thoughts/",
 			"url": "https://blog.ktamas.com/tags/thoughts/",
 			"title": "thoughts",
-			"date_published": "2019-01-16T10:32:14Z",
+			"date_published": "2019-01-20T16:22:29Z",
 			"content_html": "\u003cp\u003ePosts about thoughts.\u003c/p\u003e",
 			"content_text": "Posts about thoughts."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/turulcsirip/",
+			"url": "https://blog.ktamas.com/tags/turulcsirip/",
+			"title": "turulcsirip",
+			"date_published": "2019-01-19T16:18:04Z",
+			"content_html": "\u003cp\u003ePosts about turulcsirip.\u003c/p\u003e",
+			"content_text": "Posts about turulcsirip."
 		}, 
 		{
 			"id": "https://blog.ktamas.com/tags/t%C3%A1rsasj%C3%A1t%C3%A9k/",
@@ -1026,6 +1074,14 @@
 			"date_published": "2009-04-21T19:20:05Z",
 			"content_html": "\u003cp\u003ePosts about woohoo.\u003c/p\u003e",
 			"content_text": "Posts about woohoo."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/writersblock/",
+			"url": "https://blog.ktamas.com/tags/writersblock/",
+			"title": "writersblock",
+			"date_published": "2019-01-18T16:11:50Z",
+			"content_html": "\u003cp\u003ePosts about writersblock.\u003c/p\u003e",
+			"content_text": "Posts about writersblock."
 		}, 
 		{
 			"id": "https://blog.ktamas.com/tags/writetogether/",

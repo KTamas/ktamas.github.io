@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
+	<id>https://blog.ktamas.com/tags/writersblock/</id>
+	<title>writersblock on KTamas&#39; Blog</title>
+	<subtitle>An ongoing list of KTamas' Blog posts about writersblock</subtitle>
+	<updated>2019-01-18T16:11:50Z</updated>
+	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/writersblock/feed.xml"/>
+	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/writersblock/"/>
+	<author>
+		<name>KTamas</name>
+		<uri>https://blog.ktamas.com/</uri>
+	</author>
+	<generator uri="https://gohugo.io/" version="0.54.0">Hugo</generator>
+	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
+	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
+	<entry>
+		<id>https://blog.ktamas.com/index.php/2019/01/18/writer-unblocked/</id>
+		<title>Writer, Unblocked</title>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2019/01/18/writer-unblocked/"/>
+		<updated>2019-01-18T16:11:50Z</updated>
+		<published>2019-01-18T16:11:50Z</published>
+		<author>
+			<name>KTamas</name>
+			<uri>https://blog.ktamas.com/</uri>
+		</author>
+		<category scheme="https://blog.ktamas.com/tags" term="thoughts" label="thoughts"/>
+		<category scheme="https://blog.ktamas.com/tags" term="writersblock" label="writersblock"/>
+		<category scheme="https://blog.ktamas.com/tags" term="writetogether" label="writetogether"/>
+		<summary>I have no idea what to write today but I will start, and I am sure words will come.
+I have a couple of topics floating in my head for longer stories. One is obviously continuing my memoir about my time in Sweden but I’ve hit a snag there: I got to the part where I arrived in Sweden, and now there are a couple of months where I am unsure what I should write about.</summary>
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+<![CDATA[<p>I have no idea what to write today but I will start, and I am sure words will come.</p>
+
+<p>I have a couple of topics floating in my head for longer stories. One is obviously continuing my memoir about my time in Sweden but I&rsquo;ve hit a snag there: I got to the part where I arrived in Sweden, and now there are a couple of months where I am unsure what I should write about. It&rsquo;ll come, though.</p>
+
+<p>I have another thing to write about: the story of Turulcsirip, an early Hungarian Twitter community that was quite unique at the time. Part of me wants to make a real article of it, an oral history: interview the guy who created it, the earliest users, and so on. But I&rsquo;m not sure if that&rsquo;s a good fit for this platform. I can tell this story from just my perspective, and that would give you a somewhat good image of it as well, so I might just do that.</p>
+
+<p>I am not yet sure if I want to write mostly multi-part stories (that you have to plan at least somewhat in advance) or more one-off things. For some reason, the former sounds easier for me, because if I just sit down to write <em>something</em>, I draw a blank. But that&rsquo;s something I want to improve as well.</p>
+
+<p>Then again, I don&rsquo;t want to write just for writing&rsquo;s sake, only to have my streak, like I am doing right now. I want to write meaningful things, things people enjoy and find engaging. I feel like I have a lot of stories to tell; there is enough material. Now I just have to do the writing itself.</p>
+
+<p>This whole post is just a shameless thing to get my streak, look, 300 words exactly.</p>
+
+<p><em>This post originally appeared on <a href="https://writetogether.space/posts/5/writer-unblocked">WriteTogether</a>.</em></p>
+
+<footer>
+    <a title="Permanent link to “Writer, Unblocked”" href="https://blog.ktamas.com/index.php/2019/01/18/writer-unblocked/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+        <div class="tags">
+            <i class="fas fa-tags"></i>
+            <a href='/tags/thoughts/'>thoughts</a>, <a href='/tags/writersblock/'>writersblock</a>, <a href='/tags/writetogether/'>writetogether</a>
+        </div>
+</footer>]]></content>
+	</entry>
+</feed>
