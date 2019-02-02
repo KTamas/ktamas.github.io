@@ -6,7 +6,6 @@
 	<updated>2009-05-24T19:55:56Z</updated>
 	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/ige/feed.xml"/>
 	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/ige/"/>
-	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/ige/feed.json"/>
 	<author>
 		<name>KTamas</name>
 		<uri>https://blog.ktamas.com/</uri>
@@ -36,13 +35,11 @@
 </blockquote>
 
 <footer>
-    <a title="Permanent link to “Note to self”" href="https://blog.ktamas.com/index.php/2009/05/24/note_to_self_1/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Note to self”" href="https://blog.ktamas.com/index.php/2009/05/24/note_to_self_1/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/ige/">ige</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/ige/'>ige</a>
         </div>
 </footer>]]></content>
 	</entry>

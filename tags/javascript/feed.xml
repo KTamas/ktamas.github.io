@@ -6,7 +6,6 @@
 	<updated>2011-05-05T23:58:46Z</updated>
 	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/javascript/feed.xml"/>
 	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/javascript/"/>
-	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/javascript/feed.json"/>
 	<author>
 		<name>KTamas</name>
 		<uri>https://blog.ktamas.com/</uri>
@@ -64,15 +63,11 @@
   </p></p>
 
 <footer>
-    <a title="Permanent link to “iframek es popupok (toredekek a fejleszto naplojabol)”" href="https://blog.ktamas.com/index.php/2011/05/05/iframek-es-popupok-toredekek-a-fejleszto-naplojabol/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “iframek es popupok (toredekek a fejleszto naplojabol)”" href="https://blog.ktamas.com/index.php/2011/05/05/iframek-es-popupok-toredekek-a-fejleszto-naplojabol/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/javascript/">javascript</a></li>
-                <li><a href="https://blog.ktamas.com/tags/programoz%C3%A1s/">programozás</a></li>
-                <li><a href="https://blog.ktamas.com/tags/random/">random</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/javascript/'>javascript</a>, <a href='/tags/programoz%C3%A1s/'>programozás</a>, <a href='/tags/random/'>random</a>
         </div>
 </footer>]]></content>
 	</entry>

@@ -6,7 +6,6 @@
 	<updated>2009-03-24T10:00:39Z</updated>
 	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/bsg/feed.xml"/>
 	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/bsg/"/>
-	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/bsg/feed.json"/>
 	<author>
 		<name>KTamas</name>
 		<uri>https://blog.ktamas.com/</uri>
@@ -34,14 +33,11 @@ Es Ron Moore nevet aranyba foglaljuk, ketszer.</summary>
 <p>Es Ron Moore nevet aranyba foglaljuk, ketszer.</p>
 
 <footer>
-    <a title="Permanent link to “A Battlestar Galactica a vilag legjobb Sci-Fi sorozata”" href="https://blog.ktamas.com/index.php/2009/03/24/a_battlestar_galactica_a_vilag_legjobb_sci_fi_sorozata/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “A Battlestar Galactica a vilag legjobb Sci-Fi sorozata”" href="https://blog.ktamas.com/index.php/2009/03/24/a_battlestar_galactica_a_vilag_legjobb_sci_fi_sorozata/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/bsg/">bsg</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sorozat/">sorozat</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/bsg/'>bsg</a>, <a href='/tags/sorozat/'>sorozat</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -69,14 +65,11 @@ Es Ron Moore nevet aranyba foglaljuk, ketszer.</summary>
 
 <p>Szóval nagyon ott volt ez a rész a szeren, mi lesz itt a következő kilencben?&#8230;</p>
 <footer>
-    <a title="Permanent link to “BSG 4&amp;#215;11”" href="https://blog.ktamas.com/index.php/2009/01/17/bsg_4x11/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “BSG 4&amp;#215;11”" href="https://blog.ktamas.com/index.php/2009/01/17/bsg_4x11/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/bsg/">bsg</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sorozat/">sorozat</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/bsg/'>bsg</a>, <a href='/tags/sorozat/'>sorozat</a>
         </div>
 </footer>]]></content>
 	</entry>

@@ -6,7 +6,6 @@
 	<updated>2014-01-29T22:23:14Z</updated>
 	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/%C3%A9vfordul%C3%B3/feed.xml"/>
 	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/%C3%A9vfordul%C3%B3/"/>
-	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/%C3%A9vfordul%C3%B3/feed.json"/>
 	<author>
 		<name>KTamas</name>
 		<uri>https://blog.ktamas.com/</uri>
@@ -34,15 +33,11 @@
 <p>Holnap, ha lesz rá idő, kipróbálom a másik helyet is.</p>
 
 <footer>
-    <a title="Permanent link to “Első évforduló, de most tényleg”" href="https://blog.ktamas.com/index.php/2014/01/29/elso-evfordulo-de-most-tenyleg/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Első évforduló, de most tényleg”" href="https://blog.ktamas.com/index.php/2014/01/29/elso-evfordulo-de-most-tenyleg/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9vfordul%C3%B3/">évforduló</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/%C3%A9nblog/'>énblog</a>, <a href='/tags/%C3%A9vfordul%C3%B3/'>évforduló</a>, <a href='/tags/sv%C3%A9dorsz%C3%A1g/'>svédország</a>
         </div>
 </footer>]]></content>
 	</entry>

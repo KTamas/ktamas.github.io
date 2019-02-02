@@ -6,7 +6,6 @@
 	<updated>2009-01-05T14:21:51Z</updated>
 	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/furcsak%C3%A9p/feed.xml"/>
 	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/furcsak%C3%A9p/"/>
-	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/furcsak%C3%A9p/feed.json"/>
 	<author>
 		<name>KTamas</name>
 		<uri>https://blog.ktamas.com/</uri>
@@ -32,13 +31,11 @@
 <p><a href="http://ktamas.blog.hu/media/image/200901/picture-2.png" target="_blank"><img class="size-full wp-image-26" title="//United States/Csongrad" src="http://ktamas.blog.hu/media/image/200901/picture-2.png" alt="Kattintva nagyobb lesz!" width="366" height="242" border="0" /></a><figcaption class="wp-caption-text">Kattintva nagyobb lesz!</figcaption></figure></p>
 
 <footer>
-    <a title="Permanent link to “//United States/Csongrád”" href="https://blog.ktamas.com/index.php/2009/01/05/united_states_csongrad/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “//United States/Csongrád”" href="https://blog.ktamas.com/index.php/2009/01/05/united_states_csongrad/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/furcsak%C3%A9p/">furcsakép</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/furcsak%C3%A9p/'>furcsakép</a>
         </div>
 </footer>]]></content>
 	</entry>

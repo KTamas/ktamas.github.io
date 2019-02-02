@@ -6,7 +6,6 @@
 	<updated>2011-05-04T09:41:19Z</updated>
 	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/backlog/feed.xml"/>
 	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/backlog/"/>
-	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/backlog/feed.json"/>
 	<author>
 		<name>KTamas</name>
 		<uri>https://blog.ktamas.com/</uri>
@@ -37,15 +36,11 @@
 <p><span><a href="http://soundcloud.com/ktamasenty/bbc-countdown-compilation">BBC Countdown Compilation</a></span></p>
 
 <footer>
-    <a title="Permanent link to “Zene ebedhez: BBC Countdown Compilation (backlog)”" href="https://blog.ktamas.com/index.php/2011/05/04/zene-ebedhez-bbc-countdown-compilation-backlog/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Zene ebedhez: BBC Countdown Compilation (backlog)”" href="https://blog.ktamas.com/index.php/2011/05/04/zene-ebedhez-bbc-countdown-compilation-backlog/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
-                <li><a href="https://blog.ktamas.com/tags/backlog/">backlog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/aj%C3%A1nl%C3%B3/'>ajánló</a>, <a href='/tags/backlog/'>backlog</a>, <a href='/tags/zene/'>zene</a>
         </div>
 </footer>]]></content>
 	</entry>

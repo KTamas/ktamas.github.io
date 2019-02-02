@@ -6,7 +6,6 @@
 	<updated>2013-04-20T11:40:25Z</updated>
 	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/irrit%C3%A1l/feed.xml"/>
 	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/irrit%C3%A1l/"/>
-	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/irrit%C3%A1l/feed.json"/>
 	<author>
 		<name>KTamas</name>
 		<uri>https://blog.ktamas.com/</uri>
@@ -48,15 +47,11 @@
 <p>És ez jó.</p>
 
 <footer>
-    <a title="Permanent link to “Irritál”" href="https://blog.ktamas.com/index.php/2013/04/20/irrital/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Irritál”" href="https://blog.ktamas.com/index.php/2013/04/20/irrital/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/irrit%C3%A1l/">irritál</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/%C3%A9nblog/'>énblog</a>, <a href='/tags/irrit%C3%A1l/'>irritál</a>, <a href='/tags/sv%C3%A9dorsz%C3%A1g/'>svédország</a>
         </div>
 </footer>]]></content>
 	</entry>

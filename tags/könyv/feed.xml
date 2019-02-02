@@ -6,7 +6,6 @@
 	<updated>2012-02-27T19:33:02Z</updated>
 	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/k%C3%B6nyv/feed.xml"/>
 	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/k%C3%B6nyv/"/>
-	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/k%C3%B6nyv/feed.json"/>
 	<author>
 		<name>KTamas</name>
 		<uri>https://blog.ktamas.com/</uri>
@@ -61,15 +60,11 @@
 <p><em>Függöny.</em></p>
 
 <footer>
-    <a title="Permanent link to “R.I.P. Osaka”" href="https://blog.ktamas.com/index.php/2012/02/27/r-i-p-osaka/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “R.I.P. Osaka”" href="https://blog.ktamas.com/index.php/2012/02/27/r-i-p-osaka/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/k%C3%B6nyv/">könyv</a></li>
-                <li><a href="https://blog.ktamas.com/tags/random/">random</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/%C3%A9nblog/'>énblog</a>, <a href='/tags/k%C3%B6nyv/'>könyv</a>, <a href='/tags/random/'>random</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -108,14 +103,11 @@
 <p>(<a href="http://en.wikipedia.org/wiki/File:Chiang,_Ted_(Portrait_by_Arturo_Villarrubia).jpg">Középső kép Artur Villarrubia, CC BY-SA</a>. folytatjuk.)</p>
 
 <footer>
-    <a title="Permanent link to “Olvasónapló, harmadik rész: póker, Bábel tornya, és egy kis altertöri”" href="https://blog.ktamas.com/index.php/2012/01/13/olvasonaplo-harmadik-resz-poker-babel-tornya-es-egy-kis-altertori/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Olvasónapló, harmadik rész: póker, Bábel tornya, és egy kis altertöri”" href="https://blog.ktamas.com/index.php/2012/01/13/olvasonaplo-harmadik-resz-poker-babel-tornya-es-egy-kis-altertori/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/k%C3%B6nyv/">könyv</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/%C3%A9nblog/'>énblog</a>, <a href='/tags/k%C3%B6nyv/'>könyv</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -159,14 +151,11 @@
 <p>(folytatjuk.)</p>
 
 <footer>
-    <a title="Permanent link to “Olvasónapló, második rész: drágakövek, pónik, vámpírok”" href="https://blog.ktamas.com/index.php/2012/01/12/olvasonaplo-masodik-resz/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Olvasónapló, második rész: drágakövek, pónik, vámpírok”" href="https://blog.ktamas.com/index.php/2012/01/12/olvasonaplo-masodik-resz/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/k%C3%B6nyv/">könyv</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/%C3%A9nblog/'>énblog</a>, <a href='/tags/k%C3%B6nyv/'>könyv</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -209,14 +198,11 @@
 <p>(folytatjuk.)</p>
 
 <footer>
-    <a title="Permanent link to “Olvasónapló, első rész”" href="https://blog.ktamas.com/index.php/2012/01/11/olvasonaplo-elso-resz/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Olvasónapló, első rész”" href="https://blog.ktamas.com/index.php/2012/01/11/olvasonaplo-elso-resz/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/k%C3%B6nyv/">könyv</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/%C3%A9nblog/'>énblog</a>, <a href='/tags/k%C3%B6nyv/'>könyv</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -250,14 +236,11 @@
 <p>(A könyvről bővebb információ <a href="http://www.trottel.hu/timagyarok.html">itt található</a>.)</p>
 
 <footer>
-    <a title="Permanent link to “Százegynéhány kultúrsokk (Ti! Magyarok, feketeszemmel)”" href="https://blog.ktamas.com/index.php/2011/07/04/szazegynehany-kultursokk-ti-magyarok-feketeszemmel/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Százegynéhány kultúrsokk (Ti! Magyarok, feketeszemmel)”" href="https://blog.ktamas.com/index.php/2011/07/04/szazegynehany-kultursokk-ti-magyarok-feketeszemmel/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
-                <li><a href="https://blog.ktamas.com/tags/k%C3%B6nyv/">könyv</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/aj%C3%A1nl%C3%B3/'>ajánló</a>, <a href='/tags/k%C3%B6nyv/'>könyv</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -315,14 +298,11 @@ ISSN:
 </blockquote>
 
 <footer>
-    <a title="Permanent link to “Szamoljuk a napokat”" href="https://blog.ktamas.com/index.php/2011/05/16/szamoljuk-a-napokat/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Szamoljuk a napokat”" href="https://blog.ktamas.com/index.php/2011/05/16/szamoljuk-a-napokat/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
-                <li><a href="https://blog.ktamas.com/tags/k%C3%B6nyv/">könyv</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/aj%C3%A1nl%C3%B3/'>ajánló</a>, <a href='/tags/k%C3%B6nyv/'>könyv</a>
         </div>
 </footer>]]></content>
 	</entry>

@@ -6,7 +6,6 @@
 	<updated>2013-07-22T10:30:25Z</updated>
 	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/v%C3%A1llalkozunk/feed.xml"/>
 	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/v%C3%A1llalkozunk/"/>
-	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/v%C3%A1llalkozunk/feed.json"/>
 	<author>
 		<name>KTamas</name>
 		<uri>https://blog.ktamas.com/</uri>
@@ -36,15 +35,11 @@
 <p>Ami biztos, hogy erősen át kell alakítanom, ahogy dolgozok, így az első héten erősen összefolytak a dolgok, persze ez kialakul, de egyébként is meg kell tanulnom sokkal jobban managelni az időmet, meg a feladataimat, meg magamat. Ami persze nem megy egyik napról a másikra de szépen, lassan.</p>
 
 <footer>
-    <a title="Permanent link to “Céges dolgok”" href="https://blog.ktamas.com/index.php/2013/07/22/ceges-dolgok/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Céges dolgok”" href="https://blog.ktamas.com/index.php/2013/07/22/ceges-dolgok/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
-                <li><a href="https://blog.ktamas.com/tags/v%C3%A1llalkozunk/">vállalkozunk</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/%C3%A9nblog/'>énblog</a>, <a href='/tags/sv%C3%A9dorsz%C3%A1g/'>svédország</a>, <a href='/tags/v%C3%A1llalkozunk/'>vállalkozunk</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -76,15 +71,11 @@ Ettől a héttél kezdve vagyok az új felállásban, három napot dolgozok a Ko
 <p>Aztán most a saját főnököm leszek, hát, nem irigylem magamat&#8230;</p>
 
 <footer>
-    <a title="Permanent link to “A munkáról”" href="https://blog.ktamas.com/index.php/2013/07/16/a-munkarol/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “A munkáról”" href="https://blog.ktamas.com/index.php/2013/07/16/a-munkarol/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
-                <li><a href="https://blog.ktamas.com/tags/v%C3%A1llalkozunk/">vállalkozunk</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/%C3%A9nblog/'>énblog</a>, <a href='/tags/sv%C3%A9dorsz%C3%A1g/'>svédország</a>, <a href='/tags/v%C3%A1llalkozunk/'>vállalkozunk</a>
         </div>
 </footer>]]></content>
 	</entry>

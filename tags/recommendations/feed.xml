@@ -6,7 +6,6 @@
 	<updated>2019-01-02T16:07:02Z</updated>
 	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/recommendations/feed.xml"/>
 	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/recommendations/"/>
-	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/recommendations/feed.json"/>
 	<author>
 		<name>KTamas</name>
 		<uri>https://blog.ktamas.com/</uri>
@@ -50,18 +49,14 @@
 
 <p>What are yours?</p>
 
-<p>This post originally appeared on <a href="https://writetogether.space/posts/5/my-favorite-newsletters">WriteTogether</a>.</p>
+<p><em>This post originally appeared on <a href="https://writetogether.space/posts/5/my-favorite-newsletters">WriteTogether</a>.</em></p>
 
 <footer>
-    <a title="Permanent link to “My Favorite Newsletters”" href="https://blog.ktamas.com/index.php/2019/01/02/my-favorite-newsletters/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “My Favorite Newsletters”" href="https://blog.ktamas.com/index.php/2019/01/02/my-favorite-newsletters/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/recommendations/">recommendations</a></li>
-                <li><a href="https://blog.ktamas.com/tags/lists/">lists</a></li>
-                <li><a href="https://blog.ktamas.com/tags/writetogether/">writetogether</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/recommendations/'>recommendations</a>, <a href='/tags/lists/'>lists</a>, <a href='/tags/writetogether/'>writetogether</a>
         </div>
 </footer>]]></content>
 	</entry>

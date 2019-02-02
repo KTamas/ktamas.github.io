@@ -6,7 +6,6 @@
 	<updated>2009-07-17T12:13:51Z</updated>
 	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/nightwish/feed.xml"/>
 	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/nightwish/"/>
-	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/nightwish/feed.json"/>
 	<author>
 		<name>KTamas</name>
 		<uri>https://blog.ktamas.com/</uri>
@@ -36,14 +35,11 @@
 <p>Mostanában egész nap Nightwish megy, ez is az, csak egy kicsit más, de baromi jól más: újrahangszerelve harmonikára.</p>
 
 <footer>
-    <a title="Permanent link to “Netta skog &amp;#8211; dead to the world(nightwish cover)”" href="https://blog.ktamas.com/index.php/2009/07/17/netta_skog_dead_to_the_world_nightwish_cover/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Netta skog &amp;#8211; dead to the world(nightwish cover)”" href="https://blog.ktamas.com/index.php/2009/07/17/netta_skog_dead_to_the_world_nightwish_cover/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/nightwish/">nightwish</a></li>
-                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/nightwish/'>nightwish</a>, <a href='/tags/zene/'>zene</a>
         </div>
 </footer>]]></content>
 	</entry>

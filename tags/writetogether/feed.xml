@@ -6,7 +6,6 @@
 	<updated>2019-02-01T11:46:09Z</updated>
 	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/writetogether/feed.xml"/>
 	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/writetogether/"/>
-	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/writetogether/feed.json"/>
 	<author>
 		<name>KTamas</name>
 		<uri>https://blog.ktamas.com/</uri>
@@ -65,16 +64,108 @@
 <p><em>This post was not sponsored by anyone, just in case some of it reads like an ad for Github or Netlify or whatever.</em></p>
 
 <footer>
-    <a title="Permanent link to “Converting My Blog To Hugo and Getting Rid of My VPS”" href="https://blog.ktamas.com/index.php/2019/02/01/converting-my-blog-to-hugo-and-getting-rid-of-my-vps/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Converting My Blog To Hugo and Getting Rid of My VPS”" href="https://blog.ktamas.com/index.php/2019/02/01/converting-my-blog-to-hugo-and-getting-rid-of-my-vps/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/meta/">meta</a></li>
-                <li><a href="https://blog.ktamas.com/tags/tech/">tech</a></li>
-                <li><a href="https://blog.ktamas.com/tags/hugo/">hugo</a></li>
-                <li><a href="https://blog.ktamas.com/tags/writetogether/">writetogether</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/meta/'>meta</a>, <a href='/tags/tech/'>tech</a>, <a href='/tags/hugo/'>hugo</a>, <a href='/tags/writetogether/'>writetogether</a>
+        </div>
+</footer>]]></content>
+	</entry>
+	<entry>
+		<id>https://blog.ktamas.com/index.php/2019/01/16/musings-on-turning-30/</id>
+		<title>Musings on Turning 30</title>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2019/01/16/musings-on-turning-30/"/>
+		<updated>2019-01-16T10:32:14Z</updated>
+		<published>2019-01-16T10:32:14Z</published>
+		<author>
+			<name>KTamas</name>
+			<uri>https://blog.ktamas.com/</uri>
+		</author>
+		<category scheme="https://blog.ktamas.com/tags" term="30" label="30"/>
+		<category scheme="https://blog.ktamas.com/tags" term="thoughts" label="thoughts"/>
+		<category scheme="https://blog.ktamas.com/tags" term="writetogether" label="writetogether"/>
+		<summary>Ten years ago I was working at a translation agency, being very enthusiastic about my job. I just started having a social life again after high school, finding real-life friends and community on Early Twitter, thanks to a Twitter client that auto-aggregated Hungarian users and connected them. (That’s a story worth telling in itself, another time)
+A lot has happened since then. I worked there for a few more years, then I moved to Sweden for four years and then moved back to Hungary.</summary>
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+<![CDATA[<p>Ten years ago I was working at a translation agency, being very enthusiastic about my job. I just started having a social life again after high school, finding real-life friends and community on Early Twitter, thanks to a Twitter client that auto-aggregated Hungarian users and connected them. (That&rsquo;s a story worth telling in itself, another time)</p>
+
+<p>A lot has happened since then. I worked there for a few more years, then I moved to Sweden for four years and then moved back to Hungary. Somewhere in the middle of that, I went freelance, which overall turned out to be a huge success. I started taking care of my mental health, getting diagnosed and re-diagnosed, finding a psychiatrist, did almost six years of therapy. I traveled a lot; I&rsquo;ve been to most European countries by now as well as two trips to the US, both because of I got to be part of XOXO, but I&rsquo;ve visited other parts of the States as well. I did a small pivot in my career that so far worked out well. I lost two out of my four grandparents. <a href="https://blog.ktamas.com/index.php/2019/01/15/in-memoriam-of-sharewood-my-own-little-content-sharing-community/">Built and ran a small link-sharing community</a>. Grown a lot personally and professionally. Discovered running, did that for a few years. Found and lost friends and communities.</p>
+
+<hr />
+
+<p>Right now I&rsquo;m in a pretty great place. I have well-paying clients and hopefully picking up more freelance work soon. I&rsquo;m part of a great church, one that I was looking for all my life. I have good friends, some old, some new. I&rsquo;ve started drawing a few months ago, and I enjoy it immensely. Yesterday, after years of procrastination, I finally found myself a personal trainer and will begin working with her next week. Although my sister is moving out of our place, a good friend is taking her place in the room next to mine. I&rsquo;m having a birthday party on Saturday where I&rsquo;ll cook for my friends. I feel at home where I am.</p>
+
+<hr />
+
+<p>Here&rsquo;s to an even better 40.</p>
+
+<p><em>This post originally appeared on <a href="https://writetogether.space/posts/5/musings-on-turning-30">WriteTogether</a>.</em></p>
+
+<footer>
+    <a title="Permanent link to “Musings on Turning 30”" href="https://blog.ktamas.com/index.php/2019/01/16/musings-on-turning-30/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+        <div class="tags">
+            <i class="fas fa-tags"></i>
+            <a href='/tags/30/'>30</a>, <a href='/tags/thoughts/'>thoughts</a>, <a href='/tags/writetogether/'>writetogether</a>
+        </div>
+</footer>]]></content>
+	</entry>
+	<entry>
+		<id>https://blog.ktamas.com/index.php/2019/01/15/in-memoriam-of-sharewood-my-own-little-content-sharing-community/</id>
+		<title>In Memoriam of Sharewood — My Own Little Content Sharing Community</title>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2019/01/15/in-memoriam-of-sharewood-my-own-little-content-sharing-community/"/>
+		<updated>2019-01-15T09:56:04Z</updated>
+		<published>2019-01-15T09:56:04Z</published>
+		<author>
+			<name>KTamas</name>
+			<uri>https://blog.ktamas.com/</uri>
+		</author>
+		<category scheme="https://blog.ktamas.com/tags" term="sharewood" label="sharewood"/>
+		<category scheme="https://blog.ktamas.com/tags" term="rss" label="rss"/>
+		<category scheme="https://blog.ktamas.com/tags" term="googlereader" label="googlereader"/>
+		<category scheme="https://blog.ktamas.com/tags" term="writetogether" label="writetogether"/>
+		<summary>This post was inspired by the Motherboard article, The Rise and Demise of RSS.
+It was early 2012 and Google Reader’s sharing function was taken from us, replaced with a useless, shitty “Share to Google+” button (Fuck you, Google). I’ve been using Reader since late 2005 and the sharing feature since it’s introduction; the notion that if I see something interesting on the internet I must share it with others was ingrained in me, forever.</summary>
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+<![CDATA[<p>This post was inspired by the Motherboard article, <a href="https://motherboard.vice.com/en_us/article/a3mm4z/the-rise-and-demise-of-rss">The Rise and Demise of RSS</a>.</p>
+
+<hr />
+
+<p>It was early 2012 and Google Reader&rsquo;s sharing function was taken from us, replaced with a useless, shitty &ldquo;Share to Google+&rdquo; button (Fuck you, Google). I&rsquo;ve been using Reader since late 2005 and the sharing feature since it&rsquo;s introduction; the notion that if I see something interesting on the internet <em>I must share it with others</em> was ingrained in me, forever.</p>
+
+<p>It started with conversations with friends, and we discovered that Posterous (RIP) had a decent bookmarklet one could use to grab content for sharing. So a few of us started content-sharing blogs (or linkblogs, if you will). Not long after, a friend suggested an idea: why don&rsquo;t we make our own content-sharing community? So we could use that for a back-end, all we need is a place where we aggregate all these blogs full of content.</p>
+
+<p>The name of software that is used to aggregate RSS feeds is <a href="https://en.wikipedia.org/wiki/Planet_(software)">Planet</a>. There were and still are many Planet sites, so I went looking for a suitable engine, but none of them were right until I stumbled upon the <a href="https://github.com/anildigital/planet">code</a> behind planetrubyonrails.com (RIP), written in, wait for it, Rails. I was already familiar with Rails, so <a href="https://github.com/ktamas/sharewood.hu">I forked it</a>, upgraded it to the latest version of Ruby on Rails, made a couple of changes and a basic design and by then I already had ten people interested, mostly from the old community at Reader.</p>
+
+<p>A cronjob crawled the people&rsquo;s feeds, pulled the content into the database, stripped most of the formatting and then displayed it on the site, which itself had an RSS feed of course. And so, in early 2012, <a href="http://goodbye.sharewood.hu/">Sharewood</a> (RIP) was born.</p>
+
+<hr />
+
+<p>Over the next year or so our community has grown a bit. At the height of it, we had about 16 people. That may not sound like a lot, but a community is a community. People were sharing all kinds of interesting things, and I felt like I got back at least part of what we lost when Google neutered Reader.</p>
+
+<p>The project was an opportunity for me as well to play with Rails; I ended up rewriting almost the entire codebase. I wrote a new RSS/Atom parser; tried to implement PuSH (<a href="https://en.wikipedia.org/wiki/WebSub">PubSubHubBub</a>); added support for user accounts, so people would be able to follow others and get a custom RSS feed. I added a few tweaks to the front-end as well, like j/k navigation.</p>
+
+<p>In early 2013 Google announced that they&rsquo;d shut down Reader and a flurry of new alternatives appeared. One of the most promising ones was Hivemined, one that would never be finished; the one I ended up switching to was <a href="https://newsblur.com/">NewsBlur</a> which I still use to this day. It&rsquo;s customizable, fast, has good support and UX. It also has built-in sharing and commenting support although it&rsquo;s not used widely. I tried switching to it, but never really got hooked on it, and I never had a community around it.</p>
+
+<hr />
+
+<p>I shut down Sharewood in 2014, having done only basic maintenance on it for a year by then, and I felt like it has run its course.</p>
+
+<p>My itch to share things is still very much present; I <a href="http://sharing.ktamas.com/">maintain a Tumblr blog</a> where I share things irregularly, mostly webcomics I like. I also retweet interesting and funny things a lot <a href="https://twitter.com/ktamas">on Twitter</a>. But I still don&rsquo;t have a central place with a community like in the good old days, if you will.</p>
+
+<p>I have no illusions; RSS will not make a comeback. Retweeting things and commenting on them or sharing things in private Slacks are as good as it gets right now.</p>
+
+<p>The itch is still there.</p>
+
+<p><em>This post originally appeared on WriteTogether in <a href="https://writetogether.space/posts/5/in-memoriam-of-sharewood-my-own-little-content-sharing-community-part-1-of-2">two</a> <a href="https://writetogether.space/posts/5/in-memoriam-of-sharewood-my-own-little-content-sharing-community-part-2-of-2">parts</a>.</em></p>
+
+<footer>
+    <a title="Permanent link to “In Memoriam of Sharewood — My Own Little Content Sharing Community”" href="https://blog.ktamas.com/index.php/2019/01/15/in-memoriam-of-sharewood-my-own-little-content-sharing-community/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+        <div class="tags">
+            <i class="fas fa-tags"></i>
+            <a href='/tags/sharewood/'>sharewood</a>, <a href='/tags/rss/'>rss</a>, <a href='/tags/googlereader/'>googlereader</a>, <a href='/tags/writetogether/'>writetogether</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -94,13 +185,11 @@
 <![CDATA[<p>I&rsquo;ll be writing <a href="https://writetogether.space/users/ktamas">daily posts on Write Together</a> for the foreseeable future. It&rsquo;s a blogging platform/writing community with the goal of writing and publishing at least 300 words, every day. Most of them will be cross-posted here, but some I write as a series of posts, and those may be re-edited and published here once I&rsquo;m done. If you&rsquo;re interested, you should follow me there.</p>
 
 <footer>
-    <a title="Permanent link to “Follow Me on WriteTogether”" href="https://blog.ktamas.com/index.php/2019/01/06/see-you-at-write-together/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Follow Me on WriteTogether”" href="https://blog.ktamas.com/index.php/2019/01/06/see-you-at-write-together/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/writetogether/">writetogether</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/writetogether/'>writetogether</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -136,18 +225,14 @@ Thing is, I have a blog, although I have not blogged regularly for years now. Th
 
 <p>P.S. Thinking in weeks is a very Swedish thing to do. In Sweden, everyone knows what week it is, and they frequently refer to them as in &ldquo;I&rsquo;m doing this on week X&rdquo; or &ldquo;I&rsquo;ll be on vacation between week Y and Z.&rdquo; If my memory serves me right, one of the most popular apps in the Swedish App Store for a long time was called &ldquo;Week Calendar&rdquo; until Apple added the option to display week numbers in Calendar. It drove me crazy for a long time, but I have to admit that it makes sense because it&rsquo;s a good unit of time. I&rsquo;ve been told the Germans do the same.</p>
 
-<p>This post originally appeared on <a href="https://writetogether.space/posts/5/on-blogging-journaling-evernote-todos-and-thinking-in-weeks">WriteTogether</a>.</p>
+<p><em>This post originally appeared on <a href="https://writetogether.space/posts/5/on-blogging-journaling-evernote-todos-and-thinking-in-weeks">WriteTogether</a>.</em></p>
 
 <footer>
-    <a title="Permanent link to “On Blogging, Journaling, Evernote, Todos and Thinking in Weeks”" href="https://blog.ktamas.com/index.php/2019/01/03/on-blogging-journaling-evernote-todos-and-thinking-in-weeks/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “On Blogging, Journaling, Evernote, Todos and Thinking in Weeks”" href="https://blog.ktamas.com/index.php/2019/01/03/on-blogging-journaling-evernote-todos-and-thinking-in-weeks/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/metablogging/">metablogging</a></li>
-                <li><a href="https://blog.ktamas.com/tags/adhd/">adhd</a></li>
-                <li><a href="https://blog.ktamas.com/tags/writetogether/">writetogether</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/metablogging/'>metablogging</a>, <a href='/tags/adhd/'>adhd</a>, <a href='/tags/writetogether/'>writetogether</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -187,18 +272,14 @@ Thing is, I have a blog, although I have not blogged regularly for years now. Th
 
 <p>What are yours?</p>
 
-<p>This post originally appeared on <a href="https://writetogether.space/posts/5/my-favorite-newsletters">WriteTogether</a>.</p>
+<p><em>This post originally appeared on <a href="https://writetogether.space/posts/5/my-favorite-newsletters">WriteTogether</a>.</em></p>
 
 <footer>
-    <a title="Permanent link to “My Favorite Newsletters”" href="https://blog.ktamas.com/index.php/2019/01/02/my-favorite-newsletters/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “My Favorite Newsletters”" href="https://blog.ktamas.com/index.php/2019/01/02/my-favorite-newsletters/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/recommendations/">recommendations</a></li>
-                <li><a href="https://blog.ktamas.com/tags/lists/">lists</a></li>
-                <li><a href="https://blog.ktamas.com/tags/writetogether/">writetogether</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/recommendations/'>recommendations</a>, <a href='/tags/lists/'>lists</a>, <a href='/tags/writetogether/'>writetogether</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -238,18 +319,14 @@ Android has come a long way, and in many ways, it’s a better fit for me than i
 
 <p>The moral of the story is that I have disposable income and I was bored. I am tempted to say that none of this stuff really matters but I spend a fair amount of time on my phone every day so&hellip; it kinda does for me.</p>
 
-<p>This post originally appeared on <a href="https://writetogether.space/posts/5/a-year-in-smartphones">WriteTogether</a>.</p>
+<p><em>This post originally appeared on <a href="https://writetogether.space/posts/5/a-year-in-smartphones">WriteTogether</a>.</em></p>
 
 <footer>
-    <a title="Permanent link to “A Year in Smartphones”" href="https://blog.ktamas.com/index.php/2019/01/01/a-year-in-smartphones/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “A Year in Smartphones”" href="https://blog.ktamas.com/index.php/2019/01/01/a-year-in-smartphones/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/tech/">tech</a></li>
-                <li><a href="https://blog.ktamas.com/tags/phones/">phones</a></li>
-                <li><a href="https://blog.ktamas.com/tags/writetogether/">writetogether</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/tech/'>tech</a>, <a href='/tags/phones/'>phones</a>, <a href='/tags/writetogether/'>writetogether</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -283,18 +360,14 @@ I binged on the first season Condor yesterday, and I have to say it was a pretty
 
 <p>Onwards to 2019!</p>
 
-<p>This post originally appeared on <a href="https://writetogether.space/posts/5/my-recent-media-diet-on-the-last-days-of-2018">WriteTogether</a>.</p>
+<p><em>This post originally appeared on <a href="https://writetogether.space/posts/5/my-recent-media-diet-on-the-last-days-of-2018">WriteTogether</a>.</em></p>
 
 <footer>
-    <a title="Permanent link to “My Recent Media Diet in the Last Days of 2018”" href="https://blog.ktamas.com/index.php/2018/12/31/my-recent-media-diet-on-the-last-days-of-2018/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “My Recent Media Diet in the Last Days of 2018”" href="https://blog.ktamas.com/index.php/2018/12/31/my-recent-media-diet-on-the-last-days-of-2018/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/thoughts/">thoughts</a></li>
-                <li><a href="https://blog.ktamas.com/tags/mediadiet/">mediadiet</a></li>
-                <li><a href="https://blog.ktamas.com/tags/writetogether/">writetogether</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/thoughts/'>thoughts</a>, <a href='/tags/mediadiet/'>mediadiet</a>, <a href='/tags/writetogether/'>writetogether</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -330,18 +403,14 @@ Since February I have essentially a very well-paid half-time job at a small but 
 
 <p>Hey look, 300 words!</p>
 
-<p>This post originally appeared on <a href="https://writetogether.space/posts/ktamas/a-recap-of-2018-and-what-to-come-in-2019">WriteTogether</a>.</p>
+<p><em>This post originally appeared on <a href="https://writetogether.space/posts/ktamas/a-recap-of-2018-and-what-to-come-in-2019">WriteTogether</a>.</em></p>
 
 <footer>
-    <a title="Permanent link to “A Recap of 2018 and What&#39;s to Come in 2019”" href="https://blog.ktamas.com/index.php/2018/12/30/a-recap-of-2018-and-what-to-come-in-2019/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “A Recap of 2018 and What&#39;s to Come in 2019”" href="https://blog.ktamas.com/index.php/2018/12/30/a-recap-of-2018-and-what-to-come-in-2019/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/thoughts/">thoughts</a></li>
-                <li><a href="https://blog.ktamas.com/tags/recaps/">recaps</a></li>
-                <li><a href="https://blog.ktamas.com/tags/writetogether/">writetogether</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/thoughts/'>thoughts</a>, <a href='/tags/recaps/'>recaps</a>, <a href='/tags/writetogether/'>writetogether</a>
         </div>
 </footer>]]></content>
 	</entry>

@@ -6,7 +6,6 @@
 	<updated>2015-06-24T10:42:52Z</updated>
 	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/feed.xml"/>
 	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/"/>
-	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/feed.json"/>
 	<author>
 		<name>KTamas</name>
 		<uri>https://blog.ktamas.com/</uri>
@@ -67,16 +66,11 @@
 <p>Eventually.</p>
 
 <footer>
-    <a title="Permanent link to “Mid-year status update”" href="https://blog.ktamas.com/index.php/2015/06/24/mid-year-status-update/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Mid-year status update”" href="https://blog.ktamas.com/index.php/2015/06/24/mid-year-status-update/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/2015/">2015</a></li>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/2015/'>2015</a>, <a href='/tags/%C3%A9nblog/'>énblog</a>, <a href='/tags/fot%C3%B3z%C3%A1s/'>fotózás</a>, <a href='/tags/sv%C3%A9dorsz%C3%A1g/'>svédország</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -106,14 +100,11 @@ Ma valamiért ismét felmentem az adobe.com-ra, ahol nagyban hirdették, hogy mo
 <p><em>(A posztot az Adobe sajnos nem szponzorálta.)</em></p>
 
 <footer>
-    <a title="Permanent link to “Photoshop CC &#43; Lightroom 5 most havi 12,29 euróért”" href="https://blog.ktamas.com/index.php/2014/02/24/photoshop-cc-lightroom-5-most-havi-1229-euroert/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Photoshop CC &#43; Lightroom 5 most havi 12,29 euróért”" href="https://blog.ktamas.com/index.php/2014/02/24/photoshop-cc-lightroom-5-most-havi-1229-euroert/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/%C3%A9nblog/'>énblog</a>, <a href='/tags/fot%C3%B3z%C3%A1s/'>fotózás</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -158,15 +149,11 @@ Az első és a legfontosabb, hogy ez egy piszokjó vas. Még mindig nehezen lép
 <p>Az éjszakai városi fotózáshoz pedig majd valami 35 és/vagy azalatti fókusztávú objektívet. De nem sietek sehova, szépen, apránként.</p>
 
 <footer>
-    <a title="Permanent link to “Random csapongások a fotózásról (DDDDDD, akarom mondani 6D)”" href="https://blog.ktamas.com/index.php/2014/01/31/random-csapongasok-a-fotozasrol-dddddd-akarom-mondani-6d/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Random csapongások a fotózásról (DDDDDD, akarom mondani 6D)”" href="https://blog.ktamas.com/index.php/2014/01/31/random-csapongasok-a-fotozasrol-dddddd-akarom-mondani-6d/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/%C3%A9nblog/'>énblog</a>, <a href='/tags/fot%C3%B3z%C3%A1s/'>fotózás</a>, <a href='/tags/sv%C3%A9dorsz%C3%A1g/'>svédország</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -192,17 +179,11 @@ Az első és a legfontosabb, hogy ez egy piszokjó vas. Még mindig nehezen lép
 <p><a data-flickr-embed="true"  href="https://www.flickr.com/photos/tamaskadar/albums/72157639982935053" title="Budapest 2014/01"><img src="https://farm3.staticflickr.com/2887/12056478715_7cd373dcc4_z.jpg" width="640" height="513" alt="Budapest 2014/01"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
 
 <footer>
-    <a title="Permanent link to “Képek (Budapest 2014/01)”" href="https://blog.ktamas.com/index.php/2014/01/21/kepek-budapest-201401/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Képek (Budapest 2014/01)”" href="https://blog.ktamas.com/index.php/2014/01/21/kepek-budapest-201401/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/budapest/">budapest</a></li>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
-                <li><a href="https://blog.ktamas.com/tags/magyarorsz%C3%A1g/">magyarország</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/budapest/'>budapest</a>, <a href='/tags/%C3%A9nblog/'>énblog</a>, <a href='/tags/fot%C3%B3z%C3%A1s/'>fotózás</a>, <a href='/tags/magyarorsz%C3%A1g/'>magyarország</a>, <a href='/tags/sv%C3%A9dorsz%C3%A1g/'>svédország</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -228,15 +209,11 @@ Az első és a legfontosabb, hogy ez egy piszokjó vas. Még mindig nehezen lép
 <p>(az első és a harmadik kép nem az enyém, valamint az a kettő se, amin én vagyok, természetesen)</p>
 
 <footer>
-    <a title="Permanent link to “Az esküvői fotózásról”" href="https://blog.ktamas.com/index.php/2014/01/03/az-eskuvoi-fotozasrol/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Az esküvői fotózásról”" href="https://blog.ktamas.com/index.php/2014/01/03/az-eskuvoi-fotozasrol/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/%C3%A9nblog/'>énblog</a>, <a href='/tags/fot%C3%B3z%C3%A1s/'>fotózás</a>, <a href='/tags/sv%C3%A9dorsz%C3%A1g/'>svédország</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -287,14 +264,11 @@ Idén December elején volt alkalmam a gyülekezetben fotózni egy Canon 5D Mark
 <p>*97%-ban. Ebben kiegyezhetünk.</p>
 
 <footer>
-    <a title="Permanent link to “A fotózásról, megint, sokadszorra, egyáltalán nem utoljára, sőt (6D)”" href="https://blog.ktamas.com/index.php/2013/12/30/a-fotozasrol-megint-sokadszorra-egyaltalan-nem-utoljara-sot-6d/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “A fotózásról, megint, sokadszorra, egyáltalán nem utoljára, sőt (6D)”" href="https://blog.ktamas.com/index.php/2013/12/30/a-fotozasrol-megint-sokadszorra-egyaltalan-nem-utoljara-sot-6d/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/%C3%A9nblog/'>énblog</a>, <a href='/tags/fot%C3%B3z%C3%A1s/'>fotózás</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -380,14 +354,11 @@ Idén December elején volt alkalmam a gyülekezetben fotózni egy Canon 5D Mark
 </div>
 
 <footer>
-    <a title="Permanent link to “Felmentem a tetőre: a képek”" href="https://blog.ktamas.com/index.php/2013/04/02/felmentem-a-tetore-a-kepek/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Felmentem a tetőre: a képek”" href="https://blog.ktamas.com/index.php/2013/04/02/felmentem-a-tetore-a-kepek/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/fot%C3%B3z%C3%A1s/'>fotózás</a>, <a href='/tags/sv%C3%A9dorsz%C3%A1g/'>svédország</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -422,16 +393,11 @@ Igen, fúj a szél a mikrofonba és helyenként helyenként belelóg az ujjam a 
 <p><a href="/wp-content/uploads/2013/03/2013-03-27-12.57.29.jpg"><img src="/wp-content/uploads/2013/03/2013-03-27-12.57.29-1024x332.jpg" alt="2013-03-27 12.57.29" width="625" height="202" class="aligncenter size-large wp-image-2364160" srcset="/wp-content/uploads/2013/03/2013-03-27-12.57.29-1024x332.jpg 1024w, /wp-content/uploads/2013/03/2013-03-27-12.57.29-300x97.jpg 300w, /wp-content/uploads/2013/03/2013-03-27-12.57.29-624x202.jpg 624w" sizes="(max-width: 625px) 100vw, 625px" /></a></p>
 
 <footer>
-    <a title="Permanent link to “Felmentem a tetőre kisszerda”" href="https://blog.ktamas.com/index.php/2013/03/29/felmentem-a-tetore-kisszerda/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Felmentem a tetőre kisszerda”" href="https://blog.ktamas.com/index.php/2013/03/29/felmentem-a-tetore-kisszerda/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
-                <li><a href="https://blog.ktamas.com/tags/video/">video</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/%C3%A9nblog/'>énblog</a>, <a href='/tags/fot%C3%B3z%C3%A1s/'>fotózás</a>, <a href='/tags/sv%C3%A9dorsz%C3%A1g/'>svédország</a>, <a href='/tags/video/'>video</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -474,14 +440,11 @@ Igen, fúj a szél a mikrofonba és helyenként helyenként belelóg az ujjam a 
 <p>Ez volt az elmélet és a duma, ma végigfotóztam a céges påsklunchot, majd felmentem a tetőre és csináltam ott is egy csomó képet (gyönyörű a kilátás) meg egy videót, de ezt majd egy másik posztban, hamarosan.</p>
 
 <footer>
-    <a title="Permanent link to “Az fotózásrul”" href="https://blog.ktamas.com/index.php/2013/03/27/az-fotozasrul/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Az fotózásrul”" href="https://blog.ktamas.com/index.php/2013/03/27/az-fotozasrul/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
-                <li><a href="https://blog.ktamas.com/tags/random/">random</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/fot%C3%B3z%C3%A1s/'>fotózás</a>, <a href='/tags/random/'>random</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -500,13 +463,11 @@ Igen, fúj a szél a mikrofonba és helyenként helyenként belelóg az ujjam a 
 <![CDATA[<p><a href="/wp-content/uploads/2013/01/kavehocrop.jpg"><img class="aligncenter size-large wp-image-2363438" alt="Coffee o'clock" src="/wp-content/uploads/2013/01/kavehocrop-818x1024.jpg" width="409" height="512" srcset="/wp-content/uploads/2013/01/kavehocrop-818x1024.jpg 818w, /wp-content/uploads/2013/01/kavehocrop-239x300.jpg 239w, /wp-content/uploads/2013/01/kavehocrop.jpg 1554w" sizes="(max-width: 409px) 100vw, 409px" /></a></p>
 
 <footer>
-    <a title="Permanent link to “Coffee o&amp;#8217;clock”" href="https://blog.ktamas.com/index.php/2013/01/14/coffee-oclock/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Coffee o&amp;#8217;clock”" href="https://blog.ktamas.com/index.php/2013/01/14/coffee-oclock/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/fot%C3%B3z%C3%A1s/'>fotózás</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -526,13 +487,11 @@ Igen, fúj a szél a mikrofonba és helyenként helyenként belelóg az ujjam a 
 <![CDATA[<p>Ellőttem az első filmet a <a href="http://blog.ktamas.com/index.php/2012/01/23/canonet-ql19/">nemrég vásárolt</a> Canonettel, ezek lettek belőle. ISO 400, ennek ellenére nagyon kellemesen csalódtam az Ilford filmjében, nagyon részletes még így is. A következő filmnek mindenesetre egy 100-as lett belerakva. (edit: az indafotó embed persze nem ment át rssbe, <a href="http://indafoto.hu/ktamasenty/canonet_ql19_roll_1">ez a link</a>.)</p>
 
 <footer>
-    <a title="Permanent link to “Az első film a canonetből”" href="https://blog.ktamas.com/index.php/2012/02/22/az-elso-film-a-canonetbol/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Az első film a canonetből”" href="https://blog.ktamas.com/index.php/2012/02/22/az-elso-film-a-canonetbol/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/fot%C3%B3z%C3%A1s/'>fotózás</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -562,14 +521,11 @@ Nézegettem, próbálgattam, tetszett, aztán csak nem vittem valahogy el. Két 
 <p>(A <a href="blog.ktamas.com/index.php/2010/09/21/ki_gondolta_volna_9/">Contaxszal</a> az történt, hogy a kedvenc objektívem valahogy leöntöttem valami ragacsos dologgal és ki kell tisztíttatni, valamint ezzel párhuzamosan a vázban a rekesz is úgy döntött, hogy beadja az unalmast, szóval komolyabb összeget kéne befektetni, hogy újra életképes legyen a rendszer. Ez valószínű meg fog egyszercsak történni, de addig is van mivel filmre fotózni.)</p>
 
 <footer>
-    <a title="Permanent link to “Canonet QL19”" href="https://blog.ktamas.com/index.php/2012/01/23/canonet-ql19/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Canonet QL19”" href="https://blog.ktamas.com/index.php/2012/01/23/canonet-ql19/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/%C3%A9nblog/'>énblog</a>, <a href='/tags/fot%C3%B3z%C3%A1s/'>fotózás</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -589,14 +545,11 @@ Nézegettem, próbálgattam, tetszett, aztán csak nem vittem valahogy el. Két 
 <![CDATA[<p><a href="http://indafoto.hu/ktamasenty/image/12325949-9f64e5d9/276039" title="KTamasEnty: 7084564"><img src="http://img3.indafoto.hu/7/1/37531_a003d3c58568435ab3c440f97f1e953e/12325949_9f64e5d9d71c47fbdee506caa4548692_m.jpg" title="KTamasEnty: 7084564" alt="KTamasEnty: 7084564" border="0" /></a></p>
 
 <footer>
-    <a title="Permanent link to “Szőlő (5)”" href="https://blog.ktamas.com/index.php/2011/07/10/szolo-5/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Szőlő (5)”" href="https://blog.ktamas.com/index.php/2011/07/10/szolo-5/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
-                <li><a href="https://blog.ktamas.com/tags/random/">random</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/fot%C3%B3z%C3%A1s/'>fotózás</a>, <a href='/tags/random/'>random</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -616,14 +569,11 @@ Nézegettem, próbálgattam, tetszett, aztán csak nem vittem valahogy el. Két 
 <![CDATA[<p><a href="http://indafoto.hu/ktamasenty/image/11666707-b23b942d/276039" title="KTamasEnty: Megyeri hid, naplemente"><img src="http://img3.indafoto.hu/7/1/37531_a003d3c58568435ab3c440f97f1e953e/11666707_b23b942d97bb5f5654fa6702bfd0a0d1_m.jpg" title="KTamasEnty: Megyeri hid, naplemente" alt="KTamasEnty: Megyeri hid, naplemente" border="0" /></a></p>
 
 <footer>
-    <a title="Permanent link to “Megyeri hid, naplemente”" href="https://blog.ktamas.com/index.php/2011/05/12/megyeri-hid-naplemente/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Megyeri hid, naplemente”" href="https://blog.ktamas.com/index.php/2011/05/12/megyeri-hid-naplemente/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
-                <li><a href="https://blog.ktamas.com/tags/random/">random</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/fot%C3%B3z%C3%A1s/'>fotózás</a>, <a href='/tags/random/'>random</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -644,14 +594,11 @@ Nézegettem, próbálgattam, tetszett, aztán csak nem vittem valahogy el. Két 
 <![CDATA[<p>Szóval múlt szombaton a pályán gyűlt össze a miner-rajongók/fejlesztők/érdeklődők csapata, ugyanis óvodáskorba lépett a <a href="http://miner.hu/?betaon">miner.hu</a>. Ott voltunk, <a href="http://indafoto.hu/ktamasenty/minerhu_3_szuletesnap">fotóztunk</a>.</p>
 
 <footer>
-    <a title="Permanent link to “Miner születésnap”" href="https://blog.ktamas.com/index.php/2009/08/12/miner_szuletesnap/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Miner születésnap”" href="https://blog.ktamas.com/index.php/2009/08/12/miner_szuletesnap/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
-                <li><a href="https://blog.ktamas.com/tags/geekdom/">geekdom</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/fot%C3%B3z%C3%A1s/'>fotózás</a>, <a href='/tags/geekdom/'>geekdom</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -674,14 +621,11 @@ Nézegettem, próbálgattam, tetszett, aztán csak nem vittem valahogy el. Két 
 <p>Ezt meg meg regebben lottem a Westendben valahol, gyonyoru Engrish.</p>
 
 <footer>
-    <a title="Permanent link to “To People Want To People To”" href="https://blog.ktamas.com/index.php/2009/07/04/to_people_want_to_people_to/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “To People Want To People To”" href="https://blog.ktamas.com/index.php/2009/07/04/to_people_want_to_people_to/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
-                <li><a href="https://blog.ktamas.com/tags/random/">random</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/fot%C3%B3z%C3%A1s/'>fotózás</a>, <a href='/tags/random/'>random</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -704,14 +648,11 @@ Nézegettem, próbálgattam, tetszett, aztán csak nem vittem valahogy el. Két 
 <p>Nem hiszem, hogy barmit is hozza kene fuznom. Deak ter, vmikor a heten. Sorry, mobilkamera.</p>
 
 <footer>
-    <a title="Permanent link to “Metro”" href="https://blog.ktamas.com/index.php/2009/07/04/metro_30/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Metro”" href="https://blog.ktamas.com/index.php/2009/07/04/metro_30/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
-                <li><a href="https://blog.ktamas.com/tags/random/">random</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/fot%C3%B3z%C3%A1s/'>fotózás</a>, <a href='/tags/random/'>random</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -733,15 +674,11 @@ Nézegettem, próbálgattam, tetszett, aztán csak nem vittem valahogy el. Két 
 <![CDATA[<p>Szóval az úgy volt, hogy bicikliztem Bécsben, és egyszercsak zenét hallottam, jó zenét ráadásul, mint kiderült, pont rendőrzenekar-összeröffenés volt arrafele, ígyhát gépet elő, és fotóztunk, mint az őrült, amit mondjuk nehezített a tömeg, de sikerült kellően közel furakodni, úgyhogy <a href="http://indafoto.hu/ktamasenty/becs_yorki_rendorzenekar/">születtek képek</a>. A cropokkal nem vagyok 100%-ig elégedett, de szerintem ígyse lett rossz.</p>
 
 <footer>
-    <a title="Permanent link to “A yorki rendőrzenekar”" href="https://blog.ktamas.com/index.php/2009/06/27/a_yorki_rendorzenekar/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “A yorki rendőrzenekar”" href="https://blog.ktamas.com/index.php/2009/06/27/a_yorki_rendorzenekar/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/b%C3%A9cs/">bécs</a></li>
-                <li><a href="https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
-                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/b%C3%A9cs/'>bécs</a>, <a href='/tags/fot%C3%B3z%C3%A1s/'>fotózás</a>, <a href='/tags/zene/'>zene</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -761,13 +698,11 @@ Nézegettem, próbálgattam, tetszett, aztán csak nem vittem valahogy el. Két 
 <![CDATA[<p><a href="http://indafoto.hu/ktamasenty/newtech_meetup_2009_marcius" target="_blank">Itt vannak</a> a képek a márciusi <a href="http://meetup.hu/" target="_blank">New Tech Meetup</a>ról, jó volt ez, és most el is fértünk.</p>
 
 <footer>
-    <a title="Permanent link to “Márciusi Meetup képek”" href="https://blog.ktamas.com/index.php/2009/03/06/marciusi_meetup_kepek/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Márciusi Meetup képek”" href="https://blog.ktamas.com/index.php/2009/03/06/marciusi_meetup_kepek/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/fot%C3%B3z%C3%A1s/'>fotózás</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -792,13 +727,11 @@ Edit: ja és egyáltalán nem menő, hogy az Oly szép csendben elhagyta az AF-s
 <p>Edit 2: A dpreviewos srácok <a href="http://www.dpreview.com/previews/olympuse620/" target="_blank">írtak egy szép previewt</a>, és hát izé. Kicsit még kisebb is az E-520nál amit szintén kicsinek tartok. Tudom, most a kicsi meg kompakt a menő, de sztem egy digigépnek igen is legyen rendes markolata, fogása, és nem bánom, ha súlyosabb darab, mert az erősen segít mondjuk <sup>1</sup>&frasl;<sub>40</sub> alatt stabil képeket csinálni (igaz az 520 meg a 620 csak 100-150 grammal könnyebb az E-1nél). Viszont az E-30 az már nehezebb, úgyhogy egyre szinpatikusabb. A pénztárcámnak mondjuk kevésbé.</p>
 
 <footer>
-    <a title="Permanent link to “Olympus E-620”" href="https://blog.ktamas.com/index.php/2009/02/24/olympus_e_620/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Olympus E-620”" href="https://blog.ktamas.com/index.php/2009/02/24/olympus_e_620/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/fot%C3%B3z%C3%A1s/'>fotózás</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -818,13 +751,11 @@ Edit: ja és egyáltalán nem menő, hogy az Oly szép csendben elhagyta az AF-s
 <![CDATA[<p>Ez nem pont önreklám lesz, hanem kicsit más: apám elkezdte kicsit komolyabban szortírozni jópár év fotózásának termését (kb. 4 év, kb. 60000 kép). Ennek legelsô állomásaként egy nemrég készült &#8220;jeges&#8221; sorozatot <a href="http://indafoto.hu/Yoshiphoto/jeges" target="_blank">rakott fel az Indafotóra</a>. Szerintem piszokjó képek, de én elfogult vagyok, szóval ítéljétek ti.</p>
 
 <footer>
-    <a title="Permanent link to “Nemönreklámish-képajánló”" href="https://blog.ktamas.com/index.php/2009/02/19/nemonreklamish_kepajanlo/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Nemönreklámish-képajánló”" href="https://blog.ktamas.com/index.php/2009/02/19/nemonreklamish_kepajanlo/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/fot%C3%B3z%C3%A1s/'>fotózás</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -844,13 +775,11 @@ Edit: ja és egyáltalán nem menő, hogy az Oly szép csendben elhagyta az AF-s
 <![CDATA[<p>Szoval kedden viszonylag rovid ido alatt esett le szep mennyisegu ho, ugyhogy dacolva a 3-napos influenzaval, harom kabat, negy sapka es ot sal tarsasagaban kimentem fotozni, az eredmeny <a href="http://indafoto.hu/ktamasenty/winter" target="_blank">az indafoton lathato</a>. Direkt hagytam kicsit ilyen kekesen a kepeket, szerintem illik hozzajuk.</p>
 
 <footer>
-    <a title="Permanent link to “Snow”" href="https://blog.ktamas.com/index.php/2009/02/15/snow_13/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Snow”" href="https://blog.ktamas.com/index.php/2009/02/15/snow_13/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/fot%C3%B3z%C3%A1s/'>fotózás</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -870,13 +799,11 @@ Edit: ja és egyáltalán nem menő, hogy az Oly szép csendben elhagyta az AF-s
 <![CDATA[<p><a href="http://indafoto.hu/ktamasenty/tokaj36" target="_blank">Felraktam az indafotora</a> a vasarnapi Tokaj36 fotozas kepeit, semmi postprocess, a Lightroomba csak azert huztam be, hogy valogassak koztuk. Nagyon jol ereztem magam a fotosetan, meg tobb ilyet!</p>
 
 <footer>
-    <a title="Permanent link to “Tokaj36”" href="https://blog.ktamas.com/index.php/2009/02/12/tokaj36/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Tokaj36”" href="https://blog.ktamas.com/index.php/2009/02/12/tokaj36/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/fot%C3%B3z%C3%A1s/'>fotózás</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -908,13 +835,11 @@ Edit: ja és egyáltalán nem menő, hogy az Oly szép csendben elhagyta az AF-s
 <p>Lesz post mindjárt egy-két képről is (önreklám, hihi), de addig is nézegessétek az Indafotó accountomat.</p>
 
 <footer>
-    <a title="Permanent link to “Az fotózásrul, avagy fotózni jó”" href="https://blog.ktamas.com/index.php/2009/01/06/az_fotozasrul_avagy_fotozni_jo/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Az fotózásrul, avagy fotózni jó”" href="https://blog.ktamas.com/index.php/2009/01/06/az_fotozasrul_avagy_fotozni_jo/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/fot%C3%B3z%C3%A1s/'>fotózás</a>
         </div>
 </footer>]]></content>
 	</entry>

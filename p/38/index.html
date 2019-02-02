@@ -8,6 +8,7 @@
 	<meta name="description" content="Bringing you irregular content since 2009. By KTamas." />
 	<meta name="author" content="KTamas" />
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto" rel="stylesheet">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 	<link rel="stylesheet" href="/css/screen.css" />
 	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
 	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
@@ -32,7 +33,6 @@
 	<div id="container">
 		<header>
 			<hgroup class="top">
-				
 				<h1><a href="/">KTamas&#39; Blog</a></h1>
 				<h2>Remember kids, if Internet Explorer is brave enough to ask to be your default browser, you&#39;re brave enough to ask that girl out.</h2>
 			</hgroup>
@@ -41,9 +41,9 @@
 					<li><a href="/about/" title="About KTamas&#39; Blog">About</a></li>
 					<li><a href="/archive/" title="KTamas&#39; Blog Archives">Archives</a></li>
 					<li><a href="/tags/" title="KTamas&#39; Blog Tags">Tags</a></li>
-					<li class="icon"><a href="//twitter.com/ktamas" title="@ktamas on Twitter"><i class="fa fa-twitter"></i></a></li>
-					<li class="icon"><a href="//github.com/ktamas" title="@ktamas on GitHub"><i class="fa fa-github"></i></a></li>
-					<li class="icon"><a href="http://feeds.feedburner.com/KTamasBlog" title="Subscribe to KTamas&#39; Blog"><i class="fa fa-rss"></i></a></li>
+					<li class="icon"><a href="//twitter.com/ktamas" title="@ktamas on Twitter"><i class="fab fa-twitter"></i></a></li>
+					<li class="icon"><a href="//github.com/ktamas" title="@ktamas on GitHub"><i class="fab fa-github"></i></a></li>
+					<li class="icon"><a href="http://feeds.feedburner.com/KTamasBlog" title="Subscribe to KTamas&#39; Blog"><i class="fas fa-rss"></i></a></li>
 				</menu>
 			</nav>
 		</header>
@@ -52,9 +52,82 @@
 		
 		    <article class="post">
         <header>
+            <h1 class="post"><a href="/index.php/2011/05/06/tree63-megamix/">Tree63 megamix</a></h1>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2011/05/06/tree63-megamix/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2011-05-06T11:07:54Z">Friday, May 6, 2011</time> · 19 words · 1 min read</div>
+        </header>
+        <div class="text">
+
+<p>A <a href="http://www.last.fm/user/KTamasEnty">last.fm statjaim</a> szerint nagyon sok Tree 63-et hallgatok mostanaban, nem veletlenul, iszonyat jo dalokat csinaltak.</p>
+
+<p>Leginkabb ezek mennek.</p>
+
+<iframe src="https://open.spotify.com/embed/user/ktamas/playlist/4lnePparXskGJKJqcK6ZaW" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+        </div>
+
+        <div class="tags">
+            <i class="fas fa-tags"></i>
+            <a href='/tags/aj%C3%A1nl%C3%B3/'>ajánló</a>, <a href='/tags/mix/'>mix</a>, <a href='/tags/zene/'>zene</a>
+        </div>
+    </article>
+
+		
+		    <article class="post">
+        <header>
+            <h1 class="post"><a href="/index.php/2011/05/05/iframek-es-popupok-toredekek-a-fejleszto-naplojabol/">iframek es popupok (toredekek a fejleszto naplojabol)</a></h1>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2011/05/05/iframek-es-popupok-toredekek-a-fejleszto-naplojabol/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2011-05-05T23:58:46Z">Thursday, May 5, 2011</time> · 87 words · 1 min read</div>
+        </header>
+        <div class="text">
+
+<p>Van egy iframed, abbol nyit a felhasznalo egy popupot, kulso webszolgaltatassal valo autenikalas celjabol, adsz neki egy callback URL-t, ami viszont ugye a popupba iranyit vissza, te viszont szeretned, ha az iframe tartalma lecserelodjon, majd bezarodjon a popup. Hogy csinalod? Ugy, hogy egy ilyesfajta HTML-t (es benne levo js-t) adsz meg callbacknek:</p>
+
+<p><noscript>
+  </p></p>
+
+<p><pre>
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;script type=&ldquo;text/javascript&rdquo;&gt;
+      var close_and_redirect = function() {
+        if (opener &amp;&amp; !opener.closed) {
+          opener.location.href = &ldquo;<a href="http://localhost:9610/done&quot;">http://localhost:9610/done&quot;</a>;
+        }<br />
+        window.close();
+      }
+    &lt;/script&gt;
+  &lt;/head&gt;
+  &lt;body onload=&ldquo;setTimeout(&lsquo;close_and_redirect()&lsquo;, 500)&rdquo;&gt;
+    Yay, logged in! Closing&hellip;
+  &lt;/body&gt;
+&lt;/html&gt;
+</pre></p>
+
+<p><p>
+    </noscript><br />
+  </p></p>
+
+<p><script src="https://gist.github.com/958052.js?file=loggedin.html"></script></p>
+
+<p><p>
+    (<a href="http://www.codingforums.com/showpost.php?s=aa079e493200cb7008aa5359f7591e86&#038;p=292432&#038;postcount=3">Itt talaltam meg vegul.</a>)
+  </p></p>
+
+        </div>
+
+        <div class="tags">
+            <i class="fas fa-tags"></i>
+            <a href='/tags/javascript/'>javascript</a>, <a href='/tags/programoz%C3%A1s/'>programozás</a>, <a href='/tags/random/'>random</a>
+        </div>
+    </article>
+
+		
+		    <article class="post">
+        <header>
             <h1 class="post"><a href="/index.php/2011/05/05/vim/">vim</a></h1>
-            <a rel="bookmark" href="https://blog.ktamas.com/index.php/2011/05/05/vim/"></a>
-            <time datetime="2011-05-05T09:48:23Z">Thursday, May 5, 2011</time>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2011/05/05/vim/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2011-05-05T09:48:23Z">Thursday, May 5, 2011</time> · 572 words · 3 min read</div>
         </header>
         <div class="text">
 
@@ -85,12 +158,8 @@
         </div>
 
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
-                <li><a href="https://blog.ktamas.com/tags/programoz%C3%A1s/">programozás</a></li>
-                <li><a href="https://blog.ktamas.com/tags/vim/">vim</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/aj%C3%A1nl%C3%B3/'>ajánló</a>, <a href='/tags/programoz%C3%A1s/'>programozás</a>, <a href='/tags/vim/'>vim</a>
         </div>
     </article>
 
@@ -98,8 +167,8 @@
 		    <article class="post">
         <header>
             <h1 class="post"><a href="/index.php/2011/05/04/zene-ebedhez-bbc-countdown-compilation-backlog/">Zene ebedhez: BBC Countdown Compilation (backlog)</a></h1>
-            <a rel="bookmark" href="https://blog.ktamas.com/index.php/2011/05/04/zene-ebedhez-bbc-countdown-compilation-backlog/"></a>
-            <time datetime="2011-05-04T09:41:19Z">Wednesday, May 4, 2011</time>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2011/05/04/zene-ebedhez-bbc-countdown-compilation-backlog/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2011-05-04T09:41:19Z">Wednesday, May 4, 2011</time> · 54 words · 1 min read</div>
         </header>
         <div class="text">
 
@@ -112,12 +181,8 @@
         </div>
 
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
-                <li><a href="https://blog.ktamas.com/tags/backlog/">backlog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/aj%C3%A1nl%C3%B3/'>ajánló</a>, <a href='/tags/backlog/'>backlog</a>, <a href='/tags/zene/'>zene</a>
         </div>
     </article>
 
@@ -125,8 +190,8 @@
 		    <article class="post">
         <header>
             <h1 class="post"><a href="/index.php/2011/05/02/6-avagy-zene-hetfo-reggelre-meg-ugy-altalaban-barmikorra/">#6, avagy zene hetfo reggelre meg ugy altalaban barmikorra</a></h1>
-            <a rel="bookmark" href="https://blog.ktamas.com/index.php/2011/05/02/6-avagy-zene-hetfo-reggelre-meg-ugy-altalaban-barmikorra/"></a>
-            <time datetime="2011-05-02T07:42:05Z">Monday, May 2, 2011</time>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2011/05/02/6-avagy-zene-hetfo-reggelre-meg-ugy-altalaban-barmikorra/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2011-05-02T07:42:05Z">Monday, May 2, 2011</time> · 29 words · 1 min read</div>
         </header>
         <div class="text">
 
@@ -139,11 +204,8 @@
         </div>
 
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
-                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/aj%C3%A1nl%C3%B3/'>ajánló</a>, <a href='/tags/zene/'>zene</a>
         </div>
     </article>
 
@@ -151,8 +213,8 @@
 		    <article class="post">
         <header>
             <h1 class="post"><a href="/index.php/2011/04/30/koltozes-a-felhobe/">Koltozes a felhobe</a></h1>
-            <a rel="bookmark" href="https://blog.ktamas.com/index.php/2011/04/30/koltozes-a-felhobe/"></a>
-            <time datetime="2011-04-30T18:17:56Z">Saturday, April 30, 2011</time>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2011/04/30/koltozes-a-felhobe/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2011-04-30T18:17:56Z">Saturday, April 30, 2011</time> · 374 words · 2 min read</div>
         </header>
         <div class="text">
 
@@ -173,14 +235,8 @@
         </div>
 
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/linux/">linux</a></li>
-                <li><a href="https://blog.ktamas.com/tags/meta/">meta</a></li>
-                <li><a href="https://blog.ktamas.com/tags/programoz%C3%A1s/">programozás</a></li>
-                <li><a href="https://blog.ktamas.com/tags/szerverek/">szerverek</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/%C3%A9nblog/'>énblog</a>, <a href='/tags/linux/'>linux</a>, <a href='/tags/meta/'>meta</a>, <a href='/tags/programoz%C3%A1s/'>programozás</a>, <a href='/tags/szerverek/'>szerverek</a>
         </div>
     </article>
 
@@ -188,8 +244,8 @@
 		    <article class="post">
         <header>
             <h1 class="post"><a href="/index.php/2011/04/30/toredek-a-kalandjaimbol-a-git-vilagaban/">Toredek a kalandjaimbol a git vilagaban</a></h1>
-            <a rel="bookmark" href="https://blog.ktamas.com/index.php/2011/04/30/toredek-a-kalandjaimbol-a-git-vilagaban/"></a>
-            <time datetime="2011-04-30T11:10:37Z">Saturday, April 30, 2011</time>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2011/04/30/toredek-a-kalandjaimbol-a-git-vilagaban/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2011-04-30T11:10:37Z">Saturday, April 30, 2011</time> · 27 words · 1 min read</div>
         </header>
         <div class="text">
 
@@ -200,11 +256,8 @@
         </div>
 
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/programoz%C3%A1s/">programozás</a></li>
-                <li><a href="https://blog.ktamas.com/tags/random/">random</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/programoz%C3%A1s/'>programozás</a>, <a href='/tags/random/'>random</a>
         </div>
     </article>
 
@@ -212,8 +265,8 @@
 		    <article class="post">
         <header>
             <h1 class="post"><a href="/index.php/2011/04/17/access-main-computer-file/">Access Main Computer File</a></h1>
-            <a rel="bookmark" href="https://blog.ktamas.com/index.php/2011/04/17/access-main-computer-file/"></a>
-            <time datetime="2011-04-17T20:21:00Z">Sunday, April 17, 2011</time>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2011/04/17/access-main-computer-file/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2011-04-17T20:21:00Z">Sunday, April 17, 2011</time> · 61 words · 1 min read</div>
         </header>
         <div class="text">
 
@@ -226,12 +279,8 @@
         </div>
 
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
-                <li><a href="https://blog.ktamas.com/tags/random/">random</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sorozat/">sorozat</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/aj%C3%A1nl%C3%B3/'>ajánló</a>, <a href='/tags/random/'>random</a>, <a href='/tags/sorozat/'>sorozat</a>
         </div>
     </article>
 
@@ -239,8 +288,8 @@
 		    <article class="post">
         <header>
             <h1 class="post"><a href="/index.php/2011/03/25/katzenjammer-a-bar-in-amsterdam/">Katzenjammer &#8211; A Bar in Amsterdam</a></h1>
-            <a rel="bookmark" href="https://blog.ktamas.com/index.php/2011/03/25/katzenjammer-a-bar-in-amsterdam/"></a>
-            <time datetime="2011-03-25T16:35:24Z">Friday, March 25, 2011</time>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2011/03/25/katzenjammer-a-bar-in-amsterdam/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2011-03-25T16:35:24Z">Friday, March 25, 2011</time> · 24 words · 1 min read</div>
         </header>
         <div class="text">
 
@@ -251,12 +300,8 @@
         </div>
 
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
-                <li><a href="https://blog.ktamas.com/tags/random/">random</a></li>
-                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/aj%C3%A1nl%C3%B3/'>ajánló</a>, <a href='/tags/random/'>random</a>, <a href='/tags/zene/'>zene</a>
         </div>
     </article>
 
@@ -264,8 +309,8 @@
 		    <article class="post">
         <header>
             <h1 class="post"><a href="/index.php/2011/03/16/the-maccabeats/">The Maccabeats</a></h1>
-            <a rel="bookmark" href="https://blog.ktamas.com/index.php/2011/03/16/the-maccabeats/"></a>
-            <time datetime="2011-03-16T09:17:54Z">Wednesday, March 16, 2011</time>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2011/03/16/the-maccabeats/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2011-03-16T09:17:54Z">Wednesday, March 16, 2011</time> · 121 words · 1 min read</div>
         </header>
         <div class="text">
 
@@ -288,69 +333,8 @@
         </div>
 
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/izraeli/">izraeli</a></li>
-                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
-            </ul>
-        </div>
-    </article>
-
-		
-		    <article class="post">
-        <header>
-            <h1 class="post"><a href="/index.php/2011/03/15/m3/">Magyar Meetup Manifeszto (M3)</a></h1>
-            <a rel="bookmark" href="https://blog.ktamas.com/index.php/2011/03/15/m3/"></a>
-            <time datetime="2011-03-15T19:53:19Z">Tuesday, March 15, 2011</time>
-        </header>
-        <div class="text">
-
-<p>Nem tudom nem megorokiteni itt &#8212; kicsit a gyerekemnek erzem, az alapjait meg en irtam le tavaly osszel &#8211;, hogy kikerult a publikus az internetre az M3, avagy a Magyar Meetup Manifesto neven futo projekt. <a href="http://worldshots.hu/2011-03/meetup-manifesto/">Adam irt a hattererol</a>, a lenyeg az, hogy leirtuk &#8212; osszessegeben majd&#8217; egy tucat ember dolgozott rajta &#8211;, hogy szerintunk hogyan erdemes csinalni egy meetupot. Olvassatok, terjesszetek, hasznaljatok egeszseggel, ilyesmi, sot, meg irni is lehet bele, csak kerni kell.</p>
-
-<p><a href="https://docs.google.com/document/d/1wE847qiHzeSpqfg-km_MXc5Nf5b3aP-PynzR5_qsSZ8/edit?hl=hu#">M3 &#8211; Magyar Meetup Manifeszto</a></p>
-
-        </div>
-
-        <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/">ajánló</a></li>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-            </ul>
-        </div>
-    </article>
-
-		
-		    <article class="post">
-        <header>
-            <h1 class="post"><a href="/index.php/2011/02/07/kis-izraeli-zenei-korkep/">Kis izraeli zenei korkep (avagy ezeket hallgatom mostanaban)</a></h1>
-            <a rel="bookmark" href="https://blog.ktamas.com/index.php/2011/02/07/kis-izraeli-zenei-korkep/"></a>
-            <time datetime="2011-02-07T17:53:40Z">Monday, February 7, 2011</time>
-        </header>
-        <div class="text">
-
-<p>Igazabol mar boldog-boldogtalant es a teljes szocialmediat ketszer oda-vissza spameltem azzal a tennyel, hogy kijott <a href="http://en.wikipedia.org/wiki/Matisyahu">Matisyahu</a> legjobb CD-jenek, a majd&#8217; 6 eves Live at Stubb&#8217;s-nak a folytatasa (nagyon kreativ, <a href="http://www.matisyahuworld.com/stubbsstore">Live at Stubb&#8217;s, Vol. II</a> neven). Magarol a tizszamos CD-rol sajnos lemaradt tobb igen jo szam is (pl. a Jerusalem, vagy mikor Matisyahu beatboxol) es ezeknek joresze csak a hiperszuper 75 dollaros super extreme special turbo editionhoz jar. Csakhogy es de. A masfeloras koncertvideo &#8212; <a href="http://www.youtube.com/watch?v=UDAMm5UkPHQ">ami meg par napig teljes egeszeben meghallgathato a youtube-on</a> &#8212; az a masfel ora egyben, az valami egeszen zsenialis, a CD-rol mar el is feledkeztem, es csak ezt hallgatom. A 480p-s verzioban egy meglepoen hallgathato 96 kbps-es AAC hangsav talalhato, <del>hasznaljatok tehat az ezernyi youtubevideo-letolto szolgaltatast ti is amig meg lehet</del> <a href="http://www.amazon.com/Live-at-Stubbs-Vol-II/dp/B004CT4U7Y/ref=sr_1_3?ie=UTF8&amp;s=music&amp;qid=1297097735&amp;sr=8-3">vegyetek tehat meg a DVD-t</a>. Embedelve pedig szol a Jerusalem CD-s verzioja.</p>
-
-<iframe src="https://open.spotify.com/embed/track/3R9iSdYqV6eFSPtNxvgb7x" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-  
-
-<p>A fent emlitett koncertvideoban tunik fel egy bizonyos Yehuda Solomon, aki a <a href="http://en.wikipedia.org/wiki/Moshav_Band">Moshav Bandben</a> jatszik egyebkent, leginkabb vilagzenet, meg hallgatom a <a href="http://itunes.apple.com/us/album/misplaced-revisited/id370531488">Misplaced c. CD-juket</a>, amelyen kulonbozo mufajok keverednek egeszen zsenialis modon, meg csak a lemez felenel vagyok, de eddig majd&#8217; minden dal megerne egy kulon postot. Engem mindenesetre mar a legelsovel egeszen durvan megvettek kilora, amibol alabb embedeltem egy live verziot, aminek ugyan nem 100-as a keverese, de jobbat nem talaltam sajnos.</p>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VP5rhMYBP2o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  
-
-<p>Nem mai darab, meg decemberben tunt fel <a href="http://www.facebook.com/IdanRaichel/posts/175393245817236">Idan Raichel facebook-falan</a> a kozos szama India.Arie-vel, amibol lemez is lesz egyszercsak nyar fele, es az nekunk ez alapjan egeszen biztosan jo lesz.</p>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ipJ6BEIeGsU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-        </div>
-
-        <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/izraeli/">izraeli</a></li>
-                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/izraeli/'>izraeli</a>, <a href='/tags/zene/'>zene</a>
         </div>
     </article>
 

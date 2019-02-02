@@ -6,7 +6,6 @@
 	<updated>2009-06-26T13:23:17Z</updated>
 	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/jap%C3%A1n/feed.xml"/>
 	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/jap%C3%A1n/"/>
-	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/jap%C3%A1n/feed.json"/>
 	<author>
 		<name>KTamas</name>
 		<uri>https://blog.ktamas.com/</uri>
@@ -33,16 +32,11 @@
 <![CDATA[<p>Amire nem fogunk tudni elmenni: <a href="http://www.last.fm/event/1038940">http://www.last.fm/event/1038940</a></p>
 
 <footer>
-    <a title="Permanent link to “Az évtized (valószínű egyik legjobb) koncertje”" href="https://blog.ktamas.com/index.php/2009/06/26/az_evtized_valoszinu_egyik_legjobb_koncertje/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Az évtized (valószínű egyik legjobb) koncertje”" href="https://blog.ktamas.com/index.php/2009/06/26/az_evtized_valoszinu_egyik_legjobb_koncertje/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/agymenes/">agymenes</a></li>
-                <li><a href="https://blog.ktamas.com/tags/anime/">anime</a></li>
-                <li><a href="https://blog.ktamas.com/tags/jap%C3%A1n/">japán</a></li>
-                <li><a href="https://blog.ktamas.com/tags/random/">random</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/agymenes/'>agymenes</a>, <a href='/tags/anime/'>anime</a>, <a href='/tags/jap%C3%A1n/'>japán</a>, <a href='/tags/random/'>random</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -66,14 +60,11 @@
 <iframe src="https://open.spotify.com/embed/track/6yYAmwnG0mSfrvbmzNdiGq" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 <footer>
-    <a title="Permanent link to “Visszatér a Do As Infinity!”" href="https://blog.ktamas.com/index.php/2009/01/11/visszater_a_do_as_infinity/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Visszatér a Do As Infinity!”" href="https://blog.ktamas.com/index.php/2009/01/11/visszater_a_do_as_infinity/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/jap%C3%A1n/">japán</a></li>
-                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/jap%C3%A1n/'>japán</a>, <a href='/tags/zene/'>zene</a>
         </div>
 </footer>]]></content>
 	</entry>

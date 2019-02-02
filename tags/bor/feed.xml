@@ -6,7 +6,6 @@
 	<updated>2013-08-09T10:35:50Z</updated>
 	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/bor/feed.xml"/>
 	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/bor/"/>
-	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/bor/feed.json"/>
 	<author>
 		<name>KTamas</name>
 		<uri>https://blog.ktamas.com/</uri>
@@ -49,15 +48,11 @@ Aztán persze szépen lassan megbarátkoztam először a röviditalokkal, majd t
 <p>A legolcsóbb a 69 SEK-be kerülő ausztrál <a href="http://www.systembolaget.se/Sok-dryck/Dryck/?varuNr=6131">The Black Shiraz</a> (2012) volt: igazából nincs benne semmi különleges, sokkal könnyebb mint a Gumfields Pinot Noirja, meg persze érezni is rajta, hogy majd&#8217; feleannyiba kerül: ugyanakkor árkategóriájából maximálisan kihozza, amit lehet, nagyon kellemes, szerintem fogok még venni.</p>
 
 <footer>
-    <a title="Permanent link to “A borokról”" href="https://blog.ktamas.com/index.php/2013/08/09/a-borokrol/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “A borokról”" href="https://blog.ktamas.com/index.php/2013/08/09/a-borokrol/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/bor/">bor</a></li>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/bor/'>bor</a>, <a href='/tags/%C3%A9nblog/'>énblog</a>, <a href='/tags/sv%C3%A9dorsz%C3%A1g/'>svédország</a>
         </div>
 </footer>]]></content>
 	</entry>

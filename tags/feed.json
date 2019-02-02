@@ -20,6 +20,14 @@
 			"content_text": "Posts about 2015."
 		}, 
 		{
+			"id": "https://blog.ktamas.com/tags/30/",
+			"url": "https://blog.ktamas.com/tags/30/",
+			"title": "30",
+			"date_published": "2019-01-16T10:32:14Z",
+			"content_html": "\u003cp\u003ePosts about 30.\u003c/p\u003e",
+			"content_text": "Posts about 30."
+		}, 
+		{
 			"id": "https://blog.ktamas.com/tags/adhd/",
 			"url": "https://blog.ktamas.com/tags/adhd/",
 			"title": "adhd",
@@ -306,6 +314,14 @@
 			"date_published": "2010-06-12T11:00:00Z",
 			"content_html": "\u003cp\u003ePosts about geekdom.\u003c/p\u003e",
 			"content_text": "Posts about geekdom."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/googlereader/",
+			"url": "https://blog.ktamas.com/tags/googlereader/",
+			"title": "googlereader",
+			"date_published": "2019-01-15T09:56:04Z",
+			"content_html": "\u003cp\u003ePosts about googlereader.\u003c/p\u003e",
+			"content_text": "Posts about googlereader."
 		}, 
 		{
 			"id": "https://blog.ktamas.com/tags/hit/",
@@ -743,7 +759,7 @@
 			"id": "https://blog.ktamas.com/tags/rss/",
 			"url": "https://blog.ktamas.com/tags/rss/",
 			"title": "rss",
-			"date_published": "2013-04-03T13:39:18Z",
+			"date_published": "2019-01-15T09:56:04Z",
 			"content_html": "\u003cp\u003ePosts about rss.\u003c/p\u003e",
 			"content_text": "Posts about rss."
 		}, 
@@ -767,7 +783,7 @@
 			"id": "https://blog.ktamas.com/tags/sharewood/",
 			"url": "https://blog.ktamas.com/tags/sharewood/",
 			"title": "sharewood",
-			"date_published": "2014-05-12T15:07:12Z",
+			"date_published": "2019-01-15T09:56:04Z",
 			"content_html": "\u003cp\u003ePosts about sharewood.\u003c/p\u003e",
 			"content_text": "Posts about sharewood."
 		}, 
@@ -903,7 +919,7 @@
 			"id": "https://blog.ktamas.com/tags/thoughts/",
 			"url": "https://blog.ktamas.com/tags/thoughts/",
 			"title": "thoughts",
-			"date_published": "2018-12-31T13:18:41Z",
+			"date_published": "2019-01-16T10:32:14Z",
 			"content_html": "\u003cp\u003ePosts about thoughts.\u003c/p\u003e",
 			"content_text": "Posts about thoughts."
 		}, 

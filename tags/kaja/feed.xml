@@ -6,7 +6,6 @@
 	<updated>2013-08-10T11:31:41Z</updated>
 	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/kaja/feed.xml"/>
 	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/kaja/"/>
-	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/kaja/feed.json"/>
 	<author>
 		<name>KTamas</name>
 		<uri>https://blog.ktamas.com/</uri>
@@ -48,15 +47,11 @@ Ennek első lépéseként összeírtam legalább részben, hogy mik azok a dolgo
 <p>Most van kajám a hétvégére, meg valamennyi tán a jövőhétre, meglátjuk, hogy fog haladni meg fejlődni a projekt.</p>
 
 <footer>
-    <a title="Permanent link to “A piacról, a bevásárlásról és a tervezésről”" href="https://blog.ktamas.com/index.php/2013/08/10/a-piacrol-a-bevasarlasrol-es-a-tervezesrol/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “A piacról, a bevásárlásról és a tervezésről”" href="https://blog.ktamas.com/index.php/2013/08/10/a-piacrol-a-bevasarlasrol-es-a-tervezesrol/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/kaja/">kaja</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/%C3%A9nblog/'>énblog</a>, <a href='/tags/kaja/'>kaja</a>, <a href='/tags/sv%C3%A9dorsz%C3%A1g/'>svédország</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -91,17 +86,11 @@ Itt Svédországban a márka termékei azonban minden nagyobb boltban megtalálh
 <p>Augusztusban is lesznek vendégeim&#8230;</p>
 
 <footer>
-    <a title="Permanent link to “A Ben &amp;#038; Jerry&amp;#8217;sről”" href="https://blog.ktamas.com/index.php/2013/08/08/a-ben-jerrysrol/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “A Ben &amp;#038; Jerry&amp;#8217;sről”" href="https://blog.ktamas.com/index.php/2013/08/08/a-ben-jerrysrol/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/fagyi/">fagyi</a></li>
-                <li><a href="https://blog.ktamas.com/tags/kaja/">kaja</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
-                <li><a href="https://blog.ktamas.com/tags/vend%C3%A9gek/">vendégek</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/%C3%A9nblog/'>énblog</a>, <a href='/tags/fagyi/'>fagyi</a>, <a href='/tags/kaja/'>kaja</a>, <a href='/tags/sv%C3%A9dorsz%C3%A1g/'>svédország</a>, <a href='/tags/vend%C3%A9gek/'>vendégek</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -133,15 +122,11 @@ A fenti képet afféle emlékeztetőnek lőttem magamnak még, mikor megláttam,
 <p>Az árak is rendbe voltak: drágább, mint egy ebédlőhely (bár van 99 SEK-es ebédmenüjük, de ahhoz sajnos kiesik a hely), de az egészért fizettem olyan 220 SEK-et, itallal, borravalóval. Ja, és legközelebb lefotózom a hamburgert is.</p>
 
 <footer>
-    <a title="Permanent link to “Flashback: Egy jó hamburger Götebörgban”" href="https://blog.ktamas.com/index.php/2013/06/26/flashback-egy-jo-hamburger-goteborgban/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Flashback: Egy jó hamburger Götebörgban”" href="https://blog.ktamas.com/index.php/2013/06/26/flashback-egy-jo-hamburger-goteborgban/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/kaja/">kaja</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/%C3%A9nblog/'>énblog</a>, <a href='/tags/kaja/'>kaja</a>, <a href='/tags/sv%C3%A9dorsz%C3%A1g/'>svédország</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -176,13 +161,11 @@ Maga az étterem, mint azt a neve részben mutatja, egy zsidó-olasz-magyar fúz
 <p><em>(disclosure: ezért a posztért nem fizetett nekem senki. sajnos.)</em></p>
 
 <footer>
-    <a title="Permanent link to “Yiddishe Mamma Mia”" href="https://blog.ktamas.com/index.php/2013/05/10/yiddishe-mamma-mia/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Yiddishe Mamma Mia”" href="https://blog.ktamas.com/index.php/2013/05/10/yiddishe-mamma-mia/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/kaja/">kaja</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/kaja/'>kaja</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -213,15 +196,11 @@ Maga az étterem, mint azt a neve részben mutatja, egy zsidó-olasz-magyar fúz
 <p>Összességében élveztem a dolgot, bár ezt a hal dolgot még erősen szoknom kell, a lazacot már megeszem, de azt könnyű, mindenki azt mondja, hogy az a legkevésbé halízű hal. A heringből a mustáros egészen jó volt, bár ahhoz kell valami jó köret, kollégák szerint knackebröddel egészen jó.</p>
 
 <footer>
-    <a title="Permanent link to “Påsklunch: képriport”" href="https://blog.ktamas.com/index.php/2013/03/29/pasklunch-kepriport/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Påsklunch: képriport”" href="https://blog.ktamas.com/index.php/2013/03/29/pasklunch-kepriport/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/kaja/">kaja</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/%C3%A9nblog/'>énblog</a>, <a href='/tags/kaja/'>kaja</a>, <a href='/tags/sv%C3%A9dorsz%C3%A1g/'>svédország</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -272,14 +251,11 @@ De a lényeg csak most következik, ugyanis 2 perccel azután, hogy letettem a v
 </blockquote>
 
 <footer>
-    <a title="Permanent link to “A hónap telefonbeszelgetése (de jó a kaja!)”" href="https://blog.ktamas.com/index.php/2009/10/09/a_honap_telefonbeszelgetese_de_jo_a_kaja/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “A hónap telefonbeszelgetése (de jó a kaja!)”" href="https://blog.ktamas.com/index.php/2009/10/09/a_honap_telefonbeszelgetese_de_jo_a_kaja/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/kaja/">kaja</a></li>
-                <li><a href="https://blog.ktamas.com/tags/random/">random</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/kaja/'>kaja</a>, <a href='/tags/random/'>random</a>
         </div>
 </footer>]]></content>
 	</entry>

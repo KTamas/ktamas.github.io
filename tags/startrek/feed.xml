@@ -6,7 +6,6 @@
 	<updated>2009-05-12T12:00:29Z</updated>
 	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/startrek/feed.xml"/>
 	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/startrek/"/>
-	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/startrek/feed.json"/>
 	<author>
 		<name>KTamas</name>
 		<uri>https://blog.ktamas.com/</uri>
@@ -40,14 +39,11 @@
 
 <p>Szóval engem már az elején megvettek (és nem csak azért, mert időutazás-sucker vagyok, bár segített), ez az év egy igazán jó év a space opera-rajongóknak, egy ilyen fasza BSG befejezés után most egy gyönyörű (új) kezdetet láttunk a Star Treknek. Ez így <strong>tízpertíz</strong>.</p>
 <footer>
-    <a title="Permanent link to “Star Trek (2009)”" href="https://blog.ktamas.com/index.php/2009/05/12/star_trek_2055/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Star Trek (2009)”" href="https://blog.ktamas.com/index.php/2009/05/12/star_trek_2055/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/mozi/">mozi</a></li>
-                <li><a href="https://blog.ktamas.com/tags/startrek/">startrek</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/mozi/'>mozi</a>, <a href='/tags/startrek/'>startrek</a>
         </div>
 </footer>]]></content>
 	</entry>

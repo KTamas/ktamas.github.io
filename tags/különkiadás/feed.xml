@@ -6,7 +6,6 @@
 	<updated>2013-04-14T12:05:36Z</updated>
 	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/k%C3%BCl%C3%B6nkiad%C3%A1s/feed.xml"/>
 	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/k%C3%BCl%C3%B6nkiad%C3%A1s/"/>
-	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/k%C3%BCl%C3%B6nkiad%C3%A1s/feed.json"/>
 	<author>
 		<name>KTamas</name>
 		<uri>https://blog.ktamas.com/</uri>
@@ -69,15 +68,11 @@ Amikor hosszas csengés után felvették, gyorsan eljutottunk oda, hogy nem, a v
 <p>A Frici azt mondta, hogy ez gyakorlatilag egy Örkény-egyperces jelenet volt, és hát hajlok arra, hogy egyetértsek vele.</p>
 
 <footer>
-    <a title="Permanent link to “Az élet írta Örkény-egyperces (csütörtök különkiadás)”" href="https://blog.ktamas.com/index.php/2013/04/14/az-elet-irta-orkeny-egyperces-csutortok-kulonkiadas/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Az élet írta Örkény-egyperces (csütörtök különkiadás)”" href="https://blog.ktamas.com/index.php/2013/04/14/az-elet-irta-orkeny-egyperces-csutortok-kulonkiadas/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/k%C3%BCl%C3%B6nkiad%C3%A1s/">különkiadás</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/%C3%A9nblog/'>énblog</a>, <a href='/tags/k%C3%BCl%C3%B6nkiad%C3%A1s/'>különkiadás</a>, <a href='/tags/sv%C3%A9dorsz%C3%A1g/'>svédország</a>
         </div>
 </footer>]]></content>
 	</entry>

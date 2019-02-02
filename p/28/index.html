@@ -8,6 +8,7 @@
 	<meta name="description" content="Bringing you irregular content since 2009. By KTamas." />
 	<meta name="author" content="KTamas" />
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto" rel="stylesheet">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 	<link rel="stylesheet" href="/css/screen.css" />
 	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
 	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
@@ -32,7 +33,6 @@
 	<div id="container">
 		<header>
 			<hgroup class="top">
-				
 				<h1><a href="/">KTamas&#39; Blog</a></h1>
 				<h2>Remember kids, if Internet Explorer is brave enough to ask to be your default browser, you&#39;re brave enough to ask that girl out.</h2>
 			</hgroup>
@@ -41,9 +41,9 @@
 					<li><a href="/about/" title="About KTamas&#39; Blog">About</a></li>
 					<li><a href="/archive/" title="KTamas&#39; Blog Archives">Archives</a></li>
 					<li><a href="/tags/" title="KTamas&#39; Blog Tags">Tags</a></li>
-					<li class="icon"><a href="//twitter.com/ktamas" title="@ktamas on Twitter"><i class="fa fa-twitter"></i></a></li>
-					<li class="icon"><a href="//github.com/ktamas" title="@ktamas on GitHub"><i class="fa fa-github"></i></a></li>
-					<li class="icon"><a href="http://feeds.feedburner.com/KTamasBlog" title="Subscribe to KTamas&#39; Blog"><i class="fa fa-rss"></i></a></li>
+					<li class="icon"><a href="//twitter.com/ktamas" title="@ktamas on Twitter"><i class="fab fa-twitter"></i></a></li>
+					<li class="icon"><a href="//github.com/ktamas" title="@ktamas on GitHub"><i class="fab fa-github"></i></a></li>
+					<li class="icon"><a href="http://feeds.feedburner.com/KTamasBlog" title="Subscribe to KTamas&#39; Blog"><i class="fas fa-rss"></i></a></li>
 				</menu>
 			</nav>
 		</header>
@@ -52,9 +52,51 @@
 		
 		    <article class="post">
         <header>
+            <h1 class="post"><a href="/index.php/2012/10/28/pubsubhubbub/">PubSubHubBub</a></h1>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2012/10/28/pubsubhubbub/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2012-10-28T17:50:24Z">Sunday, October 28, 2012</time> · 122 words · 1 min read</div>
+        </header>
+        <div class="text">
+
+<p>Egy újszülöttnek minden vicc új, mondják, de az megvan mindenkinek hogy a Feedburnerben egy klikkel be lehet kapcsolni a PubSubHubBubot (ami nincs bekapcsolva alapból, nem igazán értem, miért)? A Publicize -&gt; PingShot alatt van a fícsör. És így nem fél nap alatt frissül a Google Readerben az adott feed.</p>
+
+<p>Az persze másik dolog, hogy maga a Feedburner 10-20-30 perc delayyel dolgozik, ezt úgy lehet kiküszöbölni, hogy mi magunk is megpingeljük a Feedburnert, mikor a frissül a feedünk. Mióta a gugli megvette a szolgáltatást, azóta leginkább csak romlott, a dokumentációhoz vezető linkek például halottak, de <a href="http://stackoverflow.com/questions/736413/ping-feedburner-in-django-app">lehet találni</a> példakódot. A végén <a href="https://github.com/KTamas/sharewood.hu/blob/master/app/helpers/application_helper.rb#L3">pár sor az egész</a>. Sőt, annyit kavartam hogy bekötöttem a <a href="http://superfeedr.com/">Superfeedr</a>t is, úgyhogy one way or another mindenképp PuSHolva lesz a feed, realtime.</p>
+
+        </div>
+
+    </article>
+
+		
+		    <article class="post">
+        <header>
+            <h1 class="post"><a href="/index.php/2012/10/28/feed-nagytakaritas/">Feed nagytakarítás</a></h1>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2012/10/28/feed-nagytakaritas/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2012-10-28T17:40:08Z">Sunday, October 28, 2012</time> · 128 words · 1 min read</div>
+        </header>
+        <div class="text">
+
+<p>Leginkább note to self jellegű a bejegyzés, de hátha másnak is haszos lehet.</p>
+
+<p>Az alapprobléma: nagyon sok feedet olvasok (587 jelen pillanatban), és szeretném tudni, nem-e változott meg valameliknek a címe / szűnt meg az oldal időközben.</p>
+
+<p>A megoldás: végigmegyünk a feed URL-jein, és megnézzük, melik dob valami más HTTP státuszt, mint 200, ami ugye az OK.</p>
+
+<p>Az eszközök: Ruby, Curl, valami posix-kompatibilis rendszer (Linux, OSX etc.)</p>
+
+<p>Első körben letöltjük az OPML fájlunkat a readerből. Utána <a href="https://gist.github.com/d2b82556b4c9bc5baddd">ennek a ruby scriptnek a segítségével</a> kiszedjük belőle az URL-eket a <code>subscription_urls.txt</code> fájlba.</p>
+
+<p>Ezután <a href="https://gist.github.com/1ab093f30e4f6ad748f1">ez a script</a> szépen végigellenőrzi a feedek HTTP státuszát (az outputot iranyitsuk tetszőleges szövegfájlba), végül nyissuk meg ezt a fájlt, és nyomjunk rá egy sortot kedvenc szövegszerkesztőnkben és indulhat a vadászat: minden ami nem 200-zal kezdődik, az gyanús.</p>
+
+        </div>
+
+    </article>
+
+		
+		    <article class="post">
+        <header>
             <h1 class="post"><a href="/index.php/2012/10/18/rukkola-bookmarklet-update-4-this-is-not-a-goodbye/">Rukkola bookmarklet update 4: this is not a goodbye</a></h1>
-            <a rel="bookmark" href="https://blog.ktamas.com/index.php/2012/10/18/rukkola-bookmarklet-update-4-this-is-not-a-goodbye/"></a>
-            <time datetime="2012-10-18T13:15:41Z">Thursday, October 18, 2012</time>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2012/10/18/rukkola-bookmarklet-update-4-this-is-not-a-goodbye/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2012-10-18T13:15:41Z">Thursday, October 18, 2012</time> · 105 words · 1 min read</div>
         </header>
         <div class="text">
 
@@ -71,10 +113,8 @@
         </div>
 
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/rukkola/">rukkola</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/rukkola/'>rukkola</a>
         </div>
     </article>
 
@@ -82,8 +122,8 @@
 		    <article class="post">
         <header>
             <h1 class="post"><a href="/index.php/2012/10/16/my-adventures-in-the-world-of-bookmarklets-meg-mindig-benne-vagyok-az-internetben-rovat/">My adventures in the world of bookmarklets (még mindig benne vagyok az internetben rovat)</a></h1>
-            <a rel="bookmark" href="https://blog.ktamas.com/index.php/2012/10/16/my-adventures-in-the-world-of-bookmarklets-meg-mindig-benne-vagyok-az-internetben-rovat/"></a>
-            <time datetime="2012-10-16T15:24:43Z">Tuesday, October 16, 2012</time>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2012/10/16/my-adventures-in-the-world-of-bookmarklets-meg-mindig-benne-vagyok-az-internetben-rovat/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2012-10-16T15:24:43Z">Tuesday, October 16, 2012</time> · 118 words · 1 min read</div>
         </header>
         <div class="text">
 
@@ -100,10 +140,8 @@
         </div>
 
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/bennevagyokazinternetben/">bennevagyokazinternetben</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/bennevagyokazinternetben/'>bennevagyokazinternetben</a>
         </div>
     </article>
 
@@ -111,8 +149,8 @@
 		    <article class="post">
         <header>
             <h1 class="post"><a href="/index.php/2012/10/16/meg-mindig-kindle-benne-vagyok-az-internetben-rovat/">Még mindig Kindle (benne vagyok az internetben rovat)</a></h1>
-            <a rel="bookmark" href="https://blog.ktamas.com/index.php/2012/10/16/meg-mindig-kindle-benne-vagyok-az-internetben-rovat/"></a>
-            <time datetime="2012-10-16T11:03:55Z">Tuesday, October 16, 2012</time>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2012/10/16/meg-mindig-kindle-benne-vagyok-az-internetben-rovat/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2012-10-16T11:03:55Z">Tuesday, October 16, 2012</time> · 52 words · 1 min read</div>
         </header>
         <div class="text">
 
@@ -123,11 +161,8 @@
         </div>
 
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/bennevagyokazinternetben/">bennevagyokazinternetben</a></li>
-                <li><a href="https://blog.ktamas.com/tags/kindle/">kindle</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/bennevagyokazinternetben/'>bennevagyokazinternetben</a>, <a href='/tags/kindle/'>kindle</a>
         </div>
     </article>
 
@@ -135,8 +170,8 @@
 		    <article class="post">
         <header>
             <h1 class="post"><a href="/index.php/2012/09/28/kindle-a-sokadik-de-termeszetesen-nem-az-utolso/">Kindle (a sokadik, de természetesen nem az utolsó)</a></h1>
-            <a rel="bookmark" href="https://blog.ktamas.com/index.php/2012/09/28/kindle-a-sokadik-de-termeszetesen-nem-az-utolso/"></a>
-            <time datetime="2012-09-28T11:56:06Z">Friday, September 28, 2012</time>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2012/09/28/kindle-a-sokadik-de-termeszetesen-nem-az-utolso/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2012-09-28T11:56:06Z">Friday, September 28, 2012</time> · 207 words · 1 min read</div>
         </header>
         <div class="text">
 
@@ -153,10 +188,8 @@
         </div>
 
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/kindle/">kindle</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/kindle/'>kindle</a>
         </div>
     </article>
 
@@ -164,8 +197,8 @@
 		    <article class="post">
         <header>
             <h1 class="post"><a href="/index.php/2012/09/21/javascript-meetup-eloadas-a-bookmarkletekrol/">Javascript Meetup előadás a bookmarkletekről</a></h1>
-            <a rel="bookmark" href="https://blog.ktamas.com/index.php/2012/09/21/javascript-meetup-eloadas-a-bookmarkletekrol/"></a>
-            <time datetime="2012-09-21T10:48:42Z">Friday, September 21, 2012</time>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2012/09/21/javascript-meetup-eloadas-a-bookmarkletekrol/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2012-09-21T10:48:42Z">Friday, September 21, 2012</time> · 77 words · 1 min read</div>
         </header>
         <div class="text">
 
@@ -178,10 +211,8 @@
         </div>
 
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/bennevagyokazinternetben/">bennevagyokazinternetben</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/bennevagyokazinternetben/'>bennevagyokazinternetben</a>
         </div>
     </article>
 
@@ -189,8 +220,8 @@
 		    <article class="post">
         <header>
             <h1 class="post"><a href="/index.php/2012/09/15/rukkola-bookmarklet-update-3-%e3%83%aa%e3%83%a9%e3%82%a4%e3%83%88/">Rukkola bookmarklet update 3: リライト</a></h1>
-            <a rel="bookmark" href="https://blog.ktamas.com/index.php/2012/09/15/rukkola-bookmarklet-update-3-%e3%83%aa%e3%83%a9%e3%82%a4%e3%83%88/"></a>
-            <time datetime="2012-09-15T17:19:56Z">Saturday, September 15, 2012</time>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2012/09/15/rukkola-bookmarklet-update-3-%e3%83%aa%e3%83%a9%e3%82%a4%e3%83%88/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2012-09-15T17:19:56Z">Saturday, September 15, 2012</time> · 106 words · 1 min read</div>
         </header>
         <div class="text">
 
@@ -206,8 +237,8 @@
 		    <article class="post">
         <header>
             <h1 class="post"><a href="/index.php/2012/09/06/zene-tenpenny-joke-ambush-on-all-sides/">Zene: Tenpenny Joke &#8211; Ambush On All Sides</a></h1>
-            <a rel="bookmark" href="https://blog.ktamas.com/index.php/2012/09/06/zene-tenpenny-joke-ambush-on-all-sides/"></a>
-            <time datetime="2012-09-06T18:10:29Z">Thursday, September 6, 2012</time>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2012/09/06/zene-tenpenny-joke-ambush-on-all-sides/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2012-09-06T18:10:29Z">Thursday, September 6, 2012</time> · 14 words · 1 min read</div>
         </header>
         <div class="text">
 
@@ -218,10 +249,8 @@
         </div>
 
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/zene/'>zene</a>
         </div>
     </article>
 
@@ -229,8 +258,8 @@
 		    <article class="post">
         <header>
             <h1 class="post"><a href="/index.php/2012/08/16/rukkola-bookmarklet-update-2-growing-pains/">Rukkola bookmarklet update 2: Growing pains</a></h1>
-            <a rel="bookmark" href="https://blog.ktamas.com/index.php/2012/08/16/rukkola-bookmarklet-update-2-growing-pains/"></a>
-            <time datetime="2012-08-16T17:42:21Z">Thursday, August 16, 2012</time>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2012/08/16/rukkola-bookmarklet-update-2-growing-pains/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2012-08-16T17:42:21Z">Thursday, August 16, 2012</time> · 173 words · 1 min read</div>
         </header>
         <div class="text">
 
@@ -244,65 +273,6 @@
 
         </div>
 
-    </article>
-
-		
-		    <article class="post">
-        <header>
-            <h1 class="post"><a href="/index.php/2012/08/15/rukkola-bookmarklet-update-1-gorgetes-a-vegtelenbe/">Rukkola bookmarklet update 1: görgetés a végtelenbe</a></h1>
-            <a rel="bookmark" href="https://blog.ktamas.com/index.php/2012/08/15/rukkola-bookmarklet-update-1-gorgetes-a-vegtelenbe/"></a>
-            <time datetime="2012-08-15T18:29:36Z">Wednesday, August 15, 2012</time>
-        </header>
-        <div class="text">
-
-<p>Most, hogy <a href="http://salata.rukkola.hu/2012/08/14/upgrade/">gyors lett a rukkola</a> (hurrá! hurrá! hurrá!), belefejlesztettem <a href="http://blog.ktamas.com/index.php/2012/08/11/hacking-rukkola-avagy-alternativ-kollekciobongeszes/">a bookmarkletbe</a> a végtelenbe görgetést jól, így nem kell a továbbot kattintgatni, csak szépen menni lefele és a többi magától történik. Mi több, nincs többé olyan sem, hogy a tovább gombra nem tölt be semmit (ami valójában azt jelentette, hogy a következő oldalon nem volt happolható könyv); ilyenkor automatikusan tölti a következő oldalt egészen addig, amíg nem talál legalább annyi könyvet ami új sort kezd. Ha pedig az adott kollekció végére ért az ember, akkor azt is jelzi már egy diszkrét üzenettel.</p>
-
-<p>A frissítéshez az égvilágon semmit nem kell tenni, mivel maga a bookmarklet mindig a legfrissebb verziót futtatja le.</p>
-
-        </div>
-
-    </article>
-
-		
-		    <article class="post">
-        <header>
-            <h1 class="post"><a href="/index.php/2012/08/11/hacking-rukkola-avagy-alternativ-kollekciobongeszes/">Hacking Rukkola, avagy bookmarklet a nem happolhatóak elrejtésére</a></h1>
-            <a rel="bookmark" href="https://blog.ktamas.com/index.php/2012/08/11/hacking-rukkola-avagy-alternativ-kollekciobongeszes/"></a>
-            <time datetime="2012-08-11T18:31:15Z">Saturday, August 11, 2012</time>
-        </header>
-        <div class="text">
-
-<p>Szóval elindult a <a href="http://rukkola.hu/">rukkola.hu</a>, közösségi könyvcserélde, remek dolog, próbáljátok ki, felteszitek a megunt könyveiteket, és cserébe szerezhettek másoktól hasonlókat. A böngészés a feltett könyvek között egyelőre még nem tökéletes, engem például borzasztóan zavar, hogy a <a href="http://rukkola.hu/kollekciok">kollekciók</a> böngészésénél (szerk: és keresésnél) nincs olyan nézet, amikor csak azokat a könyveket látom, amikre ténylegesen lecsaphatok.</p>
-
-<p>Összedobtam hát gyorsan egy bookmarkletet erre. Chrome Extensionnek indult, de nem érzem elég nagynak, hogy megérje berakni a saját App Storejukba, valamint sóher vagyok kifizetni az öt dollárt érte egyelőre, majd ha még lesz pár ilyen rukkola-módosításom, amit már érdemes felrakni. Mindenesetre nincs más dolgoktok, hogy <a href="http://blog.ktamas.com/index.php/rukkola-bookmarklet/">felrakjátok a bookmarklet oldaláról</a>. <del datetime="2012-08-15T16:30:01+00:00">Lapozni a Tovább gombbal lehet, még az oldalakat is mutatja.</del> <strong>Update:</strong> nem kell semmit kattintgatni, <a href="http://blog.ktamas.com/index.php/2012/08/15/rukkola-bookmarklet-update-1-gorgetes-a-vegtelenbe/">van végtelen görgetés</a>.</p>
-
-<p><strong>Update 2:</strong> A bookmarklet frissült és saját oldalt kapott, <a href="http://blog.ktamas.com/index.php/rukkola-bookmarklet/">innen rakhatod fel</a>.</p>
-
-<p>A mostani megoldásnak megvan az a hátránya, hogy ha átkattintasz egy könyvre, akkor sajnos kezdheted elölről. Ez egy 0.0.<del datetime="2012-08-15T16:30:01+00:00">1</del>2-es változat, a 0.0.<del>2</del>3-ben majd ezt is áthidaljuk valahogy remélhetőleg és/vagy egyszer a távoli jövőben ha lesz Rukkola API, majd arra fogunk építkezni.</p>
-
-<p>A teljes kód <a href="https://github.com/KTamas/rukkola_hacks/tree/bookmarklet">fent van a githubon</a> természetesen. <del datetime="2012-08-15T16:40:33+00:00">Könnyen megoldható lenne, hogy az összes oldalt betöltse egyszerre, de ezt nem szeretném, mert feleslegesen terhelném vele a rukkola szervereit, amik amúgyis elég lassúak tudnak lenni sajnos sokszor. Esetleg a jövőben valamiféle végtelenscrollozást belerakok, és akkor a Továbbra kattintgatást megússza az ember.</del> <a href="http://blog.ktamas.com/index.php/2012/08/15/rukkola-bookmarklet-update-1-gorgetes-a-vegtelenbe/">Van végtelen görgetés!</a></p>
-
-<p>És egy before-after kép, avagy előtte:</p>
-
-<p><a href="/wp-content/uploads/2012/08/rbefore.jpg"><img src="/wp-content/uploads/2012/08/rbefore-439x1024.jpg" alt="" title="Előtte" width="439" height="1024" class="aligncenter size-large wp-image-2363219" srcset="/wp-content/uploads/2012/08/rbefore-439x1024.jpg 439w, /wp-content/uploads/2012/08/rbefore-128x300.jpg 128w, /wp-content/uploads/2012/08/rbefore.jpg 1009w" sizes="(max-width: 439px) 100vw, 439px" /></a></p>
-
-<p>És utána:</p>
-
-<p><a href="/wp-content/uploads/2012/08/rafter.jpg"><img src="/wp-content/uploads/2012/08/rafter-400x1024.jpg" alt="" title="Utána" width="400" height="1024" class="aligncenter size-large wp-image-2363218" srcset="/wp-content/uploads/2012/08/rafter-400x1024.jpg 400w, /wp-content/uploads/2012/08/rafter-117x300.jpg 117w" sizes="(max-width: 400px) 100vw, 400px" /></a></p>
-
-<p>(P.S.: RSS-ből valószínű biztosan nem fog működni a bookmarkletes dolog, szóval ha ezt a Google Readerben olvasod, át kell hozzá kattintani)</p>
-
-<p>(P.P.S.: A bookmarklet remekül alkalmazható keresésekre is.)</p>
-
-        </div>
-
-        <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/programoz%C3%A1s/">programozás</a></li>
-                <li><a href="https://blog.ktamas.com/tags/rukkola/">rukkola</a></li>
-            </ul>
-        </div>
     </article>
 
 		

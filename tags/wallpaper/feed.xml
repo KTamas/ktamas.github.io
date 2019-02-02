@@ -6,7 +6,6 @@
 	<updated>2011-05-15T09:13:21Z</updated>
 	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/wallpaper/feed.xml"/>
 	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/wallpaper/"/>
-	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/wallpaper/feed.json"/>
 	<author>
 		<name>KTamas</name>
 		<uri>https://blog.ktamas.com/</uri>
@@ -30,14 +29,11 @@
 <![CDATA[<p><a href="http://indafoto.hu/ktamasenty/image/11688319-8f518b87/276039" title="KTamasEnty: Százszorszép"><img src="http://img8.indafoto.hu/7/1/37531_a003d3c58568435ab3c440f97f1e953e/11688319_8f518b874f546fe719b604be3086c91a_xl.jpg" title="KTamasEnty: Százszorszép" alt="KTamasEnty: Százszorszép" border="0" width="600" height="375" /></a></p>
 
 <footer>
-    <a title="Permanent link to “Háttérkép”" href="https://blog.ktamas.com/index.php/2011/05/15/hatterkep/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Háttérkép”" href="https://blog.ktamas.com/index.php/2011/05/15/hatterkep/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/random/">random</a></li>
-                <li><a href="https://blog.ktamas.com/tags/wallpaper/">wallpaper</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/random/'>random</a>, <a href='/tags/wallpaper/'>wallpaper</a>
         </div>
 </footer>]]></content>
 	</entry>

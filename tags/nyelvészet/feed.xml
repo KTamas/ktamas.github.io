@@ -6,7 +6,6 @@
 	<updated>2009-02-15T13:32:53Z</updated>
 	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/nyelv%C3%A9szet/feed.xml"/>
 	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/nyelv%C3%A9szet/"/>
-	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/nyelv%C3%A9szet/feed.json"/>
 	<author>
 		<name>KTamas</name>
 		<uri>https://blog.ktamas.com/</uri>
@@ -57,16 +56,11 @@
 </div></p></p>
 
 <footer>
-    <a title="Permanent link to “Informatika meg egyetem meg minden”" href="https://blog.ktamas.com/index.php/2009/02/15/informatika_meg_egyetem_meg_minden/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Informatika meg egyetem meg minden”" href="https://blog.ktamas.com/index.php/2009/02/15/informatika_meg_egyetem_meg_minden/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/agymenes/">agymenes</a></li>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/it/">it</a></li>
-                <li><a href="https://blog.ktamas.com/tags/nyelv%C3%A9szet/">nyelvészet</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/agymenes/'>agymenes</a>, <a href='/tags/%C3%A9nblog/'>énblog</a>, <a href='/tags/it/'>it</a>, <a href='/tags/nyelv%C3%A9szet/'>nyelvészet</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -155,13 +149,11 @@ Szintén nem vert a szobában.</summary>
 </blockquote>
 
 <footer>
-    <a title="Permanent link to “Egy kis kvíz”" href="https://blog.ktamas.com/index.php/2009/02/03/egy_kis_kviz/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Egy kis kvíz”" href="https://blog.ktamas.com/index.php/2009/02/03/egy_kis_kviz/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/nyelv%C3%A9szet/">nyelvészet</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/nyelv%C3%A9szet/'>nyelvészet</a>
         </div>
 </footer>]]></content>
 	</entry>

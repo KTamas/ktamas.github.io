@@ -6,7 +6,6 @@
 	<updated>2010-12-19T12:20:21Z</updated>
 	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/switch/feed.xml"/>
 	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/switch/"/>
-	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/switch/feed.json"/>
 	<author>
 		<name>KTamas</name>
 		<uri>https://blog.ktamas.com/</uri>
@@ -59,18 +58,11 @@ Ugyanis nagyon sokáig, kb 5 évig aktív Windows Mobile felhasználó voltam, v
 <p>(((Edit: ja hogy már a múltkor elsütöttem a &#8220;Meg amit akartok&#8221;-ot. fene.)))</p>
 
 <footer>
-    <a title="Permanent link to “Android az új Winmobile (ZTE Blade, meg amit akartok)”" href="https://blog.ktamas.com/index.php/2010/12/19/android-az-uj-winmobile-zte-blade-meg-amit-akartok/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Android az új Winmobile (ZTE Blade, meg amit akartok)”" href="https://blog.ktamas.com/index.php/2010/12/19/android-az-uj-winmobile-zte-blade-meg-amit-akartok/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/android/">android</a></li>
-                <li><a href="https://blog.ktamas.com/tags/apple/">apple</a></li>
-                <li><a href="https://blog.ktamas.com/tags/blackberry/">blackberry</a></li>
-                <li><a href="https://blog.ktamas.com/tags/pda/">pda</a></li>
-                <li><a href="https://blog.ktamas.com/tags/switch/">switch</a></li>
-                <li><a href="https://blog.ktamas.com/tags/winmobile/">winmobile</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/android/'>android</a>, <a href='/tags/apple/'>apple</a>, <a href='/tags/blackberry/'>blackberry</a>, <a href='/tags/pda/'>pda</a>, <a href='/tags/switch/'>switch</a>, <a href='/tags/winmobile/'>winmobile</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -129,16 +121,11 @@ Kezdjük a másik oldalon, mi a jó az OSX-ben? Először is kapunk egy nagyon f
 <p>Minden hibája ellenére továbbra is egy alapjába véve jó oprendszernek tartom az OSX-et (bár távolról se tökéletes lásd fentebb), lehet Snow Leo kap majd valamilyen módon egy esélyt, de a fenti okok miatt egyelőre nem hiszem, hogy egyhamar újra primary oprendszer lehetne. Tudom, a Win se tokeletes, de jelenleg teljesen megfelel, amire kell.</p>
 
 <footer>
-    <a title="Permanent link to “Mi a bajom az OSX-szel?”" href="https://blog.ktamas.com/index.php/2009/02/12/mi_a_bajom_az_osx_szel/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Mi a bajom az OSX-szel?”" href="https://blog.ktamas.com/index.php/2009/02/12/mi_a_bajom_az_osx_szel/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/mac/">mac</a></li>
-                <li><a href="https://blog.ktamas.com/tags/switch/">switch</a></li>
-                <li><a href="https://blog.ktamas.com/tags/win7/">win7</a></li>
-                <li><a href="https://blog.ktamas.com/tags/windows/">windows</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/mac/'>mac</a>, <a href='/tags/switch/'>switch</a>, <a href='/tags/win7/'>win7</a>, <a href='/tags/windows/'>windows</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -169,16 +156,11 @@ Kezdjük a másik oldalon, mi a jó az OSX-ben? Először is kapunk egy nagyon f
 <p>P.P.S.: Lesz hamarosan egy részletesebb írás is arról, hogy miért hagytam ott az OSX-et. Van is, <a href="http://ktamas.blog.hu/2009/02/12/mi_a_bajom_az_osx_szel" target="_blank">itt</a>.</p>
 
 <footer>
-    <a title="Permanent link to “Bye-bye Macbook, hello X61s”" href="https://blog.ktamas.com/index.php/2009/02/11/bye_bye_macbook_hello_x61s_1/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Bye-bye Macbook, hello X61s”" href="https://blog.ktamas.com/index.php/2009/02/11/bye_bye_macbook_hello_x61s_1/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/mac/">mac</a></li>
-                <li><a href="https://blog.ktamas.com/tags/switch/">switch</a></li>
-                <li><a href="https://blog.ktamas.com/tags/win7/">win7</a></li>
-                <li><a href="https://blog.ktamas.com/tags/windows/">windows</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/mac/'>mac</a>, <a href='/tags/switch/'>switch</a>, <a href='/tags/win7/'>win7</a>, <a href='/tags/windows/'>windows</a>
         </div>
 </footer>]]></content>
 	</entry>

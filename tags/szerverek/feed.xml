@@ -6,7 +6,6 @@
 	<updated>2011-04-30T18:17:56Z</updated>
 	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/szerverek/feed.xml"/>
 	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/szerverek/"/>
-	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/szerverek/feed.json"/>
 	<author>
 		<name>KTamas</name>
 		<uri>https://blog.ktamas.com/</uri>
@@ -46,17 +45,11 @@
 <p>A felho tehat borzasztoan kenyelmesse tesz dolgokat, ami persze nem jelenti azt, a helyzet felhotlen lenne (elnezest), az elmult napokban is voltak erre peldak, ugye, mindenesetre programozooldalrol tenyleg iszonyat kenyelmesse tesz dolgokat, hogy (kis tulzassal) git push, es szevasztok. A bennem levo controlfreak rendszergazda most epp el van tehat nyomva, de biztos ki fog jonni egyszercsak&#8230;</p>
 
 <footer>
-    <a title="Permanent link to “Koltozes a felhobe”" href="https://blog.ktamas.com/index.php/2011/04/30/koltozes-a-felhobe/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Koltozes a felhobe”" href="https://blog.ktamas.com/index.php/2011/04/30/koltozes-a-felhobe/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/linux/">linux</a></li>
-                <li><a href="https://blog.ktamas.com/tags/meta/">meta</a></li>
-                <li><a href="https://blog.ktamas.com/tags/programoz%C3%A1s/">programozás</a></li>
-                <li><a href="https://blog.ktamas.com/tags/szerverek/">szerverek</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/%C3%A9nblog/'>énblog</a>, <a href='/tags/linux/'>linux</a>, <a href='/tags/meta/'>meta</a>, <a href='/tags/programoz%C3%A1s/'>programozás</a>, <a href='/tags/szerverek/'>szerverek</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -85,15 +78,11 @@ Szóval az történt hogy kedvenc céges projektkezelonket migráltam 7.4-es Pos
 <p>Nem baj, úgyis hajat akartam vágni, csak most kicsit furcsák a kopasz foltok a fejemen&#8230;</p>
 
 <footer>
-    <a title="Permanent link to “Hüje PostgreSQL”" href="https://blog.ktamas.com/index.php/2009/11/15/huje_postgresql/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Hüje PostgreSQL”" href="https://blog.ktamas.com/index.php/2009/11/15/huje_postgresql/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/linux/">linux</a></li>
-                <li><a href="https://blog.ktamas.com/tags/random/">random</a></li>
-                <li><a href="https://blog.ktamas.com/tags/szerverek/">szerverek</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/linux/'>linux</a>, <a href='/tags/random/'>random</a>, <a href='/tags/szerverek/'>szerverek</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -126,15 +115,11 @@ Szóval az történt hogy kedvenc céges projektkezelonket migráltam 7.4-es Pos
 <p>Egyik se dealbreaker, szerintem jól elleszek ezzel, de remélem ezek előbb-utóbb javulni fognak.</p>
 
 <footer>
-    <a title="Permanent link to “Slicehosttól a VPSPlantig”" href="https://blog.ktamas.com/index.php/2009/07/02/slicehosttol_a_vpsplantig/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Slicehosttól a VPSPlantig”" href="https://blog.ktamas.com/index.php/2009/07/02/slicehosttol_a_vpsplantig/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/geekdom/">geekdom</a></li>
-                <li><a href="https://blog.ktamas.com/tags/linux/">linux</a></li>
-                <li><a href="https://blog.ktamas.com/tags/szerverek/">szerverek</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/geekdom/'>geekdom</a>, <a href='/tags/linux/'>linux</a>, <a href='/tags/szerverek/'>szerverek</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -179,14 +164,11 @@ Hopp, mégegy… óbazdmeg. Felmegyünk a Nod fórumjára, hamar kiderül, nem m
 <p>(A HVG-s címért én kérek elnézést)</p>
 
 <footer>
-    <a title="Permanent link to “A mi ESETeink”" href="https://blog.ktamas.com/index.php/2009/03/11/a_mi_eseteink/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “A mi ESETeink”" href="https://blog.ktamas.com/index.php/2009/03/11/a_mi_eseteink/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/szerverek/">szerverek</a></li>
-                <li><a href="https://blog.ktamas.com/tags/windows/">windows</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/szerverek/'>szerverek</a>, <a href='/tags/windows/'>windows</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -211,14 +193,11 @@ Hopp, mégegy… óbazdmeg. Felmegyünk a Nod fórumjára, hamar kiderül, nem m
 <p>Majd folytatjuk.</p>
 
 <footer>
-    <a title="Permanent link to “Sargetól a Hyper-V-ig, második rész”" href="https://blog.ktamas.com/index.php/2009/01/10/sargetol_a_hyper_v_ig_masodik_resz/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Sargetól a Hyper-V-ig, második rész”" href="https://blog.ktamas.com/index.php/2009/01/10/sargetol_a_hyper_v_ig_masodik_resz/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/linux/">linux</a></li>
-                <li><a href="https://blog.ktamas.com/tags/szerverek/">szerverek</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/linux/'>linux</a>, <a href='/tags/szerverek/'>szerverek</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -246,14 +225,11 @@ Szóval így kezdtünk, sajnos szegény szerver egy kis kondi nélküli szobába
 <p>Tu bí kontinjúd&#8230;</p>
 
 <footer>
-    <a title="Permanent link to “Sargetól a Hyper-V-ig, első rész”" href="https://blog.ktamas.com/index.php/2009/01/08/sargetol_a_hyper_v_ig_elso_resz/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Sargetól a Hyper-V-ig, első rész”" href="https://blog.ktamas.com/index.php/2009/01/08/sargetol_a_hyper_v_ig_elso_resz/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/linux/">linux</a></li>
-                <li><a href="https://blog.ktamas.com/tags/szerverek/">szerverek</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/linux/'>linux</a>, <a href='/tags/szerverek/'>szerverek</a>
         </div>
 </footer>]]></content>
 	</entry>

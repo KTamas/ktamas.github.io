@@ -6,7 +6,6 @@
 	<updated>2015-02-19T15:06:39Z</updated>
 	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/ontheroad/feed.xml"/>
 	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/ontheroad/"/>
-	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/ontheroad/feed.json"/>
 	<author>
 		<name>KTamas</name>
 		<uri>https://blog.ktamas.com/</uri>
@@ -35,14 +34,11 @@
 <p>And I have to say, Ukrainian is a lot more interesting out of these two, although I guess I could not get away learning it without learning Russian too. It&#8217;s a good package deal.</p>
 
 <footer>
-    <a title="Permanent link to “Однієї мови ніколи не досить”" href="https://blog.ktamas.com/index.php/2015/02/19/%d0%be%d0%b4%d0%bd%d1%96%d1%94%d1%97-%d0%bc%d0%be%d0%b2%d0%b8-%d0%bd%d1%96%d0%ba%d0%be%d0%bb%d0%b8-%d0%bd%d0%b5-%d0%b4%d0%be%d1%81%d0%b8%d1%82%d1%8c/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Однієї мови ніколи не досить”" href="https://blog.ktamas.com/index.php/2015/02/19/%d0%be%d0%b4%d0%bd%d1%96%d1%94%d1%97-%d0%bc%d0%be%d0%b2%d0%b8-%d0%bd%d1%96%d0%ba%d0%be%d0%bb%d0%b8-%d0%bd%d0%b5-%d0%b4%d0%be%d1%81%d0%b8%d1%82%d1%8c/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/2015/">2015</a></li>
-                <li><a href="https://blog.ktamas.com/tags/ontheroad/">ontheroad</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/2015/'>2015</a>, <a href='/tags/ontheroad/'>ontheroad</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -94,14 +90,11 @@ Alex and Artem greeted me and picked me up, then we drove to Artem’s place whe
 <p>I took a lot of pictures which you can find <a href="https://www.dropbox.com/sh/nnrrugb8tm6f9am/AABDsaGmN19OCrZTN0YXBtNHa?dl=0">here</a> and <a href="https://www.dropbox.com/sh/20ahur6bbgi250a/AAC9wbWK3AZ3AdY1uatNhFh1a?dl=0">here</a>.</p>
 
 <footer>
-    <a title="Permanent link to “Kiev, day 1 and 2”" href="https://blog.ktamas.com/index.php/2015/02/13/kiev-day-1-and-2/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Kiev, day 1 and 2”" href="https://blog.ktamas.com/index.php/2015/02/13/kiev-day-1-and-2/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/2015/">2015</a></li>
-                <li><a href="https://blog.ktamas.com/tags/ontheroad/">ontheroad</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/2015/'>2015</a>, <a href='/tags/ontheroad/'>ontheroad</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -128,14 +121,11 @@ Alex and Artem greeted me and picked me up, then we drove to Artem’s place whe
 <iframe src="https://embed.spotify.com/?uri=spotify:track:5BXj1QDRU77J1ngVavG1tI" width="300" height="380" frameborder="0"></iframe>
 
 <footer>
-    <a title="Permanent link to “Kýrie, eléison, down the road that I must travel”" href="https://blog.ktamas.com/index.php/2015/01/27/kyrie-eleison-down-the-road-that-i-must-travel/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Kýrie, eléison, down the road that I must travel”" href="https://blog.ktamas.com/index.php/2015/01/27/kyrie-eleison-down-the-road-that-i-must-travel/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/2015/">2015</a></li>
-                <li><a href="https://blog.ktamas.com/tags/ontheroad/">ontheroad</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/2015/'>2015</a>, <a href='/tags/ontheroad/'>ontheroad</a>
         </div>
 </footer>]]></content>
 	</entry>

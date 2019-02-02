@@ -6,7 +6,6 @@
 	<updated>2014-01-16T09:09:05Z</updated>
 	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/sv%C3%A9dzenes/feed.xml"/>
 	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/sv%C3%A9dzenes/"/>
-	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/sv%C3%A9dzenes/feed.json"/>
 	<author>
 		<name>KTamas</name>
 		<uri>https://blog.ktamas.com/</uri>
@@ -35,16 +34,11 @@
 <p><iframe src="https://embed.spotify.com/?uri=spotify:track:30cmQLBpopRA6KLI2OsP9U" width="300" height="380" frameborder="0"></iframe></p>
 
 <footer>
-    <a title="Permanent link to “Svéd zenék: Lillasyster &amp;#8211; Roar”" href="https://blog.ktamas.com/index.php/2014/01/16/sved-zenek-lillasyster-roar/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Svéd zenék: Lillasyster &amp;#8211; Roar”" href="https://blog.ktamas.com/index.php/2014/01/16/sved-zenek-lillasyster-roar/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/napiloop/">napiloop</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dzenes/">svédzenes</a></li>
-                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/napiloop/'>napiloop</a>, <a href='/tags/sv%C3%A9dorsz%C3%A1g/'>svédország</a>, <a href='/tags/sv%C3%A9dzenes/'>svédzenes</a>, <a href='/tags/zene/'>zene</a>
         </div>
 </footer>]]></content>
 	</entry>

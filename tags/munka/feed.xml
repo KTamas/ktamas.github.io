@@ -6,7 +6,6 @@
 	<updated>2013-10-19T20:40:38Z</updated>
 	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/munka/feed.xml"/>
 	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/munka/"/>
-	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/munka/feed.json"/>
 	<author>
 		<name>KTamas</name>
 		<uri>https://blog.ktamas.com/</uri>
@@ -50,15 +49,11 @@ Az új iroda tökmáshol van, mint a régi: Mölndalban, azon kívül is a semmi
 <p>Ez volt nagyjából az első két hét, nem tudok jó befejezést a posztnak.</p>
 
 <footer>
-    <a title="Permanent link to “Az első két hét a munkahelyen”" href="https://blog.ktamas.com/index.php/2013/10/19/az-elso-ket-het-a-munkahelyen/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Az első két hét a munkahelyen”" href="https://blog.ktamas.com/index.php/2013/10/19/az-elso-ket-het-a-munkahelyen/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/munka/">munka</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/%C3%A9nblog/'>énblog</a>, <a href='/tags/munka/'>munka</a>, <a href='/tags/sv%C3%A9dorsz%C3%A1g/'>svédország</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -85,16 +80,11 @@ Az új iroda tökmáshol van, mint a régi: Mölndalban, azon kívül is a semmi
 <p>Igen tudom kimaradt egy teljes augusztus blogolásilag, egyszer majd összeszedem magam.</p>
 
 <footer>
-    <a title="Permanent link to “Szolgálati közlemények: új munka és fogorvosturizmus”" href="https://blog.ktamas.com/index.php/2013/09/06/szolgalati-kozlemenyek-uj-munka-es-fogorvosturizmus/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Szolgálati közlemények: új munka és fogorvosturizmus”" href="https://blog.ktamas.com/index.php/2013/09/06/szolgalati-kozlemenyek-uj-munka-es-fogorvosturizmus/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/magyarorsz%C3%A1g/">magyarország</a></li>
-                <li><a href="https://blog.ktamas.com/tags/munka/">munka</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/%C3%A9nblog/'>énblog</a>, <a href='/tags/magyarorsz%C3%A1g/'>magyarország</a>, <a href='/tags/munka/'>munka</a>, <a href='/tags/sv%C3%A9dorsz%C3%A1g/'>svédország</a>
         </div>
 </footer>]]></content>
 	</entry>

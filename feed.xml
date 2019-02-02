@@ -6,7 +6,6 @@
 	<updated>2019-02-01T11:46:09Z</updated>
 	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/feed.xml"/>
 	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/"/>
-	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/feed.json"/>
 	<author>
 		<name>KTamas</name>
 		<uri>https://blog.ktamas.com/</uri>
@@ -65,16 +64,108 @@
 <p><em>This post was not sponsored by anyone, just in case some of it reads like an ad for Github or Netlify or whatever.</em></p>
 
 <footer>
-    <a title="Permanent link to “Converting My Blog To Hugo and Getting Rid of My VPS”" href="https://blog.ktamas.com/index.php/2019/02/01/converting-my-blog-to-hugo-and-getting-rid-of-my-vps/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Converting My Blog To Hugo and Getting Rid of My VPS”" href="https://blog.ktamas.com/index.php/2019/02/01/converting-my-blog-to-hugo-and-getting-rid-of-my-vps/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/meta/">meta</a></li>
-                <li><a href="https://blog.ktamas.com/tags/tech/">tech</a></li>
-                <li><a href="https://blog.ktamas.com/tags/hugo/">hugo</a></li>
-                <li><a href="https://blog.ktamas.com/tags/writetogether/">writetogether</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/meta/'>meta</a>, <a href='/tags/tech/'>tech</a>, <a href='/tags/hugo/'>hugo</a>, <a href='/tags/writetogether/'>writetogether</a>
+        </div>
+</footer>]]></content>
+	</entry>
+	<entry>
+		<id>https://blog.ktamas.com/index.php/2019/01/16/musings-on-turning-30/</id>
+		<title>Musings on Turning 30</title>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2019/01/16/musings-on-turning-30/"/>
+		<updated>2019-01-16T10:32:14Z</updated>
+		<published>2019-01-16T10:32:14Z</published>
+		<author>
+			<name>KTamas</name>
+			<uri>https://blog.ktamas.com/</uri>
+		</author>
+		<category scheme="https://blog.ktamas.com/tags" term="30" label="30"/>
+		<category scheme="https://blog.ktamas.com/tags" term="thoughts" label="thoughts"/>
+		<category scheme="https://blog.ktamas.com/tags" term="writetogether" label="writetogether"/>
+		<summary>Ten years ago I was working at a translation agency, being very enthusiastic about my job. I just started having a social life again after high school, finding real-life friends and community on Early Twitter, thanks to a Twitter client that auto-aggregated Hungarian users and connected them. (That’s a story worth telling in itself, another time)
+A lot has happened since then. I worked there for a few more years, then I moved to Sweden for four years and then moved back to Hungary.</summary>
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+<![CDATA[<p>Ten years ago I was working at a translation agency, being very enthusiastic about my job. I just started having a social life again after high school, finding real-life friends and community on Early Twitter, thanks to a Twitter client that auto-aggregated Hungarian users and connected them. (That&rsquo;s a story worth telling in itself, another time)</p>
+
+<p>A lot has happened since then. I worked there for a few more years, then I moved to Sweden for four years and then moved back to Hungary. Somewhere in the middle of that, I went freelance, which overall turned out to be a huge success. I started taking care of my mental health, getting diagnosed and re-diagnosed, finding a psychiatrist, did almost six years of therapy. I traveled a lot; I&rsquo;ve been to most European countries by now as well as two trips to the US, both because of I got to be part of XOXO, but I&rsquo;ve visited other parts of the States as well. I did a small pivot in my career that so far worked out well. I lost two out of my four grandparents. <a href="https://blog.ktamas.com/index.php/2019/01/15/in-memoriam-of-sharewood-my-own-little-content-sharing-community/">Built and ran a small link-sharing community</a>. Grown a lot personally and professionally. Discovered running, did that for a few years. Found and lost friends and communities.</p>
+
+<hr />
+
+<p>Right now I&rsquo;m in a pretty great place. I have well-paying clients and hopefully picking up more freelance work soon. I&rsquo;m part of a great church, one that I was looking for all my life. I have good friends, some old, some new. I&rsquo;ve started drawing a few months ago, and I enjoy it immensely. Yesterday, after years of procrastination, I finally found myself a personal trainer and will begin working with her next week. Although my sister is moving out of our place, a good friend is taking her place in the room next to mine. I&rsquo;m having a birthday party on Saturday where I&rsquo;ll cook for my friends. I feel at home where I am.</p>
+
+<hr />
+
+<p>Here&rsquo;s to an even better 40.</p>
+
+<p><em>This post originally appeared on <a href="https://writetogether.space/posts/5/musings-on-turning-30">WriteTogether</a>.</em></p>
+
+<footer>
+    <a title="Permanent link to “Musings on Turning 30”" href="https://blog.ktamas.com/index.php/2019/01/16/musings-on-turning-30/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+        <div class="tags">
+            <i class="fas fa-tags"></i>
+            <a href='/tags/30/'>30</a>, <a href='/tags/thoughts/'>thoughts</a>, <a href='/tags/writetogether/'>writetogether</a>
+        </div>
+</footer>]]></content>
+	</entry>
+	<entry>
+		<id>https://blog.ktamas.com/index.php/2019/01/15/in-memoriam-of-sharewood-my-own-little-content-sharing-community/</id>
+		<title>In Memoriam of Sharewood — My Own Little Content Sharing Community</title>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2019/01/15/in-memoriam-of-sharewood-my-own-little-content-sharing-community/"/>
+		<updated>2019-01-15T09:56:04Z</updated>
+		<published>2019-01-15T09:56:04Z</published>
+		<author>
+			<name>KTamas</name>
+			<uri>https://blog.ktamas.com/</uri>
+		</author>
+		<category scheme="https://blog.ktamas.com/tags" term="sharewood" label="sharewood"/>
+		<category scheme="https://blog.ktamas.com/tags" term="rss" label="rss"/>
+		<category scheme="https://blog.ktamas.com/tags" term="googlereader" label="googlereader"/>
+		<category scheme="https://blog.ktamas.com/tags" term="writetogether" label="writetogether"/>
+		<summary>This post was inspired by the Motherboard article, The Rise and Demise of RSS.
+It was early 2012 and Google Reader’s sharing function was taken from us, replaced with a useless, shitty “Share to Google+” button (Fuck you, Google). I’ve been using Reader since late 2005 and the sharing feature since it’s introduction; the notion that if I see something interesting on the internet I must share it with others was ingrained in me, forever.</summary>
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+<![CDATA[<p>This post was inspired by the Motherboard article, <a href="https://motherboard.vice.com/en_us/article/a3mm4z/the-rise-and-demise-of-rss">The Rise and Demise of RSS</a>.</p>
+
+<hr />
+
+<p>It was early 2012 and Google Reader&rsquo;s sharing function was taken from us, replaced with a useless, shitty &ldquo;Share to Google+&rdquo; button (Fuck you, Google). I&rsquo;ve been using Reader since late 2005 and the sharing feature since it&rsquo;s introduction; the notion that if I see something interesting on the internet <em>I must share it with others</em> was ingrained in me, forever.</p>
+
+<p>It started with conversations with friends, and we discovered that Posterous (RIP) had a decent bookmarklet one could use to grab content for sharing. So a few of us started content-sharing blogs (or linkblogs, if you will). Not long after, a friend suggested an idea: why don&rsquo;t we make our own content-sharing community? So we could use that for a back-end, all we need is a place where we aggregate all these blogs full of content.</p>
+
+<p>The name of software that is used to aggregate RSS feeds is <a href="https://en.wikipedia.org/wiki/Planet_(software)">Planet</a>. There were and still are many Planet sites, so I went looking for a suitable engine, but none of them were right until I stumbled upon the <a href="https://github.com/anildigital/planet">code</a> behind planetrubyonrails.com (RIP), written in, wait for it, Rails. I was already familiar with Rails, so <a href="https://github.com/ktamas/sharewood.hu">I forked it</a>, upgraded it to the latest version of Ruby on Rails, made a couple of changes and a basic design and by then I already had ten people interested, mostly from the old community at Reader.</p>
+
+<p>A cronjob crawled the people&rsquo;s feeds, pulled the content into the database, stripped most of the formatting and then displayed it on the site, which itself had an RSS feed of course. And so, in early 2012, <a href="http://goodbye.sharewood.hu/">Sharewood</a> (RIP) was born.</p>
+
+<hr />
+
+<p>Over the next year or so our community has grown a bit. At the height of it, we had about 16 people. That may not sound like a lot, but a community is a community. People were sharing all kinds of interesting things, and I felt like I got back at least part of what we lost when Google neutered Reader.</p>
+
+<p>The project was an opportunity for me as well to play with Rails; I ended up rewriting almost the entire codebase. I wrote a new RSS/Atom parser; tried to implement PuSH (<a href="https://en.wikipedia.org/wiki/WebSub">PubSubHubBub</a>); added support for user accounts, so people would be able to follow others and get a custom RSS feed. I added a few tweaks to the front-end as well, like j/k navigation.</p>
+
+<p>In early 2013 Google announced that they&rsquo;d shut down Reader and a flurry of new alternatives appeared. One of the most promising ones was Hivemined, one that would never be finished; the one I ended up switching to was <a href="https://newsblur.com/">NewsBlur</a> which I still use to this day. It&rsquo;s customizable, fast, has good support and UX. It also has built-in sharing and commenting support although it&rsquo;s not used widely. I tried switching to it, but never really got hooked on it, and I never had a community around it.</p>
+
+<hr />
+
+<p>I shut down Sharewood in 2014, having done only basic maintenance on it for a year by then, and I felt like it has run its course.</p>
+
+<p>My itch to share things is still very much present; I <a href="http://sharing.ktamas.com/">maintain a Tumblr blog</a> where I share things irregularly, mostly webcomics I like. I also retweet interesting and funny things a lot <a href="https://twitter.com/ktamas">on Twitter</a>. But I still don&rsquo;t have a central place with a community like in the good old days, if you will.</p>
+
+<p>I have no illusions; RSS will not make a comeback. Retweeting things and commenting on them or sharing things in private Slacks are as good as it gets right now.</p>
+
+<p>The itch is still there.</p>
+
+<p><em>This post originally appeared on WriteTogether in <a href="https://writetogether.space/posts/5/in-memoriam-of-sharewood-my-own-little-content-sharing-community-part-1-of-2">two</a> <a href="https://writetogether.space/posts/5/in-memoriam-of-sharewood-my-own-little-content-sharing-community-part-2-of-2">parts</a>.</em></p>
+
+<footer>
+    <a title="Permanent link to “In Memoriam of Sharewood — My Own Little Content Sharing Community”" href="https://blog.ktamas.com/index.php/2019/01/15/in-memoriam-of-sharewood-my-own-little-content-sharing-community/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+        <div class="tags">
+            <i class="fas fa-tags"></i>
+            <a href='/tags/sharewood/'>sharewood</a>, <a href='/tags/rss/'>rss</a>, <a href='/tags/googlereader/'>googlereader</a>, <a href='/tags/writetogether/'>writetogether</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -94,13 +185,11 @@
 <![CDATA[<p>I&rsquo;ll be writing <a href="https://writetogether.space/users/ktamas">daily posts on Write Together</a> for the foreseeable future. It&rsquo;s a blogging platform/writing community with the goal of writing and publishing at least 300 words, every day. Most of them will be cross-posted here, but some I write as a series of posts, and those may be re-edited and published here once I&rsquo;m done. If you&rsquo;re interested, you should follow me there.</p>
 
 <footer>
-    <a title="Permanent link to “Follow Me on WriteTogether”" href="https://blog.ktamas.com/index.php/2019/01/06/see-you-at-write-together/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Follow Me on WriteTogether”" href="https://blog.ktamas.com/index.php/2019/01/06/see-you-at-write-together/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/writetogether/">writetogether</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/writetogether/'>writetogether</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -136,18 +225,14 @@ Thing is, I have a blog, although I have not blogged regularly for years now. Th
 
 <p>P.S. Thinking in weeks is a very Swedish thing to do. In Sweden, everyone knows what week it is, and they frequently refer to them as in &ldquo;I&rsquo;m doing this on week X&rdquo; or &ldquo;I&rsquo;ll be on vacation between week Y and Z.&rdquo; If my memory serves me right, one of the most popular apps in the Swedish App Store for a long time was called &ldquo;Week Calendar&rdquo; until Apple added the option to display week numbers in Calendar. It drove me crazy for a long time, but I have to admit that it makes sense because it&rsquo;s a good unit of time. I&rsquo;ve been told the Germans do the same.</p>
 
-<p>This post originally appeared on <a href="https://writetogether.space/posts/5/on-blogging-journaling-evernote-todos-and-thinking-in-weeks">WriteTogether</a>.</p>
+<p><em>This post originally appeared on <a href="https://writetogether.space/posts/5/on-blogging-journaling-evernote-todos-and-thinking-in-weeks">WriteTogether</a>.</em></p>
 
 <footer>
-    <a title="Permanent link to “On Blogging, Journaling, Evernote, Todos and Thinking in Weeks”" href="https://blog.ktamas.com/index.php/2019/01/03/on-blogging-journaling-evernote-todos-and-thinking-in-weeks/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “On Blogging, Journaling, Evernote, Todos and Thinking in Weeks”" href="https://blog.ktamas.com/index.php/2019/01/03/on-blogging-journaling-evernote-todos-and-thinking-in-weeks/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/metablogging/">metablogging</a></li>
-                <li><a href="https://blog.ktamas.com/tags/adhd/">adhd</a></li>
-                <li><a href="https://blog.ktamas.com/tags/writetogether/">writetogether</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/metablogging/'>metablogging</a>, <a href='/tags/adhd/'>adhd</a>, <a href='/tags/writetogether/'>writetogether</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -187,18 +272,14 @@ Thing is, I have a blog, although I have not blogged regularly for years now. Th
 
 <p>What are yours?</p>
 
-<p>This post originally appeared on <a href="https://writetogether.space/posts/5/my-favorite-newsletters">WriteTogether</a>.</p>
+<p><em>This post originally appeared on <a href="https://writetogether.space/posts/5/my-favorite-newsletters">WriteTogether</a>.</em></p>
 
 <footer>
-    <a title="Permanent link to “My Favorite Newsletters”" href="https://blog.ktamas.com/index.php/2019/01/02/my-favorite-newsletters/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “My Favorite Newsletters”" href="https://blog.ktamas.com/index.php/2019/01/02/my-favorite-newsletters/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/recommendations/">recommendations</a></li>
-                <li><a href="https://blog.ktamas.com/tags/lists/">lists</a></li>
-                <li><a href="https://blog.ktamas.com/tags/writetogether/">writetogether</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/recommendations/'>recommendations</a>, <a href='/tags/lists/'>lists</a>, <a href='/tags/writetogether/'>writetogether</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -238,18 +319,14 @@ Android has come a long way, and in many ways, it’s a better fit for me than i
 
 <p>The moral of the story is that I have disposable income and I was bored. I am tempted to say that none of this stuff really matters but I spend a fair amount of time on my phone every day so&hellip; it kinda does for me.</p>
 
-<p>This post originally appeared on <a href="https://writetogether.space/posts/5/a-year-in-smartphones">WriteTogether</a>.</p>
+<p><em>This post originally appeared on <a href="https://writetogether.space/posts/5/a-year-in-smartphones">WriteTogether</a>.</em></p>
 
 <footer>
-    <a title="Permanent link to “A Year in Smartphones”" href="https://blog.ktamas.com/index.php/2019/01/01/a-year-in-smartphones/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “A Year in Smartphones”" href="https://blog.ktamas.com/index.php/2019/01/01/a-year-in-smartphones/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/tech/">tech</a></li>
-                <li><a href="https://blog.ktamas.com/tags/phones/">phones</a></li>
-                <li><a href="https://blog.ktamas.com/tags/writetogether/">writetogether</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/tech/'>tech</a>, <a href='/tags/phones/'>phones</a>, <a href='/tags/writetogether/'>writetogether</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -283,18 +360,14 @@ I binged on the first season Condor yesterday, and I have to say it was a pretty
 
 <p>Onwards to 2019!</p>
 
-<p>This post originally appeared on <a href="https://writetogether.space/posts/5/my-recent-media-diet-on-the-last-days-of-2018">WriteTogether</a>.</p>
+<p><em>This post originally appeared on <a href="https://writetogether.space/posts/5/my-recent-media-diet-on-the-last-days-of-2018">WriteTogether</a>.</em></p>
 
 <footer>
-    <a title="Permanent link to “My Recent Media Diet in the Last Days of 2018”" href="https://blog.ktamas.com/index.php/2018/12/31/my-recent-media-diet-on-the-last-days-of-2018/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “My Recent Media Diet in the Last Days of 2018”" href="https://blog.ktamas.com/index.php/2018/12/31/my-recent-media-diet-on-the-last-days-of-2018/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/thoughts/">thoughts</a></li>
-                <li><a href="https://blog.ktamas.com/tags/mediadiet/">mediadiet</a></li>
-                <li><a href="https://blog.ktamas.com/tags/writetogether/">writetogether</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/thoughts/'>thoughts</a>, <a href='/tags/mediadiet/'>mediadiet</a>, <a href='/tags/writetogether/'>writetogether</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -330,18 +403,14 @@ Since February I have essentially a very well-paid half-time job at a small but 
 
 <p>Hey look, 300 words!</p>
 
-<p>This post originally appeared on <a href="https://writetogether.space/posts/ktamas/a-recap-of-2018-and-what-to-come-in-2019">WriteTogether</a>.</p>
+<p><em>This post originally appeared on <a href="https://writetogether.space/posts/ktamas/a-recap-of-2018-and-what-to-come-in-2019">WriteTogether</a>.</em></p>
 
 <footer>
-    <a title="Permanent link to “A Recap of 2018 and What&#39;s to Come in 2019”" href="https://blog.ktamas.com/index.php/2018/12/30/a-recap-of-2018-and-what-to-come-in-2019/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “A Recap of 2018 and What&#39;s to Come in 2019”" href="https://blog.ktamas.com/index.php/2018/12/30/a-recap-of-2018-and-what-to-come-in-2019/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/thoughts/">thoughts</a></li>
-                <li><a href="https://blog.ktamas.com/tags/recaps/">recaps</a></li>
-                <li><a href="https://blog.ktamas.com/tags/writetogether/">writetogether</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/thoughts/'>thoughts</a>, <a href='/tags/recaps/'>recaps</a>, <a href='/tags/writetogether/'>writetogether</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -363,8 +432,8 @@ Tovább igyekszek fejlődni kontentmegosztásban, így indítottam egy tinylette
 <p>Tovább igyekszek fejlődni kontentmegosztásban, így indítottam egy tinylettert, amire <a href="http://tinyletter.com/ktamas">itt lehet feliratkozni</a>. A legelső level ízelítőnek <a href="http://tinyletter.com/KTamas/letters/sharing-anxiety">itt található</a>. Iratkozzatok fel, jó lesz.</p>
 
 <footer>
-    <a title="Permanent link to “Please Subscribe”" href="https://blog.ktamas.com/index.php/2017/09/07/please-subscribe/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Please Subscribe”" href="https://blog.ktamas.com/index.php/2017/09/07/please-subscribe/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
 </footer>]]></content>
 	</entry>
 	<entry>
@@ -385,8 +454,8 @@ Csak annyi, hogy ide osztok meg a továbbiakban dolgokat, mert kell.</summary>
 <p>Csak annyi, hogy <a href="http://sharing.ktamas.com">ide osztok meg</a> a továbbiakban dolgokat, mert kell.</p>
 
 <footer>
-    <a title="Permanent link to “Google Reader rewired my brain, sorry not sorry”" href="https://blog.ktamas.com/index.php/2016/11/06/google-reader-rewired-my-brain-sorry-not-sorry/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Google Reader rewired my brain, sorry not sorry”" href="https://blog.ktamas.com/index.php/2016/11/06/google-reader-rewired-my-brain-sorry-not-sorry/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
 </footer>]]></content>
 	</entry>
 	<entry>
@@ -420,8 +489,8 @@ Csak annyi, hogy ide osztok meg a továbbiakban dolgokat, mert kell.</summary>
 <p>(<a href="http://blog.ktamas.com/index.php/2015/10/26/55000/">55000</a>. <a href="http://blog.ktamas.com/index.php/2014/03/03/50000-amelyben-egy-kicsit-megfulladunk-a-nosztalgiaban/">50000</a>. <a href="http://blog.ktamas.com/index.php/2013/02/09/45000/">45000</a>. <a href="http://blog.ktamas.com/index.php/2012/06/25/40000/">40000</a>. <a href="http://blog.ktamas.com/index.php/2011/12/09/35000/">35000</a>. <a href="http://blog.ktamas.com/index.php/2011/05/26/30k/">30000</a>. <a href="http://blog.ktamas.com/index.php/2010/10/17/25000_2/">25000</a>.)</p>
 
 <footer>
-    <a title="Permanent link to “60000”" href="https://blog.ktamas.com/index.php/2016/09/19/60000/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “60000”" href="https://blog.ktamas.com/index.php/2016/09/19/60000/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
 </footer>]]></content>
 	</entry>
 	<entry>
@@ -451,13 +520,11 @@ Ki akar holnap tuntetni menni velem?</summary>
 <p><a href="https://gazs.tumblr.com/post/145845835859/newnewromantic-thewickedandthehufflepuff">Ezen nevetek mostmar egy hete</a></p>
 
 <footer>
-    <a title="Permanent link to “Linkblog: 2016-06-23”" href="https://blog.ktamas.com/index.php/2016/06/23/linkblog-2016-06-23/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Linkblog: 2016-06-23”" href="https://blog.ktamas.com/index.php/2016/06/23/linkblog-2016-06-23/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/linkblog/">linkblog</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/linkblog/'>linkblog</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -503,13 +570,11 @@ the trouble with getting married when you are already old.</summary>
 <p>Van az a video, amiben az izlandi kommentator extazisban orul a 2-1-nek, ezt nem tudom ugy megnezni otodszorre se, hogy ne vigyorogjak kozben, mostmar van hozza forditas is.</p>
 
 <footer>
-    <a title="Permanent link to “Linkblog: 2016-06-22(ish)”" href="https://blog.ktamas.com/index.php/2016/06/23/linkblog-2016-06-22ish/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Linkblog: 2016-06-22(ish)”" href="https://blog.ktamas.com/index.php/2016/06/23/linkblog-2016-06-22ish/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/linkblog/">linkblog</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/linkblog/'>linkblog</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -533,8 +598,8 @@ Az együttest egy amerikai ismerősom mutatta két adventtel ezelőtt, és már 
 <p><iframe src="https://embed.spotify.com/?uri=spotify%3Aalbum%3A29yIEQA75imCKUcG4aHORW" width="300" height="380" frameborder="0"></iframe></p>
 
 <footer>
-    <a title="Permanent link to “Future of Forestry &amp;#8211; Advent Christmas EP”" href="https://blog.ktamas.com/index.php/2015/11/25/future-of-forestry-advent-christmas-ep/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Future of Forestry &amp;#8211; Advent Christmas EP”" href="https://blog.ktamas.com/index.php/2015/11/25/future-of-forestry-advent-christmas-ep/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
 </footer>]]></content>
 	</entry>
 	<entry>
@@ -560,8 +625,8 @@ Mást pedig most nem tudok hirtelen írni, pedig sokat gondolkoztam, mit lehetne
 <p>(<a href="http://blog.ktamas.com/index.php/2014/03/03/50000-amelyben-egy-kicsit-megfulladunk-a-nosztalgiaban/">50000</a>. <a href="http://blog.ktamas.com/index.php/2013/02/09/45000/">45000</a>. <a href="http://blog.ktamas.com/index.php/2012/06/25/40000/">40000</a>. <a href="http://blog.ktamas.com/index.php/2011/12/09/35000/">35000</a>. <a href="http://blog.ktamas.com/index.php/2011/05/26/30k/">30000</a>. <a href="http://blog.ktamas.com/index.php/2010/10/17/25000_2/">25000</a>.)</p>
 
 <footer>
-    <a title="Permanent link to “55000”" href="https://blog.ktamas.com/index.php/2015/10/26/55000/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “55000”" href="https://blog.ktamas.com/index.php/2015/10/26/55000/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
 </footer>]]></content>
 	</entry>
 	<entry>
@@ -617,16 +682,11 @@ Mást pedig most nem tudok hirtelen írni, pedig sokat gondolkoztam, mit lehetne
 <p>Eventually.</p>
 
 <footer>
-    <a title="Permanent link to “Mid-year status update”" href="https://blog.ktamas.com/index.php/2015/06/24/mid-year-status-update/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Mid-year status update”" href="https://blog.ktamas.com/index.php/2015/06/24/mid-year-status-update/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/2015/">2015</a></li>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/">fotózás</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/2015/'>2015</a>, <a href='/tags/%C3%A9nblog/'>énblog</a>, <a href='/tags/fot%C3%B3z%C3%A1s/'>fotózás</a>, <a href='/tags/sv%C3%A9dorsz%C3%A1g/'>svédország</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -651,14 +711,11 @@ Mást pedig most nem tudok hirtelen írni, pedig sokat gondolkoztam, mit lehetne
 <p>And I have to say, Ukrainian is a lot more interesting out of these two, although I guess I could not get away learning it without learning Russian too. It&#8217;s a good package deal.</p>
 
 <footer>
-    <a title="Permanent link to “Однієї мови ніколи не досить”" href="https://blog.ktamas.com/index.php/2015/02/19/%d0%be%d0%b4%d0%bd%d1%96%d1%94%d1%97-%d0%bc%d0%be%d0%b2%d0%b8-%d0%bd%d1%96%d0%ba%d0%be%d0%bb%d0%b8-%d0%bd%d0%b5-%d0%b4%d0%be%d1%81%d0%b8%d1%82%d1%8c/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Однієї мови ніколи не досить”" href="https://blog.ktamas.com/index.php/2015/02/19/%d0%be%d0%b4%d0%bd%d1%96%d1%94%d1%97-%d0%bc%d0%be%d0%b2%d0%b8-%d0%bd%d1%96%d0%ba%d0%be%d0%bb%d0%b8-%d0%bd%d0%b5-%d0%b4%d0%be%d1%81%d0%b8%d1%82%d1%8c/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/2015/">2015</a></li>
-                <li><a href="https://blog.ktamas.com/tags/ontheroad/">ontheroad</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/2015/'>2015</a>, <a href='/tags/ontheroad/'>ontheroad</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -710,14 +767,11 @@ Alex and Artem greeted me and picked me up, then we drove to Artem’s place whe
 <p>I took a lot of pictures which you can find <a href="https://www.dropbox.com/sh/nnrrugb8tm6f9am/AABDsaGmN19OCrZTN0YXBtNHa?dl=0">here</a> and <a href="https://www.dropbox.com/sh/20ahur6bbgi250a/AAC9wbWK3AZ3AdY1uatNhFh1a?dl=0">here</a>.</p>
 
 <footer>
-    <a title="Permanent link to “Kiev, day 1 and 2”" href="https://blog.ktamas.com/index.php/2015/02/13/kiev-day-1-and-2/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Kiev, day 1 and 2”" href="https://blog.ktamas.com/index.php/2015/02/13/kiev-day-1-and-2/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/2015/">2015</a></li>
-                <li><a href="https://blog.ktamas.com/tags/ontheroad/">ontheroad</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/2015/'>2015</a>, <a href='/tags/ontheroad/'>ontheroad</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -744,14 +798,11 @@ Alex and Artem greeted me and picked me up, then we drove to Artem’s place whe
 <iframe src="https://embed.spotify.com/?uri=spotify:track:5BXj1QDRU77J1ngVavG1tI" width="300" height="380" frameborder="0"></iframe>
 
 <footer>
-    <a title="Permanent link to “Kýrie, eléison, down the road that I must travel”" href="https://blog.ktamas.com/index.php/2015/01/27/kyrie-eleison-down-the-road-that-i-must-travel/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Kýrie, eléison, down the road that I must travel”" href="https://blog.ktamas.com/index.php/2015/01/27/kyrie-eleison-down-the-road-that-i-must-travel/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/2015/">2015</a></li>
-                <li><a href="https://blog.ktamas.com/tags/ontheroad/">ontheroad</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/2015/'>2015</a>, <a href='/tags/ontheroad/'>ontheroad</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -778,14 +829,11 @@ Alex and Artem greeted me and picked me up, then we drove to Artem’s place whe
 <p><iframe src="https://embed.spotify.com/?uri=spotify:track:5gBYveQNXKWqyrdQNsxSVX" width="300" height="380" frameborder="0"></iframe></p>
 
 <footer>
-    <a title="Permanent link to “Gaudete redux és remix”" href="https://blog.ktamas.com/index.php/2014/12/16/gaudete-redux-es-remix/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Gaudete redux és remix”" href="https://blog.ktamas.com/index.php/2014/12/16/gaudete-redux-es-remix/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/napiloop/">napiloop</a></li>
-                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/napiloop/'>napiloop</a>, <a href='/tags/zene/'>zene</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -807,13 +855,11 @@ Alex and Artem greeted me and picked me up, then we drove to Artem’s place whe
 <p><iframe src="https://embed.spotify.com/?uri=spotify:user:1192510220:playlist:4ut7gK7MlyBbCE4jofPORU" width="300" height="380" frameborder="0"></iframe></p>
 
 <footer>
-    <a title="Permanent link to “Napi playlist: felcsatolható”" href="https://blog.ktamas.com/index.php/2014/09/12/napi-playlist-felcsatolhato/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Napi playlist: felcsatolható”" href="https://blog.ktamas.com/index.php/2014/09/12/napi-playlist-felcsatolhato/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/zene/'>zene</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -837,15 +883,11 @@ Alex and Artem greeted me and picked me up, then we drove to Artem’s place whe
 <p><iframe src="https://embed.spotify.com/?uri=spotify:user:ktamas:playlist:4Uutv2qD2OAneeJrDZgjzV" width="300" height="380" frameborder="0"></iframe></p>
 
 <footer>
-    <a title="Permanent link to “Napi loopok és Svédzene: Kobojsarna”" href="https://blog.ktamas.com/index.php/2014/06/07/napi-loopok-es-svedzene-kobojsarna/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Napi loopok és Svédzene: Kobojsarna”" href="https://blog.ktamas.com/index.php/2014/06/07/napi-loopok-es-svedzene-kobojsarna/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/napiloop/">napiloop</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dzene/">svédzene</a></li>
-                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/napiloop/'>napiloop</a>, <a href='/tags/sv%C3%A9dzene/'>svédzene</a>, <a href='/tags/zene/'>zene</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -887,13 +929,11 @@ Alex and Artem greeted me and picked me up, then we drove to Artem’s place whe
 <p>Most épp ezek vannak.</p>
 
 <footer>
-    <a title="Permanent link to “Materiális dolgokról”" href="https://blog.ktamas.com/index.php/2014/05/19/materialis-dolgokrol/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Materiális dolgokról”" href="https://blog.ktamas.com/index.php/2014/05/19/materialis-dolgokrol/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9n/">én</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/%C3%A9n/'>én</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -921,13 +961,11 @@ Nem fogok most hosszas nosztalgiás összefoglalóposztot írni, azok ott vannak
 <p>Illetve itt és mégegyszer köszi mindenkinek a bátorítást, részvételt, mindent.</p>
 
 <footer>
-    <a title="Permanent link to “Bezár a Sharewood”" href="https://blog.ktamas.com/index.php/2014/05/12/bezar-a-sharewood/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Bezár a Sharewood”" href="https://blog.ktamas.com/index.php/2014/05/12/bezar-a-sharewood/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/sharewood/">sharewood</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/sharewood/'>sharewood</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -953,13 +991,11 @@ Love on the March. A melegjogok története Amerikában, egészen 2012 November�
 <p><a href="http://www.newyorker.com/reporting/2012/11/12/121112fa_fact_ross?currentPage=all">Love on the March</a>. A melegjogok története Amerikában, egészen 2012 Novemberéig, hasznos olvasmány. Azóta eltelt viszont másfél év, már nincs <a href="http://en.wikipedia.org/wiki/Defense_of_Marriage_Act">DOMA</a> például, meg sok egyéb dolog is történt.</p>
 
 <footer>
-    <a title="Permanent link to “Napi olvasnivaló: A ruhák színeiről, az olvasásról és a melegjogokról”" href="https://blog.ktamas.com/index.php/2014/05/11/napi-olvasnivalo-a-ruhak-szineirol-az-olvasasrol-es-a-melegjogokrol/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Napi olvasnivaló: A ruhák színeiről, az olvasásról és a melegjogokról”" href="https://blog.ktamas.com/index.php/2014/05/11/napi-olvasnivalo-a-ruhak-szineirol-az-olvasasrol-es-a-melegjogokrol/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/olvas%C3%A1s/">olvasás</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/olvas%C3%A1s/'>olvasás</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -1015,15 +1051,11 @@ Este elfogy az internet. Tudtuk, hogy ez a pillanat el fog jönni valamikor, ami
 <p><iframe src="//www.youtube.com/embed/gqDvLeG1pgU?rel=0" width="640" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 
 <footer>
-    <a title="Permanent link to “Internet, LOL, Internet / DSL und World Wide Web (2014-03-24)”" href="https://blog.ktamas.com/index.php/2014/05/10/internet-lol-internet-dsl-und-world-wide-web-2014-03-24/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Internet, LOL, Internet / DSL und World Wide Web (2014-03-24)”" href="https://blog.ktamas.com/index.php/2014/05/10/internet-lol-internet-dsl-und-world-wide-web-2014-03-24/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9n/">én</a></li>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/%C3%A9n/'>én</a>, <a href='/tags/%C3%A9nblog/'>énblog</a>, <a href='/tags/sv%C3%A9dorsz%C3%A1g/'>svédország</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -1047,14 +1079,11 @@ Szeretnék itt és most ujjal mutogatva kiröhögni korábbi énmagamat, aki az 
 <p>Szeretnék itt és most ujjal mutogatva kiröhögni korábbi énmagamat, aki az elmúlt években arra panaszkodott néha, hogy nincs elég ideje dolgokra, mert az az ember nem tudott semmit arról, amikor az embernek hirtelen tényleg elkezd sok dolga és kevés ideje lenni. Aztán lehet, hogy évek múlva a mostani időszakra fogok ugyanígy visszanézni&#8230;</p>
 
 <footer>
-    <a title="Permanent link to “A prioritásokról és az időről (2014-01-24)”" href="https://blog.ktamas.com/index.php/2014/05/09/a-prioritasokrol-es-az-idorol-2014-01-24/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “A prioritásokról és az időről (2014-01-24)”" href="https://blog.ktamas.com/index.php/2014/05/09/a-prioritasokrol-es-az-idorol-2014-01-24/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/%C3%A9nblog/'>énblog</a>, <a href='/tags/sv%C3%A9dorsz%C3%A1g/'>svédország</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -1084,14 +1113,11 @@ Fent és lent, ez megy mostanában. Sokáig úgy gondoltam, hogy akkor nem blogo
 <p>Azt néztem pár napja, hogy több, mint egy év telt el azóta az email óta, ami úgy igazán elindította a folyamatot, hogy ideköltözzek.</p>
 
 <footer>
-    <a title="Permanent link to “Státusz (2013-12-12)”" href="https://blog.ktamas.com/index.php/2014/05/08/statusz-2013-12-12/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Státusz (2013-12-12)”" href="https://blog.ktamas.com/index.php/2014/05/08/statusz-2013-12-12/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/%C3%A9nblog/'>énblog</a>, <a href='/tags/sv%C3%A9dorsz%C3%A1g/'>svédország</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -1121,14 +1147,11 @@ Elkezdtem naplót írni. Papíron, tollal, mint az állatok. Mostmár két hóna
 <p>A munkámban belefutottam egy olyan laptopba, ami olyan szinten és olyan furcsán volt elromolva, amit még sose láttam. Leginkább nem volt hajlandó semmiról bebootolni, csak merevlemezről, aztán mikor elkezdtem azt piszkálni kicsit, már onnan se.</p>
 
 <footer>
-    <a title="Permanent link to “A naplózásról, jegyzetelésről, moleskineről (Augusztusi összefoglaló) (2013-09-28)”" href="https://blog.ktamas.com/index.php/2014/05/07/a-naplozasrol-jegyzetelesrol-moleskinerol-augusztus-recap-2013-09-28/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “A naplózásról, jegyzetelésről, moleskineről (Augusztusi összefoglaló) (2013-09-28)”" href="https://blog.ktamas.com/index.php/2014/05/07/a-naplozasrol-jegyzetelesrol-moleskinerol-augusztus-recap-2013-09-28/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/%C3%A9nblog/'>énblog</a>, <a href='/tags/sv%C3%A9dorsz%C3%A1g/'>svédország</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -1184,14 +1207,11 @@ KT: a melora gondolsz? v mi?</summary>
 <p>Kelt: erről írhatnál :)</p>
 
 <footer>
-    <a title="Permanent link to “Hálás vagyok (2013-04-23)”" href="https://blog.ktamas.com/index.php/2014/05/06/halas-vagyok-2013-04-23/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Hálás vagyok (2013-04-23)”" href="https://blog.ktamas.com/index.php/2014/05/06/halas-vagyok-2013-04-23/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/%C3%A9nblog/'>énblog</a>, <a href='/tags/sv%C3%A9dorsz%C3%A1g/'>svédország</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -1219,94 +1239,12 @@ KT: a melora gondolsz? v mi?</summary>
 <p>Természetesen nem minden rózsaszín, ennyi idő után már kicsit árnyaltabban látom a dolgokat,</p>
 
 <footer>
-    <a title="Permanent link to “77 nap után (2013-04-19)”" href="https://blog.ktamas.com/index.php/2014/05/05/recap-episode-2013-04-19/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “77 nap után (2013-04-19)”" href="https://blog.ktamas.com/index.php/2014/05/05/recap-episode-2013-04-19/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/%C3%A9nblog/'>énblog</a>, <a href='/tags/sv%C3%A9dorsz%C3%A1g/'>svédország</a>
         </div>
-</footer>]]></content>
-	</entry>
-	<entry>
-		<id>https://blog.ktamas.com/index.php/2014/05/04/szamvetes-szombat-2013-02-28/</id>
-		<title>Számvetés szombat (2013-02-28)</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2014/05/04/szamvetes-szombat-2013-02-28/"/>
-		<updated>2014-05-04T09:14:07Z</updated>
-		<published>2014-05-04T09:14:07Z</published>
-		<author>
-			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
-		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="%C3%A9nblog" label="énblog"/>
-		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dorsz%C3%A1g" label="svédország"/>
-		<summary>_(Ezt a posztot több, mint egy éve írtam eredetileg, elkezdem kitakarítani a draft mappámat a cult of done jegyében. Még csak egy hónapja laktam Svédországban, a kultúrsokknak bőven a mézesheteiben. A svédek továbbra se sietnek sehova. A posztnak nincs vége, ez van.)_
-Eltelt egy teljes február, több mint egy hónapja vagyok itt, kicsit ijesztő belegondolni, mennyi minden történt egy bő hónap alatt. Január 29-én hajnalban érkeztem meg, volt pár napom akklimatizálódni, és február 1-én már kezdtem is az új munkahelyemen, ahol úgy érzem, elég sok dolgot sikerült elérni egy hónap alatt.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
-<![CDATA[<p>_(Ezt a posztot több, mint egy éve írtam eredetileg, elkezdem kitakarítani a draft mappámat a <a href="http://www.brepettis.com/blog/2009/3/3/the-cult-of-done-manifesto.html">cult of done</a> jegyében. Még csak egy hónapja laktam Svédországban, <a href="http://en.wikipedia.org/wiki/Culture_shock">a kultúrsokknak bőven a mézesheteiben</a>. A svédek továbbra se sietnek sehova. A posztnak nincs vége, ez van.)_</p>
-
-<p>Eltelt egy teljes február, több mint egy hónapja vagyok itt, kicsit ijesztő belegondolni, mennyi minden történt egy bő hónap alatt. Január 29-én hajnalban érkeztem meg, volt pár napom akklimatizálódni, és február 1-én már kezdtem is az új munkahelyemen, ahol úgy érzem, elég sok dolgot sikerült elérni egy hónap alatt. De leginkább nagyon sokat tanultam.</p>
-
-<p>A svédek nem sietnek, és ez meglátszik a mindennapokon. Elsőre nagyon furcsa volt az hatalmas nyugi, vagy inkább stresszmentesség: persze ebbe durván belejátszik a kultúrsokk, és az, hogy hirtelen itt álltam, majdnem tiszta lappal, kötelezettségek nélkül. Ezért is érezhettem annyira lassúnak az idő telését az első hetekben: ez mostanra kezd normalizálódni, a hetek elkezdtek gyorsabban telni, az élet kezd beállni.</p>
-
-<p>Hatalmas fórral kezdek, mert rögtön egy olyan munkahelyre kerültem, ahol fantasztikus kollégáim vannak, akik egyenesen vártak, befogadtak, értékelnek (nem mintha ez nem lett volna igaz az előzőre). Emellett munkaügyileg is lekerült rólam egy csomó stressz: itt tényleg az van, hogy bemegyek nyolcra, és hazamegyek négykor, ez a normális, a legtöbben ugyanezt csinálják. Ez nem jelenti azt, hogy bárki lazsálna: kemény munka folyik, ugyanakkor, lásd feljebb, a svédek nem sietnek sehova. Persze vannak határidők, vannak néha túlórák embereknek, de összességében nyugi van. A munkahelyi légkör kiváló, alapvetően felszabadult, és nem áll össze ez a poszt, folytatjuk hétvégén</p>
-
-<footer>
-    <a title="Permanent link to “Számvetés szombat (2013-02-28)”" href="https://blog.ktamas.com/index.php/2014/05/04/szamvetes-szombat-2013-02-28/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
-        <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
-            </ul>
-        </div>
-</footer>]]></content>
-	</entry>
-	<entry>
-		<id>https://blog.ktamas.com/index.php/2014/05/03/slashdot-interjuk-2000/</id>
-		<title>Slashdot interjúk: 2000</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2014/05/03/slashdot-interjuk-2000/"/>
-		<updated>2014-05-03T09:06:39Z</updated>
-		<published>2014-05-03T09:06:39Z</published>
-		<author>
-			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
-		</author>
-		<summary>(Ezt a posztot több, mint két éve írtam eredetileg, gondoltam elkezdem kitakarítani a draft mappámat a cult of done jegyében. Csak két évet írtam meg, de az is több a semminél, valamint az egész szerintem tök érdekes. Eredetileg tán a Kalcsán jelent volna meg.)
-Elkezdődött tehát a 2000-es év, és ahogy az előző években a Y2K kapcsán többen megjegyezték, január elsején leálltak a bankok, eljött az apokalipszis és megtörtént az elragadtatás.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
-<![CDATA[<p><em>(Ezt a posztot több, mint két éve írtam eredetileg, gondoltam elkezdem kitakarítani a draft mappámat a <a href="http://www.brepettis.com/blog/2009/3/3/the-cult-of-done-manifesto.html">cult of done</a> jegyében. Csak két évet írtam meg, de az is több a semminél, valamint az egész szerintem tök érdekes. Eredetileg tán a Kalcsán jelent volna meg.)</em></p>
-
-<p>Elkezdődött tehát a 2000-es év, és ahogy az előző években a Y2K kapcsán többen megjegyezték, január elsején leálltak a bankok, eljött az apokalipszis és megtörtént az elragadtatás.</p>
-
-<p>Míg 1999-ben csak kb. 4 hónapnyi interjút kellett feldolgozni, itt rögtön egy egész évet, és ahogy haladunk előre az időben, úgy lesz egyre nehezebb válogatni: így, bár valószínű nem kell külön mondani, ez a lista egyre szubjektívebb lesz.</p>
-
-<p><a href="http://interviews.slashdot.org/story/00/01/21/0856206/interview-corel-ceo-michael-cowpland-answers">Corel CEO Michael Cowpland</a>. Tudtátok, hogy a Corelnek volt pár évig egy <a href="http://en.wikipedia.org/wiki/Corel_Linux">Debian-alapú desktoplinuxa</a>? Sőt, aktívan dolgoztak a szoftvereik ezen platformra portolásán is, eléggé felemás módon, mert mind a WordPerfect, mind a CorelDRAW utolsó linuxos verziója Wine alatt futott, és emiatt komoly problémák voltak vele.</p>
-
-<p><a href="http://yro.slashdot.org/story/00/02/04/1133241/jon-johansens-answers-to-your-decss-questions">DVD Jon</a>. Ő írta a híres DeCSS programot, ami lerántotta a DVD-kről a <del>DRM-et</del> másolásvédelmet, hogy le lehessen játszani őket Linuxon, merthogy addig Hollywood nem nagyon akart kiadni lejátszóprogramot arra a platformra. Persze azonnal beperelték, <a href="http://en.wikipedia.org/wiki/Dvd_jon#The_DeCSS_prosecution">de sikertelenül</a>, bár négy évig húzódott az ügy. Érdemes megjegyezni, hogy a DRM egyszer sem hangzik el az interjúba, csak a másolásvédelem; a kifejezés a 00-es években lett népszerű.</p>
-
-<p><a href="http://tech.slashdot.org/story/00/04/27/107235/philip-greenspun-answers">Philip Greenspun</a>. Bajban vagyok, mert ő egy külön posztot érdemelne minimum, de azért megpróbálom pár mondatban összefoglalni a csókát. 1993-ban megalapította a <a href="http://photo.net">photo.net</a>-et (ami azóta is él és virul, bár már pár éve túladott rajta), valamint ő volt az egyik alapítója az ArsDigitának (ami sajnos <a href="http://waxy.org/random/arsdigita/">szomorú véget ért</a> nem sokkal az interjú után). A kérdések többsége viszont két másik projektjéről, az <a href="http://en.wikipedia.org/wiki/ArsDigita_University">ArsDigita University</a> és a <a href="http://philip.greenspun.com/samantha/">Travels with Samanthá</a>ról szólnak. Greenspun az utóbbi időkben rákapott a repülésre és a helikopterekre, valamint <a href="http://blogs.law.harvard.edu/philg/">blogol</a>, rendkívül jól. Böngésszétek a <a href="http://en.wikipedia.org/wiki/Philip_Greenspun">wikioldalát</a> is, megéri.</p>
-
-<p><a href="http://tech.slashdot.org/story/00/05/05/0713234/sco-answers-questions-about-linux">SCO</a>. Az SCO leginkább a <a href="http://en.wikipedia.org/wiki/SCO_Group#SCO-Linux_lawsuits_and_controversies">Linux elleni perek</a> miatt hírhedt, de 2000-ben még rendkívül jó barátságban álltak, bár az SCO nagyban nyomta a saját Unixát is mellette. További érdekességek: amikor még a 64-bit az Itaniumról szólt.</p>
-
-<p><a href="http://entertainment.slashdot.org/story/00/06/21/1217242/douglas-adams-answers-finally">Douglas Adams</a> és <a href="http://apple.slashdot.org/story/00/01/07/1124211/interview-steve-wozniak-unbound">Woz</a>. Kérdések?</p>
-
-<p><a href="http://linux.slashdot.org/story/00/01/01/139238/interview-a-new-linux-year-with-jon-maddog-hall">Jon &#8220;maddog&#8221; Hall</a>. Őslinuxos, beszél a platform jövőjéről, felmerül a GNU HURD <del>Nukem Forever</del>, házisörök, és hogy honnan szerezte a nickjét.</p>
-
-<p><a href="http://news.slashdot.org/story/00/11/01/1133258/help-bush-and-gore-answer-slashdot-questions">Help Bush and Gore Answer Slashdot Questions</a>. Amikor az elnökválasztás idején a két fő versenyző tojt válaszolni a kérdésekre, megkérdezték a kommentelőket, hogy ők mit válaszolnának. Remek thread, érdemes végigolvasni, én percek óta röhögök rajtuk.</p>
-
-<p><a href="http://news.slashdot.org/story/00/02/19/0932207/al-gores-webmaster-answers-your-questions">Al Gore&#8217;s Webmaster</a>. Hónapokkal korábban válaszolt azonban a kampány internetes részéért felelős ember. Gore már 2000-ben több, mint 100000 fős netes közösséget alakított ki, és úgy egyébként is próbáltak erős internetes kampányt folytatni, pedig akkor még csak Web 1.0 volt.</p>
-
-<p><a href="http://developers.slashdot.org/story/00/02/25/1034222/c-answers-from-bjarne-stroustrup">Bjarne Stroustrup</a>. A C++ atyja, természetesen a nyelvről beszél, megcáfol egy csomó tévhitet, és úgy általában nagyon lelkesen beszél a saját nyelvéről, persze az volna a furcsa, ha nem így tenné.</p>
-
-<p><a href="http://interviews.slashdot.org/index2.pl?section=39&amp;color=green&amp;index=1&amp;view=stories&amp;duration=-1&amp;startdate=2000">Itt</a> kezdődik a 2000-es archívum, aki további interjúkra kiváncsi. <del datetime="2014-04-30T07:06:21+00:00">Folytatjuk&#8230;</del></p>
-
-<footer>
-    <a title="Permanent link to “Slashdot interjúk: 2000”" href="https://blog.ktamas.com/index.php/2014/05/03/slashdot-interjuk-2000/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
 </footer>]]></content>
 	</entry>
 </feed>

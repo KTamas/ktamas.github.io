@@ -8,6 +8,7 @@
 	<meta name="description" content="Bringing you irregular content since 2009. By KTamas." />
 	<meta name="author" content="KTamas" />
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto" rel="stylesheet">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 	<link rel="stylesheet" href="/css/screen.css" />
 	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
 	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
@@ -32,7 +33,6 @@
 	<div id="container">
 		<header>
 			<hgroup class="top">
-				
 				<h1><a href="/">KTamas&#39; Blog</a></h1>
 				<h2>Remember kids, if Internet Explorer is brave enough to ask to be your default browser, you&#39;re brave enough to ask that girl out.</h2>
 			</hgroup>
@@ -41,9 +41,9 @@
 					<li><a href="/about/" title="About KTamas&#39; Blog">About</a></li>
 					<li><a href="/archive/" title="KTamas&#39; Blog Archives">Archives</a></li>
 					<li><a href="/tags/" title="KTamas&#39; Blog Tags">Tags</a></li>
-					<li class="icon"><a href="//twitter.com/ktamas" title="@ktamas on Twitter"><i class="fa fa-twitter"></i></a></li>
-					<li class="icon"><a href="//github.com/ktamas" title="@ktamas on GitHub"><i class="fa fa-github"></i></a></li>
-					<li class="icon"><a href="http://feeds.feedburner.com/KTamasBlog" title="Subscribe to KTamas&#39; Blog"><i class="fa fa-rss"></i></a></li>
+					<li class="icon"><a href="//twitter.com/ktamas" title="@ktamas on Twitter"><i class="fab fa-twitter"></i></a></li>
+					<li class="icon"><a href="//github.com/ktamas" title="@ktamas on GitHub"><i class="fab fa-github"></i></a></li>
+					<li class="icon"><a href="http://feeds.feedburner.com/KTamasBlog" title="Subscribe to KTamas&#39; Blog"><i class="fas fa-rss"></i></a></li>
 				</menu>
 			</nav>
 		</header>
@@ -52,9 +52,77 @@
 		
 		    <article class="post">
         <header>
+            <h1 class="post"><a href="/index.php/2013/05/14/all-good-things-rukkola-bookmarklet-vegallomas/">All good things (Rukkola bookmarklet, végállomás)</a></h1>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2013/05/14/all-good-things-rukkola-bookmarklet-vegallomas/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2013-05-14T08:55:13Z">Tuesday, May 14, 2013</time> · 374 words · 2 min read</div>
+        </header>
+        <div class="text">
+
+<p><strong>Nagyon rövid verzió:</strong> mostmár minden oldalon (a kiemelt könyvek között is, a profiloldalon is) megy a happoló mód, így nyugdíjaztam a bookmarkletet.</p>
+
+<p>Az úgy volt, hogy tavaly megszületett a rukkola, én pedig nagyon lelkesen indultam neki az oldalnak, mint felhasználó. Aztán elkezdett zavarni az, hogy nem lehet szűrni a csak happolható könyvekre, úgyhogy <a href="http://blog.ktamas.com/index.php/2012/08/11/hacking-rukkola-avagy-alternativ-kollekciobongeszes/">írtam rá egy bookmarkletet</a>.</p>
+
+<p>Az idők során aztán <a href="http://blog.ktamas.com/index.php/2012/08/15/rukkola-bookmarklet-update-1-gorgetes-a-vegtelenbe/">került bele végtelen görgetés</a>, <a href="http://blog.ktamas.com/index.php/rukkola-bookmarklet/">kapott egy saját oldalt</a>, tanultam egy csomó dolgot, például azt, hogy nem szabad az ilyesmit a GitHubon tartani, szóval <a href="http://blog.ktamas.com/index.php/2012/08/16/rukkola-bookmarklet-update-2-growing-pains/">költözött is egyet</a>, majd mikor már meg voltam elégedve a funkcionalitással, <a href="http://blog.ktamas.com/index.php/2012/09/15/rukkola-bookmarklet-update-3-%E3%83%AA%E3%83%A9%E3%82%A4%E3%83%88/">újraírtam az egészet</a>, hogy a kód is kinézzen valahogy. Mindenközben tanultam egy csomó dolgot, amit <a href="http://blog.ktamas.com/index.php/2012/10/16/my-adventures-in-the-world-of-bookmarklets-meg-mindig-benne-vagyok-az-internetben-rovat/">megosztottam az egyik javascript meetupon</a>.</p>
+
+<p>Aztán hogy, hogynem, egyrészt <a href="http://blog.ktamas.com/index.php/2012/10/18/rukkola-bookmarklet-update-4-this-is-not-a-goodbye/">a funkcionalitás egy jórésze bekerült magába a rukkolába</a>, ezzel elérve a célját, másrészt pedig külsősből belsős lettem: és elkezdtem a rukkolánál rendszergazda lenni, jelentősen felgyorsítani az oldal bizonyos részeit, bugokat javítani, meg közben robotokat vadászni.</p>
+
+<p>A bookmarklet azért továbbra is használatban volt, sőt, pár hónapja reneszánszát élte, amióta felfedezték az emberek, hogy a kiemelt könyvek oldalon nem működik a beépített happoló mód, ellenben a bookmarklet igen. Én közben kiköltöztem Svédországba, azóta a bugfixelgetésben nem vagyok már benne, csak néha nézek fel a szerverre, kirugdosni egy-egy újabb robotot, meg úgy általában a háttérben lévő, csendes rendszergazdaként működök aki néha helyrerúgja a szervert, ha nem viselkedik rendesen.</p>
+
+<p>A bookmarklet most pedig végleg befejezte a pályafutását: mostmár minden oldalon működik a happoló mód, a kiemelt könyvek között is. Így most kiélesítettem az új verziót, ami csupán egy üzenet arról, hogy már nincs szükség az egészre. Ami, mint azt sokszor elmondtam, mindig is a végcél volt.</p>
+
+<p>Szemfüles olvasóknak és felhasználóknak feltűnhet, hogy ezzel eltűnt a végtelen görgetés is: egyrészt az a funkciót sosem csináltam meg úgy igazán rendesen, másrészt sajnos se motivációm, se időm nincs a dologra. Valamint úgy látom, remekül megvan az oldal nélküle is. Arról nem is beszélve, hogy a jelenlegi implementációja bizonyos helyzetekben feleslegesen terheli a szervert.</p>
+
+<p>Ha azonban valaki késztetést érez a dologra, hogy mégis megcsinálja: a bookmarklet kódja eddig is és továbbra is nyílt forráskódú, <a href="https://github.com/KTamas/rukkola_hacks">megtalálható a GitHubon</a>.</p>
+
+<p>És aztán az is lehet, hogy egyszercsak rámjön az ötperc, és mégis megcsinálom, de ezt megigérni egyelőre nem tudom. Mindenesetre köszönet minden felhasználónak és minden visszajelzésnek.</p>
+
+        </div>
+
+        <div class="tags">
+            <i class="fas fa-tags"></i>
+            <a href='/tags/rukkola/'>rukkola</a>
+        </div>
+    </article>
+
+		
+		    <article class="post">
+        <header>
+            <h1 class="post"><a href="/index.php/2013/05/10/yiddishe-mamma-mia/">Yiddishe Mamma Mia</a></h1>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2013/05/10/yiddishe-mamma-mia/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2013-05-10T14:28:05Z">Friday, May 10, 2013</time> · 286 words · 2 min read</div>
+        </header>
+        <div class="text">
+
+<p>Úgy gondoltam, hogy ez az étterem megérdemel egy külön irományt <del datetime="2013-05-10T12:08:25+00:00">(leginkább, mert elfelejtettem megírni az előző posztba)</del>. Még szerdán voltunk a <a href="http://ymmrestaurant.com">Yiddishe Mamma Mia</a> nevű étteremben pár jelenlegi és pár volt kollégával (és jelenlegi baráttal), és egy hatalmas élmény volt.</p>
+
+<p>Maga az étterem, mint azt a neve részben mutatja, egy zsidó-olasz-magyar <em>fúziós konyha</em> (tudom, sznobul hangzik). Van tehát mindenféle tészta, a húsoknál jogosan túlreprezentált a liba, és még ki tudja, mennyiféle étel, jó sok oldalból áll <a href="http://ymmrestaurant.com/?page_id=14">a menüjük</a>, nagyon széles a választék, érdemes végigböngészni.</p>
+
+<p>A csapat egyik fele sóletet evett, abból is a drágább, &#8220;Rotschild&#8221; verziót: ez köretnek ad egész libacombot, tömött libanyakat, marhanyelvet és egy egész főtt tojást. Az ételről alapvetően csak szuperlatívuszokban tudok nyilatkozni: ilyen finom sóletet én még nem ettem. Tegyük azt hozzá, hogy kis mintából dolgozok, a másik hely, ahol volt alkalmam erre, az a <a href="http://varosban.blog.hu/2012/05/15/a_legjobb_magyaros_budapesten_kadar_etkezde">Kádár étkezde</a> volt a klauzál téren, ahol minden szombaton a menü szerves része: ott is nagyon finom volt (plusz alapvetően ebédelőhely, szóval olcsóbb), de ez egy kategóriával egyértelműen feljebb volt.</p>
+
+<p>A többiek változatosabban ettek, volt sült libacomb, rántott libamáj, vagy éppen paradicsomos-kecskesajtos-bélszínes tészta: ez utóbbit megkóstoltam, és a saját legnagyobb meglepetésemre szintén nagyon ízlett.</p>
+
+<p>Nagyon nehezen tudok negatív dolgokat felhozni, a pincér által ajánlott vörösbor alapvetően nem jött be, de ez is inkább csak izlésbeli dolog, mert mindenképpen minőségi volt.</p>
+
+<p>A hely semmiképpen sem olcsó: egy főétel átlagosan 3-4 ezer forint között mozog, de minden egyes fillérjét megéri. Képeket sajnos nem csináltam, mert elég sötét volt már ahhoz, valamint túlságosan is el voltam foglalva a társasággal meg az étellel.</p>
+
+<p>Azt nézem viszont most, hogy <a href="http://ymmrestaurant.com/?page_id=25">van ebédmenüjük</a>, szóval aki a környéken dolgozik, annak még az is opció lehet pluszba.</p>
+
+<p><em>(disclosure: ezért a posztért nem fizetett nekem senki. sajnos.)</em></p>
+
+        </div>
+
+        <div class="tags">
+            <i class="fas fa-tags"></i>
+            <a href='/tags/kaja/'>kaja</a>
+        </div>
+    </article>
+
+		
+		    <article class="post">
+        <header>
             <h1 class="post"><a href="/index.php/2013/05/10/figyeljetek-a-kezem-csalok-bo-egyhetes-osszefoglalo/">Figyeljétek a kezem, csalok (bő egyhetes összefoglaló)</a></h1>
-            <a rel="bookmark" href="https://blog.ktamas.com/index.php/2013/05/10/figyeljetek-a-kezem-csalok-bo-egyhetes-osszefoglalo/"></a>
-            <time datetime="2013-05-10T12:29:09Z">Friday, May 10, 2013</time>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2013/05/10/figyeljetek-a-kezem-csalok-bo-egyhetes-osszefoglalo/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2013-05-10T12:29:09Z">Friday, May 10, 2013</time> · 360 words · 2 min read</div>
         </header>
         <div class="text">
 
@@ -83,12 +151,8 @@
         </div>
 
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/magyarorsz%C3%A1g/">magyarország</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/%C3%A9nblog/'>énblog</a>, <a href='/tags/magyarorsz%C3%A1g/'>magyarország</a>, <a href='/tags/sv%C3%A9dorsz%C3%A1g/'>svédország</a>
         </div>
     </article>
 
@@ -96,8 +160,8 @@
 		    <article class="post">
         <header>
             <h1 class="post"><a href="/index.php/2013/05/07/sok-nyafogas-csutortok-mar-pesten/">Sok nyafogás (csütörtök, már Pesten)</a></h1>
-            <a rel="bookmark" href="https://blog.ktamas.com/index.php/2013/05/07/sok-nyafogas-csutortok-mar-pesten/"></a>
-            <time datetime="2013-05-07T19:10:52Z">Tuesday, May 7, 2013</time>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2013/05/07/sok-nyafogas-csutortok-mar-pesten/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2013-05-07T19:10:52Z">Tuesday, May 7, 2013</time> · 333 words · 2 min read</div>
         </header>
         <div class="text">
 
@@ -120,11 +184,8 @@
         </div>
 
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/magyarorsz%C3%A1g/">magyarország</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/%C3%A9nblog/'>énblog</a>, <a href='/tags/magyarorsz%C3%A1g/'>magyarország</a>
         </div>
     </article>
 
@@ -132,8 +193,8 @@
 		    <article class="post">
         <header>
             <h1 class="post"><a href="/index.php/2013/05/06/repulok-pestre-csutortok-meg-goteborgban/">Repülök Pestre (csütörtök, még Göteborgban)</a></h1>
-            <a rel="bookmark" href="https://blog.ktamas.com/index.php/2013/05/06/repulok-pestre-csutortok-meg-goteborgban/"></a>
-            <time datetime="2013-05-06T10:26:56Z">Monday, May 6, 2013</time>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2013/05/06/repulok-pestre-csutortok-meg-goteborgban/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2013-05-06T10:26:56Z">Monday, May 6, 2013</time> · 141 words · 1 min read</div>
         </header>
         <div class="text">
 
@@ -152,11 +213,8 @@
         </div>
 
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/%C3%A9nblog/'>énblog</a>, <a href='/tags/sv%C3%A9dorsz%C3%A1g/'>svédország</a>
         </div>
     </article>
 
@@ -164,8 +222,8 @@
 		    <article class="post">
         <header>
             <h1 class="post"><a href="/index.php/2013/05/05/bowling-szerda/">Bowling szerda</a></h1>
-            <a rel="bookmark" href="https://blog.ktamas.com/index.php/2013/05/05/bowling-szerda/"></a>
-            <time datetime="2013-05-05T14:30:25Z">Sunday, May 5, 2013</time>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2013/05/05/bowling-szerda/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2013-05-05T14:30:25Z">Sunday, May 5, 2013</time> · 206 words · 1 min read</div>
         </header>
         <div class="text">
 
@@ -184,11 +242,8 @@
         </div>
 
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/%C3%A9nblog/'>énblog</a>, <a href='/tags/sv%C3%A9dorsz%C3%A1g/'>svédország</a>
         </div>
     </article>
 
@@ -196,8 +251,8 @@
 		    <article class="post">
         <header>
             <h1 class="post"><a href="/index.php/2013/05/05/valborg-kedd/">Valborg kedd</a></h1>
-            <a rel="bookmark" href="https://blog.ktamas.com/index.php/2013/05/05/valborg-kedd/"></a>
-            <time datetime="2013-05-05T12:21:58Z">Sunday, May 5, 2013</time>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2013/05/05/valborg-kedd/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2013-05-05T12:21:58Z">Sunday, May 5, 2013</time> · 210 words · 1 min read</div>
         </header>
         <div class="text">
 
@@ -220,11 +275,8 @@
         </div>
 
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/%C3%A9nblog/'>énblog</a>, <a href='/tags/sv%C3%A9dorsz%C3%A1g/'>svédország</a>
         </div>
     </article>
 
@@ -232,8 +284,8 @@
 		    <article class="post">
         <header>
             <h1 class="post"><a href="/index.php/2013/05/04/meg-egy-gomba-hetfo/">Még egy gomba és új alcím hétfő</a></h1>
-            <a rel="bookmark" href="https://blog.ktamas.com/index.php/2013/05/04/meg-egy-gomba-hetfo/"></a>
-            <time datetime="2013-05-04T11:03:41Z">Saturday, May 4, 2013</time>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2013/05/04/meg-egy-gomba-hetfo/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2013-05-04T11:03:41Z">Saturday, May 4, 2013</time> · 139 words · 1 min read</div>
         </header>
         <div class="text">
 
@@ -252,11 +304,8 @@
         </div>
 
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/%C3%A9nblog/'>énblog</a>, <a href='/tags/sv%C3%A9dorsz%C3%A1g/'>svédország</a>
         </div>
     </article>
 
@@ -264,8 +313,8 @@
 		    <article class="post">
         <header>
             <h1 class="post"><a href="/index.php/2013/05/03/technika-vasarnap/">Technika vasárnap</a></h1>
-            <a rel="bookmark" href="https://blog.ktamas.com/index.php/2013/05/03/technika-vasarnap/"></a>
-            <time datetime="2013-05-03T18:01:27Z">Friday, May 3, 2013</time>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2013/05/03/technika-vasarnap/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2013-05-03T18:01:27Z">Friday, May 3, 2013</time> · 162 words · 1 min read</div>
         </header>
         <div class="text">
 
@@ -280,11 +329,8 @@
         </div>
 
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/%C3%A9nblog/'>énblog</a>, <a href='/tags/sv%C3%A9dorsz%C3%A1g/'>svédország</a>
         </div>
     </article>
 
@@ -292,8 +338,8 @@
 		    <article class="post">
         <header>
             <h1 class="post"><a href="/index.php/2013/05/02/egy-kulonleges-idan-raichel-koncerten-szombat-2-resz/">Egy különleges Idan Raichel koncerten (szombat, 2. rész)</a></h1>
-            <a rel="bookmark" href="https://blog.ktamas.com/index.php/2013/05/02/egy-kulonleges-idan-raichel-koncerten-szombat-2-resz/"></a>
-            <time datetime="2013-05-02T12:28:08Z">Thursday, May 2, 2013</time>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2013/05/02/egy-kulonleges-idan-raichel-koncerten-szombat-2-resz/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2013-05-02T12:28:08Z">Thursday, May 2, 2013</time> · 271 words · 2 min read</div>
         </header>
         <div class="text">
 
@@ -310,64 +356,8 @@
         </div>
 
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
-                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
-            </ul>
-        </div>
-    </article>
-
-		
-		    <article class="post">
-        <header>
-            <h1 class="post"><a href="/index.php/2013/05/01/when-in-doubt-flower-it-out-szombat-1-resz/">When in doubt, flower it out (szombat, 1. rész)</a></h1>
-            <a rel="bookmark" href="https://blog.ktamas.com/index.php/2013/05/01/when-in-doubt-flower-it-out-szombat-1-resz/"></a>
-            <time datetime="2013-05-01T17:41:24Z">Wednesday, May 1, 2013</time>
-        </header>
-        <div class="text">
-
-<p>A mai napom jórésze tehát azzal telt, hogy lenyomtam a BBC2 négyrészes, varrós realityjének, a <a href="http://www.bbc.co.uk/programmes/p0165nj8">The Great British Sewing Bee</a>-nek az első évadját, amit <a href="http://twitter.com/gazs">gazs</a> sózott rám, és meglepő szinten élveztem.</p>
-
-<p>A sorozat felépítése viszonylag egyszerű: nyolc versenyzővel indulnak, akiket fokozatosan ejtegetnek ki a részek alatt, az utolsó részre a nyolc emberből már csak három maradt. Magában a részben három ruhadarabot varrnak meg: egy alapdolgot minta alapján (&#8220;A&#8221; szoknya, ing, nadrág etc.), egyvalamit átalakítanak a saját kreativitásuk szerint, végül pedig jön a legnagyobb falat, amelyben egy komolyabb ruhadarabot kell modellre szabva elkészíteni. Ez utóbbi a <a href="http://en.wikipedia.org/wiki/Made_to_measure">Made to measure</a>, magyarul a méret utáni szabóság.</p>
-
-<p>A különböző ruhadarabok a sorozat folyamán folyamán fokozatosan nehezednek, a már fentebb említett egyszerű szoknyától a teljes esélyi ruháig. Ami szintén el lett találva, azok a versenyzők: kellően diverz a felállás, van a hetvenőt éves vérprofi nagymamától kezdve a steampunk ruhákat varró férfiemberig mindenki. A <a href="http://www.bbc.co.uk/programmes/p0165nj8/profiles/judges">kétszemélyes zsűri</a> (May Martin és <a href="http://en.wikipedia.org/wiki/Patrick_Grant_(designer)">Patrick Grant</a>) pedig szintén el lett találva.</p>
-
-<p>Nem vagyok a realityk nagy rajongója, de ez kellően más volt ahhoz, hogy bejöjjön, ha valakit érdekel véletlenül a téma, akkor mindeképp érdemes bepróbálni.</p>
-
-        </div>
-
-        <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sorozat/">sorozat</a></li>
-                <li><a href="https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/">svédország</a></li>
-            </ul>
-        </div>
-    </article>
-
-		
-		    <article class="post">
-        <header>
-            <h1 class="post"><a href="/index.php/2013/04/30/zenei-szunnap-the-idan-raichel-project-in-stiller-nacht/">Zenei szünnap: The Idan Raichel Project &#8211; In Stiller Nacht</a></h1>
-            <a rel="bookmark" href="https://blog.ktamas.com/index.php/2013/04/30/zenei-szunnap-the-idan-raichel-project-in-stiller-nacht/"></a>
-            <time datetime="2013-04-30T17:03:53Z">Tuesday, April 30, 2013</time>
-        </header>
-        <div class="text">
-
-<p>A The Idan Raichel Project keretében <a href="http://en.wikipedia.org/wiki/Andreas_Scholl">Andreas Scholl</a> kontratenor énekel.</p>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CALrqjPaeBA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-        </div>
-
-        <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/%C3%A9nblog/'>énblog</a>, <a href='/tags/sv%C3%A9dorsz%C3%A1g/'>svédország</a>, <a href='/tags/zene/'>zene</a>
         </div>
     </article>
 

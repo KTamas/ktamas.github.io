@@ -6,7 +6,6 @@
 	<updated>2011-11-01T21:52:17Z</updated>
 	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/agymenes/feed.xml"/>
 	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/agymenes/"/>
-	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/agymenes/feed.json"/>
 	<author>
 		<name>KTamas</name>
 		<uri>https://blog.ktamas.com/</uri>
@@ -40,13 +39,11 @@
 <p>Nem véletlenül van ennyi tab nyitva, nagyjából a fele ugyanis arra vár, hogy kezdjek vele valamit, pontosabban: elolvastam, és most megosztanám. De nincs hova. Nem tudom, hogy mi lesz, hol fogjuk ezt folytatni, de valahol muszáj.</p>
 
 <footer>
-    <a title="Permanent link to “Nem oszthatom meg senkivel, megosztom hát mindenkivel (10/31 never forget)”" href="https://blog.ktamas.com/index.php/2011/11/01/nem-oszthatom-meg-senkivel-megosztom-hat-mindenkivel-1031-never-forget/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Nem oszthatom meg senkivel, megosztom hát mindenkivel (10/31 never forget)”" href="https://blog.ktamas.com/index.php/2011/11/01/nem-oszthatom-meg-senkivel-megosztom-hat-mindenkivel-1031-never-forget/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/agymenes/">agymenes</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/agymenes/'>agymenes</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -69,14 +66,11 @@
 <p>(Tanulság, az nincs, maximum, hogy a mobilnet nyomokban még mindig szopás tud lenni.)</p>
 
 <footer>
-    <a title="Permanent link to “Huawei E1752 meg az OSX”" href="https://blog.ktamas.com/index.php/2011/07/05/huawei-e1752-meg-az-osx/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Huawei E1752 meg az OSX”" href="https://blog.ktamas.com/index.php/2011/07/05/huawei-e1752-meg-az-osx/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/agymenes/">agymenes</a></li>
-                <li><a href="https://blog.ktamas.com/tags/mac/">mac</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/agymenes/'>agymenes</a>, <a href='/tags/mac/'>mac</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -110,14 +104,11 @@
 <p>(függöny)</p>
 
 <footer>
-    <a title="Permanent link to “Európa csak a határig működik, onnantól balkán van”" href="https://blog.ktamas.com/index.php/2009/12/16/europa_csak_a_hatarig_mukodik_onnantol_balkan_van/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Európa csak a határig működik, onnantól balkán van”" href="https://blog.ktamas.com/index.php/2009/12/16/europa_csak_a_hatarig_mukodik_onnantol_balkan_van/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/agymenes/">agymenes</a></li>
-                <li><a href="https://blog.ktamas.com/tags/balkan/">balkan</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/agymenes/'>agymenes</a>, <a href='/tags/balkan/'>balkan</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -173,15 +164,11 @@ Lássuk akkor! iTunes eleve kizárva, itthon sehogy se lehet onnan venni, csak h
 <p>Apdét: Úgy döntöttem, futok még egy kört, hátha sikerül találni helyet ami a kártyát nem nézi, csak az IP-t, és sikerrel jártam: a <a href="http://www.lala.com/">lala.com</a> nem néz bankkártyát &#8212; a paypalomat simán elfogadta &#8212; és a <a href="http://www.blackvpn.com/">BlackVPN</a> segítségével Amerikából meg tudtam venni. A szintet alulról üti (192 kb/s-es MP3), de már pont jó. Take that, internets.</p>
 
 <footer>
-    <a title="Permanent link to “Hogyan (ne) vegyünk MP3-at? (Update: vegyünk)”" href="https://blog.ktamas.com/index.php/2009/08/20/hogyan_ne_vegyunk_mp3_at_update_vegyunk/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Hogyan (ne) vegyünk MP3-at? (Update: vegyünk)”" href="https://blog.ktamas.com/index.php/2009/08/20/hogyan_ne_vegyunk_mp3_at_update_vegyunk/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/agymenes/">agymenes</a></li>
-                <li><a href="https://blog.ktamas.com/tags/random/">random</a></li>
-                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/agymenes/'>agymenes</a>, <a href='/tags/random/'>random</a>, <a href='/tags/zene/'>zene</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -204,16 +191,11 @@ Lássuk akkor! iTunes eleve kizárva, itthon sehogy se lehet onnan venni, csak h
 <![CDATA[<p>Amire nem fogunk tudni elmenni: <a href="http://www.last.fm/event/1038940">http://www.last.fm/event/1038940</a></p>
 
 <footer>
-    <a title="Permanent link to “Az évtized (valószínű egyik legjobb) koncertje”" href="https://blog.ktamas.com/index.php/2009/06/26/az_evtized_valoszinu_egyik_legjobb_koncertje/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Az évtized (valószínű egyik legjobb) koncertje”" href="https://blog.ktamas.com/index.php/2009/06/26/az_evtized_valoszinu_egyik_legjobb_koncertje/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/agymenes/">agymenes</a></li>
-                <li><a href="https://blog.ktamas.com/tags/anime/">anime</a></li>
-                <li><a href="https://blog.ktamas.com/tags/jap%C3%A1n/">japán</a></li>
-                <li><a href="https://blog.ktamas.com/tags/random/">random</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/agymenes/'>agymenes</a>, <a href='/tags/anime/'>anime</a>, <a href='/tags/jap%C3%A1n/'>japán</a>, <a href='/tags/random/'>random</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -242,17 +224,11 @@ Ja amugy ez csak egy a sok kozul, a taskbar pl. rendszeresen villog meg ablakok 
 <p>Ja amugy ez csak egy a sok kozul, a taskbar pl. rendszeresen villog meg ablakok random reszei lesznek atlatszoak, meg ilyesmi.</p>
 
 <footer>
-    <a title="Permanent link to “Kicsit bugzik a betas Intel driver Win7 alatt”" href="https://blog.ktamas.com/index.php/2009/05/01/kicsit_bugzik_a_betas_intel_driver_win7_alatt/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Kicsit bugzik a betas Intel driver Win7 alatt”" href="https://blog.ktamas.com/index.php/2009/05/01/kicsit_bugzik_a_betas_intel_driver_win7_alatt/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/agymenes/">agymenes</a></li>
-                <li><a href="https://blog.ktamas.com/tags/nocomment/">nocomment</a></li>
-                <li><a href="https://blog.ktamas.com/tags/win7/">win7</a></li>
-                <li><a href="https://blog.ktamas.com/tags/windows/">windows</a></li>
-                <li><a href="https://blog.ktamas.com/tags/wtf/">wtf</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/agymenes/'>agymenes</a>, <a href='/tags/nocomment/'>nocomment</a>, <a href='/tags/win7/'>win7</a>, <a href='/tags/windows/'>windows</a>, <a href='/tags/wtf/'>wtf</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -275,13 +251,11 @@ Ja amugy ez csak egy a sok kozul, a taskbar pl. rendszeresen villog meg ablakok 
 <p>(igen, legfrissebb verzió, miegymás)</p>
 
 <footer>
-    <a title="Permanent link to “Jó tudni&amp;#8230;”" href="https://blog.ktamas.com/index.php/2009/03/23/jo_tudni_10/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Jó tudni&amp;#8230;”" href="https://blog.ktamas.com/index.php/2009/03/23/jo_tudni_10/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/agymenes/">agymenes</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/agymenes/'>agymenes</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -316,14 +290,11 @@ Ja amugy ez csak egy a sok kozul, a taskbar pl. rendszeresen villog meg ablakok 
 <p>Kb. 2-3 hetes Samsung notebook winchi&#8230;</p>
 
 <footer>
-    <a title="Permanent link to “Napi káromkodás”" href="https://blog.ktamas.com/index.php/2009/03/16/napi_karomkodas/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Napi káromkodás”" href="https://blog.ktamas.com/index.php/2009/03/16/napi_karomkodas/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/agymenes/">agymenes</a></li>
-                <li><a href="https://blog.ktamas.com/tags/windows/">windows</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/agymenes/'>agymenes</a>, <a href='/tags/windows/'>windows</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -370,16 +341,11 @@ Ja amugy ez csak egy a sok kozul, a taskbar pl. rendszeresen villog meg ablakok 
 </div></p></p>
 
 <footer>
-    <a title="Permanent link to “Informatika meg egyetem meg minden”" href="https://blog.ktamas.com/index.php/2009/02/15/informatika_meg_egyetem_meg_minden/">&nbsp;&nbsp;</a>
-    By KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    <a title="Permanent link to “Informatika meg egyetem meg minden”" href="https://blog.ktamas.com/index.php/2009/02/15/informatika_meg_egyetem_meg_minden/">Content</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/agymenes/">agymenes</a></li>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/it/">it</a></li>
-                <li><a href="https://blog.ktamas.com/tags/nyelv%C3%A9szet/">nyelvészet</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/agymenes/'>agymenes</a>, <a href='/tags/%C3%A9nblog/'>énblog</a>, <a href='/tags/it/'>it</a>, <a href='/tags/nyelv%C3%A9szet/'>nyelvészet</a>
         </div>
 </footer>]]></content>
 	</entry>

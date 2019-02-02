@@ -8,6 +8,7 @@
 	<meta name="description" content="Bringing you irregular content since 2009. By KTamas." />
 	<meta name="author" content="KTamas" />
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto" rel="stylesheet">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 	<link rel="stylesheet" href="/css/screen.css" />
 	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
 	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
@@ -32,7 +33,6 @@
 	<div id="container">
 		<header>
 			<hgroup class="top">
-				
 				<h1><a href="/">KTamas&#39; Blog</a></h1>
 				<h2>Remember kids, if Internet Explorer is brave enough to ask to be your default browser, you&#39;re brave enough to ask that girl out.</h2>
 			</hgroup>
@@ -41,9 +41,9 @@
 					<li><a href="/about/" title="About KTamas&#39; Blog">About</a></li>
 					<li><a href="/archive/" title="KTamas&#39; Blog Archives">Archives</a></li>
 					<li><a href="/tags/" title="KTamas&#39; Blog Tags">Tags</a></li>
-					<li class="icon"><a href="//twitter.com/ktamas" title="@ktamas on Twitter"><i class="fa fa-twitter"></i></a></li>
-					<li class="icon"><a href="//github.com/ktamas" title="@ktamas on GitHub"><i class="fa fa-github"></i></a></li>
-					<li class="icon"><a href="http://feeds.feedburner.com/KTamasBlog" title="Subscribe to KTamas&#39; Blog"><i class="fa fa-rss"></i></a></li>
+					<li class="icon"><a href="//twitter.com/ktamas" title="@ktamas on Twitter"><i class="fab fa-twitter"></i></a></li>
+					<li class="icon"><a href="//github.com/ktamas" title="@ktamas on GitHub"><i class="fab fa-github"></i></a></li>
+					<li class="icon"><a href="http://feeds.feedburner.com/KTamasBlog" title="Subscribe to KTamas&#39; Blog"><i class="fas fa-rss"></i></a></li>
 				</menu>
 			</nav>
 		</header>
@@ -52,9 +52,65 @@
 		
 		    <article class="post">
         <header>
+            <h1 class="post"><a href="/index.php/2012/08/15/rukkola-bookmarklet-update-1-gorgetes-a-vegtelenbe/">Rukkola bookmarklet update 1: görgetés a végtelenbe</a></h1>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2012/08/15/rukkola-bookmarklet-update-1-gorgetes-a-vegtelenbe/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2012-08-15T18:29:36Z">Wednesday, August 15, 2012</time> · 110 words · 1 min read</div>
+        </header>
+        <div class="text">
+
+<p>Most, hogy <a href="http://salata.rukkola.hu/2012/08/14/upgrade/">gyors lett a rukkola</a> (hurrá! hurrá! hurrá!), belefejlesztettem <a href="http://blog.ktamas.com/index.php/2012/08/11/hacking-rukkola-avagy-alternativ-kollekciobongeszes/">a bookmarkletbe</a> a végtelenbe görgetést jól, így nem kell a továbbot kattintgatni, csak szépen menni lefele és a többi magától történik. Mi több, nincs többé olyan sem, hogy a tovább gombra nem tölt be semmit (ami valójában azt jelentette, hogy a következő oldalon nem volt happolható könyv); ilyenkor automatikusan tölti a következő oldalt egészen addig, amíg nem talál legalább annyi könyvet ami új sort kezd. Ha pedig az adott kollekció végére ért az ember, akkor azt is jelzi már egy diszkrét üzenettel.</p>
+
+<p>A frissítéshez az égvilágon semmit nem kell tenni, mivel maga a bookmarklet mindig a legfrissebb verziót futtatja le.</p>
+
+        </div>
+
+    </article>
+
+		
+		    <article class="post">
+        <header>
+            <h1 class="post"><a href="/index.php/2012/08/11/hacking-rukkola-avagy-alternativ-kollekciobongeszes/">Hacking Rukkola, avagy bookmarklet a nem happolhatóak elrejtésére</a></h1>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2012/08/11/hacking-rukkola-avagy-alternativ-kollekciobongeszes/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2012-08-11T18:31:15Z">Saturday, August 11, 2012</time> · 262 words · 2 min read</div>
+        </header>
+        <div class="text">
+
+<p>Szóval elindult a <a href="http://rukkola.hu/">rukkola.hu</a>, közösségi könyvcserélde, remek dolog, próbáljátok ki, felteszitek a megunt könyveiteket, és cserébe szerezhettek másoktól hasonlókat. A böngészés a feltett könyvek között egyelőre még nem tökéletes, engem például borzasztóan zavar, hogy a <a href="http://rukkola.hu/kollekciok">kollekciók</a> böngészésénél (szerk: és keresésnél) nincs olyan nézet, amikor csak azokat a könyveket látom, amikre ténylegesen lecsaphatok.</p>
+
+<p>Összedobtam hát gyorsan egy bookmarkletet erre. Chrome Extensionnek indult, de nem érzem elég nagynak, hogy megérje berakni a saját App Storejukba, valamint sóher vagyok kifizetni az öt dollárt érte egyelőre, majd ha még lesz pár ilyen rukkola-módosításom, amit már érdemes felrakni. Mindenesetre nincs más dolgoktok, hogy <a href="http://blog.ktamas.com/index.php/rukkola-bookmarklet/">felrakjátok a bookmarklet oldaláról</a>. <del datetime="2012-08-15T16:30:01+00:00">Lapozni a Tovább gombbal lehet, még az oldalakat is mutatja.</del> <strong>Update:</strong> nem kell semmit kattintgatni, <a href="http://blog.ktamas.com/index.php/2012/08/15/rukkola-bookmarklet-update-1-gorgetes-a-vegtelenbe/">van végtelen görgetés</a>.</p>
+
+<p><strong>Update 2:</strong> A bookmarklet frissült és saját oldalt kapott, <a href="http://blog.ktamas.com/index.php/rukkola-bookmarklet/">innen rakhatod fel</a>.</p>
+
+<p>A mostani megoldásnak megvan az a hátránya, hogy ha átkattintasz egy könyvre, akkor sajnos kezdheted elölről. Ez egy 0.0.<del datetime="2012-08-15T16:30:01+00:00">1</del>2-es változat, a 0.0.<del>2</del>3-ben majd ezt is áthidaljuk valahogy remélhetőleg és/vagy egyszer a távoli jövőben ha lesz Rukkola API, majd arra fogunk építkezni.</p>
+
+<p>A teljes kód <a href="https://github.com/KTamas/rukkola_hacks/tree/bookmarklet">fent van a githubon</a> természetesen. <del datetime="2012-08-15T16:40:33+00:00">Könnyen megoldható lenne, hogy az összes oldalt betöltse egyszerre, de ezt nem szeretném, mert feleslegesen terhelném vele a rukkola szervereit, amik amúgyis elég lassúak tudnak lenni sajnos sokszor. Esetleg a jövőben valamiféle végtelenscrollozást belerakok, és akkor a Továbbra kattintgatást megússza az ember.</del> <a href="http://blog.ktamas.com/index.php/2012/08/15/rukkola-bookmarklet-update-1-gorgetes-a-vegtelenbe/">Van végtelen görgetés!</a></p>
+
+<p>És egy before-after kép, avagy előtte:</p>
+
+<p><a href="/wp-content/uploads/2012/08/rbefore.jpg"><img src="/wp-content/uploads/2012/08/rbefore-439x1024.jpg" alt="" title="Előtte" width="439" height="1024" class="aligncenter size-large wp-image-2363219" srcset="/wp-content/uploads/2012/08/rbefore-439x1024.jpg 439w, /wp-content/uploads/2012/08/rbefore-128x300.jpg 128w, /wp-content/uploads/2012/08/rbefore.jpg 1009w" sizes="(max-width: 439px) 100vw, 439px" /></a></p>
+
+<p>És utána:</p>
+
+<p><a href="/wp-content/uploads/2012/08/rafter.jpg"><img src="/wp-content/uploads/2012/08/rafter-400x1024.jpg" alt="" title="Utána" width="400" height="1024" class="aligncenter size-large wp-image-2363218" srcset="/wp-content/uploads/2012/08/rafter-400x1024.jpg 400w, /wp-content/uploads/2012/08/rafter-117x300.jpg 117w" sizes="(max-width: 400px) 100vw, 400px" /></a></p>
+
+<p>(P.S.: RSS-ből valószínű biztosan nem fog működni a bookmarkletes dolog, szóval ha ezt a Google Readerben olvasod, át kell hozzá kattintani)</p>
+
+<p>(P.P.S.: A bookmarklet remekül alkalmazható keresésekre is.)</p>
+
+        </div>
+
+        <div class="tags">
+            <i class="fas fa-tags"></i>
+            <a href='/tags/programoz%C3%A1s/'>programozás</a>, <a href='/tags/rukkola/'>rukkola</a>
+        </div>
+    </article>
+
+		
+		    <article class="post">
+        <header>
             <h1 class="post"><a href="/index.php/2012/08/07/rdp-osx-alatt/">RDP OSX alatt</a></h1>
-            <a rel="bookmark" href="https://blog.ktamas.com/index.php/2012/08/07/rdp-osx-alatt/"></a>
-            <time datetime="2012-08-07T13:19:22Z">Tuesday, August 7, 2012</time>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2012/08/07/rdp-osx-alatt/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2012-08-07T13:19:22Z">Tuesday, August 7, 2012</time> · 327 words · 2 min read</div>
         </header>
         <div class="text">
 
@@ -77,12 +133,8 @@
         </div>
 
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/commandline/">commandline</a></li>
-                <li><a href="https://blog.ktamas.com/tags/mac/">mac</a></li>
-                <li><a href="https://blog.ktamas.com/tags/osx/">osx</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/commandline/'>commandline</a>, <a href='/tags/mac/'>mac</a>, <a href='/tags/osx/'>osx</a>
         </div>
     </article>
 
@@ -90,8 +142,8 @@
 		    <article class="post">
         <header>
             <h1 class="post"><a href="/index.php/2012/06/26/kedves-naplom-ma-egyetemistanak-neztek/">Kedves naplóm, ma egyetemistának néztek</a></h1>
-            <a rel="bookmark" href="https://blog.ktamas.com/index.php/2012/06/26/kedves-naplom-ma-egyetemistanak-neztek/"></a>
-            <time datetime="2012-06-26T17:26:09Z">Tuesday, June 26, 2012</time>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2012/06/26/kedves-naplom-ma-egyetemistanak-neztek/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2012-06-26T17:26:09Z">Tuesday, June 26, 2012</time> · 73 words · 1 min read</div>
         </header>
         <div class="text">
 
@@ -116,10 +168,8 @@
         </div>
 
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/%C3%A9nblog/'>énblog</a>
         </div>
     </article>
 
@@ -127,8 +177,8 @@
 		    <article class="post">
         <header>
             <h1 class="post"><a href="/index.php/2012/06/25/40000/">40000</a></h1>
-            <a rel="bookmark" href="https://blog.ktamas.com/index.php/2012/06/25/40000/"></a>
-            <time datetime="2012-06-25T11:23:55Z">Monday, June 25, 2012</time>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2012/06/25/40000/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2012-06-25T11:23:55Z">Monday, June 25, 2012</time> · 23 words · 1 min read</div>
         </header>
         <div class="text">
 
@@ -139,10 +189,8 @@
         </div>
 
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/%C3%A9nblog/'>énblog</a>
         </div>
     </article>
 
@@ -150,8 +198,8 @@
 		    <article class="post">
         <header>
             <h1 class="post"><a href="/index.php/2012/06/22/random-dolgok-avagy-elet-es-enblog/">Random dolgok (avagy élet és énblog)</a></h1>
-            <a rel="bookmark" href="https://blog.ktamas.com/index.php/2012/06/22/random-dolgok-avagy-elet-es-enblog/"></a>
-            <time datetime="2012-06-22T12:00:59Z">Friday, June 22, 2012</time>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2012/06/22/random-dolgok-avagy-elet-es-enblog/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2012-06-22T12:00:59Z">Friday, June 22, 2012</time> · 470 words · 3 min read</div>
         </header>
         <div class="text">
 
@@ -183,11 +231,8 @@
         </div>
 
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/%C3%A9nblog/">énblog</a></li>
-                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/%C3%A9nblog/'>énblog</a>, <a href='/tags/zene/'>zene</a>
         </div>
     </article>
 
@@ -195,8 +240,8 @@
 		    <article class="post">
         <header>
             <h1 class="post"><a href="/index.php/2012/06/13/napi-loop-bon-jovi-you-give-love-a-bad-name-backlog/">Napi loop: Bon Jovi &#8211; You Give Love a Bad Name (backlog)</a></h1>
-            <a rel="bookmark" href="https://blog.ktamas.com/index.php/2012/06/13/napi-loop-bon-jovi-you-give-love-a-bad-name-backlog/"></a>
-            <time datetime="2012-06-13T10:22:22Z">Wednesday, June 13, 2012</time>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2012/06/13/napi-loop-bon-jovi-you-give-love-a-bad-name-backlog/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2012-06-13T10:22:22Z">Wednesday, June 13, 2012</time> · 16 words · 1 min read</div>
         </header>
         <div class="text">
 
@@ -207,11 +252,8 @@
         </div>
 
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/napiloop/">napiloop</a></li>
-                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/napiloop/'>napiloop</a>, <a href='/tags/zene/'>zene</a>
         </div>
     </article>
 
@@ -219,8 +261,8 @@
 		    <article class="post">
         <header>
             <h1 class="post"><a href="/index.php/2012/06/12/napi-loop-spice-girls-wannabe-guilty-pleasure-backlog/">Napi loop: Spice Girls &#8211; Wannabe (guilty pleasure backlog)</a></h1>
-            <a rel="bookmark" href="https://blog.ktamas.com/index.php/2012/06/12/napi-loop-spice-girls-wannabe-guilty-pleasure-backlog/"></a>
-            <time datetime="2012-06-12T10:20:06Z">Tuesday, June 12, 2012</time>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2012/06/12/napi-loop-spice-girls-wannabe-guilty-pleasure-backlog/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2012-06-12T10:20:06Z">Tuesday, June 12, 2012</time> · 29 words · 1 min read</div>
         </header>
         <div class="text">
 
@@ -231,11 +273,8 @@
         </div>
 
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/napiloop/">napiloop</a></li>
-                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/napiloop/'>napiloop</a>, <a href='/tags/zene/'>zene</a>
         </div>
     </article>
 
@@ -243,8 +282,8 @@
 		    <article class="post">
         <header>
             <h1 class="post"><a href="/index.php/2012/06/11/napi-loop-kiss-shout-it-out-loud-backlog/">Napi loop: Kiss &#8211; Shout It Out Loud (backlog)</a></h1>
-            <a rel="bookmark" href="https://blog.ktamas.com/index.php/2012/06/11/napi-loop-kiss-shout-it-out-loud-backlog/"></a>
-            <time datetime="2012-06-11T11:17:29Z">Monday, June 11, 2012</time>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2012/06/11/napi-loop-kiss-shout-it-out-loud-backlog/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2012-06-11T11:17:29Z">Monday, June 11, 2012</time> · 7 words · 1 min read</div>
         </header>
         <div class="text">
 
@@ -255,11 +294,8 @@
         </div>
 
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/napiloop/">napiloop</a></li>
-                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/napiloop/'>napiloop</a>, <a href='/tags/zene/'>zene</a>
         </div>
     </article>
 
@@ -267,8 +303,8 @@
 		    <article class="post">
         <header>
             <h1 class="post"><a href="/index.php/2012/06/09/napi-loopok-carly-rae-jepsen-call-me-maybe-x3/">Napi loop(ok): Carly Rae Jepsen &#8211; Call me maybe (x3)</a></h1>
-            <a rel="bookmark" href="https://blog.ktamas.com/index.php/2012/06/09/napi-loopok-carly-rae-jepsen-call-me-maybe-x3/"></a>
-            <time datetime="2012-06-09T13:12:10Z">Saturday, June 9, 2012</time>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2012/06/09/napi-loopok-carly-rae-jepsen-call-me-maybe-x3/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2012-06-09T13:12:10Z">Saturday, June 9, 2012</time> · 75 words · 1 min read</div>
         </header>
         <div class="text">
 
@@ -289,59 +325,8 @@
         </div>
 
         <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/napiloop/">napiloop</a></li>
-                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
-            </ul>
-        </div>
-    </article>
-
-		
-		    <article class="post">
-        <header>
-            <h1 class="post"><a href="/index.php/2012/06/08/napi-loop-the-raconteurs-steady-as-she-goes-backlog/">Napi loop: The Raconteurs &#8211; Steady, as She Goes (backlog)</a></h1>
-            <a rel="bookmark" href="https://blog.ktamas.com/index.php/2012/06/08/napi-loop-the-raconteurs-steady-as-she-goes-backlog/"></a>
-            <time datetime="2012-06-08T10:12:05Z">Friday, June 8, 2012</time>
-        </header>
-        <div class="text">
-
-<p>Még mindig gitárhíró, ez már az ötösről:</p>
-
-<p><iframe src="//www.youtube.com/embed/C5m6PLjUKBY" width="601" height="338" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
-
-        </div>
-
-        <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/napiloop/">napiloop</a></li>
-                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
-            </ul>
-        </div>
-    </article>
-
-		
-		    <article class="post">
-        <header>
-            <h1 class="post"><a href="/index.php/2012/06/07/napi-loop-kaiser-chiefs-ruby-backlog/">Napi loop: Kaiser Chiefs &#8211; Ruby (backlog)</a></h1>
-            <a rel="bookmark" href="https://blog.ktamas.com/index.php/2012/06/07/napi-loop-kaiser-chiefs-ruby-backlog/"></a>
-            <time datetime="2012-06-07T12:10:37Z">Thursday, June 7, 2012</time>
-        </header>
-        <div class="text">
-
-<p>Olyan gyönyörű riffek vannak a számba, hogycsak, és milyen jó játszani őket!</p>
-
-<p><iframe src="//www.youtube.com/embed/qObzgUfCl28" width="600" height="450" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
-
-        </div>
-
-        <div class="tags">
-            <h5>More about…</h5>
-            <ul>
-                <li><a href="https://blog.ktamas.com/tags/napiloop/">napiloop</a></li>
-                <li><a href="https://blog.ktamas.com/tags/zene/">zene</a></li>
-            </ul>
+            <i class="fas fa-tags"></i>
+            <a href='/tags/napiloop/'>napiloop</a>, <a href='/tags/zene/'>zene</a>
         </div>
     </article>
 
