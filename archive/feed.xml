@@ -15,6 +15,16 @@
 	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
 	<entry>
+		<id>https://blog.ktamas.com/index.php/2019/02/02/re-take-your-pills-my-story-of-adhd/</id>
+		<title>RE: Take Your Pills — My Story of ADHD</title>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2019/02/02/re-take-your-pills-my-story-of-adhd/"/>
+		<updated>2019-02-02T16:44:59Z</updated>
+		<published>2019-02-02T16:44:59Z</published>
+		<summary>Owen wrote about his journey with AD(H)D and I figured I could tell my story as well, especially since no two AD(H)D stories are the same.
+A note on terminology: I use ADHD, the DSM-IV and up uses ADHD as well, with a note that not everyone is “H.” Instead, it has subtypes: ADHD-PI, ADHD-PH and ADHD-C, but even these names have alternatives. Naming things is difficult, y’all.
+In the beginning… I was what they call a “problem child”.</summary>
+	</entry>
+	<entry>
 		<id>https://blog.ktamas.com/index.php/2019/02/01/converting-my-blog-to-hugo-and-getting-rid-of-my-vps/</id>
 		<title>Converting My Blog To Hugo and Getting Rid of My VPS</title>
 		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2019/02/01/converting-my-blog-to-hugo-and-getting-rid-of-my-vps/"/>

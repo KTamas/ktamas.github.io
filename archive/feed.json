@@ -12,6 +12,15 @@
 	},
 	"items": [
 		{
+			"id": "https://blog.ktamas.com/index.php/2019/02/02/re-take-your-pills-my-story-of-adhd/",
+			"url": "https://blog.ktamas.com/index.php/2019/02/02/re-take-your-pills-my-story-of-adhd/",
+			"title": "RE: Take Your Pills — My Story of ADHD",
+			"summary": "Owen wrote about his journey with AD(H)D and I figured I could tell my story as well, especially since no two AD(H)D stories are the same.\nA note on terminology: I use ADHD, the DSM-IV and up uses ADHD as well, with a note that not everyone is \u0026ldquo;H.\u0026rdquo; Instead, it has subtypes: ADHD-PI, ADHD-PH and ADHD-C, but even these names have alternatives. Naming things is difficult, y\u0026rsquo;all.\nIn the beginning\u0026hellip; I was what they call a \u0026ldquo;problem child\u0026rdquo;.",
+			"date_published": "2019-02-02T16:44:59Z",
+			"content_html": "\u003cp\u003eOwen wrote about his journey with AD(H)D and I figured I could tell my story as well, especially since no two AD(H)D stories are the same.\nA note on terminology: I use ADHD, the DSM-IV and up uses ADHD as well, with a note that not everyone is \u0026amp;ldquo;H.\u0026amp;rdquo; Instead, it has subtypes: ADHD-PI, ADHD-PH and ADHD-C, but even these names have alternatives. Naming things is difficult, y\u0026amp;rsquo;all.\nIn the beginning\u0026amp;hellip; I was what they call a \u0026amp;ldquo;problem child\u0026amp;rdquo;.\u003c/p\u003e",
+			"content_text": "Owen wrote about his journey with AD(H)D and I figured I could tell my story as well, especially since no two AD(H)D stories are the same.\nA note on terminology: I use ADHD, the DSM-IV and up uses ADHD as well, with a note that not everyone is \u0026ldquo;H.\u0026rdquo; Instead, it has subtypes: ADHD-PI, ADHD-PH and ADHD-C, but even these names have alternatives. Naming things is difficult, y\u0026rsquo;all.\nIn the beginning\u0026hellip; I was what they call a \u0026ldquo;problem child\u0026rdquo;."
+		}, 
+		{
 			"id": "https://blog.ktamas.com/index.php/2019/02/01/converting-my-blog-to-hugo-and-getting-rid-of-my-vps/",
 			"url": "https://blog.ktamas.com/index.php/2019/02/01/converting-my-blog-to-hugo-and-getting-rid-of-my-vps/",
 			"title": "Converting My Blog To Hugo and Getting Rid of My VPS",

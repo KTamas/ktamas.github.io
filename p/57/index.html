@@ -52,6 +52,38 @@
 		
 		    <article class="post">
         <header>
+            <h1 class="post"><a href="/index.php/2009/02/24/jelszovaltoztatas_mediawikiben/">Jelszóváltoztatás Mediawikiben</a></h1>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2009/02/24/jelszovaltoztatas_mediawikiben/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2009-02-24T13:06:09Z">Tuesday, February 24, 2009</time> · 59 words · 1 min read</div>
+        </header>
+        <div class="text">
+
+
+
+<p>Napi találós kérdés: hogyan változtatjuk meg egy adott user jelszavát Mediawiki alatt ha adminok vagyunk? <em>Természetesen</em> így:</p>
+
+<blockquote>
+<h3 id="a-href-http-meta-wikimedia-org-wiki-mediawiki-faq-how-do-i-change-a-user-27s-password-3f-target-blank-span-class-mw-headline-how-do-i-change-a-user-8217-s-password-span-a"><a href="http://meta.wikimedia.org/wiki/MediaWiki_FAQ#How_do_I_change_a_user.27s_password.3F" target="_blank"><span class="mw-headline">How do I change a user&#8217;s password?</span></a></h3>
+
+<p>Assuming that <var>$wgPasswordSalt</var> is set to true (the default), you can use the following SQL query:</p>
+
+<pre>UPDATE user SET user_password = MD5(CONCAT(user_id, '-',<br />
+  MD5('somepass'))) WHERE user_name = 'someuser';</pre>
+</blockquote>
+
+<p>Ha jön a forradalom, mennek a falhoz.</p>
+
+        </div>
+
+        <div class="tags">
+            <i class="fas fa-tags"></i>
+            <a href='/tags/wtf/'>wtf</a>
+        </div>
+    </article>
+
+		
+		    <article class="post">
+        <header>
             <h1 class="post"><a href="/index.php/2009/02/24/olympus_e_620/">Olympus E-620</a></h1>
             <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2009/02/24/olympus_e_620/"><i class="far fa-bookmark"></i></a>
             <time datetime="2009-02-24T09:42:48Z">Tuesday, February 24, 2009</time> · 174 words · 1 min read</div>
@@ -251,25 +283,6 @@
         <div class="text">
 
 <p>Szoval kedden viszonylag rovid ido alatt esett le szep mennyisegu ho, ugyhogy dacolva a 3-napos influenzaval, harom kabat, negy sapka es ot sal tarsasagaban kimentem fotozni, az eredmeny <a href="http://indafoto.hu/ktamasenty/winter" target="_blank">az indafoton lathato</a>. Direkt hagytam kicsit ilyen kekesen a kepeket, szerintem illik hozzajuk.</p>
-
-        </div>
-
-        <div class="tags">
-            <i class="fas fa-tags"></i>
-            <a href='/tags/fot%C3%B3z%C3%A1s/'>fotózás</a>
-        </div>
-    </article>
-
-		
-		    <article class="post">
-        <header>
-            <h1 class="post"><a href="/index.php/2009/02/12/tokaj36/">Tokaj36</a></h1>
-            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2009/02/12/tokaj36/"><i class="far fa-bookmark"></i></a>
-            <time datetime="2009-02-12T20:48:59Z">Thursday, February 12, 2009</time> · 28 words · 1 min read</div>
-        </header>
-        <div class="text">
-
-<p><a href="http://indafoto.hu/ktamasenty/tokaj36" target="_blank">Felraktam az indafotora</a> a vasarnapi Tokaj36 fotozas kepeit, semmi postprocess, a Lightroomba csak azert huztam be, hogy valogassak koztuk. Nagyon jol ereztem magam a fotosetan, meg tobb ilyet!</p>
 
         </div>
 
