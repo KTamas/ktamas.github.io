@@ -3,7 +3,7 @@
 	<id>https://blog.ktamas.com/</id>
 	<title>KTamas&#39; Blog</title>
 	<subtitle>Bringing you irregular content since 2009. By KTamas.</subtitle>
-	<updated>2019-02-02T16:44:59Z</updated>
+	<updated>2019-02-02T22:07:51Z</updated>
 	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/feed.xml"/>
 	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/"/>
 	<author>
@@ -13,6 +13,46 @@
 	<generator uri="https://gohugo.io/" version="0.54.0">Hugo</generator>
 	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
+	<entry>
+		<id>https://blog.ktamas.com/index.php/2019/02/02/i-am-not-sponsored-by-grammarly-but-at-this-point-i-really-should-be/</id>
+		<title>I Am Not Sponsored by Grammarly but at This Point I Really Should Be</title>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2019/02/02/i-am-not-sponsored-by-grammarly-but-at-this-point-i-really-should-be/"/>
+		<updated>2019-02-02T22:07:51Z</updated>
+		<published>2019-02-02T22:07:51Z</published>
+		<author>
+			<name>KTamas</name>
+			<uri>https://blog.ktamas.com/</uri>
+		</author>
+		<category scheme="https://blog.ktamas.com/tags" term="writersblock" label="writersblock"/>
+		<category scheme="https://blog.ktamas.com/tags" term="writetogether" label="writetogether"/>
+		<summary>I was going to finally get back to work on my latest series before I distracted myself with other things, like tweaking my blog (word counts! reading time! endlessly tweaking the CSS!) as well as continuing to cross-post some of my writings from here. One thing I noticed is how my writing has improved over the last month (at least in my opinion). I was also mildly horrified how bad my spelling and grammar was before I started using Grammarly.</summary>
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+<![CDATA[<p>I was going to finally get back to work on my latest series before I distracted myself with other things, like tweaking <a href="https://blog.ktamas.com">my blog</a> (word counts! reading time! endlessly tweaking the CSS!) as well as continuing to cross-post some of my writings from here. One thing I noticed is how my writing has improved over the last month (at least in my opinion). I was also mildly horrified how bad my spelling and grammar was before I started using Grammarly. Through this process, I fixed many early mistakes in those posts, though I don&rsquo;t think I will edit them much beyond that.</p>
+
+<p><em>A few days ago I bit the bullet and subscribed to Grammarly Premium, which fixes commas, sometimes tenses and other things one might mess up. It&rsquo;s not a magic bullet, and I often disagree with its recommendations, but overall it&rsquo;s definitely worth the money for me. If you want to save 40% on your subscription, register a new account and simply wait a few days. They will email you a discount on your first year.</em></p>
+
+<p>I also took the opportunity to edit my series about ADHD into <a href="https://blog.ktamas.com/index.php/2019/02/02/re-take-your-pills-my-story-of-adhd/">one big longread</a>. It made me realize that breaking things down into smaller chunks really helps with writing, but at the same time editing them into one long article is not an easy process and I still suck at it. This is something I want to get better at as I want to write more long-form articles.</p>
+
+<hr />
+
+<p>About ten years ago, before social media really blew up and blogs were all the rage, I hated when people <a href="https://www.urbandictionary.com/define.php?term=metablogging">metablogged</a>. A lot has changed, of course, but I can&rsquo;t help but see the irony that right now I&rsquo;m doing pretty much the same thing: writing about writing, for me a form of progressive procrastination and a way to hit that 300-word mark and keep my streak.</p>
+
+<p>In 2019 I feel like it&rsquo;s allright, as long as it&rsquo;s not overdone. I better find something else to write about for tomorrow, though.</p>
+
+<p><em>This post was</em> <strong><em>not</em></strong> <em>sponsored by Grammarly, even though I&rsquo;ve written about them plenty of times now, so they should really consider doing that.</em></p>
+
+<p><em>This post originally appeared on <a href="https://writetogether.space/posts/ktamas/i-am-not-sponsored-by-grammarly-but-at-this-point-i-really-should-be">WriteTogether</a>.</em></p>
+
+<footer>
+    <a title="Permanent link to “I Am Not Sponsored by Grammarly but at This Point I Really Should Be”" href="https://blog.ktamas.com/index.php/2019/02/02/i-am-not-sponsored-by-grammarly-but-at-this-point-i-really-should-be/">I Am Not Sponsored by Grammarly but at This Point I Really Should Be</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    Tagged
+        <div class="tags">
+            <i class="fas fa-tags"></i>
+            <a href='/tags/writersblock/'>writersblock</a>, <a href='/tags/writetogether/'>writetogether</a>
+        </div>
+</footer>]]></content>
+	</entry>
 	<entry>
 		<id>https://blog.ktamas.com/index.php/2019/02/02/re-take-your-pills-my-story-of-adhd/</id>
 		<title>RE: Take Your Pills — My Story of ADHD</title>
@@ -278,6 +318,8 @@ I believe this is <em>one of the most important books</em> I&rsquo;ve read about
 <p>Hugo gives me a lot of ways to tinker; I am already thinking about replacing the commenting system, adding reading time, word count and so on. I might write something on this in again in the future.</p>
 
 <p><em>This post was not sponsored by anyone, just in case some of it reads like an ad for Github or Netlify or whatever.</em></p>
+
+<p><em>This post originally appeared on <a href="https://writetogether.space/posts/ktamas/converting-my-blog-to-hugo-and-getting-rid-of-my-vps">WriteTogether</a>.</em></p>
 
 <footer>
     <a title="Permanent link to “Converting My Blog To Hugo and Getting Rid of My VPS”" href="https://blog.ktamas.com/index.php/2019/02/01/converting-my-blog-to-hugo-and-getting-rid-of-my-vps/">Converting My Blog To Hugo and Getting Rid of My VPS</a>
@@ -1561,35 +1603,6 @@ Alex and Artem greeted me and picked me up, then we drove to Artem’s place whe
         <div class="tags">
             <i class="fas fa-tags"></i>
             <a href='/tags/zene/'>zene</a>
-        </div>
-</footer>]]></content>
-	</entry>
-	<entry>
-		<id>https://blog.ktamas.com/index.php/2014/06/07/napi-loopok-es-svedzene-kobojsarna/</id>
-		<title>Napi loopok és Svédzene: Kobojsarna</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2014/06/07/napi-loopok-es-svedzene-kobojsarna/"/>
-		<updated>2014-06-07T20:05:08Z</updated>
-		<published>2014-06-07T20:05:08Z</published>
-		<author>
-			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
-		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="napiloop" label="napiloop"/>
-		<category scheme="https://blog.ktamas.com/tags" term="sv%C3%A9dzene" label="svédzene"/>
-		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
-		<summary>Mit lehet írni egy olyan zenekarról, akik simán írnak egy olyan dalt, aminek az a címe, hogy Sång om ingenting (Dal a semmiről), és tényleg nem szól semmiről? Leginkább azt, hogy ez kiváló Eurodance, ahol a dalszöveg gyakorlatilag tényleg semmit se számít. És akkor nem a legjobb dalt emeltem ki, mert például a La Perla meg az Unbeleivable jobb. A Kobojsarna 2003-ban alakult Malmőben, szóval még csak nem is kilencvenes évek, ez az igazi bátorság.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
-<![CDATA[<p>Mit lehet írni egy olyan zenekarról, akik simán írnak egy olyan dalt, aminek az a címe, hogy Sång om ingenting (Dal a semmiről), és tényleg nem szól semmiről? Leginkább azt, hogy ez kiváló Eurodance, ahol a dalszöveg gyakorlatilag tényleg semmit se számít. És akkor nem a legjobb dalt emeltem ki, mert például a La Perla meg az Unbeleivable jobb. A Kobojsarna 2003-ban alakult Malmőben, szóval még csak nem is kilencvenes évek, ez az igazi bátorság. Playlist alább.</p>
-
-<p><iframe src="https://embed.spotify.com/?uri=spotify:user:ktamas:playlist:4Uutv2qD2OAneeJrDZgjzV" width="300" height="380" frameborder="0"></iframe></p>
-
-<footer>
-    <a title="Permanent link to “Napi loopok és Svédzene: Kobojsarna”" href="https://blog.ktamas.com/index.php/2014/06/07/napi-loopok-es-svedzene-kobojsarna/">Napi loopok és Svédzene: Kobojsarna</a>
-    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
-    Tagged
-        <div class="tags">
-            <i class="fas fa-tags"></i>
-            <a href='/tags/napiloop/'>napiloop</a>, <a href='/tags/sv%C3%A9dzene/'>svédzene</a>, <a href='/tags/zene/'>zene</a>
         </div>
 </footer>]]></content>
 	</entry>
