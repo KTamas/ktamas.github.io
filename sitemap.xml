@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://blog.ktamas.com/index.php/2019/02/03/on-drawing/</loc>
+    <lastmod>2019-02-03T22:05:46+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.ktamas.com/index.php/2019/02/02/i-am-not-sponsored-by-grammarly-but-at-this-point-i-really-should-be/</loc>
     <lastmod>2019-02-02T22:07:51+00:00</lastmod>
   </url>
@@ -3001,7 +3006,7 @@
   
   <url>
     <loc>https://blog.ktamas.com/</loc>
-    <lastmod>2019-02-02T22:07:51+00:00</lastmod>
+    <lastmod>2019-02-03T22:05:46+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3149,6 +3154,12 @@
   <url>
     <loc>https://blog.ktamas.com/tags/doctorwho/</loc>
     <lastmod>2011-05-13T09:46:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ktamas.com/tags/drawing/</loc>
+    <lastmod>2019-02-03T22:05:46+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3832,7 +3843,7 @@
   
   <url>
     <loc>https://blog.ktamas.com/tags/writetogether/</loc>
-    <lastmod>2019-02-02T22:07:51+00:00</lastmod>
+    <lastmod>2019-02-03T22:05:46+00:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -223,6 +223,14 @@
 		<summary>Posts about doctorwho</summary>
 	</entry>
 	<entry>
+		<id>https://blog.ktamas.com/tags/drawing/</id>
+		<title>drawing</title>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/drawing/"/>
+		<updated>2019-02-03T22:05:46Z</updated>
+		<published>2019-02-03T22:05:46Z</published>
+		<summary>Posts about drawing</summary>
+	</entry>
+	<entry>
 		<id>https://blog.ktamas.com/tags/ebook/</id>
 		<title>ebook</title>
 		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/ebook/"/>
@@ -1130,8 +1138,8 @@
 		<id>https://blog.ktamas.com/tags/writetogether/</id>
 		<title>writetogether</title>
 		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/writetogether/"/>
-		<updated>2019-02-02T22:07:51Z</updated>
-		<published>2019-02-02T22:07:51Z</published>
+		<updated>2019-02-03T22:05:46Z</updated>
+		<published>2019-02-03T22:05:46Z</published>
 		<summary>Posts about writetogether</summary>
 	</entry>
 	<entry>
