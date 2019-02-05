@@ -3,7 +3,7 @@
 	<id>https://blog.ktamas.com/</id>
 	<title>KTamas&#39; Blog</title>
 	<subtitle>Bringing you irregular content since 2009. By KTamas.</subtitle>
-	<updated>2019-02-03T22:05:46Z</updated>
+	<updated>2019-02-04T20:29:15Z</updated>
 	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/feed.xml"/>
 	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/"/>
 	<author>
@@ -13,6 +13,51 @@
 	<generator uri="https://gohugo.io/" version="0.54.0">Hugo</generator>
 	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
+	<entry>
+		<id>https://blog.ktamas.com/index.php/2019/02/04/flow-on-remote-work-and-cafes/</id>
+		<title>Flow (on Remote Work and Cafés)</title>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2019/02/04/flow-on-remote-work-and-cafes/"/>
+		<updated>2019-02-04T20:29:15Z</updated>
+		<published>2019-02-04T20:29:15Z</published>
+		<author>
+			<name>KTamas</name>
+			<uri>https://blog.ktamas.com/</uri>
+		</author>
+		<category scheme="https://blog.ktamas.com/tags" term="flow" label="flow"/>
+		<category scheme="https://blog.ktamas.com/tags" term="remotework" label="remotework"/>
+		<category scheme="https://blog.ktamas.com/tags" term="digitalnomad" label="digitalnomad"/>
+		<category scheme="https://blog.ktamas.com/tags" term="writetogether" label="writetogether"/>
+		<summary>I’m a freelancer; I don’t have an office. I can’t work from home; the silence is deafening, I need the background noise, and I need to be among people. The place I work from every day is a café about 25 minutes from my home; it’s called Flow. I am a person of habit: I wake up, I get dressed, I go to Flow and start working.
+Flow is one of the many, many specialty cafés in Budapest.</summary>
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+<![CDATA[<p>I&rsquo;m a freelancer; I don&rsquo;t have an office. I can&rsquo;t work from home; the silence is deafening, I need the background noise, and I need to be among people. The place I work from every day is a café about 25 minutes from my home; it&rsquo;s called <a href="https://www.facebook.com/flowcoffeeandbistro/">Flow</a>. I am a person of habit: I wake up, I get dressed, I go to Flow and start working.</p>
+
+<p>Flow is one of the many, many specialty cafés in Budapest. Don&rsquo;t ask me about their coffee: I mostly eschew caffeine — <a href="https://blog.ktamas.com/index.php/2019/02/02/re-take-your-pills-my-story-of-adhd/">my ADHD meds</a> mostly replace caffeine — so my regular drink is an iced decaf latte with oat milk. It&rsquo;s one of the most pointless drinks ever, but I like it.</p>
+
+<p>So I don&rsquo;t go to Flow for their coffee, but for everything else. It&rsquo;s big; ceilings about 5 meters high and plenty of space, unlike most cafés. They have fresh pastries delivered every morning; if I get there early enough, I can nab one of my favorite chocolate rolls. And I kinda know some of the people running the place. They used to have great wifi as well, until the people responsible for it installed a network filter on it, blocking random sites and making work impossible. Thank God for unlimited 4G and tethering. They&rsquo;re vegan, and I&rsquo;m a carnivore, but they do have delicious tapioca pudding desserts. That, and plenty of power outlets.</p>
+
+<p>Before Flow, I had another café as my base; before that place, another. I tried coworking spaces, and I was even part of one for about 6 months before the community around it started to dwindle.</p>
+
+<hr />
+
+<p>On weekends or where I&rsquo;m traveling, I go to a Starbucks. They usually have decent wifi, and their decaf is the same everywhere. They&rsquo;re ubiquitous; you can find many of them in most major western cities these days (except for Sweden; there, I&rsquo;ll go to an Espresso House instead).</p>
+
+<hr />
+
+<p>Working from cafés is in many ways is not ideal, but it&rsquo;s the thing that works for me. What <em>would be</em> ideal is a proper office, with coworkers — but I can&rsquo;t give up freelancing for so many reasons. And it&rsquo;s not like I&rsquo;m alone here; I get to hang out with other friends who work remotely.</p>
+
+<p>So cafés it is.</p>
+
+<footer>
+    <a title="Permanent link to “Flow (on Remote Work and Cafés)”" href="https://blog.ktamas.com/index.php/2019/02/04/flow-on-remote-work-and-cafes/">Flow (on Remote Work and Cafés)</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    Tagged
+        <div class="tags">
+            <i class="fas fa-tags"></i>
+            <a href='/tags/flow/'>flow</a>, <a href='/tags/remotework/'>remotework</a>, <a href='/tags/digitalnomad/'>digitalnomad</a>, <a href='/tags/writetogether/'>writetogether</a>
+        </div>
+</footer>]]></content>
+	</entry>
 	<entry>
 		<id>https://blog.ktamas.com/index.php/2019/02/03/on-drawing/</id>
 		<title>On Drawing</title>
@@ -1591,38 +1636,6 @@ Alex and Artem greeted me and picked me up, then we drove to Artem’s place whe
         <div class="tags">
             <i class="fas fa-tags"></i>
             <a href='/tags/2015/'>2015</a>, <a href='/tags/ontheroad/'>ontheroad</a>
-        </div>
-</footer>]]></content>
-	</entry>
-	<entry>
-		<id>https://blog.ktamas.com/index.php/2014/12/16/gaudete-redux-es-remix/</id>
-		<title>Gaudete redux és remix</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2014/12/16/gaudete-redux-es-remix/"/>
-		<updated>2014-12-16T12:07:03Z</updated>
-		<published>2014-12-16T12:07:03Z</published>
-		<author>
-			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
-		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="napiloop" label="napiloop"/>
-		<category scheme="https://blog.ktamas.com/tags" term="zene" label="zene"/>
-		<summary>Három éve a céges karácsonyos kórusozás kapcsán rákattantam erre a dalra. Azóta sok centit haladt a gleccser a norvég fjordokon, és idén Luca napján (Dec 13), az itt hagyományos koncerten megint elhangzott, fel is vettem videóra. Az első pár másodperc sajnos lemaradt, illetve az utolsó sorból videóztam ISO25600-zzal a szenzor számára siralmas fényviszonyok között, kézből a 6D-vel. Ennek ellenére nyomokban látszanak rajta embere, és a lényeg, a hang teljesen okés lett:</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
-<![CDATA[<p><a href="http://blog.ktamas.com/index.php/2011/12/09/napi-loop-gaudete/">Három éve</a> a céges karácsonyos kórusozás kapcsán rákattantam erre a dalra. Azóta sok centit haladt a gleccser a norvég fjordokon, és idén Luca napján (Dec 13), az itt hagyományos koncerten megint elhangzott, fel is vettem videóra. Az első pár másodperc sajnos lemaradt, illetve az utolsó sorból videóztam ISO25600-zzal a szenzor számára siralmas fényviszonyok között, kézből a 6D-vel. Ennek ellenére nyomokban látszanak rajta embere, és a lényeg, a hang teljesen okés lett:</p>
-
-<p><iframe src="//www.youtube.com/embed/ZLc8zUVRSd8?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
-
-<p>Aztán elkezdtem nézegetni a verziókat a Spotifyon, és belebotlottam az <a href="http://open.spotify.com/track/0u3AbIF9Q3U5sWpFfqG9XZ">Erasure-féle, egyébként is remek verzió</a> Dave Audé Extended Club Mixébe. Nem kell félni, nem fog fájni, mert iszonyat jó:</p>
-
-<p><iframe src="https://embed.spotify.com/?uri=spotify:track:5gBYveQNXKWqyrdQNsxSVX" width="300" height="380" frameborder="0"></iframe></p>
-
-<footer>
-    <a title="Permanent link to “Gaudete redux és remix”" href="https://blog.ktamas.com/index.php/2014/12/16/gaudete-redux-es-remix/">Gaudete redux és remix</a>
-    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
-    Tagged
-        <div class="tags">
-            <i class="fas fa-tags"></i>
-            <a href='/tags/napiloop/'>napiloop</a>, <a href='/tags/zene/'>zene</a>
         </div>
 </footer>]]></content>
 	</entry>

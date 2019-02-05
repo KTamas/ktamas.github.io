@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://blog.ktamas.com/index.php/2019/02/04/flow-on-remote-work-and-cafes/</loc>
+    <lastmod>2019-02-04T20:29:15+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.ktamas.com/index.php/2019/02/03/on-drawing/</loc>
     <lastmod>2019-02-03T22:05:46+00:00</lastmod>
   </url>
@@ -3006,7 +3011,7 @@
   
   <url>
     <loc>https://blog.ktamas.com/</loc>
-    <lastmod>2019-02-03T22:05:46+00:00</lastmod>
+    <lastmod>2019-02-04T20:29:15+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3152,6 +3157,12 @@
   </url>
   
   <url>
+    <loc>https://blog.ktamas.com/tags/digitalnomad/</loc>
+    <lastmod>2019-02-04T20:29:15+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.ktamas.com/tags/doctorwho/</loc>
     <lastmod>2011-05-13T09:46:01+00:00</lastmod>
     <priority>0</priority>
@@ -3196,6 +3207,12 @@
   <url>
     <loc>https://blog.ktamas.com/tags/flamebait/</loc>
     <lastmod>2014-03-07T18:37:35+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ktamas.com/tags/flow/</loc>
+    <lastmod>2019-02-04T20:29:15+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3614,6 +3631,12 @@
   </url>
   
   <url>
+    <loc>https://blog.ktamas.com/tags/remotework/</loc>
+    <lastmod>2019-02-04T20:29:15+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.ktamas.com/tags/rss/</loc>
     <lastmod>2019-01-15T09:56:04+00:00</lastmod>
     <priority>0</priority>
@@ -3843,7 +3866,7 @@
   
   <url>
     <loc>https://blog.ktamas.com/tags/writetogether/</loc>
-    <lastmod>2019-02-03T22:05:46+00:00</lastmod>
+    <lastmod>2019-02-04T20:29:15+00:00</lastmod>
     <priority>0</priority>
   </url>
   

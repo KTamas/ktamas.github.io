@@ -212,6 +212,14 @@
 			"content_text": "Posts about die_outlook_die."
 		}, 
 		{
+			"id": "https://blog.ktamas.com/tags/digitalnomad/",
+			"url": "https://blog.ktamas.com/tags/digitalnomad/",
+			"title": "digitalnomad",
+			"date_published": "2019-02-04T20:29:15Z",
+			"content_html": "\u003cp\u003ePosts about digitalnomad.\u003c/p\u003e",
+			"content_text": "Posts about digitalnomad."
+		}, 
+		{
 			"id": "https://blog.ktamas.com/tags/doctorwho/",
 			"url": "https://blog.ktamas.com/tags/doctorwho/",
 			"title": "doctorwho",
@@ -274,6 +282,14 @@
 			"date_published": "2014-03-07T18:37:35Z",
 			"content_html": "\u003cp\u003ePosts about flamebait.\u003c/p\u003e",
 			"content_text": "Posts about flamebait."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/tags/flow/",
+			"url": "https://blog.ktamas.com/tags/flow/",
+			"title": "flow",
+			"date_published": "2019-02-04T20:29:15Z",
+			"content_html": "\u003cp\u003ePosts about flow.\u003c/p\u003e",
+			"content_text": "Posts about flow."
 		}, 
 		{
 			"id": "https://blog.ktamas.com/tags/fogorvos/",
@@ -828,6 +844,14 @@
 			"content_text": "Posts about recommendations."
 		}, 
 		{
+			"id": "https://blog.ktamas.com/tags/remotework/",
+			"url": "https://blog.ktamas.com/tags/remotework/",
+			"title": "remotework",
+			"date_published": "2019-02-04T20:29:15Z",
+			"content_html": "\u003cp\u003ePosts about remotework.\u003c/p\u003e",
+			"content_text": "Posts about remotework."
+		}, 
+		{
 			"id": "https://blog.ktamas.com/tags/rss/",
 			"url": "https://blog.ktamas.com/tags/rss/",
 			"title": "rss",
@@ -1135,7 +1159,7 @@
 			"id": "https://blog.ktamas.com/tags/writetogether/",
 			"url": "https://blog.ktamas.com/tags/writetogether/",
 			"title": "writetogether",
-			"date_published": "2019-02-03T22:05:46Z",
+			"date_published": "2019-02-04T20:29:15Z",
 			"content_html": "\u003cp\u003ePosts about writetogether.\u003c/p\u003e",
 			"content_text": "Posts about writetogether."
 		}, 
