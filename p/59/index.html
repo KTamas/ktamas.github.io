@@ -52,6 +52,33 @@
 		
 		    <article class="post">
         <header>
+            <h1 class="post"><a href="/index.php/2009/01/26/a_wind_es_az_ubuntu_esete_pt_1/">A Wind és az Ubuntu esete, pt. 1</a></h1>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2009/01/26/a_wind_es_az_ubuntu_esete_pt_1/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2009-01-26T09:43:08Z">Monday, January 26, 2009</time> · 280 words · 2 min read</div>
+        </header>
+        <div class="text">
+
+<p>Szóval a hétvégén játszottam kicsit az Ubuntuval apám Windjén a <a href="http://wubi.sf.net" target="_blank">Wubi</a> segítségével és tulajdonképp nem volt rossz. Maga a rendszer 20 perc alatt felment sans letöltés, és majdnem minden hardvert azonnal felismert, es 5 perc google után megvolt a wifi is ami már-már scifibe illik.</p>
+
+<p>A legkisebb rossz jegyében a Gnome-ot választottam, a KDE4-et megnéztem a múltkor a winden és amellett, hogy lassú volt, usability szempontból szintén, khm, viszonylag hátul szerepelt a sorban. Gyorsan könnyes búcsút vettem az alsó taskbarszerüségtől (a futó programok felkerültek a felső menüsorra), majd felraktam a Gnome Do-t és kellemeset csalódtam: kiváló Quicksilver-klón, rakat pluginnal, és legalább annyira kézre áll.</p>
+
+<p>Elkezdtem ismerkedni a vimmel is, hála a vimtutornak, sőt, megcsináltam életem első .vimrc-jét is, meg felraktam a vim-ruby hogy legyen jó kis syntax highlighting, szóval <esc>:%s/mi az a vim/egész jó ez a vim/g.</p>
+
+<p>Az viszont nem menő, hogy az Intel videodriver apróbb hiányosságokban szenved még így 2009 tájékán is, például videolejátszás esetén <a href="http://en.wikipedia.org/wiki/Page_tearing" target="_blank">tearing</a> jelentkezik. Igazából látni kell, de olyasmi, hogy gyors mozgáskor a kép felső fele pár kockával előrébb jár, mint az alsó, és ezért eltérés van, ezért tearing, tehát szakadás. Létezik <a href="https://bugs.launchpad.net/ubuntu/intrepid/+source/xserver-xorg-video-intel/+bug/278318" target="_blank">részleges workaround</a> ami ezt elvileg kiküszöböli VLC meg MPlayer estén (átkapcsolni hardware overlayre), igaz ez is kicsit bugzik, ja és ez se nyújt megoldást pl. flash videó esetén, ami elég idegesítő. Elvileg a driver következő verziójába ez javítva lesz, amivel csak az a bajom, hogy ezt igérték a nemrég megjelent új verzióhoz is, csak aztán valahogy nem fért bele. Mindenesetre ez perpill <em>borderline dealbreaker</em>, mert a youtube-ról nem fogok lemondani.</p>
+
+<p>Ettől független lehet, hogy hamarosan beszerzek magamnak is egy ilyen kis gépet, főleg mert pl. a Windows 7 (is) nagyon jól fut rajta :)</esc></p>
+
+        </div>
+
+        <div class="tags">
+            <i class="fas fa-tags"></i>
+            <a href='/tags/linux/'>linux</a>, <a href='/tags/ubuntu/'>ubuntu</a>, <a href='/tags/wind/'>wind</a>
+        </div>
+    </article>
+
+		
+		    <article class="post">
+        <header>
             <h1 class="post"><a href="/index.php/2009/01/25/5_minutes_of_fame/">5 minutes of fame</a></h1>
             <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2009/01/25/5_minutes_of_fame/"><i class="far fa-bookmark"></i></a>
             <time datetime="2009-01-25T12:50:52Z">Sunday, January 25, 2009</time> · 50 words · 1 min read</div>
@@ -301,29 +328,6 @@ Re: Hi<br />
         <div class="tags">
             <i class="fas fa-tags"></i>
             <a href='/tags/zene/'>zene</a>
-        </div>
-    </article>
-
-		
-		    <article class="post">
-        <header>
-            <h1 class="post"><a href="/index.php/2009/01/10/sargetol_a_hyper_v_ig_masodik_resz/">Sargetól a Hyper-V-ig, második rész</a></h1>
-            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2009/01/10/sargetol_a_hyper_v_ig_masodik_resz/"><i class="far fa-bookmark"></i></a>
-            <time datetime="2009-01-10T13:16:01Z">Saturday, January 10, 2009</time> · 172 words · 1 min read</div>
-        </header>
-        <div class="text">
-
-<p>Szóval ott tartottunk a sztorival hogy naív kislányként úgy gondoltam, hogy akkor majd berakom RAID-be utólag (háháháhá). Mint az kiderült, ez nem annyira egyszerű, főleg ha LVM is van az adott winchin, amit én &#8220;miért is ne&#8221; alapon raktam fel &#8212; igen, ekkor még elég kezdő linuxos voltam. Mindenesetre nagy nehezen sikerült levadásznom egy laza 8 oldalas guideot a howtoforge-ról, és nekiestem, gondoltam megvan pár óra alatt (háháháhá). Ez gyakorlatilag egy éjszakányi szívást jelentett&#8230; ugyanis, pár nappal azelőzőleg backupként át-dd-ztem (igen, tudom, hülyeség) egy másik winchire az adott winchit backup okán, na most ez azt eredményezte, hogy teljesen meghülyült az mdadm (ez a linuxos softraid progi), mert a két winchit teljesen megegyezőnek látta. Mindenesetre reggelre sikerült megcsinálni úgy, hogy működjön igaz újraindítani már nem tudtam a dolgot, mert gondok voltak a /etc/fstab-bal&#8230; ezt egy újabb pár órányi szívás helyretette.</p>
-
-<p>Volt még pár elég furcsa linuxos szívásom, például mikor a rendszer úgy döntött ő most fél napnyi adatot korruptál, azóta se tudni miért, és azt se, miért csak az aznapi adatok&#8230;</p>
-
-<p>Majd folytatjuk.</p>
-
-        </div>
-
-        <div class="tags">
-            <i class="fas fa-tags"></i>
-            <a href='/tags/linux/'>linux</a>, <a href='/tags/szerverek/'>szerverek</a>
         </div>
     </article>
 

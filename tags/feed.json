@@ -124,6 +124,14 @@
 			"content_text": "Posts about blackberry."
 		}, 
 		{
+			"id": "https://blog.ktamas.com/tags/boardgames/",
+			"url": "https://blog.ktamas.com/tags/boardgames/",
+			"title": "boardgames",
+			"date_published": "2019-02-09T16:07:47Z",
+			"content_html": "\u003cp\u003ePosts about boardgames.\u003c/p\u003e",
+			"content_text": "Posts about boardgames."
+		}, 
+		{
 			"id": "https://blog.ktamas.com/tags/bor/",
 			"url": "https://blog.ktamas.com/tags/bor/",
 			"title": "bor",
@@ -839,7 +847,7 @@
 			"id": "https://blog.ktamas.com/tags/recommendations/",
 			"url": "https://blog.ktamas.com/tags/recommendations/",
 			"title": "recommendations",
-			"date_published": "2019-01-02T16:07:02Z",
+			"date_published": "2019-02-09T16:07:47Z",
 			"content_html": "\u003cp\u003ePosts about recommendations.\u003c/p\u003e",
 			"content_text": "Posts about recommendations."
 		}, 
@@ -1159,7 +1167,7 @@
 			"id": "https://blog.ktamas.com/tags/writetogether/",
 			"url": "https://blog.ktamas.com/tags/writetogether/",
 			"title": "writetogether",
-			"date_published": "2019-02-04T20:29:15Z",
+			"date_published": "2019-02-09T16:07:47Z",
 			"content_html": "\u003cp\u003ePosts about writetogether.\u003c/p\u003e",
 			"content_text": "Posts about writetogether."
 		}, 

@@ -127,6 +127,14 @@
 		<summary>Posts about blackberry</summary>
 	</entry>
 	<entry>
+		<id>https://blog.ktamas.com/tags/boardgames/</id>
+		<title>boardgames</title>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/boardgames/"/>
+		<updated>2019-02-09T16:07:47Z</updated>
+		<published>2019-02-09T16:07:47Z</published>
+		<summary>Posts about boardgames</summary>
+	</entry>
+	<entry>
 		<id>https://blog.ktamas.com/tags/bor/</id>
 		<title>bor</title>
 		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/bor/"/>
@@ -842,8 +850,8 @@
 		<id>https://blog.ktamas.com/tags/recommendations/</id>
 		<title>recommendations</title>
 		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/recommendations/"/>
-		<updated>2019-01-02T16:07:02Z</updated>
-		<published>2019-01-02T16:07:02Z</published>
+		<updated>2019-02-09T16:07:47Z</updated>
+		<published>2019-02-09T16:07:47Z</published>
 		<summary>Posts about recommendations</summary>
 	</entry>
 	<entry>
@@ -1162,8 +1170,8 @@
 		<id>https://blog.ktamas.com/tags/writetogether/</id>
 		<title>writetogether</title>
 		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/writetogether/"/>
-		<updated>2019-02-04T20:29:15Z</updated>
-		<published>2019-02-04T20:29:15Z</published>
+		<updated>2019-02-09T16:07:47Z</updated>
+		<published>2019-02-09T16:07:47Z</published>
 		<summary>Posts about writetogether</summary>
 	</entry>
 	<entry>
