@@ -700,6 +700,14 @@
 			"content_text": "Posts about munka."
 		}, 
 		{
+			"id": "https://blog.ktamas.com/tags/musings/",
+			"url": "https://blog.ktamas.com/tags/musings/",
+			"title": "musings",
+			"date_published": "2019-02-12T13:23:02Z",
+			"content_html": "\u003cp\u003ePosts about musings.\u003c/p\u003e",
+			"content_text": "Posts about musings."
+		}, 
+		{
 			"id": "https://blog.ktamas.com/tags/musthave/",
 			"url": "https://blog.ktamas.com/tags/musthave/",
 			"title": "musthave",
@@ -1031,7 +1039,7 @@
 			"id": "https://blog.ktamas.com/tags/thoughts/",
 			"url": "https://blog.ktamas.com/tags/thoughts/",
 			"title": "thoughts",
-			"date_published": "2019-01-20T16:22:29Z",
+			"date_published": "2019-02-12T13:23:02Z",
 			"content_html": "\u003cp\u003ePosts about thoughts.\u003c/p\u003e",
 			"content_text": "Posts about thoughts."
 		}, 
@@ -1167,7 +1175,7 @@
 			"id": "https://blog.ktamas.com/tags/writetogether/",
 			"url": "https://blog.ktamas.com/tags/writetogether/",
 			"title": "writetogether",
-			"date_published": "2019-02-09T16:07:47Z",
+			"date_published": "2019-02-12T13:23:02Z",
 			"content_html": "\u003cp\u003ePosts about writetogether.\u003c/p\u003e",
 			"content_text": "Posts about writetogether."
 		}, 

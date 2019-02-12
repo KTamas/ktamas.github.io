@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://blog.ktamas.com/index.php/2019/02/12/on-living-alone-living-with-flatmates-and-having-the-best-apartment/</loc>
+    <lastmod>2019-02-12T13:23:02+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.ktamas.com/index.php/2019/02/09/on-board-games/</loc>
     <lastmod>2019-02-09T16:07:47+00:00</lastmod>
   </url>
@@ -3016,7 +3021,7 @@
   
   <url>
     <loc>https://blog.ktamas.com/</loc>
-    <lastmod>2019-02-09T16:07:47+00:00</lastmod>
+    <lastmod>2019-02-12T13:23:02+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3528,6 +3533,12 @@
   </url>
   
   <url>
+    <loc>https://blog.ktamas.com/tags/musings/</loc>
+    <lastmod>2019-02-12T13:23:02+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.ktamas.com/tags/musthave/</loc>
     <lastmod>2009-03-07T21:37:41+00:00</lastmod>
     <priority>0</priority>
@@ -3775,7 +3786,7 @@
   
   <url>
     <loc>https://blog.ktamas.com/tags/thoughts/</loc>
-    <lastmod>2019-01-20T16:22:29+00:00</lastmod>
+    <lastmod>2019-02-12T13:23:02+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3877,7 +3888,7 @@
   
   <url>
     <loc>https://blog.ktamas.com/tags/writetogether/</loc>
-    <lastmod>2019-02-09T16:07:47+00:00</lastmod>
+    <lastmod>2019-02-12T13:23:02+00:00</lastmod>
     <priority>0</priority>
   </url>
   
