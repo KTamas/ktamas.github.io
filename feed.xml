@@ -3,7 +3,7 @@
 	<id>https://blog.ktamas.com/</id>
 	<title>KTamas&#39; Blog</title>
 	<subtitle>Bringing you irregular content since 2009. By KTamas.</subtitle>
-	<updated>2019-02-12T13:23:02Z</updated>
+	<updated>2019-02-13T09:24:53Z</updated>
 	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/feed.xml"/>
 	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/"/>
 	<author>
@@ -13,6 +13,75 @@
 	<generator uri="https://gohugo.io/" version="0.54.0">Hugo</generator>
 	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
+	<entry>
+		<id>https://blog.ktamas.com/index.php/2019/02/13/on-photography/</id>
+		<title>On Photography</title>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2019/02/13/on-photography/"/>
+		<updated>2019-02-13T09:24:53Z</updated>
+		<published>2019-02-13T09:24:53Z</published>
+		<author>
+			<name>KTamas</name>
+			<uri>https://blog.ktamas.com/</uri>
+		</author>
+		<category scheme="https://blog.ktamas.com/tags" term="photography" label="photography"/>
+		<category scheme="https://blog.ktamas.com/tags" term="writetogether" label="writetogether"/>
+		<summary>My father is a semi-amateur photographer; I got my affinity towards photography from him. I grew up watching him taking pictures. After high school, I got a job and soon I had disposable income, so I got my first digital camera: the Olympus E-1.
+That was in 2008, and by then, it was already outdated. Released in 2003, it had a first-generation micro 4⁄3 sensor, 5 megapixels and ISO 800 was barely usable.</summary>
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+<![CDATA[<p>My father is a semi-amateur photographer; I got my affinity towards photography from him. I grew up watching him taking pictures. After high school, I got a job and soon I had disposable income, so I got my first digital camera: the <a href="https://www.dpreview.com/reviews/olympuse1">Olympus E-1</a>.</p>
+
+<p>That was in 2008, and by then, it was already outdated. Released in 2003, it had a first-generation micro <sup>4</sup>&frasl;<sub>3</sub> sensor, 5 megapixels and ISO 800 was barely usable. That didn&rsquo;t stop me; it was a camera I was familiar with because my father had one for years. I frequently borrowed my dad&rsquo;s excellent <a href="https://www.dpreview.com/products/olympus/lenses/oly_14-54_2p8-3p5">14-54mm f/2.8-3.5</a> which is still one of the best glasses ever made. The combination of the lens and the camera took good pictures, ones that look great even in 2019.</p>
+
+<p>In those early days I photographed a lot of things, but after a while I kind realized that I mostly like shooting people and that&rsquo;s where my passion&rsquo;s at. Portraits, parties, events, families and so on.</p>
+
+<hr />
+
+<p>The first phone I owned that could take pictures was the Blackberry 9000 (I still miss that keyboard&hellip;). The image quality was pretty bad by today&rsquo;s standards, but it was a start. After that, I had two Android phones; they were a bit better, but still not great. The first phone with a decent camera arrived to me in 2013 in the form of an iPhone 4S, and I was a convert. I took a lot of photos in the next few years with it and the other iPhones I eventually upgraded to (a 5S, then a 6+ then back to the 5S). People were still my focus, but I also took a lot of random pictures for social media. The 5S was surprisingly capable of capturing a good sunset.</p>
+
+<hr />
+
+<p>I started playing with film photography around 2010, borrowing my dad&rsquo;s <a href="http://camera-wiki.org/wiki/Contax_137_MD">Contax SLR</a> collecting dust. I bought a roll of black and white film for it and started shooting with a <a href="https://phillipreeve.net/blog/review-carl-zeiss-planar-1450-cy/">Zeiss 50mm f/1.4 lens</a>. Later on, I&rsquo;d get a <a href="http://camera-wiki.org/wiki/Canon_Canonet_QL_17_/_QL_19_/_QL_25">Canonet QL19 rangefinder</a>, and shot a few rolls with that. I gave that one away to a friend, something I kind of regret. Then again, getting a new one wouldn&rsquo;t cost too much. I took some of my best photos to this day on film and I almost always shot black and white, there was just something to it.</p>
+
+<hr />
+
+<p>Shooting with an analog SLR spoils you with that big, beautiful viewfinder. I became obsessed with getting a full-frame DSLR, which were not quite affordable until Canon released the 6D and Nikon the D600 around 2012. It took me a couple of years, but at the end of 2013 I was finally able to afford one. I got the 6D and eventually two lenses for it: the 40mm f/2.8 pancake and the 85mm f/1.8, the latter being my favorite lens to this day: it&rsquo;s razor-sharp and takes the best portraits. I got a flash for it as well, and it sort of became my &ldquo;work&rdquo; camera. I got into party photography and became really good at dancing with a heavy DSLR in one hand. I even got paid for it sometimes.</p>
+
+<hr />
+
+<p>From the earliest days, I shot in RAW and used Lightroom Classic (née Lightroom). By now my brain is hardwired for it. I have a good workflow, and I can edit the 800 pictures I took on a party down to about 60 good ones in 2-3 hours.</p>
+
+<hr />
+
+<p>In the middle of 2015 and I was about to leave for a couple of months of work and travel in Southern Europe. I didn&rsquo;t want to lug my heavy 6D around, but I felt that having only a phone was not enough. It was a perfect excuse for me to finally buy a Fuji X-E1. By then I was already infected with a fascination with Fuji&rsquo;s mirrorless cameras because one of my former best friends was really into them. I got two lenses for it, the 35mm f/1.4 and the 18-55 f/2.8-4. The autofocus and the EVF sucks, but it makes the most beautiful black and white JPEGs. They have a certain kind of magic to them.</p>
+
+<p>I used it with an <a href="https://en.wikipedia.org/wiki/Eye-Fi">Eye-Fi card</a> I got a few months prior, an SD card with built-in WiFi that sends all the pictures you take to your phone. Combining that with <a href="https://writetogether.space/posts/ktamas/got-my-paperang-sf-xoxo-2018-series-part-3">my instant printers</a>, I could take DSLR-quality portraits of people and hand it to them printed out two minutes later. It never fails to amaze.</p>
+
+<hr />
+
+<p>By 2018 my enthusiasm for photography has started to dwindle. I was still talking random snapshots with my aging 5S, but I stopped carrying my Fuji with me in my backpack. I also stopped going to the kind of parties where I&rsquo;d take pictures. I got myself a Pixel 2 to finally upgrade my phone, which briefly got me interested in photography again, and later on, I switched to an iPhone X, which I used for a <a href="http://facesofxoxo2018.tumblr.com">series of portraits</a> (and instant pictures) on XOXO 2018.</p>
+
+<hr />
+
+<p>Nowadays most of my equipment is collecting dust. My creativity gets channeled into other things: <a href="https://instagram.com/ktamasart">drawing</a> and <a href="https://blog.ktamas.com">writing</a>. I think part of the reason I stopped doing photography is that it can create a distance between you and whatever you&rsquo;re taking pictures. Without my camera, I am often more present.</p>
+
+<p>I don&rsquo;t know what the future will bring, but I wouldn&rsquo;t be surprised if eventually I&rsquo;d start taking more pictures again.</p>
+
+<hr />
+
+<p>You can find some of my photos <a href="https://www.facebook.com/ktamasphotovideo/">on my Facebook page</a>.</p>
+
+<p><em>This post originally appeared on <a href="https://writetogether.space/posts/ktamas/on-photography">WriteTogether</a>.</em></p>
+
+<footer>
+    <a title="Permanent link to “On Photography”" href="https://blog.ktamas.com/index.php/2019/02/13/on-photography/">On Photography</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    Tagged
+        <div class="tags">
+            <i class="fas fa-tags"></i>
+            <a href='/tags/photography/'>photography</a>, <a href='/tags/writetogether/'>writetogether</a>
+        </div>
+</footer>]]></content>
+	</entry>
 	<entry>
 		<id>https://blog.ktamas.com/index.php/2019/02/12/on-living-alone-living-with-flatmates-and-having-the-best-apartment/</id>
 		<title>On Living Alone, Living With Flatmates and Having the Best Apartment</title>
@@ -1621,36 +1690,6 @@ Mást pedig most nem tudok hirtelen írni, pedig sokat gondolkoztam, mit lehetne
         <div class="tags">
             <i class="fas fa-tags"></i>
             <a href='/tags/2015/'>2015</a>, <a href='/tags/%C3%A9nblog/'>énblog</a>, <a href='/tags/fot%C3%B3z%C3%A1s/'>fotózás</a>, <a href='/tags/sv%C3%A9dorsz%C3%A1g/'>svédország</a>
-        </div>
-</footer>]]></content>
-	</entry>
-	<entry>
-		<id>https://blog.ktamas.com/index.php/2015/02/19/%d0%be%d0%b4%d0%bd%d1%96%d1%94%d1%97-%d0%bc%d0%be%d0%b2%d0%b8-%d0%bd%d1%96%d0%ba%d0%be%d0%bb%d0%b8-%d0%bd%d0%b5-%d0%b4%d0%be%d1%81%d0%b8%d1%82%d1%8c/</id>
-		<title>Однієї мови ніколи не досить</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2015/02/19/%d0%be%d0%b4%d0%bd%d1%96%d1%94%d1%97-%d0%bc%d0%be%d0%b2%d0%b8-%d0%bd%d1%96%d0%ba%d0%be%d0%bb%d0%b8-%d0%bd%d0%b5-%d0%b4%d0%be%d1%81%d0%b8%d1%82%d1%8c/"/>
-		<updated>2015-02-19T15:06:39Z</updated>
-		<published>2015-02-19T15:06:39Z</published>
-		<author>
-			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
-		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="2015" label="2015"/>
-		<category scheme="https://blog.ktamas.com/tags" term="ontheroad" label="ontheroad"/>
-		<summary>One language is never enough, is the phrase above, and it’s true. I’ve been here for more, than a week now, and I quickly got used to the fact that things are written in Ukrainian but the people I know here speak Russian (mixed with some Ukrainian) and the people on the street speak, well, both. Because of the subtle differences in the Cyrillic between Ukrainian and Russian, at this point reading Russian is weird to me.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
-<![CDATA[<p>One language is never enough, is the phrase above, and it&#8217;s true. I&#8217;ve been here for more, than a week now, and I quickly got used to the fact that things are written in Ukrainian but the people I know here speak Russian (mixed with some Ukrainian) and the people on the street speak, well, both. Because of the subtle differences in the Cyrillic between Ukrainian and Russian, at this point reading Russian is weird to me.</p>
-
-<p>Unfortunately, a week here is not enough to make me be able to read Cyrillic at a comfortable speed, I still need to go through every word and transliterate it slowly in my head, but it did improve somewhat. If I&#8217;d live here for a few months (which I really would not want to do&#8230;), I am pretty sure I could get to a conversational level, given that far less people speak English and you are kind of forced to speak Russian/Ukrainian.</p>
-
-<p>And I have to say, Ukrainian is a lot more interesting out of these two, although I guess I could not get away learning it without learning Russian too. It&#8217;s a good package deal.</p>
-
-<footer>
-    <a title="Permanent link to “Однієї мови ніколи не досить”" href="https://blog.ktamas.com/index.php/2015/02/19/%d0%be%d0%b4%d0%bd%d1%96%d1%94%d1%97-%d0%bc%d0%be%d0%b2%d0%b8-%d0%bd%d1%96%d0%ba%d0%be%d0%bb%d0%b8-%d0%bd%d0%b5-%d0%b4%d0%be%d1%81%d0%b8%d1%82%d1%8c/">Однієї мови ніколи не досить</a>
-    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
-    Tagged
-        <div class="tags">
-            <i class="fas fa-tags"></i>
-            <a href='/tags/2015/'>2015</a>, <a href='/tags/ontheroad/'>ontheroad</a>
         </div>
 </footer>]]></content>
 	</entry>

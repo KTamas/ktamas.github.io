@@ -815,6 +815,14 @@
 		<summary>Posts about phones</summary>
 	</entry>
 	<entry>
+		<id>https://blog.ktamas.com/tags/photography/</id>
+		<title>photography</title>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/photography/"/>
+		<updated>2019-02-13T09:24:53Z</updated>
+		<published>2019-02-13T09:24:53Z</published>
+		<summary>Posts about photography</summary>
+	</entry>
+	<entry>
 		<id>https://blog.ktamas.com/tags/politika/</id>
 		<title>politika</title>
 		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/politika/"/>
@@ -1178,8 +1186,8 @@
 		<id>https://blog.ktamas.com/tags/writetogether/</id>
 		<title>writetogether</title>
 		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/writetogether/"/>
-		<updated>2019-02-12T13:23:02Z</updated>
-		<published>2019-02-12T13:23:02Z</published>
+		<updated>2019-02-13T09:24:53Z</updated>
+		<published>2019-02-13T09:24:53Z</published>
 		<summary>Posts about writetogether</summary>
 	</entry>
 	<entry>

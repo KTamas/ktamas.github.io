@@ -12,6 +12,15 @@
 	},
 	"items": [
 		{
+			"id": "https://blog.ktamas.com/index.php/2019/02/13/on-photography/",
+			"url": "https://blog.ktamas.com/index.php/2019/02/13/on-photography/",
+			"title": "On Photography",
+			"summary": "My father is a semi-amateur photographer; I got my affinity towards photography from him. I grew up watching him taking pictures. After high school, I got a job and soon I had disposable income, so I got my first digital camera: the Olympus E-1.\nThat was in 2008, and by then, it was already outdated. Released in 2003, it had a first-generation micro 4\u0026frasl;3 sensor, 5 megapixels and ISO 800 was barely usable.",
+			"date_published": "2019-02-13T09:24:53Z",
+			"content_html": "\u003cp\u003eMy father is a semi-amateur photographer; I got my affinity towards photography from him. I grew up watching him taking pictures. After high school, I got a job and soon I had disposable income, so I got my first digital camera: the Olympus E-1.\nThat was in 2008, and by then, it was already outdated. Released in 2003, it had a first-generation micro 4\u0026amp;frasl;3 sensor, 5 megapixels and ISO 800 was barely usable.\u003c/p\u003e",
+			"content_text": "My father is a semi-amateur photographer; I got my affinity towards photography from him. I grew up watching him taking pictures. After high school, I got a job and soon I had disposable income, so I got my first digital camera: the Olympus E-1.\nThat was in 2008, and by then, it was already outdated. Released in 2003, it had a first-generation micro 4\u0026frasl;3 sensor, 5 megapixels and ISO 800 was barely usable."
+		}, 
+		{
 			"id": "https://blog.ktamas.com/index.php/2019/02/12/on-living-alone-living-with-flatmates-and-having-the-best-apartment/",
 			"url": "https://blog.ktamas.com/index.php/2019/02/12/on-living-alone-living-with-flatmates-and-having-the-best-apartment/",
 			"title": "On Living Alone, Living With Flatmates and Having the Best Apartment",

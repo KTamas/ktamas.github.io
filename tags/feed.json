@@ -812,6 +812,14 @@
 			"content_text": "Posts about phones."
 		}, 
 		{
+			"id": "https://blog.ktamas.com/tags/photography/",
+			"url": "https://blog.ktamas.com/tags/photography/",
+			"title": "photography",
+			"date_published": "2019-02-13T09:24:53Z",
+			"content_html": "\u003cp\u003ePosts about photography.\u003c/p\u003e",
+			"content_text": "Posts about photography."
+		}, 
+		{
 			"id": "https://blog.ktamas.com/tags/politika/",
 			"url": "https://blog.ktamas.com/tags/politika/",
 			"title": "politika",
@@ -1175,7 +1183,7 @@
 			"id": "https://blog.ktamas.com/tags/writetogether/",
 			"url": "https://blog.ktamas.com/tags/writetogether/",
 			"title": "writetogether",
-			"date_published": "2019-02-12T13:23:02Z",
+			"date_published": "2019-02-13T09:24:53Z",
 			"content_html": "\u003cp\u003ePosts about writetogether.\u003c/p\u003e",
 			"content_text": "Posts about writetogether."
 		}, 
