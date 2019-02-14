@@ -268,6 +268,14 @@
 			"content_text": "Posts about enkerekelnezest."
 		}, 
 		{
+			"id": "https://blog.ktamas.com/tags/exercise/",
+			"url": "https://blog.ktamas.com/tags/exercise/",
+			"title": "exercise",
+			"date_published": "2019-02-14T10:02:11Z",
+			"content_html": "\u003cp\u003ePosts about exercise.\u003c/p\u003e",
+			"content_text": "Posts about exercise."
+		}, 
+		{
 			"id": "https://blog.ktamas.com/tags/fagyi/",
 			"url": "https://blog.ktamas.com/tags/fagyi/",
 			"title": "fagyi",
@@ -900,6 +908,14 @@
 			"content_text": "Posts about rukkola."
 		}, 
 		{
+			"id": "https://blog.ktamas.com/tags/running/",
+			"url": "https://blog.ktamas.com/tags/running/",
+			"title": "running",
+			"date_published": "2019-02-14T10:02:11Z",
+			"content_html": "\u003cp\u003ePosts about running.\u003c/p\u003e",
+			"content_text": "Posts about running."
+		}, 
+		{
 			"id": "https://blog.ktamas.com/tags/series/",
 			"url": "https://blog.ktamas.com/tags/series/",
 			"title": "series",
@@ -1183,7 +1199,7 @@
 			"id": "https://blog.ktamas.com/tags/writetogether/",
 			"url": "https://blog.ktamas.com/tags/writetogether/",
 			"title": "writetogether",
-			"date_published": "2019-02-13T09:24:53Z",
+			"date_published": "2019-02-14T10:02:11Z",
 			"content_html": "\u003cp\u003ePosts about writetogether.\u003c/p\u003e",
 			"content_text": "Posts about writetogether."
 		}, 
