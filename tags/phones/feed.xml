@@ -25,7 +25,6 @@
 		</author>
 		<category scheme="https://blog.ktamas.com/tags" term="tech" label="tech"/>
 		<category scheme="https://blog.ktamas.com/tags" term="phones" label="phones"/>
-		<category scheme="https://blog.ktamas.com/tags" term="writetogether" label="writetogether"/>
 		<summary>I started 2018 with wanting to try Android after not using it for like five years; I had a Nexus S with Android 4 point something back in 2013 before jumping on to the iPhone bandwagon. So I got myself a cheap Moto G5 Plus just to play around with it, and to my surprise, I promptly fell in love with the whole thing.
 Android has come a long way, and in many ways, it’s a better fit for me than iOS.</summary>
 		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
@@ -49,15 +48,13 @@ Android has come a long way, and in many ways, it’s a better fit for me than i
 
 <p>The moral of the story is that I have disposable income and I was bored. I am tempted to say that none of this stuff really matters but I spend a fair amount of time on my phone every day so&hellip; it kinda does for me.</p>
 
-<p><em>This post originally appeared on <a href="https://writetogether.space/posts/5/a-year-in-smartphones">WriteTogether</a>.</em></p>
-
 <footer>
     <a title="Permanent link to “A Year in Smartphones”" href="https://blog.ktamas.com/index.php/2019/01/01/a-year-in-smartphones/">A Year in Smartphones</a>
     by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
     Tagged
         <div class="tags">
             <i class="fas fa-tags"></i>
-            <a href='/tags/tech/'>tech</a>, <a href='/tags/phones/'>phones</a>, <a href='/tags/writetogether/'>writetogether</a>
+            <a href='/tags/tech/'>tech</a>, <a href='/tags/phones/'>phones</a>
         </div>
 </footer>]]></content>
 	</entry>

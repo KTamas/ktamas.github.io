@@ -25,7 +25,6 @@
 		</author>
 		<category scheme="https://blog.ktamas.com/tags" term="running" label="running"/>
 		<category scheme="https://blog.ktamas.com/tags" term="exercise" label="exercise"/>
-		<category scheme="https://blog.ktamas.com/tags" term="writetogether" label="writetogether"/>
 		<summary>Facts Let’s start with a few facts. I’m fat. I’m 174 (5’7”) and I weight about 125 kilos (275 pounds). I’ve had high blood pressure for the last 15 years or so, though the causes of that are complex. My cholesterol is officially considered high as of a few months ago, and if I don’t do something about it, I’ll have to start taking meds for it.
 A huge part of it is likely genetics; men on my father’s side are historically overweight.</summary>
 		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
@@ -89,15 +88,13 @@ A huge part of it is likely genetics; men on my father’s side are historically
 
 <p>In any case, I&rsquo;ll keep going.</p>
 
-<p><em>This post originally appeared on WriteTogether in <a href="https://writetogether.space/posts/ktamas/on-exercise-part-1-or-2">two</a> <a href="https://writetogether.space/posts/5/on-exercise-part-2-of-2">parts</a>.</em></p>
-
 <footer>
     <a title="Permanent link to “On Exercise”" href="https://blog.ktamas.com/index.php/2019/02/14/on-excercise/">On Exercise</a>
     by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
     Tagged
         <div class="tags">
             <i class="fas fa-tags"></i>
-            <a href='/tags/running/'>running</a>, <a href='/tags/exercise/'>exercise</a>, <a href='/tags/writetogether/'>writetogether</a>
+            <a href='/tags/running/'>running</a>, <a href='/tags/exercise/'>exercise</a>
         </div>
 </footer>]]></content>
 	</entry>

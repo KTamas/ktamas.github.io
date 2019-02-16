@@ -3,7 +3,7 @@
 	<id>https://blog.ktamas.com/</id>
 	<title>KTamas&#39; Blog</title>
 	<subtitle>Bringing you irregular content since 2009. By KTamas.</subtitle>
-	<updated>2019-02-15T12:02:59Z</updated>
+	<updated>2019-02-16T08:26:17Z</updated>
 	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/feed.xml"/>
 	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/"/>
 	<author>
@@ -13,6 +13,51 @@
 	<generator uri="https://gohugo.io/" version="0.54.0">Hugo</generator>
 	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
+	<entry>
+		<id>https://blog.ktamas.com/index.php/2019/02/16/my-recent-media-diet-february-2019/</id>
+		<title>My Recent Media Diet (February, 2019)</title>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2019/02/16/my-recent-media-diet-february-2019/"/>
+		<updated>2019-02-16T08:26:17Z</updated>
+		<published>2019-02-16T08:26:17Z</published>
+		<author>
+			<name>KTamas</name>
+			<uri>https://blog.ktamas.com/</uri>
+		</author>
+		<category scheme="https://blog.ktamas.com/tags" term="thoughts" label="thoughts"/>
+		<category scheme="https://blog.ktamas.com/tags" term="mediadiet" label="mediadiet"/>
+		<category scheme="https://blog.ktamas.com/tags" term="recommendations" label="recommendations"/>
+		<summary>Here’s a bunch of television I’ve been enjoying recently.
+Russian Doll: This was the highlight of recent times: 8 episodes of pure fun, with a proper ending. It’s best watched not knowing anything about it but here are the first five minutes: Nadia leaves her birthday party, and on the way home gets hit by a taxi, and dies. The next moment Nadia is back where the episode started, alive and well, on her own birthday party.</summary>
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+<![CDATA[<p>Here&rsquo;s a bunch of television I&rsquo;ve been enjoying recently.</p>
+
+<p><strong><a href="https://www.netflix.com/title/80211627">Russian Doll</a>:</strong> This was the highlight of recent times: 8 episodes of pure fun, with a proper ending. It&rsquo;s best watched not knowing anything about it but here are the first five minutes: Nadia leaves her birthday party, and on the way home gets hit by a taxi, and dies. The next moment Nadia is back where the episode started, alive and well, on her own birthday party. It&rsquo;s up on Netflix.</p>
+
+<p><strong><a href="https://en.wikipedia.org/wiki/File:Star_Trek_Discovery_title_card.jpg">Star Trek: Discovery (Season 2)</a>:</strong> I&rsquo;ve only seen three episodes of the new season so far but all of them have been great and I very much like this new take on Star Trek. The fact that it&rsquo;s a prequel to The Original Series bothers me, though, because they could have had a lot more creative freedom and do less retconning if it would be set in another universe. It&rsquo;s also up on Netflix or CBS All Access if you&rsquo;re in the US.</p>
+
+<p><strong><a href="https://en.wikipedia.org/wiki/Hanna_(TV_series)">Hanna (pilot)</a></strong>: This is based on the excellent <a href="https://www.imdb.com/title/tt0993842/">movie of the same name</a>. Hanna is raised in the forest by his father in isolation, training her to be self-sufficient and strong, because someone in the CIA is hunting them for Reasons we don&rsquo;t know yet. The pilot shows a lot of promise, but we&rsquo;ll have to wait until March to see the rest. It&rsquo;s up on Amazon Prime Video.</p>
+
+<p><strong><a href="https://en.wikipedia.org/wiki/Strike_Back_(TV_series)">Strike Back (Season 5)</a></strong>: A big, dumb action series about Section 20, a black ops group of MI6, saving the world, or at least parts of it. The writers&rsquo; contract mandated at least two machine-gun fights per episode. It&rsquo;s&hellip; okay at best, I won&rsquo;t be watching Season 6.</p>
+
+<p><strong><a href="https://en.wikipedia.org/wiki/Counterpart_(TV_series)">Counterpart (Season 2)</a></strong>: Just before the end of the Cold War, scientists in East Germany discovered a parallel universe, a clone of theirs. In present day, Howard is working as a low-level bureucrat at the UN, overseeing the connection between those worlds, too low on the food chain to know what his actual work is about. Until one day, his &ldquo;other&rdquo; shows up, demanding to speak with him&hellip;<br />
+Season 2 has one episode left but so far the series shows no signs of getting boring or tired. Highly recommended.</p>
+
+<p><strong><a href="https://en.wikipedia.org/wiki/The_Good_Place">The Good Place (Season 3)</a></strong>: This has been quite a ride, huh? The first part of the season is a bit disorganized but it gets better as they go along and boy did they put on hell of a season finale. Can&rsquo;t wait for Season 4. If you haven&rsquo;t seen this series, check it out and don&rsquo;t read anything about it, because spoilers can ruin at least half the fun. Should be up on Netflix in Europe.</p>
+
+<p><strong><a href="https://en.wikipedia.org/wiki/The_Punisher_(TV_series)">The Punisher (Season 2)</a></strong>: I loved the first season, but I quit this season after four episodes. The antagonist of Season 2 is just really, really bad. If you can get past that, it&rsquo;s on Netflix.</p>
+
+<p>What have you been watching lately?</p>
+
+<footer>
+    <a title="Permanent link to “My Recent Media Diet (February, 2019)”" href="https://blog.ktamas.com/index.php/2019/02/16/my-recent-media-diet-february-2019/">My Recent Media Diet (February, 2019)</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    Tagged
+        <div class="tags">
+            <i class="fas fa-tags"></i>
+            <a href='/tags/thoughts/'>thoughts</a>, <a href='/tags/mediadiet/'>mediadiet</a>, <a href='/tags/recommendations/'>recommendations</a>
+        </div>
+</footer>]]></content>
+	</entry>
 	<entry>
 		<id>https://blog.ktamas.com/index.php/2019/02/15/on-yoga/</id>
 		<title>On Yoga</title>
@@ -25,7 +70,6 @@
 		</author>
 		<category scheme="https://blog.ktamas.com/tags" term="exercise" label="exercise"/>
 		<category scheme="https://blog.ktamas.com/tags" term="yoga" label="yoga"/>
-		<category scheme="https://blog.ktamas.com/tags" term="writetogether" label="writetogether"/>
 		<summary>I’ve written about my relationship with exercise, but I left out a significant bit: yoga.
 Growing up fundamentalist, you learn that yoga (and most martial arts) are Bad. It’s by the devil; you’re worshiping other Gods, and so on. Even though I’ve been working hard to get rid of these parts of my faith, it’s a slow and arduous process.
 So I never even thought of trying it for a long time.</summary>
@@ -55,15 +99,13 @@ So I never even thought of trying it for a long time.</summary>
 
 <p>I can only tell you what my friend kept telling me: you should really give yoga a try.</p>
 
-<p><em>This post originally appeared on <a href="https://writetogether.space/posts/ktamas/on-yoga">WriteTogether</a>.</em></p>
-
 <footer>
     <a title="Permanent link to “On Yoga”" href="https://blog.ktamas.com/index.php/2019/02/15/on-yoga/">On Yoga</a>
     by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
     Tagged
         <div class="tags">
             <i class="fas fa-tags"></i>
-            <a href='/tags/exercise/'>exercise</a>, <a href='/tags/yoga/'>yoga</a>, <a href='/tags/writetogether/'>writetogether</a>
+            <a href='/tags/exercise/'>exercise</a>, <a href='/tags/yoga/'>yoga</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -79,7 +121,6 @@ So I never even thought of trying it for a long time.</summary>
 		</author>
 		<category scheme="https://blog.ktamas.com/tags" term="running" label="running"/>
 		<category scheme="https://blog.ktamas.com/tags" term="exercise" label="exercise"/>
-		<category scheme="https://blog.ktamas.com/tags" term="writetogether" label="writetogether"/>
 		<summary>Facts Let’s start with a few facts. I’m fat. I’m 174 (5’7”) and I weight about 125 kilos (275 pounds). I’ve had high blood pressure for the last 15 years or so, though the causes of that are complex. My cholesterol is officially considered high as of a few months ago, and if I don’t do something about it, I’ll have to start taking meds for it.
 A huge part of it is likely genetics; men on my father’s side are historically overweight.</summary>
 		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
@@ -143,15 +184,13 @@ A huge part of it is likely genetics; men on my father’s side are historically
 
 <p>In any case, I&rsquo;ll keep going.</p>
 
-<p><em>This post originally appeared on WriteTogether in <a href="https://writetogether.space/posts/ktamas/on-exercise-part-1-or-2">two</a> <a href="https://writetogether.space/posts/5/on-exercise-part-2-of-2">parts</a>.</em></p>
-
 <footer>
     <a title="Permanent link to “On Exercise”" href="https://blog.ktamas.com/index.php/2019/02/14/on-excercise/">On Exercise</a>
     by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
     Tagged
         <div class="tags">
             <i class="fas fa-tags"></i>
-            <a href='/tags/running/'>running</a>, <a href='/tags/exercise/'>exercise</a>, <a href='/tags/writetogether/'>writetogether</a>
+            <a href='/tags/running/'>running</a>, <a href='/tags/exercise/'>exercise</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -166,7 +205,6 @@ A huge part of it is likely genetics; men on my father’s side are historically
 			<uri>https://blog.ktamas.com/</uri>
 		</author>
 		<category scheme="https://blog.ktamas.com/tags" term="photography" label="photography"/>
-		<category scheme="https://blog.ktamas.com/tags" term="writetogether" label="writetogether"/>
 		<summary>My father is a semi-amateur photographer; I got my affinity towards photography from him. I grew up watching him taking pictures. After high school, I got a job and soon I had disposable income, so I got my first digital camera: the Olympus E-1.
 That was in 2008, and by then, it was already outdated. Released in 2003, it had a first-generation micro 4⁄3 sensor, 5 megapixels and ISO 800 was barely usable.</summary>
 		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
@@ -196,7 +234,7 @@ That was in 2008, and by then, it was already outdated. Released in 2003, it had
 
 <p>In the middle of 2015 and I was about to leave for a couple of months of work and travel in Southern Europe. I didn&rsquo;t want to lug my heavy 6D around, but I felt that having only a phone was not enough. It was a perfect excuse for me to finally buy a Fuji X-E1. By then I was already infected with a fascination with Fuji&rsquo;s mirrorless cameras because one of my former best friends was really into them. I got two lenses for it, the 35mm f/1.4 and the 18-55 f/2.8-4. The autofocus and the EVF sucks, but it makes the most beautiful black and white JPEGs. They have a certain kind of magic to them.</p>
 
-<p>I used it with an <a href="https://en.wikipedia.org/wiki/Eye-Fi">Eye-Fi card</a> I got a few months prior, an SD card with built-in WiFi that sends all the pictures you take to your phone. Combining that with <a href="https://writetogether.space/posts/ktamas/got-my-paperang-sf-xoxo-2018-series-part-3">my instant printers</a>, I could take DSLR-quality portraits of people and hand it to them printed out two minutes later. It never fails to amaze.</p>
+<p>I used it with an <a href="https://en.wikipedia.org/wiki/Eye-Fi">Eye-Fi card</a> I got a few months prior, an SD card with built-in WiFi that sends all the pictures you take to your phone. Combining that with my instant printers (Fuji Instax Share SP-2, Paperang P1), I could take DSLR-quality portraits of people and hand it to them printed out two minutes later. It never fails to amaze.</p>
 
 <hr />
 
@@ -212,15 +250,13 @@ That was in 2008, and by then, it was already outdated. Released in 2003, it had
 
 <p>You can find some of my photos <a href="https://www.facebook.com/ktamasphotovideo/">on my Facebook page</a>.</p>
 
-<p><em>This post originally appeared on <a href="https://writetogether.space/posts/ktamas/on-photography">WriteTogether</a>.</em></p>
-
 <footer>
     <a title="Permanent link to “On Photography”" href="https://blog.ktamas.com/index.php/2019/02/13/on-photography/">On Photography</a>
     by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
     Tagged
         <div class="tags">
             <i class="fas fa-tags"></i>
-            <a href='/tags/photography/'>photography</a>, <a href='/tags/writetogether/'>writetogether</a>
+            <a href='/tags/photography/'>photography</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -236,7 +272,6 @@ That was in 2008, and by then, it was already outdated. Released in 2003, it had
 		</author>
 		<category scheme="https://blog.ktamas.com/tags" term="musings" label="musings"/>
 		<category scheme="https://blog.ktamas.com/tags" term="thoughts" label="thoughts"/>
-		<category scheme="https://blog.ktamas.com/tags" term="writetogether" label="writetogether"/>
 		<summary>I signed the new contract for my apartment a couple days ago. There has been a change: my youngest sister is moving in with her boyfriend, so one of my friends is taking her place.
 I’ll miss my sister. We get along well and enjoy each other’s company. In practice, she’s been gone for more, than six months now: spending the majority of her time at her boyfriend’s place and coming home for only a couple days a month.</summary>
 		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
@@ -258,15 +293,13 @@ I’ll miss my sister. We get along well and enjoy each other’s company. In pr
 
 <p>It&rsquo;s gonna take me a while to adjust to living with someone again, but I&rsquo;m hoping for the best.</p>
 
-<p><em>This post originally appeared on <a href="https://writetogether.space/posts/ktamas/on-living-alone-living-with-flatmates-and-having-the-best-apartment">WriteTogether</a>.</em></p>
-
 <footer>
     <a title="Permanent link to “On Living Alone, Living With Flatmates and Having the Best Apartment”" href="https://blog.ktamas.com/index.php/2019/02/12/on-living-alone-living-with-flatmates-and-having-the-best-apartment/">On Living Alone, Living With Flatmates and Having the Best Apartment</a>
     by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
     Tagged
         <div class="tags">
             <i class="fas fa-tags"></i>
-            <a href='/tags/musings/'>musings</a>, <a href='/tags/thoughts/'>thoughts</a>, <a href='/tags/writetogether/'>writetogether</a>
+            <a href='/tags/musings/'>musings</a>, <a href='/tags/thoughts/'>thoughts</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -282,13 +315,12 @@ I’ll miss my sister. We get along well and enjoy each other’s company. In pr
 		</author>
 		<category scheme="https://blog.ktamas.com/tags" term="boardgames" label="boardgames"/>
 		<category scheme="https://blog.ktamas.com/tags" term="recommendations" label="recommendations"/>
-		<category scheme="https://blog.ktamas.com/tags" term="writetogether" label="writetogether"/>
-		<summary>Owen’s post reminded me how I got sucked into “real” board games about a decade ago. Some of my newfound friends from Twitter were into them, so we got together one night and started playing Catan, the gateway drug to the board game world.
+		<summary>I got sucked into “real” board games about a decade ago. Some of my newfound friends from Twitter were into them, so we got together one night and started playing Catan, the gateway drug to the board game world.
 Catan isn’t bad, per se; it’s just there are so many games that are much better than it, so we moved on to other games. After my move to Sweden, for a couple of years, I didn’t have too many friends to play with.</summary>
 		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
-<![CDATA[<p><a href="https://writetogether.space/posts/owen/board-games">Owen&rsquo;s post</a> reminded me how I got sucked into &ldquo;real&rdquo; board games about a decade ago. Some of my <a href="https://blog.ktamas.com/index.php/2019/01/19/the-as-of-yet-unwritten-oral-history-of-turulcsirip-an-early-twitter-client-and-community/">newfound friends from Twitter</a> were into them, so we got together one night and started playing <a href="https://boardgamegeek.com/boardgame/13/catan">Catan</a>, the gateway drug to the board game world.</p>
+<![CDATA[<p>I got sucked into &ldquo;real&rdquo; board games about a decade ago. Some of my <a href="https://blog.ktamas.com/index.php/2019/01/19/the-as-of-yet-unwritten-oral-history-of-turulcsirip-an-early-twitter-client-and-community/">newfound friends from Twitter</a> were into them, so we got together one night and started playing <a href="https://boardgamegeek.com/boardgame/13/catan">Catan</a>, the gateway drug to the board game world.</p>
 
-<p>Catan isn&rsquo;t bad, per se; it&rsquo;s just there are so many games that are much better than it, so we moved on to other games. After <a href="https://writetogether.space/posts/ktamas/there-and-back-again-part-1">my move to Sweden</a>, for a couple of years, I didn&rsquo;t have too many friends to play with. In my last year there I&rsquo;ve found a board gaming group and played regularly with them for a while, discovering many new games and making new friends. Since I moved back to Hungary, I haven&rsquo;t played much but I want to change that this year.</p>
+<p>Catan isn&rsquo;t bad, per se; it&rsquo;s just there are so many games that are much better than it, so we moved on to other games. After my move to Sweden, for a couple of years, I didn&rsquo;t have too many friends to play with. In my last year there I&rsquo;ve found a board gaming group and played regularly with them for a while, discovering many new games and making new friends. Since I moved back to Hungary, I haven&rsquo;t played much but I want to change that this year.</p>
 
 <hr />
 
@@ -301,7 +333,7 @@ You shoot at each other, dodge bullets, hide behind barrels, drink beer to get b
 <li><strong><a href="https://boardgamegeek.com/boardgame/31260/agricola">Agricola</a>:</strong> You&rsquo;re a farmer with a spouse, and you&rsquo;re building your own farm, through 14 distinct rounds. You sow and reap crops, build fences, buy animals, expand your house and your family throughout the game. Like Race for the Galaxy, it&rsquo;s kind of a multiplayer solitaire, but it&rsquo;s a lot of fun. The only downside of it is that it takes about 15 minutes or so to set it up and even more to pack things away.</li>
 <li><strong><a href="https://boardgamegeek.com/boardgame/129622/love-letter">Love Letter</a>:</strong> Best played with 4 players, this game consists of only 16 cards and a bunch of heart tokens. You&rsquo;re a young lover, trying to win the affection of the princess. There are 8 different kinds of cards in the small deck and the game is mostly about being able to correctly guess who has which cards. It has quick, 5-10 minute rounds, so you usually play a bunch of them.</li>
 <li><strong><a href="https://boardgamegeek.com/boardgame/178900/codenames">Codenames</a></strong>: This is the best party game, hands down. Two teams are working on finding their picks on a 5x5 grid of words. Each side has one Codemaster, who knows which words belong to their group and wants them to guess right: the only thing they can say is a one-word clue and a number. So if the table has &ldquo;Athens,&rdquo; &ldquo;Berlin&rdquo; and &ldquo;France,&rdquo; and all those cards belong to their team, they can say &ldquo;Europe, 3&rdquo;. It&rsquo;s that simple, and yet this was an easy and unlikely example; more often than not you&rsquo;re lucky if you can connect two words. Best played with 6-10 people. It&rsquo;s been translated to a bazillion languages there&rsquo;s even one where you have drawing instead of words.</li>
-<li><strong><a href="https://boardgamegeek.com/boardgame/223327/someone-has-died">Someone Has Died</a></strong>: I played this game at <a href="https://writetogether.space/posts/ktamas/my-trip-to-the-us-and-a-recap-of-xoxo-2018-part-1">XOXO 2018</a> and fell in love with it within minutes. It&rsquo;s an improvisation storytelling card game: one person takes the role of the Estate Keeper, who the rest of the players will have to convince that they deserve all that money the recently deceased had. Everyone gets a role, a relationship to the deceased and two story cards. In the first round, you proceed with your introduction, weaving your cards into the your story. It has four distinct rounds, and the winner is the person who is deemed to have been the most convincing by the Estate Keeper. If storytelling games are your thing, you&rsquo;re gonna have loads of fun with this one.</li>
+<li><strong><a href="https://boardgamegeek.com/boardgame/223327/someone-has-died">Someone Has Died</a></strong>: I played this game at XOXO 2018 and fell in love with it within minutes. It&rsquo;s an improvisation storytelling card game: one person takes the role of the Estate Keeper, who the rest of the players will have to convince that they deserve all that money the recently deceased had. Everyone gets a role, a relationship to the deceased and two story cards. In the first round, you proceed with your introduction, weaving your cards into the your story. It has four distinct rounds, and the winner is the person who is deemed to have been the most convincing by the Estate Keeper. If storytelling games are your thing, you&rsquo;re gonna have loads of fun with this one.</li>
 <li><strong><a href="https://boardgamegeek.com/boardgame/133473/sushi-go">Sushi Go!</a>:</strong> This is a draft-and pass game: you deal a certain amount of cards, pick one and pass your hand to the next person until they&rsquo;re all on the table. It&rsquo;s fast, and it&rsquo;s fun: each card has a type of sushi and a given amount of points; many of them only give you points when you have more than one of them, or combine them in a particular order. Best of all, the graphics are really cute. There&rsquo;s a new version, called <a href="https://boardgamegeek.com/boardgame/192291/sushi-go-party">Sushi Go Party!</a> with even more cards and support for up to 8 players (the original only goes up to 5).</li>
 <li><strong><a href="https://boardgamegeek.com/boardgame/107529/kingdom-builder">Kingdom Builder</a>:</strong> One of the most versatile board games I&rsquo;ve ever played. You have a board, made of hexagons, which you build out of four randomly picked tiles. Your primary objective is to build settlements and build your kingdom. However, the three ways of getting points are drawn from a deck and therefore each game requires wildly different strategies.</li>
 <li><strong><a href="https://boardgamegeek.com/boardgame/30549/pandemic">Pandemic</a>:</strong> A co-op eurogame in which you work together with everyone against the game itself, to stop a global pandemic killing humanity. Each player gets role with distinct powers. It&rsquo;s fun and it can be quite challenging as well; the game lets you pick the difficulty.<br />
@@ -313,15 +345,13 @@ You can&rsquo;t talk about Pandemic without mentioning <a href="https://boardgam
 
 <p>What are your favorite board (or card) games?</p>
 
-<p><em>This post originally appeared on WriteTogether in <a href="https://writetogether.space/posts/ktamas/on-board-games">two</a> <a href="https://writetogether.space/posts/ktamas/on-more-board-and-card-games">parts</a>.</em></p>
-
 <footer>
     <a title="Permanent link to “On Board Games”" href="https://blog.ktamas.com/index.php/2019/02/09/on-board-games/">On Board Games</a>
     by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
     Tagged
         <div class="tags">
             <i class="fas fa-tags"></i>
-            <a href='/tags/boardgames/'>boardgames</a>, <a href='/tags/recommendations/'>recommendations</a>, <a href='/tags/writetogether/'>writetogether</a>
+            <a href='/tags/boardgames/'>boardgames</a>, <a href='/tags/recommendations/'>recommendations</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -338,7 +368,6 @@ You can&rsquo;t talk about Pandemic without mentioning <a href="https://boardgam
 		<category scheme="https://blog.ktamas.com/tags" term="flow" label="flow"/>
 		<category scheme="https://blog.ktamas.com/tags" term="remotework" label="remotework"/>
 		<category scheme="https://blog.ktamas.com/tags" term="digitalnomad" label="digitalnomad"/>
-		<category scheme="https://blog.ktamas.com/tags" term="writetogether" label="writetogether"/>
 		<summary>I’m a freelancer; I don’t have an office. I can’t work from home; the silence is deafening, I need the background noise, and I need to be among people. The place I work from every day is a café about 25 minutes from my home; it’s called Flow. I am a person of habit: I wake up, I get dressed, I go to Flow and start working.
 Flow is one of the many, many specialty cafés in Budapest.</summary>
 		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
@@ -360,15 +389,13 @@ Flow is one of the many, many specialty cafés in Budapest.</summary>
 
 <p>So cafés it is.</p>
 
-<p><em>This post originally appeared on <a href="https://writetogether.space/posts/5/flow-on-remote-work-and-cafes">WriteTogether</a>.</em></p>
-
 <footer>
     <a title="Permanent link to “Flow (on Remote Work and Cafés)”" href="https://blog.ktamas.com/index.php/2019/02/04/flow-on-remote-work-and-cafes/">Flow (on Remote Work and Cafés)</a>
     by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
     Tagged
         <div class="tags">
             <i class="fas fa-tags"></i>
-            <a href='/tags/flow/'>flow</a>, <a href='/tags/remotework/'>remotework</a>, <a href='/tags/digitalnomad/'>digitalnomad</a>, <a href='/tags/writetogether/'>writetogether</a>
+            <a href='/tags/flow/'>flow</a>, <a href='/tags/remotework/'>remotework</a>, <a href='/tags/digitalnomad/'>digitalnomad</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -383,7 +410,6 @@ Flow is one of the many, many specialty cafés in Budapest.</summary>
 			<uri>https://blog.ktamas.com/</uri>
 		</author>
 		<category scheme="https://blog.ktamas.com/tags" term="drawing" label="drawing"/>
-		<category scheme="https://blog.ktamas.com/tags" term="writetogether" label="writetogether"/>
 		<summary>I started University last fall, and I used that as an excuse to get a 2018 iPad and an Apple Pencil. I had to take notes, after all, and why not do it digitally? The university thing didn’t last, but something else happened after a month or so: I started drawing.
 I wasn’t that into drawing as a kid. Sure, I doodled just like everyone else, especially at a young age, and I do remember doing at least one pastel drawing, but that was about it.</summary>
 		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
@@ -407,15 +433,13 @@ I wasn’t that into drawing as a kid. Sure, I doodled just like everyone else, 
 
 <p>All in all, it&rsquo;s a great outlet for creativity and I&rsquo;m very happy I discovered it.</p>
 
-<p><em>This post originally appeared on <a href="https://writetogether.space/posts/5/on-drawing">WriteTogether</a>.</em></p>
-
 <footer>
     <a title="Permanent link to “On Drawing”" href="https://blog.ktamas.com/index.php/2019/02/03/on-drawing/">On Drawing</a>
     by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
     Tagged
         <div class="tags">
             <i class="fas fa-tags"></i>
-            <a href='/tags/drawing/'>drawing</a>, <a href='/tags/writetogether/'>writetogether</a>
+            <a href='/tags/drawing/'>drawing</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -430,7 +454,6 @@ I wasn’t that into drawing as a kid. Sure, I doodled just like everyone else, 
 			<uri>https://blog.ktamas.com/</uri>
 		</author>
 		<category scheme="https://blog.ktamas.com/tags" term="writersblock" label="writersblock"/>
-		<category scheme="https://blog.ktamas.com/tags" term="writetogether" label="writetogether"/>
 		<summary>I was going to finally get back to work on my latest series before I distracted myself with other things, like tweaking my blog (word counts! reading time! endlessly tweaking the CSS!) as well as continuing to cross-post some of my writings from here. One thing I noticed is how my writing has improved over the last month (at least in my opinion). I was also mildly horrified how bad my spelling and grammar was before I started using Grammarly.</summary>
 		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>I was going to finally get back to work on my latest series before I distracted myself with other things, like tweaking <a href="https://blog.ktamas.com">my blog</a> (word counts! reading time! endlessly tweaking the CSS!) as well as continuing to cross-post some of my writings from here. One thing I noticed is how my writing has improved over the last month (at least in my opinion). I was also mildly horrified how bad my spelling and grammar was before I started using Grammarly. Through this process, I fixed many early mistakes in those posts, though I don&rsquo;t think I will edit them much beyond that.</p>
@@ -447,15 +470,13 @@ I wasn’t that into drawing as a kid. Sure, I doodled just like everyone else, 
 
 <p><em>This post was</em> <strong><em>not</em></strong> <em>sponsored by Grammarly, even though I&rsquo;ve written about them plenty of times now, so they should really consider doing that.</em></p>
 
-<p><em>This post originally appeared on <a href="https://writetogether.space/posts/ktamas/i-am-not-sponsored-by-grammarly-but-at-this-point-i-really-should-be">WriteTogether</a>.</em></p>
-
 <footer>
     <a title="Permanent link to “I Am Not Sponsored by Grammarly but at This Point I Really Should Be”" href="https://blog.ktamas.com/index.php/2019/02/02/i-am-not-sponsored-by-grammarly-but-at-this-point-i-really-should-be/">I Am Not Sponsored by Grammarly but at This Point I Really Should Be</a>
     by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
     Tagged
         <div class="tags">
             <i class="fas fa-tags"></i>
-            <a href='/tags/writersblock/'>writersblock</a>, <a href='/tags/writetogether/'>writetogether</a>
+            <a href='/tags/writersblock/'>writersblock</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -472,7 +493,6 @@ I wasn’t that into drawing as a kid. Sure, I doodled just like everyone else, 
 		<category scheme="https://blog.ktamas.com/tags" term="adhd" label="adhd"/>
 		<category scheme="https://blog.ktamas.com/tags" term="series" label="series"/>
 		<category scheme="https://blog.ktamas.com/tags" term="mentalhealth" label="mentalhealth"/>
-		<category scheme="https://blog.ktamas.com/tags" term="writetogether" label="writetogether"/>
 		<summary>Owen wrote about his journey with AD(H)D and I figured I could tell my story as well, especially since no two AD(H)D stories are the same.
 A note on terminology: I use ADHD, the DSM-IV and up uses ADHD as well, with a note that not everyone is “H.” Instead, it has subtypes: ADHD-PI, ADHD-PH and ADHD-C, but even these names have alternatives. Naming things is difficult, y’all.
 In the beginning… I was what they call a “problem child”.</summary>
@@ -501,7 +521,7 @@ In the beginning… I was what they call a “problem child”.</summary>
 
 <hr />
 
-<p>I worked as a journalist through high school and started freelancing with a translation agency as well, who hired me full-time after my graduation. (This is where my <a href="https://writetogether.space/posts/ktamas/there-and-back-again-part-1">ongoing series about my time in Sweden</a> starts)</p>
+<p>I worked as a journalist through high school and started freelancing with a translation agency as well, who hired me full-time after my graduation.</p>
 
 <p>Things went mostly well for the first few years; everything was new, and novelty is a huge motivational factor for ADHD. Working in the same office together with people is helpful too, not to mention deadlines. They did let me be a generalist and work at my own pace when client work was not involved. This was both a blessing and a curse; I didn&rsquo;t feel any unnecessary pressure, but in hindsight, I procrastinated a lot and beat myself up for it (I still do). I don&rsquo;t subscribe to the cult and fetishization of productivity, but that&rsquo;s a fact. A bit of nudge from someone goes a long way. I was suffering in a lot of different ways as well; I&rsquo;ll get back to these things later in this article.</p>
 
@@ -587,7 +607,7 @@ In the beginning… I was what they call a “problem child”.</summary>
 
 <p>Last time we saw our protagonist — about two dozen paragraphs ago — he got rediagnosed and started taking stimulant medication again. What could have possibly gone wrong?</p>
 
-<p>Plenty, as it turns out. A couple of months after starting my meds again, my lifelong untreated anxiety issues reached a breaking point, and I started having panic attacks (more about that in <a href="https://writetogether.space/posts/ktamas/there-and-back-again-part-1">this post</a>). It forced me to seek help finally and so I did: I started a medication that helped me a lot, but I also had to take another break from Ritalin, one that would last a bit more, than a year. During that time, my anxiety issues improved, I moved to Sweden in January 2013, and I also started going to therapy.</p>
+<p>Plenty, as it turns out. A couple of months after starting my meds again, my lifelong untreated anxiety issues reached a breaking point, and I started having panic attacks. It forced me to seek help finally and so I did: I started a medication that helped me a lot, but I also had to take another break from Ritalin, one that would last a bit more, than a year. During that time, my anxiety issues improved, I moved to Sweden in January 2013, and I also started going to therapy.</p>
 
 <p>Through a stroke of luck, I got to a government-funded psychiatrist pretty quickly in Sweden. What seems unreal looking back is that I literally walked into his office, told him my history over the next 90 minutes, discussed what medications I need and he simply prescribed them. I would later learn that this is almost an exception and a lot of places in the world want some sort of proof in writing, and they won&rsquo;t just take your word for it.</p>
 
@@ -663,15 +683,13 @@ I believe this is <em>one of the most important books</em> I&rsquo;ve read about
 
 <p>The book poses the theory that ADHD is a combination of being born with an above-average sensitivity to outside impulses and early childhood trauma, primarily the lack of proper attachment/attunement to the caregiver parent (typically the mother). Again, this fits me; but it may not fit you, and it&rsquo;s not that mainstream. Then again, mainstream is still pretty scattered — pun not intended — on the origins of ADHD.</p>
 
-<p><em>This post originally appeared on WriteTogether <a href="https://writetogether.space/posts/5/re-take-your-pills-part-1">in</a> <a href="https://writetogether.space/posts/5/re-take-your-pills-my-story-of-adhd-part-2-of-3">three</a> <a href="https://writetogether.space/posts/5/re-take-your-pills-my-story-of-adhd-part-3-of-3">parts</a>. It has been lightly re-edited for the blog.</em></p>
-
 <footer>
     <a title="Permanent link to “RE: Take Your Pills — My Story of ADHD”" href="https://blog.ktamas.com/index.php/2019/02/02/re-take-your-pills-my-story-of-adhd/">RE: Take Your Pills — My Story of ADHD</a>
     by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
     Tagged
         <div class="tags">
             <i class="fas fa-tags"></i>
-            <a href='/tags/adhd/'>adhd</a>, <a href='/tags/series/'>series</a>, <a href='/tags/mentalhealth/'>mentalhealth</a>, <a href='/tags/writetogether/'>writetogether</a>
+            <a href='/tags/adhd/'>adhd</a>, <a href='/tags/series/'>series</a>, <a href='/tags/mentalhealth/'>mentalhealth</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -688,7 +706,6 @@ I believe this is <em>one of the most important books</em> I&rsquo;ve read about
 		<category scheme="https://blog.ktamas.com/tags" term="meta" label="meta"/>
 		<category scheme="https://blog.ktamas.com/tags" term="tech" label="tech"/>
 		<category scheme="https://blog.ktamas.com/tags" term="hugo" label="hugo"/>
-		<category scheme="https://blog.ktamas.com/tags" term="writetogether" label="writetogether"/>
 		<summary>I have a blog (you’re reading it!). It’s got history: I set it up in early 2009, and I have almost 600 posts, mostly in Hungarian. I had one before that, between 2005 and 2008, but it was lost due to a variety of reasons, including my failure to properly back things up. Small bits of it are still up in the Wayback Machine, though. It was all in Wordpress, which does its job, though even in 2019 it can be a pain to update things.</summary>
 		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p><a href="https://blog.ktamas.com">I have a blog</a> (you&rsquo;re reading it!). It&rsquo;s got history: I set it up in early 2009, and I have almost 600 posts, mostly in Hungarian. I had one before that, between 2005 and 2008, but it was lost due to a variety of reasons, including my failure to properly back things up. Small bits of it are still <a href="http://web.archive.org/web/20070208165650/http://blog.ktamas.com/">up in the Wayback Machine</a>, though. It was all in Wordpress, which does its job, though even in 2019 it can be a pain to update things.</p>
@@ -719,13 +736,11 @@ I believe this is <em>one of the most important books</em> I&rsquo;ve read about
 
 <h3 id="on-the-future-of-my-blog">On the Future of My Blog</h3>
 
-<p>Making this move also means that I will start cross-posting my posts from <a href="https://writetogether.space/users/ktamas">WriteTogether</a> to here. One-off posts like this one will definitely make it here; the ongoing series I have at WriteTogether will probably stay there until they are done, and then I&rsquo;ll re-edit them into long-form posts and publish them here. I will also post content here that doesn&rsquo;t fit WriteTogether for one reason or another. Feel free to <a href="http://feeds.feedburner.com/KTamasBlog">subscribe to this blog</a> in your favorite RSS reader.</p>
+<p>There is a lot more content to come as I started writing regularly. Feel free to <a href="http://feeds.feedburner.com/KTamasBlog">subscribe to this blog</a> in your favorite RSS reader.</p>
 
 <p>Hugo gives me a lot of ways to tinker; I am already thinking about replacing the commenting system, adding reading time, word count and so on. I might write something on this in again in the future.</p>
 
 <p><em>This post was not sponsored by anyone, just in case some of it reads like an ad for Github or Netlify or whatever.</em></p>
-
-<p><em>This post originally appeared on <a href="https://writetogether.space/posts/ktamas/converting-my-blog-to-hugo-and-getting-rid-of-my-vps">WriteTogether</a>.</em></p>
 
 <footer>
     <a title="Permanent link to “Converting My Blog To Hugo and Getting Rid of My VPS”" href="https://blog.ktamas.com/index.php/2019/02/01/converting-my-blog-to-hugo-and-getting-rid-of-my-vps/">Converting My Blog To Hugo and Getting Rid of My VPS</a>
@@ -733,7 +748,7 @@ I believe this is <em>one of the most important books</em> I&rsquo;ve read about
     Tagged
         <div class="tags">
             <i class="fas fa-tags"></i>
-            <a href='/tags/meta/'>meta</a>, <a href='/tags/tech/'>tech</a>, <a href='/tags/hugo/'>hugo</a>, <a href='/tags/writetogether/'>writetogether</a>
+            <a href='/tags/meta/'>meta</a>, <a href='/tags/tech/'>tech</a>, <a href='/tags/hugo/'>hugo</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -749,7 +764,6 @@ I believe this is <em>one of the most important books</em> I&rsquo;ve read about
 		</author>
 		<category scheme="https://blog.ktamas.com/tags" term="writersblock" label="writersblock"/>
 		<category scheme="https://blog.ktamas.com/tags" term="wine" label="wine"/>
-		<category scheme="https://blog.ktamas.com/tags" term="writetogether" label="writetogether"/>
 		<summary>I’m sitting in a wine bar and waiting for my friends to arrive to hang out. I spent my free time today working my converting my blog from Wordpress to Hugo — with a detour of Jekyll — and moving my static sites to Netlify so that I can shut down my barely-used VPS. A full write-up about this is coming soon.
 I have about 20 minutes before said friends arrive so this will be one of those stream of consciousness posts where I just start writing and see what comes out of it.</summary>
 		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
@@ -781,15 +795,13 @@ I have about 20 minutes before said friends arrive so this will be one of those 
 
 <p>My friends started arriving. Time for me to order a glass of Syrah&hellip;</p>
 
-<p><em>This post originally appeared on <a href="https://writetogether.space/posts/5/on-wine-and-anxiety">WriteTogether</a>.</em></p>
-
 <footer>
     <a title="Permanent link to “On Wine and Anxiety”" href="https://blog.ktamas.com/index.php/2019/01/31/on-wine-and-anxiety/">On Wine and Anxiety</a>
     by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
     Tagged
         <div class="tags">
             <i class="fas fa-tags"></i>
-            <a href='/tags/writersblock/'>writersblock</a>, <a href='/tags/wine/'>wine</a>, <a href='/tags/writetogether/'>writetogether</a>
+            <a href='/tags/writersblock/'>writersblock</a>, <a href='/tags/wine/'>wine</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -805,12 +817,11 @@ I have about 20 minutes before said friends arrive so this will be one of those 
 		</author>
 		<category scheme="https://blog.ktamas.com/tags" term="milestones" label="milestones"/>
 		<category scheme="https://blog.ktamas.com/tags" term="meta" label="meta"/>
-		<category scheme="https://blog.ktamas.com/tags" term="writetogether" label="writetogether"/>
 		<summary>Last night I went to bed feeling I might be getting sick, and I woke up most definitely sick. It feels like something in-between a cold and full-blown flu, and I mean, whatever, it’ll pass. What bothers me is the timing: I started working with a personal trainer last week and been to 4 classes so far. Now I’ll have to skip a bunch, and that’s bad when you are building a habit.</summary>
 		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>Last night I went to bed feeling I might be getting sick, and I woke up most definitely sick. It feels like something in-between a cold and full-blown flu, and I mean, whatever, it&rsquo;ll pass. What bothers me is the timing: I started working with a personal trainer last week and been to 4 classes so far. Now I&rsquo;ll have to skip a bunch, and that&rsquo;s bad when you are building a habit.</p>
 
-<p>I have at least one more post ready in my <a href="https://writetogether.space/posts/ktamas/my-trip-to-the-us-and-a-recap-of-xoxo-2018-part-1">SF &amp; XOXO 2018 series</a>, but right now I&rsquo;m struggling to write end edit the ones that come after them. So I&rsquo;m taking a break today to reflect on writing, and in particular, writing here.</p>
+<p>I have at least one more post ready in my SF &amp; XOXO 2018 series (to come), but right now I&rsquo;m struggling to write end edit the ones that come after them. So I&rsquo;m taking a break today to reflect on writing, and in particular, writing here.</p>
 
 <hr />
 
@@ -830,7 +841,7 @@ I have about 20 minutes before said friends arrive so this will be one of those 
 
 <hr />
 
-<p>All of the writing I mentioned above has been in Hungarian, though. This is the first time I am writing a significant amount in English, a language that&rsquo;s not my mother tongue. Now, I pride myself having a good grasp on the English language, and have been fluent in it since I was 15 or so. I don&rsquo;t even have the stereotypical Hungarian accent; it sounds like generic American English to most ears. <a href="https://writetogether.space/posts/ktamas/there-and-back-again-part-1">When I lived in Sweden</a>, I spoke English 90% of the time. I can and still do think in English a lot. When I&rsquo;m alone and am talking to myself, that&rsquo;s often in English as well.</p>
+<p>All of the writing I mentioned above has been in Hungarian, though. This is the first time I am writing a significant amount in English, a language that&rsquo;s not my mother tongue. Now, I pride myself having a good grasp on the English language, and have been fluent in it since I was 15 or so. I don&rsquo;t even have the stereotypical Hungarian accent; it sounds like generic American English to most ears. When I lived in Sweden, I spoke English 90% of the time. I can and still do think in English a lot. When I&rsquo;m alone and am talking to myself, that&rsquo;s often in English as well.</p>
 
 <p>And yet, writing is a different beast entirely. I don&rsquo;t think I&rsquo;m bad at it, but I&rsquo;m conscious of the fact that I&rsquo;m not great either, and have a lot to learn. I run everything I write through Grammarly and Hemingway, and they help, but they&rsquo;re not silver bullets. I started reading <a href="https://www.amazon.com/dp/B0090RVGW0/">On Writing Well</a> (<a href="https://writetogether.space/posts/owen/the-tyranny-of-writing">thanks, Owen</a>), since nonfiction writing is my thing. And posting here at least 300 words every day itself helps a lot.</p>
 
@@ -838,15 +849,13 @@ I have about 20 minutes before said friends arrive so this will be one of those 
 
 <p>So here I am, 31 days later; a month done, who knows how many to go. And I enjoy it a lot, even though I have no metrics on how many people are reading these posts of mine (I like having an audience and will not apologize for that). For now, I&rsquo;ll go back to editing and rewriting my series. I have work to do.</p>
 
-<p><em>This post originally appeared on <a href="https://writetogether.space/posts/5/on-writing-for-31-days-straight-and-counting">WriteTogether</a>.</em></p>
-
 <footer>
     <a title="Permanent link to “On Writing for 31 Days Straight and Counting”" href="https://blog.ktamas.com/index.php/2019/01/29/on-writing-for-31-days-straight-and-counting/">On Writing for 31 Days Straight and Counting</a>
     by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
     Tagged
         <div class="tags">
             <i class="fas fa-tags"></i>
-            <a href='/tags/milestones/'>milestones</a>, <a href='/tags/meta/'>meta</a>, <a href='/tags/writetogether/'>writetogether</a>
+            <a href='/tags/milestones/'>milestones</a>, <a href='/tags/meta/'>meta</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -862,11 +871,10 @@ I have about 20 minutes before said friends arrive so this will be one of those 
 		</author>
 		<category scheme="https://blog.ktamas.com/tags" term="cultofdone" label="cultofdone"/>
 		<category scheme="https://blog.ktamas.com/tags" term="writersblock" label="writersblock"/>
-		<category scheme="https://blog.ktamas.com/tags" term="writetogether" label="writetogether"/>
-		<summary>I was planning to finish my series about ADHD today, but poor time management and unexpected troubles at work got in the way, so this is one of those posts that I’ll just start writing, and the words will come because they usually do. That’s all I have time for today.
+		<summary>I was planning to finish my post about ADHD today, but poor time management and unexpected troubles at work got in the way, so this is one of those posts that I’ll just start writing, and the words will come because they usually do. That’s all I have time for today.
 I have to say I am unusually proud of myself about yesterday’s post. I had something written already the day before yesterday, but I wasn’t too happy with that; it was long and disorganized and lacked structure.</summary>
 		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
-<![CDATA[<p>I was planning to finish <a href="https://writetogether.space/posts/ktamas/re-take-your-pills-part-1">my series about ADHD</a> today, but poor time management and unexpected troubles at work got in the way, so this is one of those posts that I&rsquo;ll just start writing, and the words will come because they usually do. That&rsquo;s all I have time for today.</p>
+<![CDATA[<p>I was planning to finish <a href="https://blog.ktamas.com/index.php/2019/02/02/re-take-your-pills-my-story-of-adhd/">my post about ADHD</a> today, but poor time management and unexpected troubles at work got in the way, so this is one of those posts that I&rsquo;ll just start writing, and the words will come because they usually do. That&rsquo;s all I have time for today.</p>
 
 <p>I have to say I am unusually proud of myself about yesterday&rsquo;s post. I had something written already the day before yesterday, but I wasn&rsquo;t too happy with that; it was long and disorganized and lacked structure. I took a break, and the next day I started looking at it with fresh eyes. I started editing it, stumbled upon a good article in my research that provided me with an idea for structuring those 34 or so paragraphs. A journalist friend helpfully pointed out that adding subheadings helps to break the text up. I cleaned up a few things in the post with the help of <a href="https://grammarly.com">Grammarly</a> and <a href="http://hemingwayapp.com">Hemingway</a>.</p>
 
@@ -884,15 +892,13 @@ I have to say I am unusually proud of myself about yesterday’s post. I had som
 
 <p>See you tomorrow, hopefully with Part 3 of my series done.</p>
 
-<p><em>This post originally appeared on <a href="https://writetogether.space/posts/5/cult-of-done">WriteTogether</a>.</em></p>
-
 <footer>
     <a title="Permanent link to “Cult of Done”" href="https://blog.ktamas.com/index.php/2019/01/24/cult-of-done/">Cult of Done</a>
     by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
     Tagged
         <div class="tags">
             <i class="fas fa-tags"></i>
-            <a href='/tags/cultofdone/'>cultofdone</a>, <a href='/tags/writersblock/'>writersblock</a>, <a href='/tags/writetogether/'>writetogether</a>
+            <a href='/tags/cultofdone/'>cultofdone</a>, <a href='/tags/writersblock/'>writersblock</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -909,7 +915,6 @@ I have to say I am unusually proud of myself about yesterday’s post. I had som
 		<category scheme="https://blog.ktamas.com/tags" term="goals" label="goals"/>
 		<category scheme="https://blog.ktamas.com/tags" term="2019" label="2019"/>
 		<category scheme="https://blog.ktamas.com/tags" term="future" label="future"/>
-		<category scheme="https://blog.ktamas.com/tags" term="writetogether" label="writetogether"/>
 		<summary>Yesterday I read Owen’s “Goals” post and at first, I thought I don’t have any, but then I started writing them down and turns out I do! Without further ado, a list, well, many lists.
 Short term / immediate / ongoing goals:
  Keep writing 300 words a day (duh) Find another steady freelance gig that’s roughly 10-20 hours a week. I have a few leads, and I already have a long-term client with about 20 billed hours per week Keep working with my personal trainer, thrice a week for an hour, which I literally just started (as in, today) Somehow start losing weight.</summary>
@@ -939,7 +944,7 @@ Short term / immediate / ongoing goals:
 <li>Get my sleep schedule in order</li>
 <li>Have that new freelance gig worked out</li>
 <li>Have been on at least another date (again, realistic goals)</li>
-<li>Have started working on the <a href="https://writetogether.space/posts/ktamas/the-as-of-yet-unwritten-oral-history-of-turulcsirip-an-early-twitter-client-and-community">oral history article I wrote about</a></li>
+<li>Have started working on the [oral history article I wrote about]()</li>
 <li>Have held at least another dinner party</li>
 <li>Be still writing 300 words a day, still drawing at least once a week, still working out thrice a week (this goal never ends)</li>
 </ul>
@@ -998,15 +1003,13 @@ Short term / immediate / ongoing goals:
 
 <p>Okay, I could go on, but I think this is a good start. Keep me accountable, please?</p>
 
-<p><em>This post originally appeared on <a href="https://writetogether.space/posts/5/re-goals">WriteTogether</a>.</em></p>
-
 <footer>
     <a title="Permanent link to “Re: Goals”" href="https://blog.ktamas.com/index.php/2019/01/21/re-goals/">Re: Goals</a>
     by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
     Tagged
         <div class="tags">
             <i class="fas fa-tags"></i>
-            <a href='/tags/goals/'>goals</a>, <a href='/tags/2019/'>2019</a>, <a href='/tags/future/'>future</a>, <a href='/tags/writetogether/'>writetogether</a>
+            <a href='/tags/goals/'>goals</a>, <a href='/tags/2019/'>2019</a>, <a href='/tags/future/'>future</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -1022,7 +1025,6 @@ Short term / immediate / ongoing goals:
 		</author>
 		<category scheme="https://blog.ktamas.com/tags" term="freehugs" label="freehugs"/>
 		<category scheme="https://blog.ktamas.com/tags" term="thoughts" label="thoughts"/>
-		<category scheme="https://blog.ktamas.com/tags" term="writetogether" label="writetogether"/>
 		<summary>A bit more than a year ago, a couple weeks before Christmas an event popped up on my Facebook timeline. “Free Hugs in Budapest”, it said. Intrigued, I clicked on the “Interested” button, the universal bookmarking feature. I didn’t think much of it afterward, but a few days later a photographer friend visiting from Sweden contacted me and asked if I’m planning to attend. So we ended up going together, our cameras in hand, to take a few pictures; seemed like an interesting enough topic.</summary>
 		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>A bit more than a year ago, a couple weeks before Christmas an event popped up on my Facebook timeline. &ldquo;Free Hugs in Budapest&rdquo;, it said. Intrigued, I clicked on the &ldquo;Interested&rdquo; button, the universal bookmarking feature. I didn&rsquo;t think much of it afterward, but a few days later a photographer friend visiting from Sweden contacted me and asked if I&rsquo;m planning to attend. So we ended up going together, our cameras in hand, to take a few pictures; seemed like an interesting enough topic. I ended up bringing a wrong camera (hint: don&rsquo;t bring your old mirrorless camera that has shitty autofocus for fast-moving subjects) but did get a <a href="https://www.facebook.com/ktamasphotovideo/posts/547084138989539">few</a> <a href="https://www.facebook.com/ktamasphotovideo/posts/547084225656197">good shots</a>.</p>
@@ -1051,15 +1053,13 @@ Short term / immediate / ongoing goals:
 
 <p>But if you have one in your city, and this sounds intriguing to you, I highly encourage you to try it. It&rsquo;s a good way to spend an hour on a Sunday afternoon.</p>
 
-<p><em>This post originally appeared on <a href="https://writetogether.space/posts/5/on-giving-free-hugs">WriteTogether</a>.</em></p>
-
 <footer>
     <a title="Permanent link to “On Giving Free Hugs”" href="https://blog.ktamas.com/index.php/2019/01/20/on-giving-free-hugs/">On Giving Free Hugs</a>
     by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
     Tagged
         <div class="tags">
             <i class="fas fa-tags"></i>
-            <a href='/tags/freehugs/'>freehugs</a>, <a href='/tags/thoughts/'>thoughts</a>, <a href='/tags/writetogether/'>writetogether</a>
+            <a href='/tags/freehugs/'>freehugs</a>, <a href='/tags/thoughts/'>thoughts</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -1075,7 +1075,6 @@ Short term / immediate / ongoing goals:
 		</author>
 		<category scheme="https://blog.ktamas.com/tags" term="turulcsirip" label="turulcsirip"/>
 		<category scheme="https://blog.ktamas.com/tags" term="ideas" label="ideas"/>
-		<category scheme="https://blog.ktamas.com/tags" term="writetogether" label="writetogether"/>
 		<summary>I have an ambitious idea: I want to write a longform article, an oral history of an early Twitter client/community called Turulcsirip (wikipedia link with Google Translate).
 The story starts simple enough: in early 2007, a Hungarian guy called Benedek Toth has written a Twitter client called Turulcsirip. But it wasn’t your average client as there were several things that made it special.
 While I registered an account on Twitter sometime in 2007, I haven’t started tweeting until early 2008.</summary>
@@ -1106,15 +1105,13 @@ While I registered an account on Twitter sometime in 2007, I haven’t started t
 
 <p>Stay tuned.</p>
 
-<p><em>This post originally appeared on <a href="https://writetogether.space/posts/5/the-as-of-yet-unwritten-oral-history-of-turulcsirip-an-early-twitter-client-and-community">WriteTogether</a>.</em></p>
-
 <footer>
     <a title="Permanent link to “The As-Of-Yet-Unwritten Oral History of Turulcsirip, an Early Twitter Client and Community”" href="https://blog.ktamas.com/index.php/2019/01/19/the-as-of-yet-unwritten-oral-history-of-turulcsirip-an-early-twitter-client-and-community/">The As-Of-Yet-Unwritten Oral History of Turulcsirip, an Early Twitter Client and Community</a>
     by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
     Tagged
         <div class="tags">
             <i class="fas fa-tags"></i>
-            <a href='/tags/turulcsirip/'>turulcsirip</a>, <a href='/tags/ideas/'>ideas</a>, <a href='/tags/writetogether/'>writetogether</a>
+            <a href='/tags/turulcsirip/'>turulcsirip</a>, <a href='/tags/ideas/'>ideas</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -1130,7 +1127,6 @@ While I registered an account on Twitter sometime in 2007, I haven’t started t
 		</author>
 		<category scheme="https://blog.ktamas.com/tags" term="thoughts" label="thoughts"/>
 		<category scheme="https://blog.ktamas.com/tags" term="writersblock" label="writersblock"/>
-		<category scheme="https://blog.ktamas.com/tags" term="writetogether" label="writetogether"/>
 		<summary>I have no idea what to write today but I will start, and I am sure words will come.
 I have a couple of topics floating in my head for longer stories. One is obviously continuing my memoir about my time in Sweden but I’ve hit a snag there: I got to the part where I arrived in Sweden, and now there are a couple of months where I am unsure what I should write about.</summary>
 		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
@@ -1146,15 +1142,13 @@ I have a couple of topics floating in my head for longer stories. One is obvious
 
 <p>This whole post is just a shameless thing to get my streak, look, 300 words exactly.</p>
 
-<p><em>This post originally appeared on <a href="https://writetogether.space/posts/5/writer-unblocked">WriteTogether</a>.</em></p>
-
 <footer>
     <a title="Permanent link to “Writer, Unblocked”" href="https://blog.ktamas.com/index.php/2019/01/18/writer-unblocked/">Writer, Unblocked</a>
     by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
     Tagged
         <div class="tags">
             <i class="fas fa-tags"></i>
-            <a href='/tags/thoughts/'>thoughts</a>, <a href='/tags/writersblock/'>writersblock</a>, <a href='/tags/writetogether/'>writetogether</a>
+            <a href='/tags/thoughts/'>thoughts</a>, <a href='/tags/writersblock/'>writersblock</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -1170,7 +1164,6 @@ I have a couple of topics floating in my head for longer stories. One is obvious
 		</author>
 		<category scheme="https://blog.ktamas.com/tags" term="30" label="30"/>
 		<category scheme="https://blog.ktamas.com/tags" term="thoughts" label="thoughts"/>
-		<category scheme="https://blog.ktamas.com/tags" term="writetogether" label="writetogether"/>
 		<summary>I want to preface this that everything I write here may leave you scratching your head thinking “this is not unusual at all”. But it is for me.
 I, like most people belong to different groups of friends, that function as bubbles. I have my online friends, my church friends, my friends from drawing class, my friends with whom I do free hugs every month and so on. And by far and large, these groups do not interact with each other at all, and that’s partly on me.</summary>
 		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
@@ -1188,15 +1181,13 @@ I, like most people belong to different groups of friends, that function as bubb
 
 <p>You&rsquo;re all invited as long as you can make it to Hungary by 7 pm this Saturday. :)</p>
 
-<p><em>This post originally appeared on <a href="https://writetogether.space/posts/5/birthday-party-as-a-social-experiment">WriteTogether</a>.</em></p>
-
 <footer>
     <a title="Permanent link to “Birthday Party as a Social Experiment”" href="https://blog.ktamas.com/index.php/2019/01/17/birthday-party-as-a-social-experiment/">Birthday Party as a Social Experiment</a>
     by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
     Tagged
         <div class="tags">
             <i class="fas fa-tags"></i>
-            <a href='/tags/30/'>30</a>, <a href='/tags/thoughts/'>thoughts</a>, <a href='/tags/writetogether/'>writetogether</a>
+            <a href='/tags/30/'>30</a>, <a href='/tags/thoughts/'>thoughts</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -1212,7 +1203,6 @@ I, like most people belong to different groups of friends, that function as bubb
 		</author>
 		<category scheme="https://blog.ktamas.com/tags" term="30" label="30"/>
 		<category scheme="https://blog.ktamas.com/tags" term="thoughts" label="thoughts"/>
-		<category scheme="https://blog.ktamas.com/tags" term="writetogether" label="writetogether"/>
 		<summary>Ten years ago I was working at a translation agency, being very enthusiastic about my job. I just started having a social life again after high school, finding real-life friends and community on Early Twitter, thanks to a Twitter client that auto-aggregated Hungarian users and connected them. (That’s a story worth telling in itself, another time)
 A lot has happened since then. I worked there for a few more years, then I moved to Sweden for four years and then moved back to Hungary.</summary>
 		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
@@ -1228,15 +1218,13 @@ A lot has happened since then. I worked there for a few more years, then I moved
 
 <p>Here&rsquo;s to an even better 40.</p>
 
-<p><em>This post originally appeared on <a href="https://writetogether.space/posts/5/musings-on-turning-30">WriteTogether</a>.</em></p>
-
 <footer>
     <a title="Permanent link to “Musings on Turning 30”" href="https://blog.ktamas.com/index.php/2019/01/16/musings-on-turning-30/">Musings on Turning 30</a>
     by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
     Tagged
         <div class="tags">
             <i class="fas fa-tags"></i>
-            <a href='/tags/30/'>30</a>, <a href='/tags/thoughts/'>thoughts</a>, <a href='/tags/writetogether/'>writetogether</a>
+            <a href='/tags/30/'>30</a>, <a href='/tags/thoughts/'>thoughts</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -1253,7 +1241,6 @@ A lot has happened since then. I worked there for a few more years, then I moved
 		<category scheme="https://blog.ktamas.com/tags" term="sharewood" label="sharewood"/>
 		<category scheme="https://blog.ktamas.com/tags" term="rss" label="rss"/>
 		<category scheme="https://blog.ktamas.com/tags" term="googlereader" label="googlereader"/>
-		<category scheme="https://blog.ktamas.com/tags" term="writetogether" label="writetogether"/>
 		<summary>This post was inspired by the Motherboard article, The Rise and Demise of RSS.
 It was early 2012 and Google Reader’s sharing function was taken from us, replaced with a useless, shitty “Share to Google+” button (Fuck you, Google). I’ve been using Reader since late 2006 and the sharing feature since it’s introduction; the notion that if I see something interesting on the internet I must share it with others was ingrained in me, forever.</summary>
 		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
@@ -1287,40 +1274,13 @@ It was early 2012 and Google Reader’s sharing function was taken from us, repl
 
 <p>The itch is still there.</p>
 
-<p><em>This post originally appeared on WriteTogether in <a href="https://writetogether.space/posts/5/in-memoriam-of-sharewood-my-own-little-content-sharing-community-part-1-of-2">two</a> <a href="https://writetogether.space/posts/5/in-memoriam-of-sharewood-my-own-little-content-sharing-community-part-2-of-2">parts</a>.</em></p>
-
 <footer>
     <a title="Permanent link to “In Memoriam of Sharewood — My Own Little Content Sharing Community”" href="https://blog.ktamas.com/index.php/2019/01/15/in-memoriam-of-sharewood-my-own-little-content-sharing-community/">In Memoriam of Sharewood — My Own Little Content Sharing Community</a>
     by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
     Tagged
         <div class="tags">
             <i class="fas fa-tags"></i>
-            <a href='/tags/sharewood/'>sharewood</a>, <a href='/tags/rss/'>rss</a>, <a href='/tags/googlereader/'>googlereader</a>, <a href='/tags/writetogether/'>writetogether</a>
-        </div>
-</footer>]]></content>
-	</entry>
-	<entry>
-		<id>https://blog.ktamas.com/index.php/2019/01/06/see-you-at-write-together/</id>
-		<title>Follow Me on WriteTogether</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2019/01/06/see-you-at-write-together/"/>
-		<updated>2019-01-06T12:17:20Z</updated>
-		<published>2019-01-06T12:17:20Z</published>
-		<author>
-			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
-		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="writetogether" label="writetogether"/>
-		<summary>I’ll be writing daily posts on Write Together for the foreseeable future. It’s a blogging platform/writing community with the goal of writing and publishing at least 300 words, every day. Most of them will be cross-posted here, but some I write as a series of posts, and those may be re-edited and published here once I’m done. If you’re interested, you should follow me there.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
-<![CDATA[<p>I&rsquo;ll be writing <a href="https://writetogether.space/users/ktamas">daily posts on Write Together</a> for the foreseeable future. It&rsquo;s a blogging platform/writing community with the goal of writing and publishing at least 300 words, every day. Most of them will be cross-posted here, but some I write as a series of posts, and those may be re-edited and published here once I&rsquo;m done. If you&rsquo;re interested, you should follow me there.</p>
-
-<footer>
-    <a title="Permanent link to “Follow Me on WriteTogether”" href="https://blog.ktamas.com/index.php/2019/01/06/see-you-at-write-together/">Follow Me on WriteTogether</a>
-    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
-    Tagged
-        <div class="tags">
-            <i class="fas fa-tags"></i>
-            <a href='/tags/writetogether/'>writetogether</a>
+            <a href='/tags/sharewood/'>sharewood</a>, <a href='/tags/rss/'>rss</a>, <a href='/tags/googlereader/'>googlereader</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -1336,7 +1296,6 @@ It was early 2012 and Google Reader’s sharing function was taken from us, repl
 		</author>
 		<category scheme="https://blog.ktamas.com/tags" term="metablogging" label="metablogging"/>
 		<category scheme="https://blog.ktamas.com/tags" term="adhd" label="adhd"/>
-		<category scheme="https://blog.ktamas.com/tags" term="writetogether" label="writetogether"/>
 		<summary>Well, it’s day 5 of my streak, and I have no idea what to write about. But they say you just have to start and eventually something will come out of it, so that’s what I am doing now.
 Thing is, I have a blog, although I have not blogged regularly for years now. The only time I did that was in early 2013 when I moved to Sweden from Hungary.</summary>
 		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
@@ -1356,15 +1315,13 @@ Thing is, I have a blog, although I have not blogged regularly for years now. Th
 
 <p>P.S. Thinking in weeks is a very Swedish thing to do. In Sweden, everyone knows what week it is, and they frequently refer to them as in &ldquo;I&rsquo;m doing this on week X&rdquo; or &ldquo;I&rsquo;ll be on vacation between week Y and Z.&rdquo; If my memory serves me right, one of the most popular apps in the Swedish App Store for a long time was called &ldquo;Week Calendar&rdquo; until Apple added the option to display week numbers in Calendar. It drove me crazy for a long time, but I have to admit that it makes sense because it&rsquo;s a good unit of time. I&rsquo;ve been told the Germans do the same.</p>
 
-<p><em>This post originally appeared on <a href="https://writetogether.space/posts/5/on-blogging-journaling-evernote-todos-and-thinking-in-weeks">WriteTogether</a>.</em></p>
-
 <footer>
     <a title="Permanent link to “On Blogging, Journaling, Evernote, Todos and Thinking in Weeks”" href="https://blog.ktamas.com/index.php/2019/01/03/on-blogging-journaling-evernote-todos-and-thinking-in-weeks/">On Blogging, Journaling, Evernote, Todos and Thinking in Weeks</a>
     by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
     Tagged
         <div class="tags">
             <i class="fas fa-tags"></i>
-            <a href='/tags/metablogging/'>metablogging</a>, <a href='/tags/adhd/'>adhd</a>, <a href='/tags/writetogether/'>writetogether</a>
+            <a href='/tags/metablogging/'>metablogging</a>, <a href='/tags/adhd/'>adhd</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -1380,7 +1337,6 @@ Thing is, I have a blog, although I have not blogged regularly for years now. Th
 		</author>
 		<category scheme="https://blog.ktamas.com/tags" term="recommendations" label="recommendations"/>
 		<category scheme="https://blog.ktamas.com/tags" term="lists" label="lists"/>
-		<category scheme="https://blog.ktamas.com/tags" term="writetogether" label="writetogether"/>
 		<summary>Newsletters are the new blogs, they say, and I hope not because I hate getting email. And yet there is ~content~ in newsletters, good content, so here’s a few that I subscribe to and like.
  Charged - I guess this one needs no introduction to this community ;) The week that was - Ian Kennedy’s once-a-week newsletter with usually ten links to interesting, unusual stories from all over the world.</summary>
 		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
@@ -1404,15 +1360,13 @@ Thing is, I have a blog, although I have not blogged regularly for years now. Th
 
 <p>What are yours?</p>
 
-<p><em>This post originally appeared on <a href="https://writetogether.space/posts/5/my-favorite-newsletters">WriteTogether</a>.</em></p>
-
 <footer>
     <a title="Permanent link to “My Favorite Newsletters”" href="https://blog.ktamas.com/index.php/2019/01/02/my-favorite-newsletters/">My Favorite Newsletters</a>
     by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
     Tagged
         <div class="tags">
             <i class="fas fa-tags"></i>
-            <a href='/tags/recommendations/'>recommendations</a>, <a href='/tags/lists/'>lists</a>, <a href='/tags/writetogether/'>writetogether</a>
+            <a href='/tags/recommendations/'>recommendations</a>, <a href='/tags/lists/'>lists</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -1428,7 +1382,6 @@ Thing is, I have a blog, although I have not blogged regularly for years now. Th
 		</author>
 		<category scheme="https://blog.ktamas.com/tags" term="tech" label="tech"/>
 		<category scheme="https://blog.ktamas.com/tags" term="phones" label="phones"/>
-		<category scheme="https://blog.ktamas.com/tags" term="writetogether" label="writetogether"/>
 		<summary>I started 2018 with wanting to try Android after not using it for like five years; I had a Nexus S with Android 4 point something back in 2013 before jumping on to the iPhone bandwagon. So I got myself a cheap Moto G5 Plus just to play around with it, and to my surprise, I promptly fell in love with the whole thing.
 Android has come a long way, and in many ways, it’s a better fit for me than iOS.</summary>
 		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
@@ -1452,15 +1405,13 @@ Android has come a long way, and in many ways, it’s a better fit for me than i
 
 <p>The moral of the story is that I have disposable income and I was bored. I am tempted to say that none of this stuff really matters but I spend a fair amount of time on my phone every day so&hellip; it kinda does for me.</p>
 
-<p><em>This post originally appeared on <a href="https://writetogether.space/posts/5/a-year-in-smartphones">WriteTogether</a>.</em></p>
-
 <footer>
     <a title="Permanent link to “A Year in Smartphones”" href="https://blog.ktamas.com/index.php/2019/01/01/a-year-in-smartphones/">A Year in Smartphones</a>
     by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
     Tagged
         <div class="tags">
             <i class="fas fa-tags"></i>
-            <a href='/tags/tech/'>tech</a>, <a href='/tags/phones/'>phones</a>, <a href='/tags/writetogether/'>writetogether</a>
+            <a href='/tags/tech/'>tech</a>, <a href='/tags/phones/'>phones</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -1477,7 +1428,6 @@ Android has come a long way, and in many ways, it’s a better fit for me than i
 		<category scheme="https://blog.ktamas.com/tags" term="thoughts" label="thoughts"/>
 		<category scheme="https://blog.ktamas.com/tags" term="mediadiet" label="mediadiet"/>
 		<category scheme="https://blog.ktamas.com/tags" term="recommendations" label="recommendations"/>
-		<category scheme="https://blog.ktamas.com/tags" term="writetogether" label="writetogether"/>
 		<summary>I was planning to possibly dive into the YearCompass, I even put it on my todo list to print it out and take it with me to my favorite coffee shop, but I forgot to look at my todo list. Ah, the joys of ADHD. They do have a PDF that you can do electronically, but it’s not a great user experience.
 I binged on the first season Condor yesterday, and I have to say it was a pretty fun spy thriller.</summary>
 		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
@@ -1495,15 +1445,13 @@ I binged on the first season Condor yesterday, and I have to say it was a pretty
 
 <p>Onwards to 2019!</p>
 
-<p><em>This post originally appeared on <a href="https://writetogether.space/posts/5/my-recent-media-diet-on-the-last-days-of-2018">WriteTogether</a>.</em></p>
-
 <footer>
     <a title="Permanent link to “My Recent Media Diet in the Last Days of 2018”" href="https://blog.ktamas.com/index.php/2018/12/31/my-recent-media-diet-on-the-last-days-of-2018/">My Recent Media Diet in the Last Days of 2018</a>
     by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
     Tagged
         <div class="tags">
             <i class="fas fa-tags"></i>
-            <a href='/tags/thoughts/'>thoughts</a>, <a href='/tags/mediadiet/'>mediadiet</a>, <a href='/tags/recommendations/'>recommendations</a>, <a href='/tags/writetogether/'>writetogether</a>
+            <a href='/tags/thoughts/'>thoughts</a>, <a href='/tags/mediadiet/'>mediadiet</a>, <a href='/tags/recommendations/'>recommendations</a>
         </div>
 </footer>]]></content>
 	</entry>
@@ -1519,7 +1467,6 @@ I binged on the first season Condor yesterday, and I have to say it was a pretty
 		</author>
 		<category scheme="https://blog.ktamas.com/tags" term="thoughts" label="thoughts"/>
 		<category scheme="https://blog.ktamas.com/tags" term="recaps" label="recaps"/>
-		<category scheme="https://blog.ktamas.com/tags" term="writetogether" label="writetogether"/>
 		<summary>2018 was a strange year for me. I started it out sort of aimless, not knowing what to do professionally. Then, stealing a friend’s idea I simply put out a “Hey, I’m looking for a cool team to work with” message to social media and got a ton of different offers and I ended up with… a cool team to work with.
 Since February I have essentially a very well-paid half-time job at a small but important hosting company as a sysadmin.</summary>
 		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
@@ -1539,15 +1486,13 @@ Since February I have essentially a very well-paid half-time job at a small but 
 
 <p>Hey look, 300 words!</p>
 
-<p><em>This post originally appeared on <a href="https://writetogether.space/posts/ktamas/a-recap-of-2018-and-what-to-come-in-2019">WriteTogether</a>.</em></p>
-
 <footer>
     <a title="Permanent link to “A Recap of 2018 and What&#39;s to Come in 2019”" href="https://blog.ktamas.com/index.php/2018/12/30/a-recap-of-2018-and-what-to-come-in-2019/">A Recap of 2018 and What&#39;s to Come in 2019</a>
     by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
     Tagged
         <div class="tags">
             <i class="fas fa-tags"></i>
-            <a href='/tags/thoughts/'>thoughts</a>, <a href='/tags/recaps/'>recaps</a>, <a href='/tags/writetogether/'>writetogether</a>
+            <a href='/tags/thoughts/'>thoughts</a>, <a href='/tags/recaps/'>recaps</a>
         </div>
 </footer>]]></content>
 	</entry>

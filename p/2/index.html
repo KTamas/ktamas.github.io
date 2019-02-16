@@ -52,9 +52,62 @@
 		
 		    <article class="post">
         <header>
+            <h1 class="post"><a href="/index.php/2019/02/01/converting-my-blog-to-hugo-and-getting-rid-of-my-vps/">Converting My Blog To Hugo and Getting Rid of My VPS</a></h1>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2019/02/01/converting-my-blog-to-hugo-and-getting-rid-of-my-vps/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2019-02-01T11:46:09Z">Friday, February 1, 2019</time> · 955 words · 5 min read</div>
+        </header>
+        <div class="text">
+
+
+
+<p><a href="https://blog.ktamas.com">I have a blog</a> (you&rsquo;re reading it!). It&rsquo;s got history: I set it up in early 2009, and I have almost 600 posts, mostly in Hungarian. I had one before that, between 2005 and 2008, but it was lost due to a variety of reasons, including my failure to properly back things up. Small bits of it are still <a href="http://web.archive.org/web/20070208165650/http://blog.ktamas.com/">up in the Wayback Machine</a>, though. It was all in Wordpress, which does its job, though even in 2019 it can be a pain to update things.</p>
+
+<h3 id="from-wordpress-to-jekyll-to-hugo">From Wordpress to Jekyll to Hugo</h3>
+
+<p>About a week ago I decided it was time to migrate it to <a href="https://jekyllrb.com/">Jekyll</a>. I was bored, and it gave me a good excuse to play with a static site generator. Plus, doing this kind of conversion became a rite of passage for people working in tech these days.</p>
+
+<p><em>This is not a complete guide; you can find hundreds of them with a <a href="https://www.google.com/search?q=convert+wordpress+to+jekyll">quick google</a>. I will, however, provide a general overview of the process with some helpful pointers and links.</em></p>
+
+<p>I started by migrating all the comments to Disqus with their <a href="https://wordpress.org/plugins/disqus-comment-system/">official Wordpress plugin</a>. After that, I used a <a href="https://wordpress.org/plugins/jekyll-exporter/">Jekyll exporter plugin</a> that converted all my posts into markdown&hellip; except it stripped all the embeds.</p>
+
+<p>I used to blog a lot about music, so I had a lot of embeds, mostly from Youtube. In retrospect, I could have saved myself some time by patching the exporter or finding another one. In the end, however, I ended up fixing every single post by hand. I replaced old, pre-iframe flash embed codes with updated ones and changed the newer, but still http ones to https. In most places, if the video was not necessary or wasn&rsquo;t available anymore, I added the song to the post via Spotify. The chances of a given song being up on Spotify in a few years feels <em>marginally</em> higher than on Youtube right now. I had a few other embeds that I could fix with newer code (Soundcloud) and others that I couldn&rsquo;t (Deezer), but most of the time I could find the given song or playlist within Spotify. All of this had the benefit of walking down on memory lane, reading 10-year old blog posts and cringing a lot. <em>I was so young.</em></p>
+
+<hr />
+
+<p>I&rsquo;ve found a <a href="https://github.com/vinitkumar/white-paper">reasonably decent theme</a> for Jekyll, which felt like a good starting point, though it didn&rsquo;t have built-in support for tags or archives. I started googling how to implement that, and around the same time I was venting about my embed issues on the XOXO slack. That was when <a href="https://twitter.com/theory">David</a> chimed in about his experiences on doing this exact same process, except he ended up using <a href="https://gohugo.io">Hugo</a>, another popular static site generator that&rsquo;s kind of like Jekyll except faster. <a href="https://github.com/theory/justatheory/tree/master/themes/justatheory">The theme</a> of <a href="https://justatheory.com">his blog</a> had everything I wanted: a fancy archives page and proper support for tags. So I figured I might as well continue my journey: switch to Hugo and use his theme as a basis.</p>
+
+<p>Jekyll is written in Ruby and uses a simple templating language. Hugo&rsquo;s code is in Go, and it uses Go&rsquo;s own templates; they definitely have a learning curve, even if you have coded in Go before. With some help, googling and a lot of trial and error, I got the hang of it and managed to change things to my liking as well as the look and the color scheme of the site. I converted most of my posts&rsquo; <a href="https://gohugo.io/content-management/front-matter/">front matter</a> <a href="https://github.com/coderzh/ConvertToHugo">with a script</a> and fixed the rest with a few search-and-replaces. With 8-10 hours of work behind me — half of that was fixing those embeds — I had my new blog ready to be <a href="https://pages.github.com/">hosted on Github Pages for free</a>. I use a modified version of the <a href="https://gohugo.io/hosting-and-deployment/hosting-on-github/#put-it-into-a-script-1">sample deploy script</a> they have in Hugo&rsquo;s documentation.</p>
+
+<h3 id="getting-rid-of-my-vps">Getting Rid of My VPS</h3>
+
+<p>I had a small VPS at Linode for years now, hosting my pet projects, my blog and a bunch of static sites (like my <a href="https://ktamas.com">home page</a>) over the years. It also had OpenVPN installed so I could watch iPlayer for free until BBC started cracking down on that. By now it only had my blog and those static sites; I figured if I could find something for the latter, I could ditch the VPS entirely.</p>
+
+<p>I don&rsquo;t remember how, but I came across <a href="https://netlify.com">Netlify</a>. They give you free static hosting with extremely generous soft limits (100 gigs of storage, 100 GB/month transfer). You just point them to a Github repository, and about 30 seconds later you have your site ready, with support for multiple custom domains and SSL.</p>
+
+<p>I spent an hour or two moving everything to Netlify, changing the necessary DNS entries and in the end, I was ready to say goodbye to my VPS and save a grand total of $7 a month in the future. I made backups of everything and then, somewhat emotionally pressed the &ldquo;Delete&rdquo; button on Linode&rsquo;s control panel. I wouldn&rsquo;t be surprised if I would get another one eventually for a side project or something, but for now, I&rsquo;m happy with my all my stuff hosted around the internet for free and stored in git repos.</p>
+
+<h3 id="on-the-future-of-my-blog">On the Future of My Blog</h3>
+
+<p>There is a lot more content to come as I started writing regularly. Feel free to <a href="http://feeds.feedburner.com/KTamasBlog">subscribe to this blog</a> in your favorite RSS reader.</p>
+
+<p>Hugo gives me a lot of ways to tinker; I am already thinking about replacing the commenting system, adding reading time, word count and so on. I might write something on this in again in the future.</p>
+
+<p><em>This post was not sponsored by anyone, just in case some of it reads like an ad for Github or Netlify or whatever.</em></p>
+
+        </div>
+
+        <div class="tags">
+            <i class="fas fa-tags"></i>
+            <a href='/tags/meta/'>meta</a>, <a href='/tags/tech/'>tech</a>, <a href='/tags/hugo/'>hugo</a>
+        </div>
+    </article>
+
+		
+		    <article class="post">
+        <header>
             <h1 class="post"><a href="/index.php/2019/01/31/on-wine-and-anxiety/">On Wine and Anxiety</a></h1>
             <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2019/01/31/on-wine-and-anxiety/"><i class="far fa-bookmark"></i></a>
-            <time datetime="2019-01-31T16:40:50Z">Thursday, January 31, 2019</time> · 549 words · 3 min read</div>
+            <time datetime="2019-01-31T16:40:50Z">Thursday, January 31, 2019</time> · 543 words · 3 min read</div>
         </header>
         <div class="text">
 
@@ -86,13 +139,11 @@
 
 <p>My friends started arriving. Time for me to order a glass of Syrah&hellip;</p>
 
-<p><em>This post originally appeared on <a href="https://writetogether.space/posts/5/on-wine-and-anxiety">WriteTogether</a>.</em></p>
-
         </div>
 
         <div class="tags">
             <i class="fas fa-tags"></i>
-            <a href='/tags/writersblock/'>writersblock</a>, <a href='/tags/wine/'>wine</a>, <a href='/tags/writetogether/'>writetogether</a>
+            <a href='/tags/writersblock/'>writersblock</a>, <a href='/tags/wine/'>wine</a>
         </div>
     </article>
 
@@ -101,13 +152,13 @@
         <header>
             <h1 class="post"><a href="/index.php/2019/01/29/on-writing-for-31-days-straight-and-counting/">On Writing for 31 Days Straight and Counting</a></h1>
             <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2019/01/29/on-writing-for-31-days-straight-and-counting/"><i class="far fa-bookmark"></i></a>
-            <time datetime="2019-01-29T16:38:36Z">Tuesday, January 29, 2019</time> · 702 words · 4 min read</div>
+            <time datetime="2019-01-29T16:38:36Z">Tuesday, January 29, 2019</time> · 698 words · 4 min read</div>
         </header>
         <div class="text">
 
 <p>Last night I went to bed feeling I might be getting sick, and I woke up most definitely sick. It feels like something in-between a cold and full-blown flu, and I mean, whatever, it&rsquo;ll pass. What bothers me is the timing: I started working with a personal trainer last week and been to 4 classes so far. Now I&rsquo;ll have to skip a bunch, and that&rsquo;s bad when you are building a habit.</p>
 
-<p>I have at least one more post ready in my <a href="https://writetogether.space/posts/ktamas/my-trip-to-the-us-and-a-recap-of-xoxo-2018-part-1">SF &amp; XOXO 2018 series</a>, but right now I&rsquo;m struggling to write end edit the ones that come after them. So I&rsquo;m taking a break today to reflect on writing, and in particular, writing here.</p>
+<p>I have at least one more post ready in my SF &amp; XOXO 2018 series (to come), but right now I&rsquo;m struggling to write end edit the ones that come after them. So I&rsquo;m taking a break today to reflect on writing, and in particular, writing here.</p>
 
 <hr />
 
@@ -127,7 +178,7 @@
 
 <hr />
 
-<p>All of the writing I mentioned above has been in Hungarian, though. This is the first time I am writing a significant amount in English, a language that&rsquo;s not my mother tongue. Now, I pride myself having a good grasp on the English language, and have been fluent in it since I was 15 or so. I don&rsquo;t even have the stereotypical Hungarian accent; it sounds like generic American English to most ears. <a href="https://writetogether.space/posts/ktamas/there-and-back-again-part-1">When I lived in Sweden</a>, I spoke English 90% of the time. I can and still do think in English a lot. When I&rsquo;m alone and am talking to myself, that&rsquo;s often in English as well.</p>
+<p>All of the writing I mentioned above has been in Hungarian, though. This is the first time I am writing a significant amount in English, a language that&rsquo;s not my mother tongue. Now, I pride myself having a good grasp on the English language, and have been fluent in it since I was 15 or so. I don&rsquo;t even have the stereotypical Hungarian accent; it sounds like generic American English to most ears. When I lived in Sweden, I spoke English 90% of the time. I can and still do think in English a lot. When I&rsquo;m alone and am talking to myself, that&rsquo;s often in English as well.</p>
 
 <p>And yet, writing is a different beast entirely. I don&rsquo;t think I&rsquo;m bad at it, but I&rsquo;m conscious of the fact that I&rsquo;m not great either, and have a lot to learn. I run everything I write through Grammarly and Hemingway, and they help, but they&rsquo;re not silver bullets. I started reading <a href="https://www.amazon.com/dp/B0090RVGW0/">On Writing Well</a> (<a href="https://writetogether.space/posts/owen/the-tyranny-of-writing">thanks, Owen</a>), since nonfiction writing is my thing. And posting here at least 300 words every day itself helps a lot.</p>
 
@@ -135,13 +186,11 @@
 
 <p>So here I am, 31 days later; a month done, who knows how many to go. And I enjoy it a lot, even though I have no metrics on how many people are reading these posts of mine (I like having an audience and will not apologize for that). For now, I&rsquo;ll go back to editing and rewriting my series. I have work to do.</p>
 
-<p><em>This post originally appeared on <a href="https://writetogether.space/posts/5/on-writing-for-31-days-straight-and-counting">WriteTogether</a>.</em></p>
-
         </div>
 
         <div class="tags">
             <i class="fas fa-tags"></i>
-            <a href='/tags/milestones/'>milestones</a>, <a href='/tags/meta/'>meta</a>, <a href='/tags/writetogether/'>writetogether</a>
+            <a href='/tags/milestones/'>milestones</a>, <a href='/tags/meta/'>meta</a>
         </div>
     </article>
 
@@ -150,11 +199,11 @@
         <header>
             <h1 class="post"><a href="/index.php/2019/01/24/cult-of-done/">Cult of Done</a></h1>
             <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2019/01/24/cult-of-done/"><i class="far fa-bookmark"></i></a>
-            <time datetime="2019-01-24T16:34:02Z">Thursday, January 24, 2019</time> · 345 words · 2 min read</div>
+            <time datetime="2019-01-24T16:34:02Z">Thursday, January 24, 2019</time> · 339 words · 2 min read</div>
         </header>
         <div class="text">
 
-<p>I was planning to finish <a href="https://writetogether.space/posts/ktamas/re-take-your-pills-part-1">my series about ADHD</a> today, but poor time management and unexpected troubles at work got in the way, so this is one of those posts that I&rsquo;ll just start writing, and the words will come because they usually do. That&rsquo;s all I have time for today.</p>
+<p>I was planning to finish <a href="https://blog.ktamas.com/index.php/2019/02/02/re-take-your-pills-my-story-of-adhd/">my post about ADHD</a> today, but poor time management and unexpected troubles at work got in the way, so this is one of those posts that I&rsquo;ll just start writing, and the words will come because they usually do. That&rsquo;s all I have time for today.</p>
 
 <p>I have to say I am unusually proud of myself about yesterday&rsquo;s post. I had something written already the day before yesterday, but I wasn&rsquo;t too happy with that; it was long and disorganized and lacked structure. I took a break, and the next day I started looking at it with fresh eyes. I started editing it, stumbled upon a good article in my research that provided me with an idea for structuring those 34 or so paragraphs. A journalist friend helpfully pointed out that adding subheadings helps to break the text up. I cleaned up a few things in the post with the help of <a href="https://grammarly.com">Grammarly</a> and <a href="http://hemingwayapp.com">Hemingway</a>.</p>
 
@@ -172,13 +221,11 @@
 
 <p>See you tomorrow, hopefully with Part 3 of my series done.</p>
 
-<p><em>This post originally appeared on <a href="https://writetogether.space/posts/5/cult-of-done">WriteTogether</a>.</em></p>
-
         </div>
 
         <div class="tags">
             <i class="fas fa-tags"></i>
-            <a href='/tags/cultofdone/'>cultofdone</a>, <a href='/tags/writersblock/'>writersblock</a>, <a href='/tags/writetogether/'>writetogether</a>
+            <a href='/tags/cultofdone/'>cultofdone</a>, <a href='/tags/writersblock/'>writersblock</a>
         </div>
     </article>
 
@@ -187,7 +234,7 @@
         <header>
             <h1 class="post"><a href="/index.php/2019/01/21/re-goals/">Re: Goals</a></h1>
             <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2019/01/21/re-goals/"><i class="far fa-bookmark"></i></a>
-            <time datetime="2019-01-21T16:24:31Z">Monday, January 21, 2019</time> · 610 words · 3 min read</div>
+            <time datetime="2019-01-21T16:24:31Z">Monday, January 21, 2019</time> · 604 words · 3 min read</div>
         </header>
         <div class="text">
 
@@ -216,7 +263,7 @@
 <li>Get my sleep schedule in order</li>
 <li>Have that new freelance gig worked out</li>
 <li>Have been on at least another date (again, realistic goals)</li>
-<li>Have started working on the <a href="https://writetogether.space/posts/ktamas/the-as-of-yet-unwritten-oral-history-of-turulcsirip-an-early-twitter-client-and-community">oral history article I wrote about</a></li>
+<li>Have started working on the [oral history article I wrote about]()</li>
 <li>Have held at least another dinner party</li>
 <li>Be still writing 300 words a day, still drawing at least once a week, still working out thrice a week (this goal never ends)</li>
 </ul>
@@ -275,13 +322,11 @@
 
 <p>Okay, I could go on, but I think this is a good start. Keep me accountable, please?</p>
 
-<p><em>This post originally appeared on <a href="https://writetogether.space/posts/5/re-goals">WriteTogether</a>.</em></p>
-
         </div>
 
         <div class="tags">
             <i class="fas fa-tags"></i>
-            <a href='/tags/goals/'>goals</a>, <a href='/tags/2019/'>2019</a>, <a href='/tags/future/'>future</a>, <a href='/tags/writetogether/'>writetogether</a>
+            <a href='/tags/goals/'>goals</a>, <a href='/tags/2019/'>2019</a>, <a href='/tags/future/'>future</a>
         </div>
     </article>
 
@@ -290,7 +335,7 @@
         <header>
             <h1 class="post"><a href="/index.php/2019/01/20/on-giving-free-hugs/">On Giving Free Hugs</a></h1>
             <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2019/01/20/on-giving-free-hugs/"><i class="far fa-bookmark"></i></a>
-            <time datetime="2019-01-20T16:22:29Z">Sunday, January 20, 2019</time> · 627 words · 3 min read</div>
+            <time datetime="2019-01-20T16:22:29Z">Sunday, January 20, 2019</time> · 621 words · 3 min read</div>
         </header>
         <div class="text">
 
@@ -320,13 +365,11 @@
 
 <p>But if you have one in your city, and this sounds intriguing to you, I highly encourage you to try it. It&rsquo;s a good way to spend an hour on a Sunday afternoon.</p>
 
-<p><em>This post originally appeared on <a href="https://writetogether.space/posts/5/on-giving-free-hugs">WriteTogether</a>.</em></p>
-
         </div>
 
         <div class="tags">
             <i class="fas fa-tags"></i>
-            <a href='/tags/freehugs/'>freehugs</a>, <a href='/tags/thoughts/'>thoughts</a>, <a href='/tags/writetogether/'>writetogether</a>
+            <a href='/tags/freehugs/'>freehugs</a>, <a href='/tags/thoughts/'>thoughts</a>
         </div>
     </article>
 
@@ -335,7 +378,7 @@
         <header>
             <h1 class="post"><a href="/index.php/2019/01/19/the-as-of-yet-unwritten-oral-history-of-turulcsirip-an-early-twitter-client-and-community/">The As-Of-Yet-Unwritten Oral History of Turulcsirip, an Early Twitter Client and Community</a></h1>
             <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2019/01/19/the-as-of-yet-unwritten-oral-history-of-turulcsirip-an-early-twitter-client-and-community/"><i class="far fa-bookmark"></i></a>
-            <time datetime="2019-01-19T16:18:04Z">Saturday, January 19, 2019</time> · 563 words · 3 min read</div>
+            <time datetime="2019-01-19T16:18:04Z">Saturday, January 19, 2019</time> · 557 words · 3 min read</div>
         </header>
         <div class="text">
 
@@ -365,13 +408,11 @@
 
 <p>Stay tuned.</p>
 
-<p><em>This post originally appeared on <a href="https://writetogether.space/posts/5/the-as-of-yet-unwritten-oral-history-of-turulcsirip-an-early-twitter-client-and-community">WriteTogether</a>.</em></p>
-
         </div>
 
         <div class="tags">
             <i class="fas fa-tags"></i>
-            <a href='/tags/turulcsirip/'>turulcsirip</a>, <a href='/tags/ideas/'>ideas</a>, <a href='/tags/writetogether/'>writetogether</a>
+            <a href='/tags/turulcsirip/'>turulcsirip</a>, <a href='/tags/ideas/'>ideas</a>
         </div>
     </article>
 
@@ -380,7 +421,7 @@
         <header>
             <h1 class="post"><a href="/index.php/2019/01/18/writer-unblocked/">Writer, Unblocked</a></h1>
             <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2019/01/18/writer-unblocked/"><i class="far fa-bookmark"></i></a>
-            <time datetime="2019-01-18T16:11:50Z">Friday, January 18, 2019</time> · 306 words · 2 min read</div>
+            <time datetime="2019-01-18T16:11:50Z">Friday, January 18, 2019</time> · 300 words · 2 min read</div>
         </header>
         <div class="text">
 
@@ -396,13 +437,11 @@
 
 <p>This whole post is just a shameless thing to get my streak, look, 300 words exactly.</p>
 
-<p><em>This post originally appeared on <a href="https://writetogether.space/posts/5/writer-unblocked">WriteTogether</a>.</em></p>
-
         </div>
 
         <div class="tags">
             <i class="fas fa-tags"></i>
-            <a href='/tags/thoughts/'>thoughts</a>, <a href='/tags/writersblock/'>writersblock</a>, <a href='/tags/writetogether/'>writetogether</a>
+            <a href='/tags/thoughts/'>thoughts</a>, <a href='/tags/writersblock/'>writersblock</a>
         </div>
     </article>
 
@@ -411,7 +450,7 @@
         <header>
             <h1 class="post"><a href="/index.php/2019/01/17/birthday-party-as-a-social-experiment/">Birthday Party as a Social Experiment</a></h1>
             <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2019/01/17/birthday-party-as-a-social-experiment/"><i class="far fa-bookmark"></i></a>
-            <time datetime="2019-01-17T16:07:55Z">Thursday, January 17, 2019</time> · 323 words · 2 min read</div>
+            <time datetime="2019-01-17T16:07:55Z">Thursday, January 17, 2019</time> · 317 words · 2 min read</div>
         </header>
         <div class="text">
 
@@ -429,13 +468,11 @@
 
 <p>You&rsquo;re all invited as long as you can make it to Hungary by 7 pm this Saturday. :)</p>
 
-<p><em>This post originally appeared on <a href="https://writetogether.space/posts/5/birthday-party-as-a-social-experiment">WriteTogether</a>.</em></p>
-
         </div>
 
         <div class="tags">
             <i class="fas fa-tags"></i>
-            <a href='/tags/30/'>30</a>, <a href='/tags/thoughts/'>thoughts</a>, <a href='/tags/writetogether/'>writetogether</a>
+            <a href='/tags/30/'>30</a>, <a href='/tags/thoughts/'>thoughts</a>
         </div>
     </article>
 
@@ -444,7 +481,7 @@
         <header>
             <h1 class="post"><a href="/index.php/2019/01/16/musings-on-turning-30/">Musings on Turning 30</a></h1>
             <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2019/01/16/musings-on-turning-30/"><i class="far fa-bookmark"></i></a>
-            <time datetime="2019-01-16T10:32:14Z">Wednesday, January 16, 2019</time> · 341 words · 2 min read</div>
+            <time datetime="2019-01-16T10:32:14Z">Wednesday, January 16, 2019</time> · 335 words · 2 min read</div>
         </header>
         <div class="text">
 
@@ -460,62 +497,11 @@
 
 <p>Here&rsquo;s to an even better 40.</p>
 
-<p><em>This post originally appeared on <a href="https://writetogether.space/posts/5/musings-on-turning-30">WriteTogether</a>.</em></p>
-
         </div>
 
         <div class="tags">
             <i class="fas fa-tags"></i>
-            <a href='/tags/30/'>30</a>, <a href='/tags/thoughts/'>thoughts</a>, <a href='/tags/writetogether/'>writetogether</a>
-        </div>
-    </article>
-
-		
-		    <article class="post">
-        <header>
-            <h1 class="post"><a href="/index.php/2019/01/15/in-memoriam-of-sharewood-my-own-little-content-sharing-community/">In Memoriam of Sharewood — My Own Little Content Sharing Community</a></h1>
-            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2019/01/15/in-memoriam-of-sharewood-my-own-little-content-sharing-community/"><i class="far fa-bookmark"></i></a>
-            <time datetime="2019-01-15T09:56:04Z">Tuesday, January 15, 2019</time> · 626 words · 3 min read</div>
-        </header>
-        <div class="text">
-
-<p>This post was inspired by the Motherboard article, <a href="https://motherboard.vice.com/en_us/article/a3mm4z/the-rise-and-demise-of-rss">The Rise and Demise of RSS</a>.</p>
-
-<hr />
-
-<p>It was early 2012 and Google Reader&rsquo;s sharing function was taken from us, replaced with a useless, shitty &ldquo;Share to Google+&rdquo; button (Fuck you, Google). I&rsquo;ve been using Reader since late 2006 and the sharing feature since it&rsquo;s introduction; the notion that if I see something interesting on the internet <em>I must share it with others</em> was ingrained in me, forever.</p>
-
-<p>It started with conversations with friends, and we discovered that Posterous (RIP) had a decent bookmarklet one could use to grab content for sharing. So a few of us started content-sharing blogs (or linkblogs, if you will). Not long after, a friend suggested an idea: why don&rsquo;t we make our own content-sharing community? So we could use that for a back-end, all we need is a place where we aggregate all these blogs full of content.</p>
-
-<p>The name of software that is used to aggregate RSS feeds is <a href="https://en.wikipedia.org/wiki/Planet_(software)">Planet</a>. There were and still are many Planet sites, so I went looking for a suitable engine, but none of them were right until I stumbled upon the <a href="https://github.com/anildigital/planet">code</a> behind planetrubyonrails.com (RIP), written in, wait for it, Rails. I was already familiar with Rails, so <a href="https://github.com/ktamas/sharewood.hu">I forked it</a>, upgraded it to the latest version of Ruby on Rails, made a couple of changes and a basic design and by then I already had ten people interested, mostly from the old community at Reader.</p>
-
-<p>A cronjob crawled the people&rsquo;s feeds, pulled the content into the database, stripped most of the formatting and then displayed it on the site, which itself had an RSS feed of course. And so, in early 2012, <a href="http://goodbye.sharewood.hu/">Sharewood</a> (RIP) was born.</p>
-
-<hr />
-
-<p>Over the next year or so our community has grown a bit. At the height of it, we had about 16 people. That may not sound like a lot, but a community is a community. People were sharing all kinds of interesting things, and I felt like I got back at least part of what we lost when Google neutered Reader.</p>
-
-<p>The project was an opportunity for me as well to play with Rails; I ended up rewriting almost the entire codebase. I wrote a new RSS/Atom parser; tried to implement PuSH (<a href="https://en.wikipedia.org/wiki/WebSub">PubSubHubBub</a>); added support for user accounts, so people would be able to follow others and get a custom RSS feed. I added a few tweaks to the front-end as well, like j/k navigation.</p>
-
-<p>In early 2013 Google announced that they&rsquo;d shut down Reader and a flurry of new alternatives appeared. One of the most promising ones was Hivemined, one that would never be finished; the one I ended up switching to was <a href="https://newsblur.com/">NewsBlur</a> which I still use to this day. It&rsquo;s customizable, fast, has good support and UX. It also has built-in sharing and commenting support although it&rsquo;s not used widely. I tried switching to it, but never really got hooked on it, and I never had a community around it.</p>
-
-<hr />
-
-<p>I shut down Sharewood in 2014, having done only basic maintenance on it for a year by then, and I felt like it has run its course.</p>
-
-<p>My itch to share things is still very much present; I <a href="http://sharing.ktamas.com/">maintain a Tumblr blog</a> where I share things irregularly, mostly webcomics I like. I also retweet interesting and funny things a lot <a href="https://twitter.com/ktamas">on Twitter</a>. But I still don&rsquo;t have a central place with a community like in the good old days, if you will.</p>
-
-<p>I have no illusions; RSS will not make a comeback. Retweeting things and commenting on them or sharing things in private Slacks are as good as it gets right now.</p>
-
-<p>The itch is still there.</p>
-
-<p><em>This post originally appeared on WriteTogether in <a href="https://writetogether.space/posts/5/in-memoriam-of-sharewood-my-own-little-content-sharing-community-part-1-of-2">two</a> <a href="https://writetogether.space/posts/5/in-memoriam-of-sharewood-my-own-little-content-sharing-community-part-2-of-2">parts</a>.</em></p>
-
-        </div>
-
-        <div class="tags">
-            <i class="fas fa-tags"></i>
-            <a href='/tags/sharewood/'>sharewood</a>, <a href='/tags/rss/'>rss</a>, <a href='/tags/googlereader/'>googlereader</a>, <a href='/tags/writetogether/'>writetogether</a>
+            <a href='/tags/30/'>30</a>, <a href='/tags/thoughts/'>thoughts</a>
         </div>
     </article>
 

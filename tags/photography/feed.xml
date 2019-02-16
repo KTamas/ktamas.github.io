@@ -24,7 +24,6 @@
 			<uri>https://blog.ktamas.com/</uri>
 		</author>
 		<category scheme="https://blog.ktamas.com/tags" term="photography" label="photography"/>
-		<category scheme="https://blog.ktamas.com/tags" term="writetogether" label="writetogether"/>
 		<summary>My father is a semi-amateur photographer; I got my affinity towards photography from him. I grew up watching him taking pictures. After high school, I got a job and soon I had disposable income, so I got my first digital camera: the Olympus E-1.
 That was in 2008, and by then, it was already outdated. Released in 2003, it had a first-generation micro 4⁄3 sensor, 5 megapixels and ISO 800 was barely usable.</summary>
 		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
@@ -54,7 +53,7 @@ That was in 2008, and by then, it was already outdated. Released in 2003, it had
 
 <p>In the middle of 2015 and I was about to leave for a couple of months of work and travel in Southern Europe. I didn&rsquo;t want to lug my heavy 6D around, but I felt that having only a phone was not enough. It was a perfect excuse for me to finally buy a Fuji X-E1. By then I was already infected with a fascination with Fuji&rsquo;s mirrorless cameras because one of my former best friends was really into them. I got two lenses for it, the 35mm f/1.4 and the 18-55 f/2.8-4. The autofocus and the EVF sucks, but it makes the most beautiful black and white JPEGs. They have a certain kind of magic to them.</p>
 
-<p>I used it with an <a href="https://en.wikipedia.org/wiki/Eye-Fi">Eye-Fi card</a> I got a few months prior, an SD card with built-in WiFi that sends all the pictures you take to your phone. Combining that with <a href="https://writetogether.space/posts/ktamas/got-my-paperang-sf-xoxo-2018-series-part-3">my instant printers</a>, I could take DSLR-quality portraits of people and hand it to them printed out two minutes later. It never fails to amaze.</p>
+<p>I used it with an <a href="https://en.wikipedia.org/wiki/Eye-Fi">Eye-Fi card</a> I got a few months prior, an SD card with built-in WiFi that sends all the pictures you take to your phone. Combining that with my instant printers (Fuji Instax Share SP-2, Paperang P1), I could take DSLR-quality portraits of people and hand it to them printed out two minutes later. It never fails to amaze.</p>
 
 <hr />
 
@@ -70,15 +69,13 @@ That was in 2008, and by then, it was already outdated. Released in 2003, it had
 
 <p>You can find some of my photos <a href="https://www.facebook.com/ktamasphotovideo/">on my Facebook page</a>.</p>
 
-<p><em>This post originally appeared on <a href="https://writetogether.space/posts/ktamas/on-photography">WriteTogether</a>.</em></p>
-
 <footer>
     <a title="Permanent link to “On Photography”" href="https://blog.ktamas.com/index.php/2019/02/13/on-photography/">On Photography</a>
     by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
     Tagged
         <div class="tags">
             <i class="fas fa-tags"></i>
-            <a href='/tags/photography/'>photography</a>, <a href='/tags/writetogether/'>writetogether</a>
+            <a href='/tags/photography/'>photography</a>
         </div>
 </footer>]]></content>
 	</entry>

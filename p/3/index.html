@@ -52,19 +52,47 @@
 		
 		    <article class="post">
         <header>
-            <h1 class="post"><a href="/index.php/2019/01/06/see-you-at-write-together/">Follow Me on WriteTogether</a></h1>
-            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2019/01/06/see-you-at-write-together/"><i class="far fa-bookmark"></i></a>
-            <time datetime="2019-01-06T12:17:20Z">Sunday, January 6, 2019</time> · 65 words · 1 min read</div>
+            <h1 class="post"><a href="/index.php/2019/01/15/in-memoriam-of-sharewood-my-own-little-content-sharing-community/">In Memoriam of Sharewood — My Own Little Content Sharing Community</a></h1>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2019/01/15/in-memoriam-of-sharewood-my-own-little-content-sharing-community/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2019-01-15T09:56:04Z">Tuesday, January 15, 2019</time> · 617 words · 3 min read</div>
         </header>
         <div class="text">
 
-<p>I&rsquo;ll be writing <a href="https://writetogether.space/users/ktamas">daily posts on Write Together</a> for the foreseeable future. It&rsquo;s a blogging platform/writing community with the goal of writing and publishing at least 300 words, every day. Most of them will be cross-posted here, but some I write as a series of posts, and those may be re-edited and published here once I&rsquo;m done. If you&rsquo;re interested, you should follow me there.</p>
+<p>This post was inspired by the Motherboard article, <a href="https://motherboard.vice.com/en_us/article/a3mm4z/the-rise-and-demise-of-rss">The Rise and Demise of RSS</a>.</p>
+
+<hr />
+
+<p>It was early 2012 and Google Reader&rsquo;s sharing function was taken from us, replaced with a useless, shitty &ldquo;Share to Google+&rdquo; button (Fuck you, Google). I&rsquo;ve been using Reader since late 2006 and the sharing feature since it&rsquo;s introduction; the notion that if I see something interesting on the internet <em>I must share it with others</em> was ingrained in me, forever.</p>
+
+<p>It started with conversations with friends, and we discovered that Posterous (RIP) had a decent bookmarklet one could use to grab content for sharing. So a few of us started content-sharing blogs (or linkblogs, if you will). Not long after, a friend suggested an idea: why don&rsquo;t we make our own content-sharing community? So we could use that for a back-end, all we need is a place where we aggregate all these blogs full of content.</p>
+
+<p>The name of software that is used to aggregate RSS feeds is <a href="https://en.wikipedia.org/wiki/Planet_(software)">Planet</a>. There were and still are many Planet sites, so I went looking for a suitable engine, but none of them were right until I stumbled upon the <a href="https://github.com/anildigital/planet">code</a> behind planetrubyonrails.com (RIP), written in, wait for it, Rails. I was already familiar with Rails, so <a href="https://github.com/ktamas/sharewood.hu">I forked it</a>, upgraded it to the latest version of Ruby on Rails, made a couple of changes and a basic design and by then I already had ten people interested, mostly from the old community at Reader.</p>
+
+<p>A cronjob crawled the people&rsquo;s feeds, pulled the content into the database, stripped most of the formatting and then displayed it on the site, which itself had an RSS feed of course. And so, in early 2012, <a href="http://goodbye.sharewood.hu/">Sharewood</a> (RIP) was born.</p>
+
+<hr />
+
+<p>Over the next year or so our community has grown a bit. At the height of it, we had about 16 people. That may not sound like a lot, but a community is a community. People were sharing all kinds of interesting things, and I felt like I got back at least part of what we lost when Google neutered Reader.</p>
+
+<p>The project was an opportunity for me as well to play with Rails; I ended up rewriting almost the entire codebase. I wrote a new RSS/Atom parser; tried to implement PuSH (<a href="https://en.wikipedia.org/wiki/WebSub">PubSubHubBub</a>); added support for user accounts, so people would be able to follow others and get a custom RSS feed. I added a few tweaks to the front-end as well, like j/k navigation.</p>
+
+<p>In early 2013 Google announced that they&rsquo;d shut down Reader and a flurry of new alternatives appeared. One of the most promising ones was Hivemined, one that would never be finished; the one I ended up switching to was <a href="https://newsblur.com/">NewsBlur</a> which I still use to this day. It&rsquo;s customizable, fast, has good support and UX. It also has built-in sharing and commenting support although it&rsquo;s not used widely. I tried switching to it, but never really got hooked on it, and I never had a community around it.</p>
+
+<hr />
+
+<p>I shut down Sharewood in 2014, having done only basic maintenance on it for a year by then, and I felt like it has run its course.</p>
+
+<p>My itch to share things is still very much present; I <a href="http://sharing.ktamas.com/">maintain a Tumblr blog</a> where I share things irregularly, mostly webcomics I like. I also retweet interesting and funny things a lot <a href="https://twitter.com/ktamas">on Twitter</a>. But I still don&rsquo;t have a central place with a community like in the good old days, if you will.</p>
+
+<p>I have no illusions; RSS will not make a comeback. Retweeting things and commenting on them or sharing things in private Slacks are as good as it gets right now.</p>
+
+<p>The itch is still there.</p>
 
         </div>
 
         <div class="tags">
             <i class="fas fa-tags"></i>
-            <a href='/tags/writetogether/'>writetogether</a>
+            <a href='/tags/sharewood/'>sharewood</a>, <a href='/tags/rss/'>rss</a>, <a href='/tags/googlereader/'>googlereader</a>
         </div>
     </article>
 
@@ -73,7 +101,7 @@
         <header>
             <h1 class="post"><a href="/index.php/2019/01/03/on-blogging-journaling-evernote-todos-and-thinking-in-weeks/">On Blogging, Journaling, Evernote, Todos and Thinking in Weeks</a></h1>
             <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2019/01/03/on-blogging-journaling-evernote-todos-and-thinking-in-weeks/"><i class="far fa-bookmark"></i></a>
-            <time datetime="2019-01-03T16:10:20Z">Thursday, January 3, 2019</time> · 577 words · 3 min read</div>
+            <time datetime="2019-01-03T16:10:20Z">Thursday, January 3, 2019</time> · 571 words · 3 min read</div>
         </header>
         <div class="text">
 
@@ -93,13 +121,11 @@
 
 <p>P.S. Thinking in weeks is a very Swedish thing to do. In Sweden, everyone knows what week it is, and they frequently refer to them as in &ldquo;I&rsquo;m doing this on week X&rdquo; or &ldquo;I&rsquo;ll be on vacation between week Y and Z.&rdquo; If my memory serves me right, one of the most popular apps in the Swedish App Store for a long time was called &ldquo;Week Calendar&rdquo; until Apple added the option to display week numbers in Calendar. It drove me crazy for a long time, but I have to admit that it makes sense because it&rsquo;s a good unit of time. I&rsquo;ve been told the Germans do the same.</p>
 
-<p><em>This post originally appeared on <a href="https://writetogether.space/posts/5/on-blogging-journaling-evernote-todos-and-thinking-in-weeks">WriteTogether</a>.</em></p>
-
         </div>
 
         <div class="tags">
             <i class="fas fa-tags"></i>
-            <a href='/tags/metablogging/'>metablogging</a>, <a href='/tags/adhd/'>adhd</a>, <a href='/tags/writetogether/'>writetogether</a>
+            <a href='/tags/metablogging/'>metablogging</a>, <a href='/tags/adhd/'>adhd</a>
         </div>
     </article>
 
@@ -108,7 +134,7 @@
         <header>
             <h1 class="post"><a href="/index.php/2019/01/02/my-favorite-newsletters/">My Favorite Newsletters</a></h1>
             <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2019/01/02/my-favorite-newsletters/"><i class="far fa-bookmark"></i></a>
-            <time datetime="2019-01-02T16:07:02Z">Wednesday, January 2, 2019</time> · 376 words · 2 min read</div>
+            <time datetime="2019-01-02T16:07:02Z">Wednesday, January 2, 2019</time> · 370 words · 2 min read</div>
         </header>
         <div class="text">
 
@@ -132,13 +158,11 @@
 
 <p>What are yours?</p>
 
-<p><em>This post originally appeared on <a href="https://writetogether.space/posts/5/my-favorite-newsletters">WriteTogether</a>.</em></p>
-
         </div>
 
         <div class="tags">
             <i class="fas fa-tags"></i>
-            <a href='/tags/recommendations/'>recommendations</a>, <a href='/tags/lists/'>lists</a>, <a href='/tags/writetogether/'>writetogether</a>
+            <a href='/tags/recommendations/'>recommendations</a>, <a href='/tags/lists/'>lists</a>
         </div>
     </article>
 
@@ -147,7 +171,7 @@
         <header>
             <h1 class="post"><a href="/index.php/2019/01/01/a-year-in-smartphones/">A Year in Smartphones</a></h1>
             <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2019/01/01/a-year-in-smartphones/"><i class="far fa-bookmark"></i></a>
-            <time datetime="2019-01-01T16:00:02Z">Tuesday, January 1, 2019</time> · 681 words · 4 min read</div>
+            <time datetime="2019-01-01T16:00:02Z">Tuesday, January 1, 2019</time> · 675 words · 4 min read</div>
         </header>
         <div class="text">
 
@@ -171,13 +195,11 @@
 
 <p>The moral of the story is that I have disposable income and I was bored. I am tempted to say that none of this stuff really matters but I spend a fair amount of time on my phone every day so&hellip; it kinda does for me.</p>
 
-<p><em>This post originally appeared on <a href="https://writetogether.space/posts/5/a-year-in-smartphones">WriteTogether</a>.</em></p>
-
         </div>
 
         <div class="tags">
             <i class="fas fa-tags"></i>
-            <a href='/tags/tech/'>tech</a>, <a href='/tags/phones/'>phones</a>, <a href='/tags/writetogether/'>writetogether</a>
+            <a href='/tags/tech/'>tech</a>, <a href='/tags/phones/'>phones</a>
         </div>
     </article>
 
@@ -186,7 +208,7 @@
         <header>
             <h1 class="post"><a href="/index.php/2018/12/31/my-recent-media-diet-on-the-last-days-of-2018/">My Recent Media Diet in the Last Days of 2018</a></h1>
             <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2018/12/31/my-recent-media-diet-on-the-last-days-of-2018/"><i class="far fa-bookmark"></i></a>
-            <time datetime="2018-12-31T13:18:41Z">Monday, December 31, 2018</time> · 318 words · 2 min read</div>
+            <time datetime="2018-12-31T13:18:41Z">Monday, December 31, 2018</time> · 312 words · 2 min read</div>
         </header>
         <div class="text">
 
@@ -204,13 +226,11 @@
 
 <p>Onwards to 2019!</p>
 
-<p><em>This post originally appeared on <a href="https://writetogether.space/posts/5/my-recent-media-diet-on-the-last-days-of-2018">WriteTogether</a>.</em></p>
-
         </div>
 
         <div class="tags">
             <i class="fas fa-tags"></i>
-            <a href='/tags/thoughts/'>thoughts</a>, <a href='/tags/mediadiet/'>mediadiet</a>, <a href='/tags/recommendations/'>recommendations</a>, <a href='/tags/writetogether/'>writetogether</a>
+            <a href='/tags/thoughts/'>thoughts</a>, <a href='/tags/mediadiet/'>mediadiet</a>, <a href='/tags/recommendations/'>recommendations</a>
         </div>
     </article>
 
@@ -219,7 +239,7 @@
         <header>
             <h1 class="post"><a href="/index.php/2018/12/30/a-recap-of-2018-and-what-to-come-in-2019/">A Recap of 2018 and What's to Come in 2019</a></h1>
             <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2018/12/30/a-recap-of-2018-and-what-to-come-in-2019/"><i class="far fa-bookmark"></i></a>
-            <time datetime="2018-12-30T13:06:11Z">Sunday, December 30, 2018</time> · 331 words · 2 min read</div>
+            <time datetime="2018-12-30T13:06:11Z">Sunday, December 30, 2018</time> · 325 words · 2 min read</div>
         </header>
         <div class="text">
 
@@ -239,13 +259,11 @@
 
 <p>Hey look, 300 words!</p>
 
-<p><em>This post originally appeared on <a href="https://writetogether.space/posts/ktamas/a-recap-of-2018-and-what-to-come-in-2019">WriteTogether</a>.</em></p>
-
         </div>
 
         <div class="tags">
             <i class="fas fa-tags"></i>
-            <a href='/tags/thoughts/'>thoughts</a>, <a href='/tags/recaps/'>recaps</a>, <a href='/tags/writetogether/'>writetogether</a>
+            <a href='/tags/thoughts/'>thoughts</a>, <a href='/tags/recaps/'>recaps</a>
         </div>
     </article>
 

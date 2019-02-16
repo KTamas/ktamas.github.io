@@ -25,7 +25,6 @@
 		</author>
 		<category scheme="https://blog.ktamas.com/tags" term="recommendations" label="recommendations"/>
 		<category scheme="https://blog.ktamas.com/tags" term="lists" label="lists"/>
-		<category scheme="https://blog.ktamas.com/tags" term="writetogether" label="writetogether"/>
 		<summary>Newsletters are the new blogs, they say, and I hope not because I hate getting email. And yet there is ~content~ in newsletters, good content, so here’s a few that I subscribe to and like.
  Charged - I guess this one needs no introduction to this community ;) The week that was - Ian Kennedy’s once-a-week newsletter with usually ten links to interesting, unusual stories from all over the world.</summary>
 		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
@@ -49,15 +48,13 @@
 
 <p>What are yours?</p>
 
-<p><em>This post originally appeared on <a href="https://writetogether.space/posts/5/my-favorite-newsletters">WriteTogether</a>.</em></p>
-
 <footer>
     <a title="Permanent link to “My Favorite Newsletters”" href="https://blog.ktamas.com/index.php/2019/01/02/my-favorite-newsletters/">My Favorite Newsletters</a>
     by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
     Tagged
         <div class="tags">
             <i class="fas fa-tags"></i>
-            <a href='/tags/recommendations/'>recommendations</a>, <a href='/tags/lists/'>lists</a>, <a href='/tags/writetogether/'>writetogether</a>
+            <a href='/tags/recommendations/'>recommendations</a>, <a href='/tags/lists/'>lists</a>
         </div>
 </footer>]]></content>
 	</entry>

@@ -26,7 +26,6 @@
 		<category scheme="https://blog.ktamas.com/tags" term="sharewood" label="sharewood"/>
 		<category scheme="https://blog.ktamas.com/tags" term="rss" label="rss"/>
 		<category scheme="https://blog.ktamas.com/tags" term="googlereader" label="googlereader"/>
-		<category scheme="https://blog.ktamas.com/tags" term="writetogether" label="writetogether"/>
 		<summary>This post was inspired by the Motherboard article, The Rise and Demise of RSS.
 It was early 2012 and Google Reader’s sharing function was taken from us, replaced with a useless, shitty “Share to Google+” button (Fuck you, Google). I’ve been using Reader since late 2006 and the sharing feature since it’s introduction; the notion that if I see something interesting on the internet I must share it with others was ingrained in me, forever.</summary>
 		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
@@ -60,15 +59,13 @@ It was early 2012 and Google Reader’s sharing function was taken from us, repl
 
 <p>The itch is still there.</p>
 
-<p><em>This post originally appeared on WriteTogether in <a href="https://writetogether.space/posts/5/in-memoriam-of-sharewood-my-own-little-content-sharing-community-part-1-of-2">two</a> <a href="https://writetogether.space/posts/5/in-memoriam-of-sharewood-my-own-little-content-sharing-community-part-2-of-2">parts</a>.</em></p>
-
 <footer>
     <a title="Permanent link to “In Memoriam of Sharewood — My Own Little Content Sharing Community”" href="https://blog.ktamas.com/index.php/2019/01/15/in-memoriam-of-sharewood-my-own-little-content-sharing-community/">In Memoriam of Sharewood — My Own Little Content Sharing Community</a>
     by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
     Tagged
         <div class="tags">
             <i class="fas fa-tags"></i>
-            <a href='/tags/sharewood/'>sharewood</a>, <a href='/tags/rss/'>rss</a>, <a href='/tags/googlereader/'>googlereader</a>, <a href='/tags/writetogether/'>writetogether</a>
+            <a href='/tags/sharewood/'>sharewood</a>, <a href='/tags/rss/'>rss</a>, <a href='/tags/googlereader/'>googlereader</a>
         </div>
 </footer>]]></content>
 	</entry>

@@ -26,7 +26,6 @@
 		<category scheme="https://blog.ktamas.com/tags" term="flow" label="flow"/>
 		<category scheme="https://blog.ktamas.com/tags" term="remotework" label="remotework"/>
 		<category scheme="https://blog.ktamas.com/tags" term="digitalnomad" label="digitalnomad"/>
-		<category scheme="https://blog.ktamas.com/tags" term="writetogether" label="writetogether"/>
 		<summary>I’m a freelancer; I don’t have an office. I can’t work from home; the silence is deafening, I need the background noise, and I need to be among people. The place I work from every day is a café about 25 minutes from my home; it’s called Flow. I am a person of habit: I wake up, I get dressed, I go to Flow and start working.
 Flow is one of the many, many specialty cafés in Budapest.</summary>
 		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
@@ -48,15 +47,13 @@ Flow is one of the many, many specialty cafés in Budapest.</summary>
 
 <p>So cafés it is.</p>
 
-<p><em>This post originally appeared on <a href="https://writetogether.space/posts/5/flow-on-remote-work-and-cafes">WriteTogether</a>.</em></p>
-
 <footer>
     <a title="Permanent link to “Flow (on Remote Work and Cafés)”" href="https://blog.ktamas.com/index.php/2019/02/04/flow-on-remote-work-and-cafes/">Flow (on Remote Work and Cafés)</a>
     by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
     Tagged
         <div class="tags">
             <i class="fas fa-tags"></i>
-            <a href='/tags/flow/'>flow</a>, <a href='/tags/remotework/'>remotework</a>, <a href='/tags/digitalnomad/'>digitalnomad</a>, <a href='/tags/writetogether/'>writetogether</a>
+            <a href='/tags/flow/'>flow</a>, <a href='/tags/remotework/'>remotework</a>, <a href='/tags/digitalnomad/'>digitalnomad</a>
         </div>
 </footer>]]></content>
 	</entry>

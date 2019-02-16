@@ -25,7 +25,6 @@
 		</author>
 		<category scheme="https://blog.ktamas.com/tags" term="metablogging" label="metablogging"/>
 		<category scheme="https://blog.ktamas.com/tags" term="adhd" label="adhd"/>
-		<category scheme="https://blog.ktamas.com/tags" term="writetogether" label="writetogether"/>
 		<summary>Well, it’s day 5 of my streak, and I have no idea what to write about. But they say you just have to start and eventually something will come out of it, so that’s what I am doing now.
 Thing is, I have a blog, although I have not blogged regularly for years now. The only time I did that was in early 2013 when I moved to Sweden from Hungary.</summary>
 		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
@@ -45,15 +44,13 @@ Thing is, I have a blog, although I have not blogged regularly for years now. Th
 
 <p>P.S. Thinking in weeks is a very Swedish thing to do. In Sweden, everyone knows what week it is, and they frequently refer to them as in &ldquo;I&rsquo;m doing this on week X&rdquo; or &ldquo;I&rsquo;ll be on vacation between week Y and Z.&rdquo; If my memory serves me right, one of the most popular apps in the Swedish App Store for a long time was called &ldquo;Week Calendar&rdquo; until Apple added the option to display week numbers in Calendar. It drove me crazy for a long time, but I have to admit that it makes sense because it&rsquo;s a good unit of time. I&rsquo;ve been told the Germans do the same.</p>
 
-<p><em>This post originally appeared on <a href="https://writetogether.space/posts/5/on-blogging-journaling-evernote-todos-and-thinking-in-weeks">WriteTogether</a>.</em></p>
-
 <footer>
     <a title="Permanent link to “On Blogging, Journaling, Evernote, Todos and Thinking in Weeks”" href="https://blog.ktamas.com/index.php/2019/01/03/on-blogging-journaling-evernote-todos-and-thinking-in-weeks/">On Blogging, Journaling, Evernote, Todos and Thinking in Weeks</a>
     by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
     Tagged
         <div class="tags">
             <i class="fas fa-tags"></i>
-            <a href='/tags/metablogging/'>metablogging</a>, <a href='/tags/adhd/'>adhd</a>, <a href='/tags/writetogether/'>writetogether</a>
+            <a href='/tags/metablogging/'>metablogging</a>, <a href='/tags/adhd/'>adhd</a>
         </div>
 </footer>]]></content>
 	</entry>

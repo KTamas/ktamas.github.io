@@ -25,7 +25,6 @@
 		</author>
 		<category scheme="https://blog.ktamas.com/tags" term="writersblock" label="writersblock"/>
 		<category scheme="https://blog.ktamas.com/tags" term="wine" label="wine"/>
-		<category scheme="https://blog.ktamas.com/tags" term="writetogether" label="writetogether"/>
 		<summary>I’m sitting in a wine bar and waiting for my friends to arrive to hang out. I spent my free time today working my converting my blog from Wordpress to Hugo — with a detour of Jekyll — and moving my static sites to Netlify so that I can shut down my barely-used VPS. A full write-up about this is coming soon.
 I have about 20 minutes before said friends arrive so this will be one of those stream of consciousness posts where I just start writing and see what comes out of it.</summary>
 		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
@@ -57,15 +56,13 @@ I have about 20 minutes before said friends arrive so this will be one of those 
 
 <p>My friends started arriving. Time for me to order a glass of Syrah&hellip;</p>
 
-<p><em>This post originally appeared on <a href="https://writetogether.space/posts/5/on-wine-and-anxiety">WriteTogether</a>.</em></p>
-
 <footer>
     <a title="Permanent link to “On Wine and Anxiety”" href="https://blog.ktamas.com/index.php/2019/01/31/on-wine-and-anxiety/">On Wine and Anxiety</a>
     by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
     Tagged
         <div class="tags">
             <i class="fas fa-tags"></i>
-            <a href='/tags/writersblock/'>writersblock</a>, <a href='/tags/wine/'>wine</a>, <a href='/tags/writetogether/'>writetogether</a>
+            <a href='/tags/writersblock/'>writersblock</a>, <a href='/tags/wine/'>wine</a>
         </div>
 </footer>]]></content>
 	</entry>

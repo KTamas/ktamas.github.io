@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://blog.ktamas.com/index.php/2019/02/16/my-recent-media-diet-february-2019/</loc>
+    <lastmod>2019-02-16T08:26:17+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.ktamas.com/index.php/2019/02/15/on-yoga/</loc>
     <lastmod>2019-02-15T12:02:59+00:00</lastmod>
   </url>
@@ -100,11 +105,6 @@
   <url>
     <loc>https://blog.ktamas.com/index.php/2019/01/15/in-memoriam-of-sharewood-my-own-little-content-sharing-community/</loc>
     <lastmod>2019-01-15T09:56:04+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.ktamas.com/index.php/2019/01/06/see-you-at-write-together/</loc>
-    <lastmod>2019-01-06T12:17:20+00:00</lastmod>
   </url>
   
   <url>
@@ -3036,7 +3036,7 @@
   
   <url>
     <loc>https://blog.ktamas.com/</loc>
-    <lastmod>2019-02-15T12:02:59+00:00</lastmod>
+    <lastmod>2019-02-16T08:26:17+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3501,7 +3501,7 @@
   
   <url>
     <loc>https://blog.ktamas.com/tags/mediadiet/</loc>
-    <lastmod>2018-12-31T13:18:41+00:00</lastmod>
+    <lastmod>2019-02-16T08:26:17+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3675,7 +3675,7 @@
   
   <url>
     <loc>https://blog.ktamas.com/tags/recommendations/</loc>
-    <lastmod>2019-02-09T16:07:47+00:00</lastmod>
+    <lastmod>2019-02-16T08:26:17+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3819,7 +3819,7 @@
   
   <url>
     <loc>https://blog.ktamas.com/tags/thoughts/</loc>
-    <lastmod>2019-02-12T13:23:02+00:00</lastmod>
+    <lastmod>2019-02-16T08:26:17+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3916,12 +3916,6 @@
   <url>
     <loc>https://blog.ktamas.com/tags/writersblock/</loc>
     <lastmod>2019-02-02T22:07:51+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.ktamas.com/tags/writetogether/</loc>
-    <lastmod>2019-02-15T12:02:59+00:00</lastmod>
     <priority>0</priority>
   </url>
   
