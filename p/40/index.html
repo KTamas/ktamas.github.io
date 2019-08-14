@@ -27,7 +27,7 @@
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:site" value="@ktamas" />
 	<meta name="twitter:creator" value="@ktamas" />
-	<meta name="generator" content="Hugo 0.54.0" />
+	<meta name="generator" content="Hugo 0.56.3" />
 </head>
 <body>
 	<div id="container">
@@ -49,6 +49,56 @@
 		</header>
 
 	<main id="home">
+		
+		    <article class="post">
+        <header>
+            <h1 class="post"><a href="/index.php/2011/05/05/iframek-es-popupok-toredekek-a-fejleszto-naplojabol/">iframek es popupok (toredekek a fejleszto naplojabol)</a></h1>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2011/05/05/iframek-es-popupok-toredekek-a-fejleszto-naplojabol/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2011-05-05T23:58:46Z">Thursday, May 5, 2011</time> · 87 words · 1 min read</div>
+        </header>
+        <div class="text">
+
+<p>Van egy iframed, abbol nyit a felhasznalo egy popupot, kulso webszolgaltatassal valo autenikalas celjabol, adsz neki egy callback URL-t, ami viszont ugye a popupba iranyit vissza, te viszont szeretned, ha az iframe tartalma lecserelodjon, majd bezarodjon a popup. Hogy csinalod? Ugy, hogy egy ilyesfajta HTML-t (es benne levo js-t) adsz meg callbacknek:</p>
+
+<p><noscript>
+  </p></p>
+
+<p><pre>
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;script type=&ldquo;text/javascript&rdquo;&gt;
+      var close_and_redirect = function() {
+        if (opener &amp;&amp; !opener.closed) {
+          opener.location.href = &ldquo;<a href="http://localhost:9610/done&quot;">http://localhost:9610/done&quot;</a>;
+        }<br />
+        window.close();
+      }
+    &lt;/script&gt;
+  &lt;/head&gt;
+  &lt;body onload=&ldquo;setTimeout(&lsquo;close_and_redirect()&lsquo;, 500)&rdquo;&gt;
+    Yay, logged in! Closing&hellip;
+  &lt;/body&gt;
+&lt;/html&gt;
+</pre></p>
+
+<p><p>
+    </noscript><br />
+  </p></p>
+
+<p><script src="https://gist.github.com/958052.js?file=loggedin.html"></script></p>
+
+<p><p>
+    (<a href="http://www.codingforums.com/showpost.php?s=aa079e493200cb7008aa5359f7591e86&#038;p=292432&#038;postcount=3">Itt talaltam meg vegul.</a>)
+  </p></p>
+
+        </div>
+
+        <div class="tags">
+            <i class="fas fa-tags"></i>
+            <a href='/tags/javascript/'>javascript</a>, <a href='/tags/programoz%C3%A1s/'>programozás</a>, <a href='/tags/random/'>random</a>
+        </div>
+    </article>
+
 		
 		    <article class="post">
         <header>
@@ -287,37 +337,6 @@
     </article>
 
 		
-		    <article class="post">
-        <header>
-            <h1 class="post"><a href="/index.php/2011/02/07/kis-izraeli-zenei-korkep/">Kis izraeli zenei korkep (avagy ezeket hallgatom mostanaban)</a></h1>
-            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2011/02/07/kis-izraeli-zenei-korkep/"><i class="far fa-bookmark"></i></a>
-            <time datetime="2011-02-07T17:53:40Z">Monday, February 7, 2011</time> · 239 words · 2 min read</div>
-        </header>
-        <div class="text">
-
-<p>Igazabol mar boldog-boldogtalant es a teljes szocialmediat ketszer oda-vissza spameltem azzal a tennyel, hogy kijott <a href="http://en.wikipedia.org/wiki/Matisyahu">Matisyahu</a> legjobb CD-jenek, a majd&#8217; 6 eves Live at Stubb&#8217;s-nak a folytatasa (nagyon kreativ, <a href="http://www.matisyahuworld.com/stubbsstore">Live at Stubb&#8217;s, Vol. II</a> neven). Magarol a tizszamos CD-rol sajnos lemaradt tobb igen jo szam is (pl. a Jerusalem, vagy mikor Matisyahu beatboxol) es ezeknek joresze csak a hiperszuper 75 dollaros super extreme special turbo editionhoz jar. Csakhogy es de. A masfeloras koncertvideo &#8212; <a href="http://www.youtube.com/watch?v=UDAMm5UkPHQ">ami meg par napig teljes egeszeben meghallgathato a youtube-on</a> &#8212; az a masfel ora egyben, az valami egeszen zsenialis, a CD-rol mar el is feledkeztem, es csak ezt hallgatom. A 480p-s verzioban egy meglepoen hallgathato 96 kbps-es AAC hangsav talalhato, <del>hasznaljatok tehat az ezernyi youtubevideo-letolto szolgaltatast ti is amig meg lehet</del> <a href="http://www.amazon.com/Live-at-Stubbs-Vol-II/dp/B004CT4U7Y/ref=sr_1_3?ie=UTF8&amp;s=music&amp;qid=1297097735&amp;sr=8-3">vegyetek tehat meg a DVD-t</a>. Embedelve pedig szol a Jerusalem CD-s verzioja.</p>
-
-<iframe src="https://open.spotify.com/embed/track/3R9iSdYqV6eFSPtNxvgb7x" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-  
-
-<p>A fent emlitett koncertvideoban tunik fel egy bizonyos Yehuda Solomon, aki a <a href="http://en.wikipedia.org/wiki/Moshav_Band">Moshav Bandben</a> jatszik egyebkent, leginkabb vilagzenet, meg hallgatom a <a href="http://itunes.apple.com/us/album/misplaced-revisited/id370531488">Misplaced c. CD-juket</a>, amelyen kulonbozo mufajok keverednek egeszen zsenialis modon, meg csak a lemez felenel vagyok, de eddig majd&#8217; minden dal megerne egy kulon postot. Engem mindenesetre mar a legelsovel egeszen durvan megvettek kilora, amibol alabb embedeltem egy live verziot, aminek ugyan nem 100-as a keverese, de jobbat nem talaltam sajnos.</p>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VP5rhMYBP2o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  
-
-<p>Nem mai darab, meg decemberben tunt fel <a href="http://www.facebook.com/IdanRaichel/posts/175393245817236">Idan Raichel facebook-falan</a> a kozos szama India.Arie-vel, amibol lemez is lesz egyszercsak nyar fele, es az nekunk ez alapjan egeszen biztosan jo lesz.</p>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ipJ6BEIeGsU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-        </div>
-
-        <div class="tags">
-            <i class="fas fa-tags"></i>
-            <a href='/tags/izraeli/'>izraeli</a>, <a href='/tags/zene/'>zene</a>
-        </div>
-    </article>
-
-		
 		
 
 <ul class="pagination">
@@ -329,6 +348,7 @@
     <li class="page-item">
     <a href="/p/39/" class="page-link" aria-label="Previous"><span aria-hidden="true">&laquo;</span></a>
     </li>
+    
     
     
     
