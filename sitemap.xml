@@ -4,13 +4,22 @@
   
   <url>
     <loc>https://blog.ktamas.com/</loc>
-    <lastmod>2019-08-14T09:12:43+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2019-09-25T16:40:29+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.ktamas.com/tags/</loc>
-    <lastmod>2019-08-14T09:12:43+00:00</lastmod>
+    <lastmod>2019-09-25T16:40:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ktamas.com/tags/xoxo/</loc>
+    <lastmod>2019-09-25T16:40:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ktamas.com/index.php/2019/09/25/xoxo-2019-prologue/</loc>
+    <lastmod>2019-09-25T16:40:29+00:00</lastmod>
   </url>
   
   <url>
@@ -19,9 +28,13 @@
   </url>
   
   <url>
-    <loc>https://blog.ktamas.com/tags/xoxo/</loc>
-    <lastmod>2019-08-14T09:12:43+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://blog.ktamas.com/tags/thoughts/</loc>
+    <lastmod>2019-02-17T13:14:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ktamas.com/tags/travel/</loc>
+    <lastmod>2019-02-17T13:14:58+00:00</lastmod>
   </url>
   
   <url>
@@ -30,15 +43,8 @@
   </url>
   
   <url>
-    <loc>https://blog.ktamas.com/tags/thoughts/</loc>
-    <lastmod>2019-02-17T13:14:58+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.ktamas.com/tags/travel/</loc>
-    <lastmod>2019-02-17T13:14:58+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://blog.ktamas.com/tags/mediadiet/</loc>
+    <lastmod>2019-02-16T08:26:17+00:00</lastmod>
   </url>
   
   <url>
@@ -47,15 +53,13 @@
   </url>
   
   <url>
-    <loc>https://blog.ktamas.com/tags/mediadiet/</loc>
+    <loc>https://blog.ktamas.com/tags/recommendations/</loc>
     <lastmod>2019-02-16T08:26:17+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blog.ktamas.com/tags/recommendations/</loc>
-    <lastmod>2019-02-16T08:26:17+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://blog.ktamas.com/tags/exercise/</loc>
+    <lastmod>2019-02-15T12:02:59+00:00</lastmod>
   </url>
   
   <url>
@@ -64,15 +68,8 @@
   </url>
   
   <url>
-    <loc>https://blog.ktamas.com/tags/exercise/</loc>
-    <lastmod>2019-02-15T12:02:59+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.ktamas.com/tags/yoga/</loc>
     <lastmod>2019-02-15T12:02:59+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -83,7 +80,6 @@
   <url>
     <loc>https://blog.ktamas.com/tags/running/</loc>
     <lastmod>2019-02-14T10:02:11+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -94,7 +90,11 @@
   <url>
     <loc>https://blog.ktamas.com/tags/photography/</loc>
     <lastmod>2019-02-13T09:24:53+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ktamas.com/tags/musings/</loc>
+    <lastmod>2019-02-12T13:23:02+00:00</lastmod>
   </url>
   
   <url>
@@ -103,9 +103,8 @@
   </url>
   
   <url>
-    <loc>https://blog.ktamas.com/tags/musings/</loc>
-    <lastmod>2019-02-12T13:23:02+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://blog.ktamas.com/tags/boardgames/</loc>
+    <lastmod>2019-02-09T16:07:47+00:00</lastmod>
   </url>
   
   <url>
@@ -114,9 +113,13 @@
   </url>
   
   <url>
-    <loc>https://blog.ktamas.com/tags/boardgames/</loc>
-    <lastmod>2019-02-09T16:07:47+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://blog.ktamas.com/tags/digitalnomad/</loc>
+    <lastmod>2019-02-04T20:29:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ktamas.com/tags/flow/</loc>
+    <lastmod>2019-02-04T20:29:15+00:00</lastmod>
   </url>
   
   <url>
@@ -125,32 +128,18 @@
   </url>
   
   <url>
-    <loc>https://blog.ktamas.com/tags/digitalnomad/</loc>
-    <lastmod>2019-02-04T20:29:15+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.ktamas.com/tags/flow/</loc>
-    <lastmod>2019-02-04T20:29:15+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.ktamas.com/tags/remotework/</loc>
     <lastmod>2019-02-04T20:29:15+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.ktamas.com/index.php/2019/02/03/on-drawing/</loc>
-    <lastmod>2019-02-03T22:05:46+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.ktamas.com/tags/drawing/</loc>
     <lastmod>2019-02-03T22:05:46+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ktamas.com/index.php/2019/02/03/on-drawing/</loc>
+    <lastmod>2019-02-03T22:05:46+00:00</lastmod>
   </url>
   
   <url>
@@ -161,7 +150,16 @@
   <url>
     <loc>https://blog.ktamas.com/tags/writersblock/</loc>
     <lastmod>2019-02-02T22:07:51+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ktamas.com/tags/adhd/</loc>
+    <lastmod>2019-02-02T16:44:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ktamas.com/tags/mentalhealth/</loc>
+    <lastmod>2019-02-02T16:44:59+00:00</lastmod>
   </url>
   
   <url>
@@ -170,21 +168,8 @@
   </url>
   
   <url>
-    <loc>https://blog.ktamas.com/tags/adhd/</loc>
-    <lastmod>2019-02-02T16:44:59+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.ktamas.com/tags/mentalhealth/</loc>
-    <lastmod>2019-02-02T16:44:59+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.ktamas.com/tags/series/</loc>
     <lastmod>2019-02-02T16:44:59+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -195,19 +180,16 @@
   <url>
     <loc>https://blog.ktamas.com/tags/hugo/</loc>
     <lastmod>2019-02-01T11:46:09+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blog.ktamas.com/tags/meta/</loc>
     <lastmod>2019-02-01T11:46:09+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blog.ktamas.com/tags/tech/</loc>
     <lastmod>2019-02-01T11:46:09+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -218,18 +200,16 @@
   <url>
     <loc>https://blog.ktamas.com/tags/wine/</loc>
     <lastmod>2019-01-31T16:40:50+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.ktamas.com/index.php/2019/01/29/on-writing-for-31-days-straight-and-counting/</loc>
-    <lastmod>2019-01-29T16:38:36+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.ktamas.com/tags/milestones/</loc>
     <lastmod>2019-01-29T16:38:36+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ktamas.com/index.php/2019/01/29/on-writing-for-31-days-straight-and-counting/</loc>
+    <lastmod>2019-01-29T16:38:36+00:00</lastmod>
   </url>
   
   <url>
@@ -240,13 +220,21 @@
   <url>
     <loc>https://blog.ktamas.com/tags/cultofdone/</loc>
     <lastmod>2019-01-24T16:34:02+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blog.ktamas.com/tags/2019/</loc>
     <lastmod>2019-01-21T16:24:31+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ktamas.com/tags/future/</loc>
+    <lastmod>2019-01-21T16:24:31+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ktamas.com/tags/goals/</loc>
+    <lastmod>2019-01-21T16:24:31+00:00</lastmod>
   </url>
   
   <url>
@@ -255,15 +243,8 @@
   </url>
   
   <url>
-    <loc>https://blog.ktamas.com/tags/future/</loc>
-    <lastmod>2019-01-21T16:24:31+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.ktamas.com/tags/goals/</loc>
-    <lastmod>2019-01-21T16:24:31+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://blog.ktamas.com/tags/freehugs/</loc>
+    <lastmod>2019-01-20T16:22:29+00:00</lastmod>
   </url>
   
   <url>
@@ -272,9 +253,8 @@
   </url>
   
   <url>
-    <loc>https://blog.ktamas.com/tags/freehugs/</loc>
-    <lastmod>2019-01-20T16:22:29+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://blog.ktamas.com/tags/ideas/</loc>
+    <lastmod>2019-01-19T16:18:04+00:00</lastmod>
   </url>
   
   <url>
@@ -283,15 +263,8 @@
   </url>
   
   <url>
-    <loc>https://blog.ktamas.com/tags/ideas/</loc>
-    <lastmod>2019-01-19T16:18:04+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.ktamas.com/tags/turulcsirip/</loc>
     <lastmod>2019-01-19T16:18:04+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -302,7 +275,6 @@
   <url>
     <loc>https://blog.ktamas.com/tags/30/</loc>
     <lastmod>2019-01-17T16:07:55+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -316,26 +288,28 @@
   </url>
   
   <url>
+    <loc>https://blog.ktamas.com/tags/googlereader/</loc>
+    <lastmod>2019-01-15T09:56:04+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.ktamas.com/index.php/2019/01/15/in-memoriam-of-sharewood-my-own-little-content-sharing-community/</loc>
     <lastmod>2019-01-15T09:56:04+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.ktamas.com/tags/googlereader/</loc>
-    <lastmod>2019-01-15T09:56:04+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.ktamas.com/tags/rss/</loc>
     <lastmod>2019-01-15T09:56:04+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blog.ktamas.com/tags/sharewood/</loc>
     <lastmod>2019-01-15T09:56:04+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ktamas.com/tags/metablogging/</loc>
+    <lastmod>2019-01-03T16:10:20+00:00</lastmod>
   </url>
   
   <url>
@@ -344,20 +318,13 @@
   </url>
   
   <url>
-    <loc>https://blog.ktamas.com/tags/metablogging/</loc>
-    <lastmod>2019-01-03T16:10:20+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://blog.ktamas.com/tags/lists/</loc>
+    <lastmod>2019-01-02T16:07:02+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.ktamas.com/index.php/2019/01/02/my-favorite-newsletters/</loc>
     <lastmod>2019-01-02T16:07:02+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.ktamas.com/tags/lists/</loc>
-    <lastmod>2019-01-02T16:07:02+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -368,7 +335,6 @@
   <url>
     <loc>https://blog.ktamas.com/tags/phones/</loc>
     <lastmod>2019-01-01T16:00:02+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -384,7 +350,6 @@
   <url>
     <loc>https://blog.ktamas.com/tags/recaps/</loc>
     <lastmod>2018-12-30T13:06:11+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -403,14 +368,13 @@
   </url>
   
   <url>
-    <loc>https://blog.ktamas.com/index.php/2016/06/23/linkblog-2016-06-23/</loc>
+    <loc>https://blog.ktamas.com/tags/linkblog/</loc>
     <lastmod>2016-06-23T22:33:21+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.ktamas.com/tags/linkblog/</loc>
+    <loc>https://blog.ktamas.com/index.php/2016/06/23/linkblog-2016-06-23/</loc>
     <lastmod>2016-06-23T22:33:21+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -431,7 +395,11 @@
   <url>
     <loc>https://blog.ktamas.com/tags/2015/</loc>
     <lastmod>2015-06-24T10:42:52+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/</loc>
+    <lastmod>2015-06-24T10:42:52+00:00</lastmod>
   </url>
   
   <url>
@@ -440,27 +408,18 @@
   </url>
   
   <url>
-    <loc>https://blog.ktamas.com/tags/fot%C3%B3z%C3%A1s/</loc>
-    <lastmod>2015-06-24T10:42:52+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.ktamas.com/tags/sv%C3%A9dorsz%C3%A1g/</loc>
     <lastmod>2015-06-24T10:42:52+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blog.ktamas.com/tags/%C3%A9nblog/</loc>
     <lastmod>2015-06-24T10:42:52+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blog.ktamas.com/tags/ontheroad/</loc>
     <lastmod>2015-02-19T15:06:39+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -486,13 +445,11 @@
   <url>
     <loc>https://blog.ktamas.com/tags/napiloop/</loc>
     <lastmod>2014-12-16T12:07:03+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blog.ktamas.com/tags/zene/</loc>
     <lastmod>2014-12-16T12:07:03+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -508,7 +465,6 @@
   <url>
     <loc>https://blog.ktamas.com/tags/sv%C3%A9dzene/</loc>
     <lastmod>2014-06-07T20:05:08+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -519,7 +475,6 @@
   <url>
     <loc>https://blog.ktamas.com/tags/%C3%A9n/</loc>
     <lastmod>2014-05-19T10:10:08+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -535,7 +490,6 @@
   <url>
     <loc>https://blog.ktamas.com/tags/olvas%C3%A1s/</loc>
     <lastmod>2014-05-11T10:49:22+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -604,20 +558,18 @@
   </url>
   
   <url>
-    <loc>https://blog.ktamas.com/index.php/2014/03/07/vindoztelefon/</loc>
-    <lastmod>2014-03-07T18:37:35+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://blog.ktamas.com/tags/flamebait/</loc>
     <lastmod>2014-03-07T18:37:35+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blog.ktamas.com/tags/telefon/</loc>
     <lastmod>2014-03-07T18:37:35+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ktamas.com/index.php/2014/03/07/vindoztelefon/</loc>
+    <lastmod>2014-03-07T18:37:35+00:00</lastmod>
   </url>
   
   <url>
@@ -648,13 +600,11 @@
   <url>
     <loc>https://blog.ktamas.com/tags/film/</loc>
     <lastmod>2014-02-08T10:45:19+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blog.ktamas.com/tags/norv%C3%A9gia/</loc>
     <lastmod>2014-02-08T10:45:19+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -680,7 +630,6 @@
   <url>
     <loc>https://blog.ktamas.com/tags/%C3%A9vfordul%C3%B3/</loc>
     <lastmod>2014-01-29T22:23:14+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -694,20 +643,18 @@
   </url>
   
   <url>
+    <loc>https://blog.ktamas.com/tags/budapest/</loc>
+    <lastmod>2014-01-21T09:46:58+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.ktamas.com/index.php/2014/01/21/kepek-budapest-201401/</loc>
     <lastmod>2014-01-21T09:46:58+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.ktamas.com/tags/budapest/</loc>
-    <lastmod>2014-01-21T09:46:58+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.ktamas.com/tags/magyarorsz%C3%A1g/</loc>
     <lastmod>2014-01-21T09:46:58+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -723,7 +670,6 @@
   <url>
     <loc>https://blog.ktamas.com/tags/sv%C3%A9dzenes/</loc>
     <lastmod>2014-01-16T09:09:05+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -749,7 +695,6 @@
   <url>
     <loc>https://blog.ktamas.com/tags/k%C3%B3rus/</loc>
     <lastmod>2013-12-24T17:22:54+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -775,7 +720,6 @@
   <url>
     <loc>https://blog.ktamas.com/tags/munka/</loc>
     <lastmod>2013-10-19T20:40:38+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -789,25 +733,23 @@
   </url>
   
   <url>
+    <loc>https://blog.ktamas.com/tags/fog%C3%A1szat/</loc>
+    <lastmod>2013-09-29T10:31:59+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.ktamas.com/index.php/2013/09/29/pesten-csutortokon/</loc>
     <lastmod>2013-09-29T10:31:59+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.ktamas.com/tags/fog%C3%A1szat/</loc>
-    <lastmod>2013-09-29T10:31:59+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://blog.ktamas.com/tags/fogorvos/</loc>
+    <lastmod>2013-09-28T12:23:16+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.ktamas.com/index.php/2013/09/28/pesten-kedden-es-szerdan/</loc>
     <lastmod>2013-09-28T12:23:16+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.ktamas.com/tags/fogorvos/</loc>
-    <lastmod>2013-09-28T12:23:16+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -833,7 +775,6 @@
   <url>
     <loc>https://blog.ktamas.com/tags/kaja/</loc>
     <lastmod>2013-08-10T11:31:41+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -844,19 +785,16 @@
   <url>
     <loc>https://blog.ktamas.com/tags/osx/</loc>
     <lastmod>2013-08-09T11:01:47+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blog.ktamas.com/tags/random/</loc>
     <lastmod>2013-08-09T11:01:47+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blog.ktamas.com/tags/windows/</loc>
     <lastmod>2013-08-09T11:01:47+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -867,7 +805,6 @@
   <url>
     <loc>https://blog.ktamas.com/tags/bor/</loc>
     <lastmod>2013-08-09T10:35:50+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -878,13 +815,11 @@
   <url>
     <loc>https://blog.ktamas.com/tags/fagyi/</loc>
     <lastmod>2013-08-08T14:39:49+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blog.ktamas.com/tags/vend%C3%A9gek/</loc>
     <lastmod>2013-08-08T14:39:49+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -920,7 +855,6 @@
   <url>
     <loc>https://blog.ktamas.com/tags/lak%C3%A1s/</loc>
     <lastmod>2013-08-05T10:10:23+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -936,7 +870,6 @@
   <url>
     <loc>https://blog.ktamas.com/tags/sorozatok/</loc>
     <lastmod>2013-07-25T10:29:53+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -967,7 +900,6 @@
   <url>
     <loc>https://blog.ktamas.com/tags/sorozat/</loc>
     <lastmod>2013-07-23T11:20:45+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -983,7 +915,6 @@
   <url>
     <loc>https://blog.ktamas.com/tags/v%C3%A1llalkozunk/</loc>
     <lastmod>2013-07-22T10:30:25+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1034,7 +965,6 @@
   <url>
     <loc>https://blog.ktamas.com/tags/t%C3%A1rsasj%C3%A1t%C3%A9k/</loc>
     <lastmod>2013-07-13T11:37:15+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1050,7 +980,6 @@
   <url>
     <loc>https://blog.ktamas.com/tags/nyelvtanul%C3%A1s/</loc>
     <lastmod>2013-07-12T10:59:44+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1106,7 +1035,6 @@
   <url>
     <loc>https://blog.ktamas.com/tags/mac/</loc>
     <lastmod>2013-06-13T13:37:44+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1185,14 +1113,13 @@
   </url>
   
   <url>
-    <loc>https://blog.ktamas.com/index.php/2013/05/23/megtorve-a-csendet/</loc>
+    <loc>https://blog.ktamas.com/tags/c%C3%A9g/</loc>
     <lastmod>2013-05-23T13:29:13+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.ktamas.com/tags/c%C3%A9g/</loc>
+    <loc>https://blog.ktamas.com/index.php/2013/05/23/megtorve-a-csendet/</loc>
     <lastmod>2013-05-23T13:29:13+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1228,7 +1155,6 @@
   <url>
     <loc>https://blog.ktamas.com/tags/rukkola/</loc>
     <lastmod>2013-05-14T08:55:13+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1349,7 +1275,6 @@
   <url>
     <loc>https://blog.ktamas.com/tags/irrit%C3%A1l/</loc>
     <lastmod>2013-04-20T11:40:25+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1395,7 +1320,6 @@
   <url>
     <loc>https://blog.ktamas.com/tags/k%C3%BCl%C3%B6nkiad%C3%A1s/</loc>
     <lastmod>2013-04-14T12:05:36+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1454,14 +1378,13 @@
   </url>
   
   <url>
-    <loc>https://blog.ktamas.com/index.php/2013/04/03/state-of-the-rss-olvasok-megosztasok-sharewood/</loc>
+    <loc>https://blog.ktamas.com/tags/megoszt%C3%A1sok/</loc>
     <lastmod>2013-04-03T13:39:18+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.ktamas.com/tags/megoszt%C3%A1sok/</loc>
+    <loc>https://blog.ktamas.com/index.php/2013/04/03/state-of-the-rss-olvasok-megosztasok-sharewood/</loc>
     <lastmod>2013-04-03T13:39:18+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1507,7 +1430,6 @@
   <url>
     <loc>https://blog.ktamas.com/tags/video/</loc>
     <lastmod>2013-03-29T09:30:48+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1966,25 +1888,23 @@
   </url>
   
   <url>
+    <loc>https://blog.ktamas.com/tags/bennevagyokazinternetben/</loc>
+    <lastmod>2012-10-16T15:24:43+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.ktamas.com/index.php/2012/10/16/my-adventures-in-the-world-of-bookmarklets-meg-mindig-benne-vagyok-az-internetben-rovat/</loc>
     <lastmod>2012-10-16T15:24:43+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.ktamas.com/tags/bennevagyokazinternetben/</loc>
-    <lastmod>2012-10-16T15:24:43+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://blog.ktamas.com/tags/kindle/</loc>
+    <lastmod>2012-10-16T11:03:55+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.ktamas.com/index.php/2012/10/16/meg-mindig-kindle-benne-vagyok-az-internetben-rovat/</loc>
     <lastmod>2012-10-16T11:03:55+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.ktamas.com/tags/kindle/</loc>
-    <lastmod>2012-10-16T11:03:55+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -2025,18 +1945,16 @@
   <url>
     <loc>https://blog.ktamas.com/tags/programoz%C3%A1s/</loc>
     <lastmod>2012-08-11T18:31:15+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.ktamas.com/index.php/2012/08/07/rdp-osx-alatt/</loc>
-    <lastmod>2012-08-07T13:19:22+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.ktamas.com/tags/commandline/</loc>
     <lastmod>2012-08-07T13:19:22+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ktamas.com/index.php/2012/08/07/rdp-osx-alatt/</loc>
+    <lastmod>2012-08-07T13:19:22+00:00</lastmod>
   </url>
   
   <url>
@@ -2160,14 +2078,13 @@
   </url>
   
   <url>
-    <loc>https://blog.ktamas.com/index.php/2012/02/27/r-i-p-osaka/</loc>
+    <loc>https://blog.ktamas.com/tags/k%C3%B6nyv/</loc>
     <lastmod>2012-02-27T19:33:02+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.ktamas.com/tags/k%C3%B6nyv/</loc>
+    <loc>https://blog.ktamas.com/index.php/2012/02/27/r-i-p-osaka/</loc>
     <lastmod>2012-02-27T19:33:02+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -2281,25 +2198,23 @@
   </url>
   
   <url>
+    <loc>https://blog.ktamas.com/tags/agymenes/</loc>
+    <lastmod>2011-11-01T21:52:17+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.ktamas.com/index.php/2011/11/01/nem-oszthatom-meg-senkivel-megosztom-hat-mindenkivel-1031-never-forget/</loc>
     <lastmod>2011-11-01T21:52:17+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.ktamas.com/tags/agymenes/</loc>
-    <lastmod>2011-11-01T21:52:17+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/</loc>
+    <lastmod>2011-10-20T15:00:07+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.ktamas.com/index.php/2011/10/20/napi-loop-florence-and-the-machine-what-the-water-gave-me/</loc>
     <lastmod>2011-10-20T15:00:07+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.ktamas.com/tags/aj%C3%A1nl%C3%B3/</loc>
-    <lastmod>2011-10-20T15:00:07+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -2310,13 +2225,11 @@
   <url>
     <loc>https://blog.ktamas.com/tags/el%C5%91ad%C3%A1s/</loc>
     <lastmod>2011-10-12T12:38:33+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blog.ktamas.com/tags/szakma/</loc>
     <lastmod>2011-10-12T12:38:33+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -2332,7 +2245,6 @@
   <url>
     <loc>https://blog.ktamas.com/tags/vm/</loc>
     <lastmod>2011-09-11T21:02:32+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -2416,14 +2328,13 @@
   </url>
   
   <url>
-    <loc>https://blog.ktamas.com/index.php/2011/06/05/pho/</loc>
+    <loc>https://blog.ktamas.com/tags/gasztro/</loc>
     <lastmod>2011-06-05T11:40:30+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.ktamas.com/tags/gasztro/</loc>
+    <loc>https://blog.ktamas.com/index.php/2011/06/05/pho/</loc>
     <lastmod>2011-06-05T11:40:30+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -2434,7 +2345,6 @@
   <url>
     <loc>https://blog.ktamas.com/tags/linux/</loc>
     <lastmod>2011-06-01T14:51:41+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -2470,7 +2380,6 @@
   <url>
     <loc>https://blog.ktamas.com/tags/hit/</loc>
     <lastmod>2011-05-18T13:25:03+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -2491,7 +2400,6 @@
   <url>
     <loc>https://blog.ktamas.com/tags/wallpaper/</loc>
     <lastmod>2011-05-15T09:13:21+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -2502,7 +2410,6 @@
   <url>
     <loc>https://blog.ktamas.com/tags/doctorwho/</loc>
     <lastmod>2011-05-13T09:46:01+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -2511,14 +2418,13 @@
   </url>
   
   <url>
-    <loc>https://blog.ktamas.com/index.php/2011/05/12/zene-egesz-napra-electroloop/</loc>
+    <loc>https://blog.ktamas.com/tags/mix/</loc>
     <lastmod>2011-05-12T09:42:29+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.ktamas.com/tags/mix/</loc>
+    <loc>https://blog.ktamas.com/index.php/2011/05/12/zene-egesz-napra-electroloop/</loc>
     <lastmod>2011-05-12T09:42:29+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -2532,14 +2438,13 @@
   </url>
   
   <url>
-    <loc>https://blog.ktamas.com/index.php/2011/05/09/zene-reggelihez-meg-tobb-moshav-band/</loc>
+    <loc>https://blog.ktamas.com/tags/izraeli/</loc>
     <lastmod>2011-05-09T11:24:59+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.ktamas.com/tags/izraeli/</loc>
+    <loc>https://blog.ktamas.com/index.php/2011/05/09/zene-reggelihez-meg-tobb-moshav-band/</loc>
     <lastmod>2011-05-09T11:24:59+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -2565,13 +2470,11 @@
   <url>
     <loc>https://blog.ktamas.com/tags/javascript/</loc>
     <lastmod>2011-05-05T23:58:46+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blog.ktamas.com/tags/vim/</loc>
     <lastmod>2011-05-05T09:48:23+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -2580,14 +2483,13 @@
   </url>
   
   <url>
-    <loc>https://blog.ktamas.com/index.php/2011/05/04/zene-ebedhez-bbc-countdown-compilation-backlog/</loc>
+    <loc>https://blog.ktamas.com/tags/backlog/</loc>
     <lastmod>2011-05-04T09:41:19+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.ktamas.com/tags/backlog/</loc>
+    <loc>https://blog.ktamas.com/index.php/2011/05/04/zene-ebedhez-bbc-countdown-compilation-backlog/</loc>
     <lastmod>2011-05-04T09:41:19+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -2603,7 +2505,6 @@
   <url>
     <loc>https://blog.ktamas.com/tags/szerverek/</loc>
     <lastmod>2011-04-30T18:17:56+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -2649,7 +2550,6 @@
   <url>
     <loc>https://blog.ktamas.com/tags/stargate/</loc>
     <lastmod>2011-02-02T22:28:24+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -2668,14 +2568,18 @@
   </url>
   
   <url>
+    <loc>https://blog.ktamas.com/tags/demo/</loc>
+    <lastmod>2010-12-19T22:09:15+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.ktamas.com/index.php/2010/12/19/esti-loop-aliens-ate-my-demomaker/</loc>
     <lastmod>2010-12-19T22:09:15+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.ktamas.com/tags/demo/</loc>
-    <lastmod>2010-12-19T22:09:15+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://blog.ktamas.com/tags/android/</loc>
+    <lastmod>2010-12-19T12:20:21+00:00</lastmod>
   </url>
   
   <url>
@@ -2684,39 +2588,28 @@
   </url>
   
   <url>
-    <loc>https://blog.ktamas.com/tags/android/</loc>
-    <lastmod>2010-12-19T12:20:21+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.ktamas.com/tags/apple/</loc>
     <lastmod>2010-12-19T12:20:21+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blog.ktamas.com/tags/blackberry/</loc>
     <lastmod>2010-12-19T12:20:21+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blog.ktamas.com/tags/pda/</loc>
     <lastmod>2010-12-19T12:20:21+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blog.ktamas.com/tags/switch/</loc>
     <lastmod>2010-12-19T12:20:21+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blog.ktamas.com/tags/winmobile/</loc>
     <lastmod>2010-12-19T12:20:21+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -2837,7 +2730,6 @@
   <url>
     <loc>https://blog.ktamas.com/tags/geekdom/</loc>
     <lastmod>2010-06-12T11:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -2861,14 +2753,13 @@
   </url>
   
   <url>
-    <loc>https://blog.ktamas.com/index.php/2010/04/18/padlizsan_4/</loc>
+    <loc>https://blog.ktamas.com/tags/chat/</loc>
     <lastmod>2010-04-18T01:19:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.ktamas.com/tags/chat/</loc>
+    <loc>https://blog.ktamas.com/index.php/2010/04/18/padlizsan_4/</loc>
     <lastmod>2010-04-18T01:19:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -2879,7 +2770,6 @@
   <url>
     <loc>https://blog.ktamas.com/tags/szeder/</loc>
     <lastmod>2010-03-25T20:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -2910,7 +2800,6 @@
   <url>
     <loc>https://blog.ktamas.com/tags/netpinc%C3%A9r/</loc>
     <lastmod>2010-02-19T19:24:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -2919,25 +2808,23 @@
   </url>
   
   <url>
+    <loc>https://blog.ktamas.com/tags/balkan/</loc>
+    <lastmod>2009-12-16T19:58:02+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.ktamas.com/index.php/2009/12/16/europa_csak_a_hatarig_mukodik_onnantol_balkan_van/</loc>
     <lastmod>2009-12-16T19:58:02+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.ktamas.com/tags/balkan/</loc>
-    <lastmod>2009-12-16T19:58:02+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://blog.ktamas.com/tags/mozi/</loc>
+    <lastmod>2009-11-19T22:54:57+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.ktamas.com/index.php/2009/11/19/velemenyem_a_twilight_c_filmrol/</loc>
     <lastmod>2009-11-19T22:54:57+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.ktamas.com/tags/mozi/</loc>
-    <lastmod>2009-11-19T22:54:57+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -2976,14 +2863,13 @@
   </url>
   
   <url>
-    <loc>https://blog.ktamas.com/index.php/2009/09/24/vegre_301/</loc>
+    <loc>https://blog.ktamas.com/tags/desktop/</loc>
     <lastmod>2009-09-24T09:54:05+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.ktamas.com/tags/desktop/</loc>
+    <loc>https://blog.ktamas.com/index.php/2009/09/24/vegre_301/</loc>
     <lastmod>2009-09-24T09:54:05+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3014,18 +2900,16 @@
   <url>
     <loc>https://blog.ktamas.com/tags/koncert/</loc>
     <lastmod>2009-09-10T23:54:58+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.ktamas.com/index.php/2009/09/03/szitazatlan_usb_s_ibm_billentyuzet_lav/</loc>
-    <lastmod>2009-09-03T14:18:37+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.ktamas.com/tags/keyboard/</loc>
     <lastmod>2009-09-03T14:18:37+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ktamas.com/index.php/2009/09/03/szitazatlan_usb_s_ibm_billentyuzet_lav/</loc>
+    <lastmod>2009-09-03T14:18:37+00:00</lastmod>
   </url>
   
   <url>
@@ -3074,14 +2958,13 @@
   </url>
   
   <url>
-    <loc>https://blog.ktamas.com/index.php/2009/08/02/na_azert_6/</loc>
+    <loc>https://blog.ktamas.com/tags/futurama/</loc>
     <lastmod>2009-08-02T15:24:01+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.ktamas.com/tags/futurama/</loc>
+    <loc>https://blog.ktamas.com/index.php/2009/08/02/na_azert_6/</loc>
     <lastmod>2009-08-02T15:24:01+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3090,20 +2973,18 @@
   </url>
   
   <url>
+    <loc>https://blog.ktamas.com/tags/hurr%C3%A1nyaralunk/</loc>
+    <lastmod>2009-08-02T15:07:29+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.ktamas.com/index.php/2009/08/02/szoval_holnap_biciklire_pattanunk/</loc>
     <lastmod>2009-08-02T15:07:29+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.ktamas.com/tags/hurr%C3%A1nyaralunk/</loc>
-    <lastmod>2009-08-02T15:07:29+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.ktamas.com/tags/ebook/</loc>
     <lastmod>2009-07-24T22:09:24+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3119,7 +3000,6 @@
   <url>
     <loc>https://blog.ktamas.com/tags/lol/</loc>
     <lastmod>2009-07-20T09:30:03+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3135,18 +3015,16 @@
   <url>
     <loc>https://blog.ktamas.com/tags/nightwish/</loc>
     <lastmod>2009-07-17T12:13:51+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.ktamas.com/index.php/2009/07/16/paprika_the_girl_in_byakkoya_by_susumu_hirasawa/</loc>
-    <lastmod>2009-07-16T08:33:12+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.ktamas.com/tags/anime/</loc>
     <lastmod>2009-07-16T08:33:12+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ktamas.com/index.php/2009/07/16/paprika_the_girl_in_byakkoya_by_susumu_hirasawa/</loc>
+    <lastmod>2009-07-16T08:33:12+00:00</lastmod>
   </url>
   
   <url>
@@ -3157,7 +3035,6 @@
   <url>
     <loc>https://blog.ktamas.com/tags/krikett/</loc>
     <lastmod>2009-07-13T19:57:12+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3168,7 +3045,6 @@
   <url>
     <loc>https://blog.ktamas.com/tags/wtf/</loc>
     <lastmod>2009-07-13T16:00:42+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3202,14 +3078,13 @@
   </url>
   
   <url>
-    <loc>https://blog.ktamas.com/index.php/2009/07/03/yuin/</loc>
+    <loc>https://blog.ktamas.com/tags/f%C3%BCles/</loc>
     <lastmod>2009-07-03T10:00:27+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.ktamas.com/tags/f%C3%BCles/</loc>
+    <loc>https://blog.ktamas.com/index.php/2009/07/03/yuin/</loc>
     <lastmod>2009-07-03T10:00:27+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3230,7 +3105,6 @@
   <url>
     <loc>https://blog.ktamas.com/tags/b%C3%A9cs/</loc>
     <lastmod>2009-06-27T16:57:29+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3241,18 +3115,16 @@
   <url>
     <loc>https://blog.ktamas.com/tags/jap%C3%A1n/</loc>
     <lastmod>2009-06-26T13:23:17+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.ktamas.com/index.php/2009/06/18/ruby_meg_a_mail_eloadas/</loc>
-    <lastmod>2009-06-18T21:00:41+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.ktamas.com/tags/ruby/</loc>
     <lastmod>2009-06-18T21:00:41+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ktamas.com/index.php/2009/06/18/ruby_meg_a_mail_eloadas/</loc>
+    <lastmod>2009-06-18T21:00:41+00:00</lastmod>
   </url>
   
   <url>
@@ -3296,14 +3168,13 @@
   </url>
   
   <url>
-    <loc>https://blog.ktamas.com/index.php/2009/06/06/nagy_6/</loc>
+    <loc>https://blog.ktamas.com/tags/bicikli/</loc>
     <lastmod>2009-06-06T20:53:30+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.ktamas.com/tags/bicikli/</loc>
+    <loc>https://blog.ktamas.com/index.php/2009/06/06/nagy_6/</loc>
     <lastmod>2009-06-06T20:53:30+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3377,14 +3248,13 @@
   </url>
   
   <url>
-    <loc>https://blog.ktamas.com/index.php/2009/05/24/note_to_self_1/</loc>
+    <loc>https://blog.ktamas.com/tags/ige/</loc>
     <lastmod>2009-05-24T19:55:56+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.ktamas.com/tags/ige/</loc>
+    <loc>https://blog.ktamas.com/index.php/2009/05/24/note_to_self_1/</loc>
     <lastmod>2009-05-24T19:55:56+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3393,20 +3263,18 @@
   </url>
   
   <url>
+    <loc>https://blog.ktamas.com/tags/imap/</loc>
+    <lastmod>2009-05-24T12:16:24+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.ktamas.com/index.php/2009/05/24/imap_is_a_ghetto/</loc>
     <lastmod>2009-05-24T12:16:24+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.ktamas.com/tags/imap/</loc>
-    <lastmod>2009-05-24T12:16:24+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.ktamas.com/tags/mail/</loc>
     <lastmod>2009-05-24T12:16:24+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3422,7 +3290,6 @@
   <url>
     <loc>https://blog.ktamas.com/tags/sinatra/</loc>
     <lastmod>2009-05-19T20:48:48+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3433,7 +3300,6 @@
   <url>
     <loc>https://blog.ktamas.com/tags/die_outlook_die/</loc>
     <lastmod>2009-05-17T18:16:35+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3454,7 +3320,6 @@
   <url>
     <loc>https://blog.ktamas.com/tags/startrek/</loc>
     <lastmod>2009-05-12T12:00:29+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3470,7 +3335,6 @@
   <url>
     <loc>https://blog.ktamas.com/tags/ubuntu/</loc>
     <lastmod>2009-05-09T10:30:35+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3496,13 +3360,11 @@
   <url>
     <loc>https://blog.ktamas.com/tags/nocomment/</loc>
     <lastmod>2009-05-01T09:33:11+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blog.ktamas.com/tags/win7/</loc>
     <lastmod>2009-05-01T09:33:11+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3513,7 +3375,6 @@
   <url>
     <loc>https://blog.ktamas.com/tags/enkerekelnezest/</loc>
     <lastmod>2009-04-30T20:55:17+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3544,7 +3405,6 @@
   <url>
     <loc>https://blog.ktamas.com/tags/woohoo/</loc>
     <lastmod>2009-04-21T19:20:05+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3570,7 +3430,6 @@
   <url>
     <loc>https://blog.ktamas.com/tags/%C3%BAjs%C3%A1g%C3%ADr%C3%A1s/</loc>
     <lastmod>2009-04-14T16:15:43+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3601,7 +3460,6 @@
   <url>
     <loc>https://blog.ktamas.com/tags/politika/</loc>
     <lastmod>2009-03-30T11:14:13+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3650,14 +3508,13 @@
   </url>
   
   <url>
-    <loc>https://blog.ktamas.com/index.php/2009/03/24/ssd_krol/</loc>
+    <loc>https://blog.ktamas.com/tags/it/</loc>
     <lastmod>2009-03-24T20:46:58+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.ktamas.com/tags/it/</loc>
+    <loc>https://blog.ktamas.com/index.php/2009/03/24/ssd_krol/</loc>
     <lastmod>2009-03-24T20:46:58+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3668,7 +3525,6 @@
   <url>
     <loc>https://blog.ktamas.com/tags/bsg/</loc>
     <lastmod>2009-03-24T10:00:39+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3684,7 +3540,6 @@
   <url>
     <loc>https://blog.ktamas.com/tags/szlovenia/</loc>
     <lastmod>2009-03-18T13:14:16+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3720,7 +3575,6 @@
   <url>
     <loc>https://blog.ktamas.com/tags/musthave/</loc>
     <lastmod>2009-03-07T21:37:41+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3746,7 +3600,6 @@
   <url>
     <loc>https://blog.ktamas.com/tags/stats/</loc>
     <lastmod>2009-03-05T09:00:28+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3812,7 +3665,6 @@
   <url>
     <loc>https://blog.ktamas.com/tags/kerdes/</loc>
     <lastmod>2009-02-15T13:40:32+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3823,7 +3675,6 @@
   <url>
     <loc>https://blog.ktamas.com/tags/nyelv%C3%A9szet/</loc>
     <lastmod>2009-02-15T13:32:53+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3869,7 +3720,6 @@
   <url>
     <loc>https://blog.ktamas.com/tags/wind/</loc>
     <lastmod>2009-01-26T09:43:08+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3890,7 +3740,6 @@
   <url>
     <loc>https://blog.ktamas.com/tags/rails/</loc>
     <lastmod>2009-01-19T10:45:37+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3911,7 +3760,6 @@
   <url>
     <loc>https://blog.ktamas.com/tags/id%C3%A9zet/</loc>
     <lastmod>2009-01-13T09:40:59+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3952,7 +3800,6 @@
   <url>
     <loc>https://blog.ktamas.com/tags/furcsak%C3%A9p/</loc>
     <lastmod>2009-01-05T14:21:51+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

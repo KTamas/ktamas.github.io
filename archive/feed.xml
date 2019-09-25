@@ -11,9 +11,17 @@
 		<name>KTamas</name>
 		<uri>https://blog.ktamas.com/</uri>
 	</author>
-	<generator uri="https://gohugo.io/" version="0.56.3">Hugo</generator>
+	<generator uri="https://gohugo.io/" version="0.58.3">Hugo</generator>
 	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
+	<entry>
+		<id>https://blog.ktamas.com/index.php/2019/09/25/xoxo-2019-prologue/</id>
+		<title>XOXO 2019: Prologue</title>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2019/09/25/xoxo-2019-prologue/"/>
+		<updated>2019-09-25T16:40:29Z</updated>
+		<published>2019-09-25T16:40:29Z</published>
+		<summary>A friend told me a few years before, that “XOXO is a place full of people you want to hang out with all the time,” and boy was he right. In 2016, I got to attend the first time, and I was hooked and had a blast. Two years later I was back (I have yet to write that one up), and it was a different experience: so much has happened in those two years.</summary>
+	</entry>
 	<entry>
 		<id>https://blog.ktamas.com/index.php/2019/08/14/xoxo-2016/</id>
 		<title>XOXO 2016 recap</title>

@@ -12,6 +12,15 @@
 	},
 	"items": [
 		{
+			"id": "https://blog.ktamas.com/index.php/2019/09/25/xoxo-2019-prologue/",
+			"url": "https://blog.ktamas.com/index.php/2019/09/25/xoxo-2019-prologue/",
+			"title": "XOXO 2019: Prologue",
+			"summary": "A friend told me a few years before, that \u0026ldquo;XOXO is a place full of people you want to hang out with all the time,\u0026rdquo; and boy was he right. In 2016, I got to attend the first time, and I was hooked and had a blast. Two years later I was back (I have yet to write that one up), and it was a different experience: so much has happened in those two years.",
+			"date_published": "2019-09-25T16:40:29Z",
+			"content_html": "\u003cp\u003eA friend told me a few years before, that \u0026amp;ldquo;XOXO is a place full of people you want to hang out with all the time,\u0026amp;rdquo; and boy was he right. In 2016, I got to attend the first time, and I was hooked and had a blast. Two years later I was back (I have yet to write that one up), and it was a different experience: so much has happened in those two years.\u003c/p\u003e",
+			"content_text": "A friend told me a few years before, that \u0026ldquo;XOXO is a place full of people you want to hang out with all the time,\u0026rdquo; and boy was he right. In 2016, I got to attend the first time, and I was hooked and had a blast. Two years later I was back (I have yet to write that one up), and it was a different experience: so much has happened in those two years."
+		}, 
+		{
 			"id": "https://blog.ktamas.com/index.php/2019/08/14/xoxo-2016/",
 			"url": "https://blog.ktamas.com/index.php/2019/08/14/xoxo-2016/",
 			"title": "XOXO 2016 recap",
