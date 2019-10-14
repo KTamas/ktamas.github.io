@@ -5476,6 +5476,21 @@
 			"date_published": "2009-01-04T16:20:25Z",
 			"content_html": "\u003cp\u003eNem fogok sokat írni ide\u0026amp;#8230; KTamas vagyok, hívő (Istenben), lassan 20, egy fordítóirodában \u0026amp;#8220;IT guy\u0026amp;#8221; (tudjátok: programozó, rendszergazda, support, meg ami még eszedbe jut) és ide fogok mindenfélét irogatni énblogtól kezdve programozáson át (ruby!) a fotózásig.\u003c/p\u003e",
 			"content_text": "Nem fogok sokat írni ide\u0026#8230; KTamas vagyok, hívő (Istenben), lassan 20, egy fordítóirodában \u0026#8220;IT guy\u0026#8221; (tudjátok: programozó, rendszergazda, support, meg ami még eszedbe jut) és ide fogok mindenfélét irogatni énblogtól kezdve programozáson át (ruby!) a fotózásig."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/about/",
+			"url": "https://blog.ktamas.com/about/",
+			"title": "About",
+			"summary": "This is the personal blog of Tamas Kadar aka KTamas. If you\u0026rsquo;d like to get in touch, catch me on Twitter or send email to ktamas@ktamas.com.\nColophon This blog is written in Markdown, built and published with Hugo, and hosted on Github Pages. Its set in Roboto and Open Sans, with fixed-width type set in Source Code Pro. The icons are by Font Awesome.\nThis site uses JavaScript and also Google Analytics.",
+			"date_published": "0001-01-01T00:00:00Z",
+			"content_html": "\u003cp\u003eThis is the personal blog of Tamas Kadar aka KTamas. If you\u0026amp;rsquo;d like to get in touch, catch me on Twitter or send email to ktamas@ktamas.com.\nColophon This blog is written in Markdown, built and published with Hugo, and hosted on Github Pages. Its set in Roboto and Open Sans, with fixed-width type set in Source Code Pro. The icons are by Font Awesome.\nThis site uses JavaScript and also Google Analytics.\u003c/p\u003e",
+			"content_text": "This is the personal blog of Tamas Kadar aka KTamas. If you\u0026rsquo;d like to get in touch, catch me on Twitter or send email to ktamas@ktamas.com.\nColophon This blog is written in Markdown, built and published with Hugo, and hosted on Github Pages. Its set in Roboto and Open Sans, with fixed-width type set in Source Code Pro. The icons are by Font Awesome.\nThis site uses JavaScript and also Google Analytics."
+		}, 
+		{
+			"id": "https://blog.ktamas.com/archive/",
+			"url": "https://blog.ktamas.com/archive/",
+			"title": "Previously, on KTamas' Blog",
+			"date_published": "0001-01-01T00:00:00Z",
 		}
 	]
 }

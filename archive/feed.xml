@@ -5554,5 +5554,22 @@ Mindenesetre fogok majd szerintem irogatni CD-kről meg dalokról ide, a legkül
 		<published>2009-01-04T16:20:25Z</published>
 		<summary>Nem fogok sokat írni ide… KTamas vagyok, hívő (Istenben), lassan 20, egy fordítóirodában “IT guy” (tudjátok: programozó, rendszergazda, support, meg ami még eszedbe jut) és ide fogok mindenfélét irogatni énblogtól kezdve programozáson át (ruby!) a fotózásig.</summary>
 	</entry>
+	<entry>
+		<id>https://blog.ktamas.com/about/</id>
+		<title>About</title>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/about/"/>
+		<updated>0001-01-01T00:00:00Z</updated>
+		<published>0001-01-01T00:00:00Z</published>
+		<summary>This is the personal blog of Tamas Kadar aka KTamas. If you’d like to get in touch, catch me on Twitter or send email to ktamas@ktamas.com.
+Colophon This blog is written in Markdown, built and published with Hugo, and hosted on Github Pages. Its set in Roboto and Open Sans, with fixed-width type set in Source Code Pro. The icons are by Font Awesome.
+This site uses JavaScript and also Google Analytics.</summary>
+	</entry>
+	<entry>
+		<id>https://blog.ktamas.com/archive/</id>
+		<title>Previously, on KTamas&#39; Blog</title>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/archive/"/>
+		<updated>0001-01-01T00:00:00Z</updated>
+		<published>0001-01-01T00:00:00Z</published>
+	</entry>
 </feed>
 
