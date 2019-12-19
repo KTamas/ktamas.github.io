@@ -37,7 +37,7 @@ Restart mindkettő (lehet elég reload is) és máris tudunk nagyobb tartalmakat
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:site" value="@ktamas" />
 	<meta name="twitter:creator" value="@ktamas" />
-	<meta name="generator" content="Hugo 0.58.3" />
+	<meta name="generator" content="Hugo 0.61.0" />
 </head>
 <body>
 	<div id="container">
@@ -68,16 +68,10 @@ Restart mindkettő (lehet elég reload is) és máris tudunk nagyobb tartalmakat
         <div class="text">
 
 <p>PHP-CGI és Nginx kombóban az alábbi értékeket kell módosítani, igen, mindhármat:</p>
-
 <p>a <code>php.ini</code>ben:</p>
-
-<p><code>upload_max_filesize = 64M&lt;br /&gt;
-post_max_size = 64M</code></p>
-
+<p><code>upload_max_filesize = 64M&lt;br /&gt; post_max_size = 64M</code></p>
 <p>az <code>nginx.conf</code>ban, a server blokkon belül:</p>
-
 <p><code>client_max_body_size 64M;</code></p>
-
 <p>Restart mindkettő (lehet elég reload is) és máris tudunk nagyobb tartalmakat feltölteni.</p>
 
         </div>

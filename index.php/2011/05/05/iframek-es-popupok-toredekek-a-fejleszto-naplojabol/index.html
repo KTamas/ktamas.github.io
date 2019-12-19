@@ -5,7 +5,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 	<title>iframek es popupok (toredekek a fejleszto naplojabol)</title>
-	<meta name="description" content="Van egy iframed, abbol nyit a felhasznalo egy popupot, kulso webszolgaltatassal valo autenikalas celjabol, adsz neki egy callback URL-t, ami viszont ugye a popupba iranyit vissza, te viszont szeretned, ha az iframe tartalma lecserelodjon, majd bezarodjon a popup. Hogy csinalod? Ugy, hogy egy ilyesfajta HTML-t (es benne levo js-t) adsz meg callbacknek: &lt;html&gt; &lt;head&gt; &lt;script type=“text/javascript”&gt; var close_and_redirect = function() { if (opener &amp;&amp; !opener.closed) { opener.location.href = “http://localhost:9610/done&amp;quot;; }" />
+	<meta name="description" content="Van egy iframed, abbol nyit a felhasznalo egy popupot, kulso webszolgaltatassal valo autenikalas celjabol, adsz neki egy callback URL-t, ami viszont ugye a popupba iranyit vissza, te viszont szeretned, ha az iframe tartalma lecserelodjon, majd bezarodjon a popup. Hogy csinalod? Ugy, hogy egy ilyesfajta HTML-t (es benne levo js-t) adsz meg callbacknek:" />
 	<meta name="author" content="KTamas" />
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto" rel="stylesheet">
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
@@ -22,12 +22,12 @@
 	<meta property="og:url" content="https://blog.ktamas.com/index.php/2011/05/05/iframek-es-popupok-toredekek-a-fejleszto-naplojabol/" />
 	<meta property="og:title" content="iframek es popupok (toredekek a fejleszto naplojabol)" />
 	<meta property="og:site_name" content="KTamas&#39; Blog"/>
-	<meta property="og:description" content="Van egy iframed, abbol nyit a felhasznalo egy popupot, kulso webszolgaltatassal valo autenikalas celjabol, adsz neki egy callback URL-t, ami viszont ugye a popupba iranyit vissza, te viszont szeretned, ha az iframe tartalma lecserelodjon, majd bezarodjon a popup. Hogy csinalod? Ugy, hogy egy ilyesfajta HTML-t (es benne levo js-t) adsz meg callbacknek: &lt;html&gt; &lt;head&gt; &lt;script type=“text/javascript”&gt; var close_and_redirect = function() { if (opener &amp;&amp; !opener.closed) { opener.location.href = “http://localhost:9610/done&amp;quot;; }" />
+	<meta property="og:description" content="Van egy iframed, abbol nyit a felhasznalo egy popupot, kulso webszolgaltatassal valo autenikalas celjabol, adsz neki egy callback URL-t, ami viszont ugye a popupba iranyit vissza, te viszont szeretned, ha az iframe tartalma lecserelodjon, majd bezarodjon a popup. Hogy csinalod? Ugy, hogy egy ilyesfajta HTML-t (es benne levo js-t) adsz meg callbacknek:" />
 	<meta property="og:image" content="https://blog.ktamas.com/icon-512x512.png" />
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:site" value="@ktamas" />
 	<meta name="twitter:creator" value="@ktamas" />
-	<meta name="generator" content="Hugo 0.58.3" />
+	<meta name="generator" content="Hugo 0.61.0" />
 </head>
 <body>
 	<div id="container">
@@ -53,42 +53,17 @@
         <header>
             <h1 class="title">iframek es popupok (toredekek a fejleszto naplojabol)</h1>
             <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2011/05/05/iframek-es-popupok-toredekek-a-fejleszto-naplojabol/"><i class="far fa-bookmark"></i></a>
-            <time datetime="2011-05-05T23:58:46Z">Thursday, May 5, 2011</time> · 87 words · 1 min read</div>
+            <time datetime="2011-05-05T23:58:46Z">Thursday, May 5, 2011</time> · 52 words · 1 min read</div>
         </header>
         <div class="text">
 
 <p>Van egy iframed, abbol nyit a felhasznalo egy popupot, kulso webszolgaltatassal valo autenikalas celjabol, adsz neki egy callback URL-t, ami viszont ugye a popupba iranyit vissza, te viszont szeretned, ha az iframe tartalma lecserelodjon, majd bezarodjon a popup. Hogy csinalod? Ugy, hogy egy ilyesfajta HTML-t (es benne levo js-t) adsz meg callbacknek:</p>
-
-<p><noscript>
-  </p></p>
-
-<p><pre>
-&lt;html&gt;
-  &lt;head&gt;
-    &lt;script type=&ldquo;text/javascript&rdquo;&gt;
-      var close_and_redirect = function() {
-        if (opener &amp;&amp; !opener.closed) {
-          opener.location.href = &ldquo;<a href="http://localhost:9610/done&quot;">http://localhost:9610/done&quot;</a>;
-        }<br />
-        window.close();
-      }
-    &lt;/script&gt;
-  &lt;/head&gt;
-  &lt;body onload=&ldquo;setTimeout(&lsquo;close_and_redirect()&lsquo;, 500)&rdquo;&gt;
-    Yay, logged in! Closing&hellip;
-  &lt;/body&gt;
-&lt;/html&gt;
-</pre></p>
-
-<p><p>
-    </noscript><br />
-  </p></p>
-
-<p><script src="https://gist.github.com/958052.js?file=loggedin.html"></script></p>
-
-<p><p>
-    (<a href="http://www.codingforums.com/showpost.php?s=aa079e493200cb7008aa5359f7591e86&#038;p=292432&#038;postcount=3">Itt talaltam meg vegul.</a>)
-  </p></p>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
 
         </div>
 

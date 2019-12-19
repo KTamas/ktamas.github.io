@@ -6,7 +6,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 	<title>Miért fogunk a jövőben excelt is Rubyban programozni?</title>
 	<meta name="description" content="Ruby:
- require ‘win32ole’
+require ‘win32ole’
 excel = Win32ole.new(“Excel.Application”)
 excel.visible = true
 wb = excel.workbooks.add
@@ -14,20 +14,13 @@ ws = wb.activesheet
 ws.range(‘A1:B5’).each do |cell|
 cell.value = “Hello, World”
 end
- versus
- using Microsoft.Office.Interop.Excel;
+versus
+using Microsoft.Office.Interop.Excel;
 […]
 var excel = new ApplicationClass();
 excel.Visible = true;
 object missing = System.Reflection.Missing.Value;
-var workbook = excel.Workbooks.Add(missing);
-var range = excel.get_Range((object)”A1″, (object)”B5″);
-foreach (Range r in range.Cells) {
-r.Activate();
-excel.ActiveCell.Value2 = “Alma”;
-}
- Na, melik a kevésbé gány megoldás?
-(A szerkesztőségbe várjuk a jobb C#-os megoldásokat." />
+var workbook = excel.Workbooks.Add(missing);" />
 	<meta name="author" content="KTamas" />
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto" rel="stylesheet">
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
@@ -45,7 +38,7 @@ excel.ActiveCell.Value2 = “Alma”;
 	<meta property="og:title" content="Miért fogunk a jövőben excelt is Rubyban programozni?" />
 	<meta property="og:site_name" content="KTamas&#39; Blog"/>
 	<meta property="og:description" content="Ruby:
- require ‘win32ole’
+require ‘win32ole’
 excel = Win32ole.new(“Excel.Application”)
 excel.visible = true
 wb = excel.workbooks.add
@@ -53,25 +46,18 @@ ws = wb.activesheet
 ws.range(‘A1:B5’).each do |cell|
 cell.value = “Hello, World”
 end
- versus
- using Microsoft.Office.Interop.Excel;
+versus
+using Microsoft.Office.Interop.Excel;
 […]
 var excel = new ApplicationClass();
 excel.Visible = true;
 object missing = System.Reflection.Missing.Value;
-var workbook = excel.Workbooks.Add(missing);
-var range = excel.get_Range((object)”A1″, (object)”B5″);
-foreach (Range r in range.Cells) {
-r.Activate();
-excel.ActiveCell.Value2 = “Alma”;
-}
- Na, melik a kevésbé gány megoldás?
-(A szerkesztőségbe várjuk a jobb C#-os megoldásokat." />
+var workbook = excel.Workbooks.Add(missing);" />
 	<meta property="og:image" content="https://blog.ktamas.com/icon-512x512.png" />
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:site" value="@ktamas" />
 	<meta name="twitter:creator" value="@ktamas" />
-	<meta name="generator" content="Hugo 0.58.3" />
+	<meta name="generator" content="Hugo 0.61.0" />
 </head>
 <body>
 	<div id="container">
@@ -102,53 +88,65 @@ excel.ActiveCell.Value2 = “Alma”;
         <div class="text">
 
 <p>Ruby:</p>
-
 <blockquote>
-<p>require &#8216;win32ole&#8217;</p>
-
-<p>excel = Win32ole.new(&#8220;Excel.Application&#8221;)</p>
-
+<p>require ‘win32ole’</p>
+</blockquote>
+<blockquote>
+<p>excel = Win32ole.new(“Excel.Application”)</p>
+</blockquote>
+<blockquote>
 <p>excel.visible = true</p>
-
+</blockquote>
+<blockquote>
 <p>wb = excel.workbooks.add</p>
-
+</blockquote>
+<blockquote>
 <p>ws = wb.activesheet</p>
-
-<p>ws.range(&#8216;A1:B5&#8217;).each do |cell|</p>
-
-<p>cell.value = &#8220;Hello, World&#8221;</p>
-
+</blockquote>
+<blockquote>
+<p>ws.range(‘A1:B5’).each do |cell|</p>
+</blockquote>
+<blockquote>
+<p>cell.value = “Hello, World”</p>
+</blockquote>
+<blockquote>
 <p>end</p>
 </blockquote>
-
 <p>versus</p>
-
 <blockquote>
 <p>using Microsoft.Office.Interop.Excel;</p>
-
-<p>[&#8230;]</p>
-
+</blockquote>
+<blockquote>
+<p>[…]</p>
+</blockquote>
+<blockquote>
 <p>var excel = new ApplicationClass();</p>
-
+</blockquote>
+<blockquote>
 <p>excel.Visible = true;</p>
-
+</blockquote>
+<blockquote>
 <p>object missing = System.Reflection.Missing.Value;</p>
-
+</blockquote>
+<blockquote>
 <p>var workbook = excel.Workbooks.Add(missing);</p>
-
-<p>var range = excel.get_Range((object)&#8221;A1&#8243;, (object)&#8221;B5&#8243;);</p>
-
+</blockquote>
+<blockquote>
+<p>var range = excel.get_Range((object)”A1″, (object)”B5″);</p>
+</blockquote>
+<blockquote>
 <p>foreach (Range r in range.Cells) {</p>
-
+</blockquote>
+<blockquote>
 <p>r.Activate();</p>
-
-<p>excel.ActiveCell.Value2 = &#8220;Alma&#8221;;</p>
-
+</blockquote>
+<blockquote>
+<p>excel.ActiveCell.Value2 = “Alma”;</p>
+</blockquote>
+<blockquote>
 <p>}</p>
 </blockquote>
-
 <p>Na, melik a kevésbé gány megoldás?</p>
-
 <p>(A szerkesztőségbe várjuk a jobb C#-os megoldásokat.)</p>
 
         </div>

@@ -6,7 +6,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 	<title>In Memoriam of Sharewood — My Own Little Content Sharing Community</title>
 	<meta name="description" content="This post was inspired by the Motherboard article, The Rise and Demise of RSS.
-It was early 2012 and Google Reader’s sharing function was taken from us, replaced with a useless, shitty “Share to Google&#43;” button (Fuck you, Google). I’ve been using Reader since late 2006 and the sharing feature since it’s introduction; the notion that if I see something interesting on the internet I must share it with others was ingrained in me, forever." />
+It was early 2012 and Google Reader&#39;s sharing function was taken from us, replaced with a useless, shitty “Share to Google&#43;” button (Fuck you, Google). I&#39;ve been using Reader since late 2006 and the sharing feature since it&#39;s introduction; the notion that if I see something interesting on the internet I must share it with others was ingrained in me, forever." />
 	<meta name="author" content="KTamas" />
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto" rel="stylesheet">
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
@@ -24,12 +24,12 @@ It was early 2012 and Google Reader’s sharing function was taken from us, repl
 	<meta property="og:title" content="In Memoriam of Sharewood — My Own Little Content Sharing Community" />
 	<meta property="og:site_name" content="KTamas&#39; Blog"/>
 	<meta property="og:description" content="This post was inspired by the Motherboard article, The Rise and Demise of RSS.
-It was early 2012 and Google Reader’s sharing function was taken from us, replaced with a useless, shitty “Share to Google&#43;” button (Fuck you, Google). I’ve been using Reader since late 2006 and the sharing feature since it’s introduction; the notion that if I see something interesting on the internet I must share it with others was ingrained in me, forever." />
+It was early 2012 and Google Reader&#39;s sharing function was taken from us, replaced with a useless, shitty “Share to Google&#43;” button (Fuck you, Google). I&#39;ve been using Reader since late 2006 and the sharing feature since it&#39;s introduction; the notion that if I see something interesting on the internet I must share it with others was ingrained in me, forever." />
 	<meta property="og:image" content="https://blog.ktamas.com/icon-512x512.png" />
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:site" value="@ktamas" />
 	<meta name="twitter:creator" value="@ktamas" />
-	<meta name="generator" content="Hugo 0.58.3" />
+	<meta name="generator" content="Hugo 0.61.0" />
 </head>
 <body>
 	<div id="container">
@@ -60,33 +60,19 @@ It was early 2012 and Google Reader’s sharing function was taken from us, repl
         <div class="text">
 
 <p>This post was inspired by the Motherboard article, <a href="https://motherboard.vice.com/en_us/article/a3mm4z/the-rise-and-demise-of-rss">The Rise and Demise of RSS</a>.</p>
-
-<hr />
-
-<p>It was early 2012 and Google Reader&rsquo;s sharing function was taken from us, replaced with a useless, shitty &ldquo;Share to Google+&rdquo; button (Fuck you, Google). I&rsquo;ve been using Reader since late 2006 and the sharing feature since it&rsquo;s introduction; the notion that if I see something interesting on the internet <em>I must share it with others</em> was ingrained in me, forever.</p>
-
-<p>It started with conversations with friends, and we discovered that Posterous (RIP) had a decent bookmarklet one could use to grab content for sharing. So a few of us started content-sharing blogs (or linkblogs, if you will). Not long after, a friend suggested an idea: why don&rsquo;t we make our own content-sharing community? So we could use that for a back-end, all we need is a place where we aggregate all these blogs full of content.</p>
-
+<hr>
+<p>It was early 2012 and Google Reader's sharing function was taken from us, replaced with a useless, shitty &ldquo;Share to Google+&rdquo; button (Fuck you, Google). I've been using Reader since late 2006 and the sharing feature since it's introduction; the notion that if I see something interesting on the internet <em>I must share it with others</em> was ingrained in me, forever.</p>
+<p>It started with conversations with friends, and we discovered that Posterous (RIP) had a decent bookmarklet one could use to grab content for sharing. So a few of us started content-sharing blogs (or linkblogs, if you will). Not long after, a friend suggested an idea: why don't we make our own content-sharing community? So we could use that for a back-end, all we need is a place where we aggregate all these blogs full of content.</p>
 <p>The name of software that is used to aggregate RSS feeds is <a href="https://en.wikipedia.org/wiki/Planet_(software)">Planet</a>. There were and still are many Planet sites, so I went looking for a suitable engine, but none of them were right until I stumbled upon the <a href="https://github.com/anildigital/planet">code</a> behind planetrubyonrails.com (RIP), written in, wait for it, Rails. I was already familiar with Rails, so <a href="https://github.com/ktamas/sharewood.hu">I forked it</a>, upgraded it to the latest version of Ruby on Rails, made a couple of changes and a basic design and by then I already had ten people interested, mostly from the old community at Reader.</p>
-
-<p>A cronjob crawled the people&rsquo;s feeds, pulled the content into the database, stripped most of the formatting and then displayed it on the site, which itself had an RSS feed of course. And so, in early 2012, <a href="http://goodbye.sharewood.hu/">Sharewood</a> (RIP) was born.</p>
-
-<hr />
-
+<p>A cronjob crawled the people's feeds, pulled the content into the database, stripped most of the formatting and then displayed it on the site, which itself had an RSS feed of course. And so, in early 2012, <a href="http://goodbye.sharewood.hu/">Sharewood</a> (RIP) was born.</p>
+<hr>
 <p>Over the next year or so our community has grown a bit. At the height of it, we had about 16 people. That may not sound like a lot, but a community is a community. People were sharing all kinds of interesting things, and I felt like I got back at least part of what we lost when Google neutered Reader.</p>
-
 <p>The project was an opportunity for me as well to play with Rails; I ended up rewriting almost the entire codebase. I wrote a new RSS/Atom parser; tried to implement PuSH (<a href="https://en.wikipedia.org/wiki/WebSub">PubSubHubBub</a>); added support for user accounts, so people would be able to follow others and get a custom RSS feed. I added a few tweaks to the front-end as well, like j/k navigation.</p>
-
-<p>In early 2013 Google announced that they&rsquo;d shut down Reader and a flurry of new alternatives appeared. One of the most promising ones was Hivemined, one that would never be finished; the one I ended up switching to was <a href="https://newsblur.com/">NewsBlur</a> which I still use to this day. It&rsquo;s customizable, fast, has good support and UX. It also has built-in sharing and commenting support although it&rsquo;s not used widely. I tried switching to it, but never really got hooked on it, and I never had a community around it.</p>
-
-<hr />
-
+<p>In early 2013 Google announced that they'd shut down Reader and a flurry of new alternatives appeared. One of the most promising ones was Hivemined, one that would never be finished; the one I ended up switching to was <a href="https://newsblur.com/">NewsBlur</a> which I still use to this day. It's customizable, fast, has good support and UX. It also has built-in sharing and commenting support although it's not used widely. I tried switching to it, but never really got hooked on it, and I never had a community around it.</p>
+<hr>
 <p>I shut down Sharewood in 2014, having done only basic maintenance on it for a year by then, and I felt like it has run its course.</p>
-
-<p>My itch to share things is still very much present; I <a href="http://sharing.ktamas.com/">maintain a Tumblr blog</a> where I share things irregularly, mostly webcomics I like. I also retweet interesting and funny things a lot <a href="https://twitter.com/ktamas">on Twitter</a>. But I still don&rsquo;t have a central place with a community like in the good old days, if you will.</p>
-
+<p>My itch to share things is still very much present; I <a href="http://sharing.ktamas.com/">maintain a Tumblr blog</a> where I share things irregularly, mostly webcomics I like. I also retweet interesting and funny things a lot <a href="https://twitter.com/ktamas">on Twitter</a>. But I still don't have a central place with a community like in the good old days, if you will.</p>
 <p>I have no illusions; RSS will not make a comeback. Retweeting things and commenting on them or sharing things in private Slacks are as good as it gets right now.</p>
-
 <p>The itch is still there.</p>
 
         </div>

@@ -27,7 +27,7 @@
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:site" value="@ktamas" />
 	<meta name="twitter:creator" value="@ktamas" />
-	<meta name="generator" content="Hugo 0.58.3" />
+	<meta name="generator" content="Hugo 0.61.0" />
 </head>
 <body>
 	<div id="container">
@@ -52,32 +52,38 @@
 		
 		    <article class="post">
         <header>
+            <h1 class="post"><a href="/index.php/2012/08/15/rukkola-bookmarklet-update-1-gorgetes-a-vegtelenbe/">Rukkola bookmarklet update 1: görgetés a végtelenbe</a></h1>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2012/08/15/rukkola-bookmarklet-update-1-gorgetes-a-vegtelenbe/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2012-08-15T18:29:36Z">Wednesday, August 15, 2012</time> · 110 words · 1 min read</div>
+        </header>
+        <div class="text">
+
+<p>Most, hogy <a href="http://salata.rukkola.hu/2012/08/14/upgrade/">gyors lett a rukkola</a> (hurrá! hurrá! hurrá!), belefejlesztettem <a href="http://blog.ktamas.com/index.php/2012/08/11/hacking-rukkola-avagy-alternativ-kollekciobongeszes/">a bookmarkletbe</a> a végtelenbe görgetést jól, így nem kell a továbbot kattintgatni, csak szépen menni lefele és a többi magától történik. Mi több, nincs többé olyan sem, hogy a tovább gombra nem tölt be semmit (ami valójában azt jelentette, hogy a következő oldalon nem volt happolható könyv); ilyenkor automatikusan tölti a következő oldalt egészen addig, amíg nem talál legalább annyi könyvet ami új sort kezd. Ha pedig az adott kollekció végére ért az ember, akkor azt is jelzi már egy diszkrét üzenettel.</p>
+<p>A frissítéshez az égvilágon semmit nem kell tenni, mivel maga a bookmarklet mindig a legfrissebb verziót futtatja le.</p>
+
+        </div>
+
+    </article>
+
+		
+		    <article class="post">
+        <header>
             <h1 class="post"><a href="/index.php/2012/08/11/hacking-rukkola-avagy-alternativ-kollekciobongeszes/">Hacking Rukkola, avagy bookmarklet a nem happolhatóak elrejtésére</a></h1>
             <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2012/08/11/hacking-rukkola-avagy-alternativ-kollekciobongeszes/"><i class="far fa-bookmark"></i></a>
-            <time datetime="2012-08-11T18:31:15Z">Saturday, August 11, 2012</time> · 262 words · 2 min read</div>
+            <time datetime="2012-08-11T18:31:15Z">Saturday, August 11, 2012</time> · 260 words · 2 min read</div>
         </header>
         <div class="text">
 
 <p>Szóval elindult a <a href="http://rukkola.hu/">rukkola.hu</a>, közösségi könyvcserélde, remek dolog, próbáljátok ki, felteszitek a megunt könyveiteket, és cserébe szerezhettek másoktól hasonlókat. A böngészés a feltett könyvek között egyelőre még nem tökéletes, engem például borzasztóan zavar, hogy a <a href="http://rukkola.hu/kollekciok">kollekciók</a> böngészésénél (szerk: és keresésnél) nincs olyan nézet, amikor csak azokat a könyveket látom, amikre ténylegesen lecsaphatok.</p>
-
-<p>Összedobtam hát gyorsan egy bookmarkletet erre. Chrome Extensionnek indult, de nem érzem elég nagynak, hogy megérje berakni a saját App Storejukba, valamint sóher vagyok kifizetni az öt dollárt érte egyelőre, majd ha még lesz pár ilyen rukkola-módosításom, amit már érdemes felrakni. Mindenesetre nincs más dolgoktok, hogy <a href="http://blog.ktamas.com/index.php/rukkola-bookmarklet/">felrakjátok a bookmarklet oldaláról</a>. <del datetime="2012-08-15T16:30:01+00:00">Lapozni a Tovább gombbal lehet, még az oldalakat is mutatja.</del> <strong>Update:</strong> nem kell semmit kattintgatni, <a href="http://blog.ktamas.com/index.php/2012/08/15/rukkola-bookmarklet-update-1-gorgetes-a-vegtelenbe/">van végtelen görgetés</a>.</p>
-
+<p>Összedobtam hát gyorsan egy bookmarkletet erre. Chrome Extensionnek indult, de nem érzem elég nagynak, hogy megérje berakni a saját App Storejukba, valamint sóher vagyok kifizetni az öt dollárt érte egyelőre, majd ha még lesz pár ilyen rukkola-módosításom, amit már érdemes felrakni. Mindenesetre nincs más dolgoktok, hogy <a href="http://blog.ktamas.com/index.php/rukkola-bookmarklet/">felrakjátok a bookmarklet oldaláról</a>. <!-- raw HTML omitted -->Lapozni a Tovább gombbal lehet, még az oldalakat is mutatja.<!-- raw HTML omitted --> <strong>Update:</strong> nem kell semmit kattintgatni, <a href="http://blog.ktamas.com/index.php/2012/08/15/rukkola-bookmarklet-update-1-gorgetes-a-vegtelenbe/">van végtelen görgetés</a>.</p>
 <p><strong>Update 2:</strong> A bookmarklet frissült és saját oldalt kapott, <a href="http://blog.ktamas.com/index.php/rukkola-bookmarklet/">innen rakhatod fel</a>.</p>
-
-<p>A mostani megoldásnak megvan az a hátránya, hogy ha átkattintasz egy könyvre, akkor sajnos kezdheted elölről. Ez egy 0.0.<del datetime="2012-08-15T16:30:01+00:00">1</del>2-es változat, a 0.0.<del>2</del>3-ben majd ezt is áthidaljuk valahogy remélhetőleg és/vagy egyszer a távoli jövőben ha lesz Rukkola API, majd arra fogunk építkezni.</p>
-
-<p>A teljes kód <a href="https://github.com/KTamas/rukkola_hacks/tree/bookmarklet">fent van a githubon</a> természetesen. <del datetime="2012-08-15T16:40:33+00:00">Könnyen megoldható lenne, hogy az összes oldalt betöltse egyszerre, de ezt nem szeretném, mert feleslegesen terhelném vele a rukkola szervereit, amik amúgyis elég lassúak tudnak lenni sajnos sokszor. Esetleg a jövőben valamiféle végtelenscrollozást belerakok, és akkor a Továbbra kattintgatást megússza az ember.</del> <a href="http://blog.ktamas.com/index.php/2012/08/15/rukkola-bookmarklet-update-1-gorgetes-a-vegtelenbe/">Van végtelen görgetés!</a></p>
-
+<p>A mostani megoldásnak megvan az a hátránya, hogy ha átkattintasz egy könyvre, akkor sajnos kezdheted elölről. Ez egy 0.0.<!-- raw HTML omitted -->1<!-- raw HTML omitted -->2-es változat, a 0.0.<!-- raw HTML omitted -->2<!-- raw HTML omitted -->3-ben majd ezt is áthidaljuk valahogy remélhetőleg és/vagy egyszer a távoli jövőben ha lesz Rukkola API, majd arra fogunk építkezni.</p>
+<p>A teljes kód <a href="https://github.com/KTamas/rukkola_hacks/tree/bookmarklet">fent van a githubon</a> természetesen. <!-- raw HTML omitted -->Könnyen megoldható lenne, hogy az összes oldalt betöltse egyszerre, de ezt nem szeretném, mert feleslegesen terhelném vele a rukkola szervereit, amik amúgyis elég lassúak tudnak lenni sajnos sokszor. Esetleg a jövőben valamiféle végtelenscrollozást belerakok, és akkor a Továbbra kattintgatást megússza az ember.<!-- raw HTML omitted --> <a href="http://blog.ktamas.com/index.php/2012/08/15/rukkola-bookmarklet-update-1-gorgetes-a-vegtelenbe/">Van végtelen görgetés!</a></p>
 <p>És egy before-after kép, avagy előtte:</p>
-
-<p><a href="/wp-content/uploads/2012/08/rbefore.jpg"><img src="/wp-content/uploads/2012/08/rbefore-439x1024.jpg" alt="" title="Előtte" width="439" height="1024" class="aligncenter size-large wp-image-2363219" srcset="/wp-content/uploads/2012/08/rbefore-439x1024.jpg 439w, /wp-content/uploads/2012/08/rbefore-128x300.jpg 128w, /wp-content/uploads/2012/08/rbefore.jpg 1009w" sizes="(max-width: 439px) 100vw, 439px" /></a></p>
-
+<p><a href="/wp-content/uploads/2012/08/rbefore.jpg"><!-- raw HTML omitted --></a></p>
 <p>És utána:</p>
-
-<p><a href="/wp-content/uploads/2012/08/rafter.jpg"><img src="/wp-content/uploads/2012/08/rafter-400x1024.jpg" alt="" title="Utána" width="400" height="1024" class="aligncenter size-large wp-image-2363218" srcset="/wp-content/uploads/2012/08/rafter-400x1024.jpg 400w, /wp-content/uploads/2012/08/rafter-117x300.jpg 117w" sizes="(max-width: 400px) 100vw, 400px" /></a></p>
-
+<p><a href="/wp-content/uploads/2012/08/rafter.jpg"><!-- raw HTML omitted --></a></p>
 <p>(P.S.: RSS-ből valószínű biztosan nem fog működni a bookmarkletes dolog, szóval ha ezt a Google Readerben olvasod, át kell hozzá kattintani)</p>
-
 <p>(P.P.S.: A bookmarklet remekül alkalmazható keresésekre is.)</p>
 
         </div>
@@ -97,20 +103,13 @@
         </header>
         <div class="text">
 
-<p>Valószínű nem én vagyok az egyetlen, akinek a munkája miatt be kell RDP-znie különböző Windowsos gépekre &#8212; és OSX-et használ.</p>
-
+<p>Valószínű nem én vagyok az egyetlen, akinek a munkája miatt be kell RDP-znie különböző Windowsos gépekre — és OSX-et használ.</p>
 <p>A rendes felhasználó természetesen először a hivatalos megoldással próbálkozik, a Microsoftnak van egy <a href="http://www.microsoft.com/mac/remote-desktop-client">Remote Desktop Connection Client</a> nevű szoftvere, letölt, felrak, minden megy. Kivéve persze, hogy nem, mert <a href="http://www.microsoft.com/mac/downloads?pid=Mactopia_RDC&amp;fid=68346E0D-44D3-4065-99BB-B664B27EE1F0#viewer">másfél éve nem frissült</a>, és már 10.6 alatt is szeretett kifagyni pl. kilépéskor, 10.7 alatt még instabilabb lett, most így 10.8-ra már fel se rakom. Arról nem is beszélve, hogy például csak egyetlen fix felhasználónév-jelszó-domain triót tud megjegyezni, és ha megjegyeztetjük vele, akkor az összes szervernél ezzel fog próbálkozni. Szóval ez az opció sajnos kiesik, és az ember elkezd alternatívákat keresni.</p>
-
 <p>Valószínű gyorsan beleakad a <a href="http://cord.sourceforge.net/">CoRD</a>-ba, ami bár egy remek szoftver, van egy hatalmas hibája: a háttérben az <a href="http://en.wikipedia.org/wiki/Rdesktop">rdesktop</a> nevű projektet használja, ami viszont nem tudja hozni a hivatalos kliens sebességeit, egyszerűen lassabb, és emiatt lényegesen kényelmetlenebb.</p>
-
-<p>A &#8212; szerintem &#8212; igazi megoldás pediglen a <a href="https://github.com/FreeRDP/FreeRDP">FreeRDP</a>. Ez a már fentebb említett rdesktop projekt egy forkja. GUI sajnos nem jár hozzá, cserébe működik, és gyors. Felrakni legegyszerűbben a homebrew-n keresztül lehet, <code>brew install freerdp</code> és utána máris elérhetővé válik az xfreerdp parancs. Azért X, mert X11-et használ, amit az Apple száműzött a Mountain Lionból, de <em>fear not</em>, <a href="http://xquartz.macosforge.org/landing/">innen</a> le lehet tölteni és felrakni, és újra van X-ünk.</p>
-
-<p>Az <code>xfreerdp --help</code>ből nagyon gyorsan meg lehet találni, milyen paramétereket kell megadni a kapcsolódáshoz, az egyetlen dolog amit kicsit keresnem kellett, az a vágólap-szinkronizáció, ami &#8212; és még pár egyéb funkcionalitás, érdemes elolvasni <a href="http://linux.die.net/man/1/xfreerdp">ezt</a> &#8212; valamiért ki van szervezve egy külön pluginba, ezért azt külön be kell vele töltetni vele. Én írtam magamnak egy nagyon egyszerű *sh funkciót, bevágtam a .zshrc-mbe (de ugyanúgy megy bashből is, egyébként), így néz ki:</p>
-
+<p>A — szerintem — igazi megoldás pediglen a <a href="https://github.com/FreeRDP/FreeRDP">FreeRDP</a>. Ez a már fentebb említett rdesktop projekt egy forkja. GUI sajnos nem jár hozzá, cserébe működik, és gyors. Felrakni legegyszerűbben a homebrew-n keresztül lehet, <code>brew install freerdp</code> és utána máris elérhetővé válik az xfreerdp parancs. Azért X, mert X11-et használ, amit az Apple száműzött a Mountain Lionból, de <em>fear not</em>, <a href="http://xquartz.macosforge.org/landing/">innen</a> le lehet tölteni és felrakni, és újra van X-ünk.</p>
+<p>Az <code>xfreerdp --help</code>ből nagyon gyorsan meg lehet találni, milyen paramétereket kell megadni a kapcsolódáshoz, az egyetlen dolog amit kicsit keresnem kellett, az a vágólap-szinkronizáció, ami — és még pár egyéb funkcionalitás, érdemes elolvasni <a href="http://linux.die.net/man/1/xfreerdp">ezt</a> — valamiért ki van szervezve egy külön pluginba, ezért azt külön be kell vele töltetni vele. Én írtam magamnak egy nagyon egyszerű *sh funkciót, bevágtam a .zshrc-mbe (de ugyanúgy megy bashből is, egyébként), így néz ki:</p>
 <p><code>function rdpw() { xfreerdp -u $1 -p $2 -g 960x720 --plugin cliprdr --ignore-certificate $3 }</code></p>
-
 <p>Ezután pedig úgy kapcsolódok különböző szerverekhez hogy <code>rdpw Felhasznalo jelszo ide.kapcsolod.ok</code> és már megy is minden.</p>
-
 <p>(igen tudom hogy lassan kéne csinálnom egy külön blogot a tech dolgoknak)</p>
 
         </div>
@@ -130,22 +129,14 @@
         </header>
         <div class="text">
 
-<p>&#8211; Szia, [nagy magyar hírportál]tól vagyunk, és interjút készítünk egyetemistákkal&#8230;</p>
-
-<p>&#8211; (látják hogy ez nem nyert)</p>
-
-<p>&#8211; &#8230;vagy frissdiplomásokkal</p>
-
-<p>&#8211; (ez se)</p>
-
-<p>&#8211; &#8230;vagy bölcsészekkel</p>
-
-<p>&#8211; Hát, a matek technikailag kijönne, de sajnos nem vagyok a három közül egyik se.</p>
-
-<p>&#8211; Pedig tökre egyetemistának nézel ki!</p>
-
+<p>– Szia, [nagy magyar hírportál]tól vagyunk, és interjút készítünk egyetemistákkal…</p>
+<p>– (látják hogy ez nem nyert)</p>
+<p>– …vagy frissdiplomásokkal</p>
+<p>– (ez se)</p>
+<p>– …vagy bölcsészekkel</p>
+<p>– Hát, a matek technikailag kijönne, de sajnos nem vagyok a három közül egyik se.</p>
+<p>– Pedig tökre egyetemistának nézel ki!</p>
 <p>Persze a trefortkertbe ültem és dolgoztam, szóval teljesen érthető volt a feltételezés. Megyek is vissza asszimilálódni tovább, ööö, izé, dolgozni.</p>
-
 <p>(<a href="http://moderatelyawesome.freeblog.hu/">Ildi</a> nyert, valójában kijön ebből egy blogpost.)</p>
 
         </div>
@@ -165,8 +156,7 @@
         </header>
         <div class="text">
 
-<p><a href="http://twitter.com/KTamas"><img src="/wp-content/uploads/2012/06/4-.png" alt="" title="40000" width="239" height="95" class="alignleft size-full wp-image-2363165" /></a>Ilyenkor mindig kicsit szentimentális vagyok. Mindenesetre hálát adok az első 40000-ért, és legyen még minimum ugyanennyi. És köszi mindenkinek. Tényleg.</p>
-
+<p><a href="http://twitter.com/KTamas"><!-- raw HTML omitted --></a>Ilyenkor mindig kicsit szentimentális vagyok. Mindenesetre hálát adok az első 40000-ért, és legyen még minimum ugyanennyi. És köszi mindenkinek. Tényleg.</p>
 <p>(<a href="http://blog.ktamas.com/index.php/2011/12/09/35000/">35000</a>. <a href="http://blog.ktamas.com/index.php/2011/05/26/30k/">30000</a>. <a href="http://blog.ktamas.com/index.php/2010/10/17/25000_2/">25000</a>.)</p>
 
         </div>
@@ -182,34 +172,21 @@
         <header>
             <h1 class="post"><a href="/index.php/2012/06/22/random-dolgok-avagy-elet-es-enblog/">Random dolgok (avagy élet és énblog)</a></h1>
             <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2012/06/22/random-dolgok-avagy-elet-es-enblog/"><i class="far fa-bookmark"></i></a>
-            <time datetime="2012-06-22T12:00:59Z">Friday, June 22, 2012</time> · 470 words · 3 min read</div>
+            <time datetime="2012-06-22T12:00:59Z">Friday, June 22, 2012</time> · 436 words · 3 min read</div>
         </header>
         <div class="text">
 
 <p>Nyár van, nyár, röpke lepke ööö mindegy. Nem blogoltam úgy igazából elég régóta, pedig volna miről. Azt már az elmúlt hetek zenés posztjaiban írtam, hogy nagyobb mennyiségű gitárhősre tettünk szert, én se hittem volna az elején, hogy mostanra eljutok odáig, hogy Hard szinten le tudom játszani a dalok cca 75%-át. Sajnos éppen kicsit meg vagyok rekedve, az Expertre még egyáltalán nem pályázok, de azt szeretném, hogy ezen a szinten le tudjak mindent játszani 90% felett gitárhős/rokkbanda játékban. Szóval most kemény munka és edzés.</p>
-
-<p>(Nagyon érdekesek amúgy a különbségek a különböző GH/RB játékok között, kezdve hogy mennyire megengedőek az algoritmusaik, vagy hogy hogy keverik a zenéket, vagy hogy hogy keverik a bogyókat a zenékre, vagy hogy&#8230; na majd egy másik posztban, egyszer)</p>
-
-<p>Munkában zajlik az élet, egy jórésze tök jól megy, közben sikerült begyűjteni az utolsó pokélabdát a céges pozíciók gotta catch&#8217;em alljában, azaz eddig voltam programozó, rendszergazda, language engineer, egyszer-kétszer fordító meg lektor, sokszor DTP-s, és egyszer régen pár napra voltam kicsit PM is, de most úgy igazából is PM is lettem, és egyelőre élvezem, persze még csak nagyon lájtos ez, de mégiscsak szintlépés.</p>
-
+<p>(Nagyon érdekesek amúgy a különbségek a különböző GH/RB játékok között, kezdve hogy mennyire megengedőek az algoritmusaik, vagy hogy hogy keverik a zenéket, vagy hogy hogy keverik a bogyókat a zenékre, vagy hogy… na majd egy másik posztban, egyszer)</p>
+<p>Munkában zajlik az élet, egy jórésze tök jól megy, közben sikerült begyűjteni az utolsó pokélabdát a céges pozíciók gotta catch’em alljában, azaz eddig voltam programozó, rendszergazda, language engineer, egyszer-kétszer fordító meg lektor, sokszor DTP-s, és egyszer régen pár napra voltam kicsit PM is, de most úgy igazából is PM is lettem, és egyelőre élvezem, persze még csak nagyon lájtos ez, de mégiscsak szintlépés.</p>
 <p>(Francba, nem, most jut eszembe, hogy pl. saleses még nem voltam. De nagyon szívesen várok annak a labdának a begyűjtésével, az nem az én világom.)</p>
-
 <p>Egy másik része meg kicsit kevésbé megy jól, mert még sohasem voltam hosszútávú, többhónapos szoftverprojektben, és így a második hónap után vannak nehézségek, ebbe keményen belejátszik az ADHD is mondjuk, de a helyzet javítása folyamatban van, épp ahelyett prokrasztinálok azzal, hogy blogolok, höhö.</p>
-
 <p>Mostanában teljesen odaszoktam a Treffort Kertbe, jó az idő, jó a hely, szépek a lányok, van citromos sör, mi kell még? Áram, vágja közbe <a href="http://worldshots.hu/">Ádám</a>, az tényleg nincs, arra van most egy <a href="http://www.hypershop.com/">HyperJuice</a>om ami persze hibásan érkezett, meg a hozzá tartozó <a href="http://store.apple.com/us/product/MB441Z/A">Apple MagSafe Airline Adapter</a> is, de jövőhétre minden ki lesz cserélve és akkor minden jó lesz.</p>
-
 <p>Az egészségem köszöni szépen, nincs túl jól, az emésztésemmel van valami baj, meg a lelkemmel sokkal több, de javulgatnak már, asszem, bár nem olyan gyorsan, mint azt én szeretném.</p>
-
 <p>Olvasni olvasgatok, bár az elmúlt két hétben kb tíz könyvbe kezdtem bele, és egy se fogott meg, de előtte elolvastam egy csomó dolgot, amire sajnos külön blogposzt kell amit tényleg meg fogok írni. Kondorvilmos és sok-sok Scalzi, ilyesmik.</p>
-
 <p>Került egy céges iPad (sima 2-es, retinát sok szempontból nem is akartam) is, ami egyrészt tényleg hasznos a melóhoz, másrészt kicsit engem is megfogott most ez a post-pc dolog, jó lesz ez, csak kell neki még minimum 5 év és három új hardver meg iOS verzió.</p>
-
 <p>És az iPad miatt megint olvastam egy csomó képregényt, de azt majd a könyvesposztban.</p>
-
-<p>Zárjunk zenékkel, előszőr jöjjön a Helloweentől a Dr. Stein jazzesített verziója, mondom úgy, hogy az eredetit sose ismertem, de ezt átküldte Levente és jól rákattantam:</p>
-<p><iframe width="601" height="338" src="//www.youtube.com/embed/5yUihyOKxww" frameborder="0" allowfullscreen=""></iframe></p>
-<p>Valamint tegnap <a href="http://sesam.hu/2012/06/21/grenade/">Sesam blogolt ki</a> egy baromi jó <a href="http://www.youtube.com/watch?v=SR6iYWJxHqs">Grenade</a>-feldolgozást:</p>
-<p><iframe width="601" height="338" src="//www.youtube.com/embed/wMhL_QIyD1k" frameborder="0" allowfullscreen=""></iframe></p>
+<!-- raw HTML omitted -->
 
         </div>
 
@@ -229,8 +206,7 @@
         <div class="text">
 
 <p>Vissza még kicsit a gitárhíró ötre, egy kis Bon Jovi, amikor még többnyire jó számokat csináltak:</p>
-
-<p><iframe width="600" height="450" src="//www.youtube.com/embed/KrZHPOeOxQQ" frameborder="0" allowfullscreen=""></iframe></p>
+<!-- raw HTML omitted -->
 
         </div>
 
@@ -250,8 +226,7 @@
         <div class="text">
 
 <p>A gitárhíró ötnek van egy sötét oldala, ez a Band Hero, ide kerültek azok a számok amik többnyire vállalhatatlanok, de legalábbis rockzenének semmiképp se minősülnek. Szóval, további kommentár nélkül.</p>
-
-<p><iframe width="600" height="450" src="http://www.youtube.com/embed/gJLIiF15wjQ" frameborder="0" allowfullscreen=""></iframe></p>
+<!-- raw HTML omitted -->
 
         </div>
 
@@ -271,8 +246,7 @@
         <div class="text">
 
 <p>Még mindig gitárhíró, még mindig az ötösről:</p>
-
-<p><iframe width="600" height="450" src="//www.youtube.com/embed/sohB922c2uQ" frameborder="0" allowfullscreen=""></iframe></p>
+<!-- raw HTML omitted -->
 
         </div>
 
@@ -292,39 +266,12 @@
         <div class="text">
 
 <p>Az egész egy iszolyat catchy popszámmal kezdődik (a klipben ügyes twist endinggel):</p>
-
-<p><iframe width="601" height="338" src="//www.youtube.com/embed/fWNaR-rxAic" frameborder="0" allowfullscreen=""></iframe></p>
-
+<!-- raw HTML omitted -->
 <p>Aztán a csaj ellátogatott az egyébként is kiváló Jimmy Fallonhoz, ahol backstage előadták a számot olyan hangszerekkel, amiket egy random általános iskolába találhatsz, kötelező darab:</p>
-
-<p><iframe width="601" height="338" src="//www.youtube.com/embed/lEsPhTbJhuo" frameborder="0" allowfullscreen=""></iframe></p>
-
+<!-- raw HTML omitted -->
 <p>Végül pedig egy másfajta feldolgozás, komolyra véve ezúttal a dalt, mégis működik, hajjaj, de még mennyire (zárójel: részben vonós dolgokra hangszerelve. Régi petpeeve-m, hogy a populáris zenébe több vonóshangszer kell):</p>
-
-<p><iframe width="601" height="338" src="//www.youtube.com/embed/sPU8V-nvUEk" frameborder="0" allowfullscreen=""></iframe></p>
-
+<!-- raw HTML omitted -->
 <p>Mindenkinek további szép szombat délutánt, irány a könyvhét.</p>
-
-        </div>
-
-        <div class="tags">
-            <i class="fas fa-tags"></i>
-            <a href='/tags/napiloop/'>napiloop</a>, <a href='/tags/zene/'>zene</a>
-        </div>
-    </article>
-
-		
-		    <article class="post">
-        <header>
-            <h1 class="post"><a href="/index.php/2012/06/08/napi-loop-the-raconteurs-steady-as-she-goes-backlog/">Napi loop: The Raconteurs &#8211; Steady, as She Goes (backlog)</a></h1>
-            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2012/06/08/napi-loop-the-raconteurs-steady-as-she-goes-backlog/"><i class="far fa-bookmark"></i></a>
-            <time datetime="2012-06-08T10:12:05Z">Friday, June 8, 2012</time> · 7 words · 1 min read</div>
-        </header>
-        <div class="text">
-
-<p>Még mindig gitárhíró, ez már az ötösről:</p>
-
-<p><iframe src="//www.youtube.com/embed/C5m6PLjUKBY" width="601" height="338" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 
         </div>
 

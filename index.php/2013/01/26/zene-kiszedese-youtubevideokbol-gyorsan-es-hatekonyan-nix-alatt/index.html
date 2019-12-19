@@ -31,7 +31,7 @@ Az elsőt letöltjük, elrakjuk valahova, beállítjuk executablenek (chmod &#43
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:site" value="@ktamas" />
 	<meta name="twitter:creator" value="@ktamas" />
-	<meta name="generator" content="Hugo 0.58.3" />
+	<meta name="generator" content="Hugo 0.61.0" />
 </head>
 <body>
 	<div id="container">
@@ -62,15 +62,10 @@ Az elsőt letöltjük, elrakjuk valahova, beállítjuk executablenek (chmod &#43
         <div class="text">
 
 <p>(Még mindig kósza posztok a draft mappámból)</p>
-
 <p>Két dolog kell ahhoz, hogy gyorsan és hatékonyan zenét szedjünk ki youtubevideókból: <a href="http://www.jwz.org">jwz</a> <a href="http://www.jwz.org/hacks/youtubedown">youtubedown scriptje</a> és egy ffmpeg.</p>
-
 <p>Az elsőt letöltjük, elrakjuk valahova, beállítjuk executablenek (<code>chmod +x</code>), berakjuk a <code>PATH</code>-ba és onnantól kezdve csak az URL-t kell hozzávágni, és szépen letölti az embernek az adott videóból a legjobb minőségű verziót. Aminek általában még így is szarrá van tömörítve a dynamic range-e, dehát mindent nem lehet.</p>
-
 <p>Utána pedig <em>kimásoljuk</em> a letöltött fájlból a hangsávot ffmpeg segítségével:</p>
-
 <p><code>ffmpeg -i youtubevideo.mp4 -acodec copy -vn zene.m4a</code></p>
-
 <p>A hang legtöbbször aac-ben van a videókban, ezért ad meg az ember m4a kiterjesztést a kimenetnek. Néha azonban nem, ekkor érdemes megnézni, hogy mi is van benne az <code>ffmpeg -i youtubevideo.mp4</code> segítségével.</p>
 
         </div>

@@ -27,7 +27,7 @@
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:site" value="@ktamas" />
 	<meta name="twitter:creator" value="@ktamas" />
-	<meta name="generator" content="Hugo 0.58.3" />
+	<meta name="generator" content="Hugo 0.61.0" />
 </head>
 <body>
 	<div id="container">
@@ -61,20 +61,13 @@
         </header>
         <div class="text">
 
-<p>Valószínű nem én vagyok az egyetlen, akinek a munkája miatt be kell RDP-znie különböző Windowsos gépekre &#8212; és OSX-et használ.</p>
-
+<p>Valószínű nem én vagyok az egyetlen, akinek a munkája miatt be kell RDP-znie különböző Windowsos gépekre — és OSX-et használ.</p>
 <p>A rendes felhasználó természetesen először a hivatalos megoldással próbálkozik, a Microsoftnak van egy <a href="http://www.microsoft.com/mac/remote-desktop-client">Remote Desktop Connection Client</a> nevű szoftvere, letölt, felrak, minden megy. Kivéve persze, hogy nem, mert <a href="http://www.microsoft.com/mac/downloads?pid=Mactopia_RDC&amp;fid=68346E0D-44D3-4065-99BB-B664B27EE1F0#viewer">másfél éve nem frissült</a>, és már 10.6 alatt is szeretett kifagyni pl. kilépéskor, 10.7 alatt még instabilabb lett, most így 10.8-ra már fel se rakom. Arról nem is beszélve, hogy például csak egyetlen fix felhasználónév-jelszó-domain triót tud megjegyezni, és ha megjegyeztetjük vele, akkor az összes szervernél ezzel fog próbálkozni. Szóval ez az opció sajnos kiesik, és az ember elkezd alternatívákat keresni.</p>
-
 <p>Valószínű gyorsan beleakad a <a href="http://cord.sourceforge.net/">CoRD</a>-ba, ami bár egy remek szoftver, van egy hatalmas hibája: a háttérben az <a href="http://en.wikipedia.org/wiki/Rdesktop">rdesktop</a> nevű projektet használja, ami viszont nem tudja hozni a hivatalos kliens sebességeit, egyszerűen lassabb, és emiatt lényegesen kényelmetlenebb.</p>
-
-<p>A &#8212; szerintem &#8212; igazi megoldás pediglen a <a href="https://github.com/FreeRDP/FreeRDP">FreeRDP</a>. Ez a már fentebb említett rdesktop projekt egy forkja. GUI sajnos nem jár hozzá, cserébe működik, és gyors. Felrakni legegyszerűbben a homebrew-n keresztül lehet, <code>brew install freerdp</code> és utána máris elérhetővé válik az xfreerdp parancs. Azért X, mert X11-et használ, amit az Apple száműzött a Mountain Lionból, de <em>fear not</em>, <a href="http://xquartz.macosforge.org/landing/">innen</a> le lehet tölteni és felrakni, és újra van X-ünk.</p>
-
-<p>Az <code>xfreerdp --help</code>ből nagyon gyorsan meg lehet találni, milyen paramétereket kell megadni a kapcsolódáshoz, az egyetlen dolog amit kicsit keresnem kellett, az a vágólap-szinkronizáció, ami &#8212; és még pár egyéb funkcionalitás, érdemes elolvasni <a href="http://linux.die.net/man/1/xfreerdp">ezt</a> &#8212; valamiért ki van szervezve egy külön pluginba, ezért azt külön be kell vele töltetni vele. Én írtam magamnak egy nagyon egyszerű *sh funkciót, bevágtam a .zshrc-mbe (de ugyanúgy megy bashből is, egyébként), így néz ki:</p>
-
+<p>A — szerintem — igazi megoldás pediglen a <a href="https://github.com/FreeRDP/FreeRDP">FreeRDP</a>. Ez a már fentebb említett rdesktop projekt egy forkja. GUI sajnos nem jár hozzá, cserébe működik, és gyors. Felrakni legegyszerűbben a homebrew-n keresztül lehet, <code>brew install freerdp</code> és utána máris elérhetővé válik az xfreerdp parancs. Azért X, mert X11-et használ, amit az Apple száműzött a Mountain Lionból, de <em>fear not</em>, <a href="http://xquartz.macosforge.org/landing/">innen</a> le lehet tölteni és felrakni, és újra van X-ünk.</p>
+<p>Az <code>xfreerdp --help</code>ből nagyon gyorsan meg lehet találni, milyen paramétereket kell megadni a kapcsolódáshoz, az egyetlen dolog amit kicsit keresnem kellett, az a vágólap-szinkronizáció, ami — és még pár egyéb funkcionalitás, érdemes elolvasni <a href="http://linux.die.net/man/1/xfreerdp">ezt</a> — valamiért ki van szervezve egy külön pluginba, ezért azt külön be kell vele töltetni vele. Én írtam magamnak egy nagyon egyszerű *sh funkciót, bevágtam a .zshrc-mbe (de ugyanúgy megy bashből is, egyébként), így néz ki:</p>
 <p><code>function rdpw() { xfreerdp -u $1 -p $2 -g 960x720 --plugin cliprdr --ignore-certificate $3 }</code></p>
-
 <p>Ezután pedig úgy kapcsolódok különböző szerverekhez hogy <code>rdpw Felhasznalo jelszo ide.kapcsolod.ok</code> és már megy is minden.</p>
-
 <p>(igen tudom hogy lassan kéne csinálnom egy külön blogot a tech dolgoknak)</p>
 
         </div>

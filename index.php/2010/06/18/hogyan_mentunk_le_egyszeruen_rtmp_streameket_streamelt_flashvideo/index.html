@@ -6,7 +6,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 	<title>Hogyan mentunk le egyszeruen RTMP streameket (streamelt flashvideo)</title>
 	<meta name="description" content="Amolyan jegyzet magamnak, meg hatha megtalalja egyszer valaki guglibol. Hozzavalok egy linux, amin van iptables es sudo, meg az rtmpdump leforditasahoz szukseges dolgok (ubuntun ez a build-essential csomag).
- Leszedjuk az internetrol az rtmpdumpot, kicsomagol, configure script nincs, make, sudo make install. Hozzaadunk egy tetszoleges felhasznalot sudo adduser rtmpsuck Atiranyitjuk az rtmp forgalmat az iptables-szel: sudo iptables -t nat -A OUTPUT -p tcp –dport 1935 -m owner &amp;nbsp;! –uid-owner rtmpsuck -j REDIRECT Atlepunk a felhasznaloba sudo su rtmpsuck elinditjuk az rtmpsrv-t egy olyan konyvtarbol, amihez van irasi joga elinditjuk a bongeszot, abban pedig a lejatszast, es mar menti is le szepen." />
+Leszedjuk az internetrol az rtmpdumpot, kicsomagol, configure script nincs, make, sudo make install. Hozzaadunk egy tetszoleges felhasznalot sudo adduser rtmpsuck Atiranyitjuk az rtmp forgalmat az iptables-szel: sudo iptables -t nat -A OUTPUT -p tcp –dport 1935 -m owner &amp;nbsp;! –uid-owner rtmpsuck -j REDIRECT Atlepunk a felhasznaloba sudo su rtmpsuck elinditjuk az rtmpsrv-t egy olyan konyvtarbol, amihez van irasi joga elinditjuk a bongeszot, abban pedig a lejatszast, es mar menti is le szepen." />
 	<meta name="author" content="KTamas" />
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto" rel="stylesheet">
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
@@ -24,12 +24,12 @@
 	<meta property="og:title" content="Hogyan mentunk le egyszeruen RTMP streameket (streamelt flashvideo)" />
 	<meta property="og:site_name" content="KTamas&#39; Blog"/>
 	<meta property="og:description" content="Amolyan jegyzet magamnak, meg hatha megtalalja egyszer valaki guglibol. Hozzavalok egy linux, amin van iptables es sudo, meg az rtmpdump leforditasahoz szukseges dolgok (ubuntun ez a build-essential csomag).
- Leszedjuk az internetrol az rtmpdumpot, kicsomagol, configure script nincs, make, sudo make install. Hozzaadunk egy tetszoleges felhasznalot sudo adduser rtmpsuck Atiranyitjuk az rtmp forgalmat az iptables-szel: sudo iptables -t nat -A OUTPUT -p tcp –dport 1935 -m owner &amp;nbsp;! –uid-owner rtmpsuck -j REDIRECT Atlepunk a felhasznaloba sudo su rtmpsuck elinditjuk az rtmpsrv-t egy olyan konyvtarbol, amihez van irasi joga elinditjuk a bongeszot, abban pedig a lejatszast, es mar menti is le szepen." />
+Leszedjuk az internetrol az rtmpdumpot, kicsomagol, configure script nincs, make, sudo make install. Hozzaadunk egy tetszoleges felhasznalot sudo adduser rtmpsuck Atiranyitjuk az rtmp forgalmat az iptables-szel: sudo iptables -t nat -A OUTPUT -p tcp –dport 1935 -m owner &amp;nbsp;! –uid-owner rtmpsuck -j REDIRECT Atlepunk a felhasznaloba sudo su rtmpsuck elinditjuk az rtmpsrv-t egy olyan konyvtarbol, amihez van irasi joga elinditjuk a bongeszot, abban pedig a lejatszast, es mar menti is le szepen." />
 	<meta property="og:image" content="https://blog.ktamas.com/icon-512x512.png" />
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:site" value="@ktamas" />
 	<meta name="twitter:creator" value="@ktamas" />
-	<meta name="generator" content="Hugo 0.58.3" />
+	<meta name="generator" content="Hugo 0.61.0" />
 </head>
 <body>
 	<div id="container">
@@ -55,16 +55,15 @@
         <header>
             <h1 class="title">Hogyan mentunk le egyszeruen RTMP streameket (streamelt flashvideo)</h1>
             <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2010/06/18/hogyan_mentunk_le_egyszeruen_rtmp_streameket_streamelt_flashvideo/"><i class="far fa-bookmark"></i></a>
-            <time datetime="2010-06-18T21:49:39Z">Friday, June 18, 2010</time> · 99 words · 1 min read</div>
+            <time datetime="2010-06-18T21:49:39Z">Friday, June 18, 2010</time> · 100 words · 1 min read</div>
         </header>
         <div class="text">
 
 <p>Amolyan jegyzet magamnak, meg hatha megtalalja egyszer valaki guglibol. Hozzavalok egy linux, amin van iptables es sudo, meg az rtmpdump leforditasahoz szukseges dolgok (ubuntun ez a build-essential csomag).</p>
-
 <ul>
 <li><a href="http://rtmpdump.mplayerhq.hu/download/">Leszedjuk az internetrol</a> az rtmpdumpot, kicsomagol, configure script nincs, make, sudo make install.</li>
 <li>Hozzaadunk egy tetszoleges felhasznalot <code>sudo adduser rtmpsuck</code></li>
-<li>Atiranyitjuk az rtmp forgalmat az iptables-szel:&nbsp;<code>sudo iptables -t nat -A OUTPUT -p tcp --dport 1935 -m owner &amp;nbsp;\! --uid-owner rtmpsuck -j REDIRECT</code></li>
+<li>Atiranyitjuk az rtmp forgalmat az iptables-szel: <code>sudo iptables -t nat -A OUTPUT -p tcp --dport 1935 -m owner &amp;nbsp;\! --uid-owner rtmpsuck -j REDIRECT</code></li>
 <li>Atlepunk a felhasznaloba <code>sudo su rtmpsuck</code></li>
 <li>elinditjuk az rtmpsrv-t egy olyan konyvtarbol, amihez van irasi joga</li>
 <li>elinditjuk a bongeszot, abban pedig a lejatszast, es mar menti is le szepen.</li>
