@@ -15,6 +15,14 @@
 	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
 	<entry>
+		<id>https://blog.ktamas.com/index.php/2020/01/01/all-the-podcasts-im-listening-to-right-now/</id>
+		<title>All the Podcasts I&#39;m Listening to Right Now</title>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2020/01/01/all-the-podcasts-im-listening-to-right-now/"/>
+		<updated>2020-01-01T20:15:30Z</updated>
+		<published>2020-01-01T20:15:30Z</published>
+		<summary>I've had friends over two days ago and we got to talk about podcasts, so I figured I'd take stock and see what I'm listening to these days. I'm subscribed to 98 podcasts in PocketCasts, but the ones that are in active rotation are a fraction of that. I usually listen to podcasts when I went to bed because I need some sort of noise to fall asleep more often than not.</summary>
+	</entry>
+	<entry>
 		<id>https://blog.ktamas.com/index.php/2019/12/19/star-wars-9/</id>
 		<title>Star Wars: The Rise of Skywalker review (with spoilers)</title>
 		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2019/12/19/star-wars-9/"/>
@@ -241,15 +249,6 @@ In the beginning… I was what they call a “problem child”.</summary>
 		<updated>2019-02-01T11:46:09Z</updated>
 		<published>2019-02-01T11:46:09Z</published>
 		<summary>I have a blog (you're reading it!). It's got history: I set it up in early 2009, and I have almost 600 posts, mostly in Hungarian. I had one before that, between 2005 and 2008, but it was lost due to a variety of reasons, including my failure to properly back things up. Small bits of it are still up in the Wayback Machine, though. It was all in Wordpress, which does its job, though even in 2019 it can be a pain to update things.</summary>
-	</entry>
-	<entry>
-		<id>https://blog.ktamas.com/index.php/2019/01/31/on-wine-and-anxiety/</id>
-		<title>On Wine and Anxiety</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2019/01/31/on-wine-and-anxiety/"/>
-		<updated>2019-01-31T16:40:50Z</updated>
-		<published>2019-01-31T16:40:50Z</published>
-		<summary>I'm sitting in a wine bar and waiting for my friends to arrive to hang out. I spent my free time today working my converting my blog from Wordpress to Hugo — with a detour of Jekyll — and moving my static sites to Netlify so that I can shut down my barely-used VPS. A full write-up about this is coming soon.
-I have about 20 minutes before said friends arrive so this will be one of those stream of consciousness posts where I just start writing and see what comes out of it.</summary>
 	</entry>
 </feed>
 
