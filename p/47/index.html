@@ -27,7 +27,7 @@
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:site" value="@ktamas" />
 	<meta name="twitter:creator" value="@ktamas" />
-	<meta name="generator" content="Hugo 0.61.0" />
+	<meta name="generator" content="Hugo 0.62.2" />
 </head>
 <body>
 	<div id="container">
@@ -52,13 +52,35 @@
 		
 		    <article class="post">
         <header>
+            <h1 class="post"><a href="/index.php/2009/11/15/huje_postgresql/">Hüje PostgreSQL</a></h1>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2009/11/15/huje_postgresql/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2009-11-15T23:33:54Z">Sunday, November 15, 2009</time> · 174 words · 1 min read</div>
+        </header>
+        <div class="text">
+
+<p>Akkor most random rendszergazdai puffogás következik, muszáj leírni.</p>
+<p>Szóval az történt hogy kedvenc céges projektkezelonket migráltam 7.4-es Postgresrol 8.1-re, pontosabban új szerverre, de ezzel járt eme váltás is.  Minden rendben ment — kivéve, hogy a timesheet feature (ki mit hol mennyit dolgozott) hirtelen megszunt muködni, ahol ugye napokhoz vannak rendelve projektek és idok. Nézegettem a program kódját, semmi, SVN-bol checkoultoltam, de minden stimmelt, áthoztam a régi szerverrol a program mappáját, hátha mégiscsak változott valami, de nem. Újraimportáltam az adatbázist, hátha valami hiba elkerülte a figyelmem, de nem, minden rendben. Akkor kezdjünk el querykkel játszani mindkét szerveren… hoppá.</p>
+<p>Ami a régi szerveren 2009-01-10 00:00:00+01 az az újon 2009-01-09 23:00:00+00… igen, minden ido szépen GMT-hez lett igazítva, így minden egy napot ugrott vissza, pontosabban az elozo napra ugrott vissza. Túrtam a netet, és a konfig fájlokat, de semmit se találtam. Így <a href="http://serverfault.com/questions/84927/postgresql-7-4-8-1-migration-timezone-issue">megkérdeztem lazywebet (olvasd: megkérdeztem a ServerFaulton)</a>, és meg is lett a megoldás: az új verzióval kell a régi szervert dumpolni!</p>
+<p>Nem baj, úgyis hajat akartam vágni, csak most kicsit furcsák a kopasz foltok a fejemen…</p>
+
+        </div>
+
+        <div class="tags">
+            <i class="fas fa-tags"></i>
+            <a href='/tags/linux/'>linux</a>, <a href='/tags/random/'>random</a>, <a href='/tags/szerverek/'>szerverek</a>
+        </div>
+    </article>
+
+		
+		    <article class="post">
+        <header>
             <h1 class="post"><a href="/index.php/2009/11/12/zene_reggelihez_tree63_sunday/">Zene reggelihez: Tree63 &#8211; Sunday</a></h1>
             <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2009/11/12/zene_reggelihez_tree63_sunday/"><i class="far fa-bookmark"></i></a>
             <time datetime="2009-11-12T10:09:43Z">Thursday, November 12, 2009</time> · 0 words · 0 min read</div>
         </header>
         <div class="text">
 
-<!-- raw HTML omitted -->
+<iframe src="https://open.spotify.com/embed/track/1RJi31JVA1CjT1awtlOryd" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
         </div>
 
@@ -73,7 +95,7 @@
         <header>
             <h1 class="post"><a href="/index.php/2009/11/06/az_uj_gep_nyomaban/">Az új gép nyomában</a></h1>
             <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2009/11/06/az_uj_gep_nyomaban/"><i class="far fa-bookmark"></i></a>
-            <time datetime="2009-11-06T10:04:40Z">Friday, November 6, 2009</time> · 224 words · 2 min read</div>
+            <time datetime="2009-11-06T10:04:40Z">Friday, November 6, 2009</time> · 226 words · 2 min read</div>
         </header>
         <div class="text">
 
@@ -87,7 +109,7 @@
 <li>Az Ubuntu lehetőleg támogasson minden hardvert benne</li>
 <li>Ne legyen túl drága</li>
 </ul>
-<p>Minden más (memória, winchester, akkumulátor etc.) bővíthető, illetve relative másodlagos (videokártya), így túl sok szerepet nem játszott a választáskor. <!-- raw HTML omitted -->Mivel laptopsznob vagyok<!-- raw HTML omitted --> A jelenlegi laptoppiac teljesen siralmas állapota miatt a jelölteket nagyon hamar leszűkítettek egy darab lehetséges jelöltre, a T61-re. Bár a helyzet elsőre reménytelennek tűnt — a használtlaptop-piacon csak WXGA+-os 14″-eseket láttam, amik sajnos túl nagy DPI-vel rendelkeznek és erős szemüvegességem miatt nagyongyorsan lefárasztják a szemem –, de sikerült ráakadni a tökéletes jelöltre, amiben ráadásul még emberi videokártya is volt (nVidia Quadro 140m), így <!-- raw HTML omitted -->a compiz már nem fog annyira beszaggatni<!-- raw HTML omitted --> más miatt szaggat be a hülye compiz. Valamint amerikai billentyűzet, félmagas enterrel, afelett meg a |-vel.</p>
+<p>Minden más (memória, winchester, akkumulátor etc.) bővíthető, illetve relative másodlagos (videokártya), így túl sok szerepet nem játszott a választáskor. <span style="text-decoration: line-through;">Mivel laptopsznob vagyok</span> A jelenlegi laptoppiac teljesen siralmas állapota miatt a jelölteket nagyon hamar leszűkítettek egy darab lehetséges jelöltre, a T61-re. Bár a helyzet elsőre reménytelennek tűnt — a használtlaptop-piacon csak WXGA+-os 14″-eseket láttam, amik sajnos túl nagy DPI-vel rendelkeznek és erős szemüvegességem miatt nagyongyorsan lefárasztják a szemem –, de sikerült ráakadni a tökéletes jelöltre, amiben ráadásul még emberi videokártya is volt (nVidia Quadro 140m), így <span style="text-decoration: line-through;">a compiz már nem fog annyira beszaggatni</span> más miatt szaggat be a hülye compiz. Valamint amerikai billentyűzet, félmagas enterrel, afelett meg a |-vel.</p>
 <p>Ezzel most elleszek egy jódarabig, addig is elkezdek spórolni egy T400s-re…</p>
 <p><em>(zárójel, hogy volt még egy bé terv: egy MSI Wind, ha nem találtam volna egy jó T61-et. Sok kompromisszum, de más szempontból mégiscsak működött volna. De ez egy másik sztori)</em></p>
 
@@ -100,12 +122,14 @@
         <header>
             <h1 class="post"><a href="/index.php/2009/11/01/moment_of_zen_2/">Moment of zen</a></h1>
             <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2009/11/01/moment_of_zen_2/"><i class="far fa-bookmark"></i></a>
-            <time datetime="2009-11-01T16:02:29Z">Sunday, November 1, 2009</time> · 0 words · 0 min read</div>
+            <time datetime="2009-11-01T16:02:29Z">Sunday, November 1, 2009</time> · 11 words · 1 min read</div>
         </header>
         <div class="text">
 
-<p><a href="http://ktamas.blog.hu/media/image/200911/pingb.png"><!-- raw HTML omitted --></a></p>
-<!-- raw HTML omitted -->
+<p><a href="http://ktamas.blog.hu/media/image/200911/pingb.png"><img class="aligncenter size-full wp-image-816" title="pingb" src="http://ktamas.blog.hu/media/image/200911/pingb.png" alt="pingb" width="500" height="375" /></a></p>
+<center>
+  Rhapsody OS Rel. 5.1: Apr 17 1998; root(rcbuilder):Objects/kernel-105.6.obj~2/RELEASE_I386 1988-1995,1997 Apple Inc.
+</center>
 
         </div>
 
@@ -120,12 +144,12 @@
         <header>
             <h1 class="post"><a href="/index.php/2009/10/09/a_honap_telefonbeszelgetese_de_jo_a_kaja/">A hónap telefonbeszelgetése (de jó a kaja!)</a></h1>
             <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2009/10/09/a_honap_telefonbeszelgetese_de_jo_a_kaja/"><i class="far fa-bookmark"></i></a>
-            <time datetime="2009-10-09T14:15:40Z">Friday, October 9, 2009</time> · 139 words · 1 min read</div>
+            <time datetime="2009-10-09T14:15:40Z">Friday, October 9, 2009</time> · 141 words · 1 min read</div>
         </header>
         <div class="text">
 
-<p>Szóval az egész úgy kezdődött hogy tegnap <!-- raw HTML omitted -->@koocos<!-- raw HTML omitted --> <!-- raw HTML omitted -->betwittelte<!-- raw HTML omitted -->, hogy van ilyen <em>underground</em> hiperminimál kajaszállító, és hogy jó, és tényleg, egy egészen finom füstölt sajtos lasagnet ettem ma, be is rendeltem 1-2 dolgot jövőhétre, tegyétek ti is <a href="http://ketkeretkem.sod.hu/">itten</a>.</p>
-<p>De a lényeg csak most következik, ugyanis 2 perccel azután, hogy letettem a villát, és elkezdtem volna <!-- raw HTML omitted -->a délutáni kajakómát<!-- raw HTML omitted --> dolgozni, csörgött a telefonom:</p>
+<p>Szóval az egész úgy kezdődött hogy tegnap <a href="http://twitter.com/koocos" target="_blank">@koocos</a> <a href="http://twitter.com/koocos/status/4705669632" target="_blank">betwittelte</a>, hogy van ilyen <em>underground</em> hiperminimál kajaszállító, és hogy jó, és tényleg, egy egészen finom füstölt sajtos lasagnet ettem ma, be is rendeltem 1-2 dolgot jövőhétre, tegyétek ti is <a href="http://ketkeretkem.sod.hu/">itten</a>.</p>
+<p>De a lényeg csak most következik, ugyanis 2 perccel azután, hogy letettem a villát, és elkezdtem volna <span style="text-decoration: line-through;">a délutáni kajakómát</span> dolgozni, csörgött a telefonom:</p>
 <blockquote>
 <p>– Hello, a futár vagyok, meghoztam a kaját!</p>
 </blockquote>
@@ -174,12 +198,14 @@
         <header>
             <h1 class="post"><a href="/index.php/2009/09/24/vegre_301/">Végre&#8230;</a></h1>
             <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2009/09/24/vegre_301/"><i class="far fa-bookmark"></i></a>
-            <time datetime="2009-09-24T09:54:05Z">Thursday, September 24, 2009</time> · 2 words · 1 min read</div>
+            <time datetime="2009-09-24T09:54:05Z">Thursday, September 24, 2009</time> · 14 words · 1 min read</div>
         </header>
         <div class="text">
 
-<!-- raw HTML omitted -->
-<p><a href="http://ktamas.blog.hu/media/image/200909/Desktop_09_24_09.jpg"><!-- raw HTML omitted --></a><!-- raw HTML omitted -->Kattra nagyobb<!-- raw HTML omitted --><!-- raw HTML omitted --></p>
+<p style="text-align: left;">
+  &#8230;sikerült <a href="http://djmattricks.deviantart.com/art/Herbal-tripple-39728777" target="_blank">vállalható háromképernyős háttérképet</a> találnom, be is raktam, gyorsan a <a href="http://ktamas.blog.hu/2009/09/23/new_setup" target="_blank">két gépre</a>.
+</p><figure id="attachment_795" style="width: 500px" class="wp-caption aligncenter">
+<p><a href="http://ktamas.blog.hu/media/image/200909/Desktop_09_24_09.jpg"><img class="wp-image-795" title="Desktop_09_24_09" src="http://ktamas.blog.hu/media/image/200909/Desktop_09_24_09.jpg" alt="Desktop_09_24_09" width="500" height="133" /></a><figcaption class="wp-caption-text">Kattra nagyobb</figcaption></figure></p>
 
         </div>
 
@@ -198,7 +224,7 @@
         </header>
         <div class="text">
 
-<p><a href="http://ktamas.blog.hu/media/image/200909/newsetup.jpg"><!-- raw HTML omitted --></a></p>
+<p><a href="http://ktamas.blog.hu/media/image/200909/newsetup.jpg"><img class="aligncenter size-full wp-image-786" title="newsetup" src="http://ktamas.blog.hu/media/image/200909/newsetup.jpg" alt="newsetup" width="500" height="184" /></a></p>
 <p>Új asztal (kisebb, de nem sarokasztal!), új hely az irodaban, végre külön monitor a macmininek, ilyesmi. Jó.</p>
 <p>(P.S. egész ügyes a Photoshop képragasztója, ezt öt mobilfotóból rakta össze)</p>
 
@@ -239,7 +265,7 @@
         </header>
         <div class="text">
 
-<!-- raw HTML omitted -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WccfbPQNMbg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
         </div>
 
@@ -258,7 +284,7 @@
         </header>
         <div class="text">
 
-<!-- raw HTML omitted -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iZ9vkd7Rp-g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <p>Most megy le ugy harmincadszor…</p>
 
         </div>
@@ -266,25 +292,6 @@
         <div class="tags">
             <i class="fas fa-tags"></i>
             <a href='/tags/random/'>random</a>, <a href='/tags/zene/'>zene</a>
-        </div>
-    </article>
-
-		
-		    <article class="post">
-        <header>
-            <h1 class="post"><a href="/index.php/2009/09/10/infected_mushroom_koncert/">Infected Mushroom koncert</a></h1>
-            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2009/09/10/infected_mushroom_koncert/"><i class="far fa-bookmark"></i></a>
-            <time datetime="2009-09-10T23:54:58Z">Thursday, September 10, 2009</time> · 47 words · 1 min read</div>
-        </header>
-        <div class="text">
-
-<p>Szóval az a helyzet, hogy <!-- raw HTML omitted -->most olvastam a 20y-on<!-- raw HTML omitted -->, hogy sok év után <!-- raw HTML omitted -->hazánkba látogat<!-- raw HTML omitted --> minden idők legjobb PsyTrance csapata, az Infected Mushroom (akikről <!-- raw HTML omitted -->még a kezdetekben írtam<!-- raw HTML omitted -->), egyszóval november 20-án ott kell lenni a <!-- raw HTML omitted -->Club Play<!-- raw HTML omitted -->ben, ráadásul a beugró potom 10 eurónak megfelelő összeg lesz, szóval pláne.</p>
-
-        </div>
-
-        <div class="tags">
-            <i class="fas fa-tags"></i>
-            <a href='/tags/koncert/'>koncert</a>, <a href='/tags/zene/'>zene</a>
         </div>
     </article>
 

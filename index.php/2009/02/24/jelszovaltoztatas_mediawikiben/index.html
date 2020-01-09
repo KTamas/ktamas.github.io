@@ -6,8 +6,10 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 	<title>Jelszóváltoztatás Mediawikiben</title>
 	<meta name="description" content="Napi találós kérdés: hogyan változtatjuk meg egy adott user jelszavát Mediawiki alatt ha adminok vagyunk? Természetesen így:
-How do I change a user’s password? Assuming that $wgPasswordSaltis set to true (the default), you can use the following SQL query:
-MD5(‘somepass’))) WHERE user_name = ‘someuser’;Ha jön a forradalom, mennek a falhoz." />
+How do I change a user’s password? Assuming that $wgPasswordSalt is set to true (the default), you can use the following SQL query:
+UPDATE user SET user_password = MD5(CONCAT(user_id, ‘-&#39;,
+MD5(‘somepass’))) WHERE user_name = ‘someuser’;
+Ha jön a forradalom, mennek a falhoz." />
 	<meta name="author" content="KTamas" />
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto" rel="stylesheet">
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
@@ -25,13 +27,15 @@ MD5(‘somepass’))) WHERE user_name = ‘someuser’;Ha jön a forradalom, men
 	<meta property="og:title" content="Jelszóváltoztatás Mediawikiben" />
 	<meta property="og:site_name" content="KTamas&#39; Blog"/>
 	<meta property="og:description" content="Napi találós kérdés: hogyan változtatjuk meg egy adott user jelszavát Mediawiki alatt ha adminok vagyunk? Természetesen így:
-How do I change a user’s password? Assuming that $wgPasswordSaltis set to true (the default), you can use the following SQL query:
-MD5(‘somepass’))) WHERE user_name = ‘someuser’;Ha jön a forradalom, mennek a falhoz." />
+How do I change a user’s password? Assuming that $wgPasswordSalt is set to true (the default), you can use the following SQL query:
+UPDATE user SET user_password = MD5(CONCAT(user_id, ‘-&#39;,
+MD5(‘somepass’))) WHERE user_name = ‘someuser’;
+Ha jön a forradalom, mennek a falhoz." />
 	<meta property="og:image" content="https://blog.ktamas.com/icon-512x512.png" />
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:site" value="@ktamas" />
 	<meta name="twitter:creator" value="@ktamas" />
-	<meta name="generator" content="Hugo 0.61.0" />
+	<meta name="generator" content="Hugo 0.62.2" />
 </head>
 <body>
 	<div id="container">
@@ -57,17 +61,17 @@ MD5(‘somepass’))) WHERE user_name = ‘someuser’;Ha jön a forradalom, men
         <header>
             <h1 class="title">Jelszóváltoztatás Mediawikiben</h1>
             <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2009/02/24/jelszovaltoztatas_mediawikiben/"><i class="far fa-bookmark"></i></a>
-            <time datetime="2009-02-24T13:06:09Z">Tuesday, February 24, 2009</time> · 50 words · 1 min read</div>
+            <time datetime="2009-02-24T13:06:09Z">Tuesday, February 24, 2009</time> · 59 words · 1 min read</div>
         </header>
         <div class="text">
 
 <p>Napi találós kérdés: hogyan változtatjuk meg egy adott user jelszavát Mediawiki alatt ha adminok vagyunk? <em>Természetesen</em> így:</p>
 <blockquote>
-<h3 id="a-hrefhttpmetawikimediaorgwikimediawiki-faqhow-do-i-change-a-user27s-password3f-target-blankspan-classmw-headlinehow-do-i-change-a-user8217s-passwordspana"><!-- raw HTML omitted --><!-- raw HTML omitted -->How do I change a user’s password?<!-- raw HTML omitted --><!-- raw HTML omitted --></h3>
-<p>Assuming that <!-- raw HTML omitted -->$wgPasswordSalt<!-- raw HTML omitted --> is set to true (the default), you can use the following SQL query:</p>
-<!-- raw HTML omitted -->
+<h3 id="a-hrefhttpmetawikimediaorgwikimediawiki_faqhow_do_i_change_a_user27s_password3f-target_blankspan-classmw-headlinehow-do-i-change-a-user8217s-passwordspana"><a href="http://meta.wikimedia.org/wiki/MediaWiki_FAQ#How_do_I_change_a_user.27s_password.3F" target="_blank"><span class="mw-headline">How do I change a user’s password?</span></a></h3>
+<p>Assuming that <var>$wgPasswordSalt</var> is set to true (the default), you can use the following SQL query:</p>
+<pre>UPDATE user SET user_password = MD5(CONCAT(user_id, '-',<br />
 </blockquote>
-<p>MD5(&lsquo;somepass&rsquo;))) WHERE user_name = &lsquo;someuser&rsquo;;<!-- raw HTML omitted --></p>
+<p>MD5(&lsquo;somepass&rsquo;))) WHERE user_name = &lsquo;someuser&rsquo;;</pre></p>
 <p>Ha jön a forradalom, mennek a falhoz.</p>
 
         </div>

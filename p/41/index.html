@@ -27,7 +27,7 @@
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:site" value="@ktamas" />
 	<meta name="twitter:creator" value="@ktamas" />
-	<meta name="generator" content="Hugo 0.61.0" />
+	<meta name="generator" content="Hugo 0.62.2" />
 </head>
 <body>
 	<div id="container">
@@ -52,13 +52,30 @@
 		
 		    <article class="post">
         <header>
+            <h1 class="post"><a href="/index.php/2011/05/08/muszaj-valamit-talalnom-amivel-az-agyamat-organizalom/">Muszaj valamit talalnom amivel az agyamat organizalom</a></h1>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2011/05/08/muszaj-valamit-talalnom-amivel-az-agyamat-organizalom/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2011-05-08T09:02:53Z">Sunday, May 8, 2011</time> · 36 words · 1 min read</div>
+        </header>
+        <div class="text">
+
+<p>Addig is, ide irom, le, hogy a helyes parancs arra, hogy kilistazzuk egy adott mappa .-ttal kezdodo almappait es semmi mast:</p>
+<p><code>ls -d /path/to/mappa/.*/</code></p>
+<p>Rendszergazda aki harmadszorra guglizta ki ket ev alatt ezt cimu rovatunkat hallottak.</p>
+
+        </div>
+
+    </article>
+
+		
+		    <article class="post">
+        <header>
             <h1 class="post"><a href="/index.php/2011/05/07/john-boutte-the-treme-song/">John Boutte &#8211; The Treme Song</a></h1>
             <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2011/05/07/john-boutte-the-treme-song/"><i class="far fa-bookmark"></i></a>
             <time datetime="2011-05-07T14:51:58Z">Saturday, May 7, 2011</time> · 52 words · 1 min read</div>
         </header>
         <div class="text">
 
-<p>Volt tavaly egy igen kivalo HBO-s sorozat, a Treme, ami a Katrina utani New Orleansrol szol. A The Wire-rel hiresse valt David Simon csinalta, es a sorozat igenjo karakterdrama lett, jobbnal jobb zenekkel fuszerezve, a masodik evad nemreg kezdodott, hallgassuk is meg az egeszen kivalo introzenet: <!-- raw HTML omitted -->John Buotte – The Treme Song<!-- raw HTML omitted --></p>
+<p>Volt tavaly egy igen kivalo HBO-s sorozat, a Treme, ami a Katrina utani New Orleansrol szol. A The Wire-rel hiresse valt David Simon csinalta, es a sorozat igenjo karakterdrama lett, jobbnal jobb zenekkel fuszerezve, a masodik evad nemreg kezdodott, hallgassuk is meg az egeszen kivalo introzenet: <a href="http://soundcloud.com/tomspeed-1/12-treme-song">John Buotte – The Treme Song</a></p>
 
         </div>
 
@@ -79,7 +96,7 @@
 
 <p>A <a href="http://www.last.fm/user/KTamasEnty">last.fm statjaim</a> szerint nagyon sok Tree 63-et hallgatok mostanaban, nem veletlenul, iszonyat jo dalokat csinaltak.</p>
 <p>Leginkabb ezek mennek.</p>
-<!-- raw HTML omitted -->
+<iframe src="https://open.spotify.com/embed/user/ktamas/playlist/4lnePparXskGJKJqcK6ZaW" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
         </div>
 
@@ -94,17 +111,37 @@
         <header>
             <h1 class="post"><a href="/index.php/2011/05/05/iframek-es-popupok-toredekek-a-fejleszto-naplojabol/">iframek es popupok (toredekek a fejleszto naplojabol)</a></h1>
             <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2011/05/05/iframek-es-popupok-toredekek-a-fejleszto-naplojabol/"><i class="far fa-bookmark"></i></a>
-            <time datetime="2011-05-05T23:58:46Z">Thursday, May 5, 2011</time> · 52 words · 1 min read</div>
+            <time datetime="2011-05-05T23:58:46Z">Thursday, May 5, 2011</time> · 87 words · 1 min read</div>
         </header>
         <div class="text">
 
 <p>Van egy iframed, abbol nyit a felhasznalo egy popupot, kulso webszolgaltatassal valo autenikalas celjabol, adsz neki egy callback URL-t, ami viszont ugye a popupba iranyit vissza, te viszont szeretned, ha az iframe tartalma lecserelodjon, majd bezarodjon a popup. Hogy csinalod? Ugy, hogy egy ilyesfajta HTML-t (es benne levo js-t) adsz meg callbacknek:</p>
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
+<noscript>
+  </p> 
+  <pre>
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;script type="text/javascript"&gt;
+      var close_and_redirect = function() {
+        if (opener && !opener.closed) {
+          opener.location.href = "http://localhost:9610/done";
+        }  
+        window.close();
+      }
+    &lt;/script&gt;
+  &lt;/head&gt;
+  &lt;body onload="setTimeout('close_and_redirect()', 500)"&gt;
+    Yay, logged in! Closing...
+  &lt;/body&gt;
+&lt;/html&gt;
+</pre>
+  <p>
+    </noscript><br />
+  </p>
+  <script src="https://gist.github.com/958052.js?file=loggedin.html"></script>
+  <p>
+    (<a href="http://www.codingforums.com/showpost.php?s=aa079e493200cb7008aa5359f7591e86&#038;p=292432&#038;postcount=3">Itt talaltam meg vegul.</a>)
+  </p>
 
         </div>
 
@@ -131,10 +168,10 @@
 <p>Itt van peldaul a vim 7.3 legnagyobb ficsorje, amit par napja talaltam meg a hires <a href="http://stevelosh.com/blog/2010/09/coming-home-to-vim/">Coming home to vim</a> cikkben, az undofile. <a href="https://github.com/KTamas/vimfiles/blob/master/vimrc#L64">Ha bekapcsolod</a> (most. kapcsold. be.), akkor onnantol kezdve, hogy eloszor letrehoztad/megnyitottad az adott filet, az osszes letezo valtoztatasod ever kovetve van, es termeszetesen visszavonhato. Akkor is, ha azota hatszor ujrainditottad a geped es tizenotszor a vimet. Gyakorlatilag kapsz ingyen egy automatikus mini-verziokezelest, foleg, hogy a vimnek nem szimpla undoja, hanem undo treeje van, azaz ha visszavontal ket dolgot es csinaltal egy masikat utana, attol meg nem veszett el az a ket dolog, amit te visszavontal.</p>
 <p>(A kovetkezo az lesz valoszinuleg, hogy ezt eggyel tovabb viszem, es az undofajlokat is berakom az adott git repoba es igy szinkronizalom gepek kozott, de meg nem dontottem el teljesen, mert a repoba szemetelesnek erzem valahol)</p>
 <p>Ezt igy viszont nehez nekem elsore igazan effektiven hasznalni, van erre viszont a <a href="https://github.com/sjl/gundo.vim">Gundo</a> nevu plugin, ami vizualizalja az undo treet, es a kovetkezot kapod, mutatom, egyszeruen gyonyoru (az egerkurzor senkit ne tevesszen meg, a valodi kurzor a <code>[9]</code>-estol balra levo <code>o</code>-n all):</p>
-<p><a href="/wp-content/uploads/2011/05/Screenshot.png"><!-- raw HTML omitted --></a></p>
+<p><a href="/wp-content/uploads/2011/05/Screenshot.png"><img class="aligncenter size-full wp-image-2362456" title="Gundo" src="/wp-content/uploads/2011/05/Screenshot.png" alt="" width="1024" height="768" srcset="/wp-content/uploads/2011/05/Screenshot.png 1024w, /wp-content/uploads/2011/05/Screenshot-300x225.png 300w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
 <p>De tudnek meg lelkendezni meg peldaul olyan aprosagokrol, mint peldaul a <a href="https://github.com/kchmck/vim-coffee-script">vim-coffee-script</a> CoffeeCompile funkcioja, amit be lehet loni ugy, hogy a kijelolt coffeescriptnek megmutatja a javascript outputjat gombnyomasra (koszi <a href="http://lackac.hu/">LacKac</a>!). Vagy a kulonbozo splitek. Vagy…</p>
 <p>Es persze, ez csak egy eszkoz, de mikor hasznalod tiz oran keresztul egy nap, akkor ez mind-mind fontos.</p>
-<p><!-- raw HTML omitted -->:wq</p>
+<p><ESC>:wq</p>
 
         </div>
 
@@ -154,8 +191,8 @@
         <div class="text">
 
 <p>Nezem a soundcloudomra feltoltott dalokat, es talaltam egy ilyet meg regrol, tizperces mix a BBC countdownjaibol. <a href="http://bergengocia.net/2009/02/this-is-bbc-news.htm">Gazs anno nagyon jol korbejarta a temat</a>, de pont ez a mix nincs benne (illetve van egy megamix linkelve benne, ami lehet, hogy ez az, de azota lekerult a youtuberol), ugyhogy, itt van, hallgassatok, jo.</p>
-<!-- raw HTML omitted -->
-<p><!-- raw HTML omitted --><!-- raw HTML omitted -->BBC Countdown Compilation<!-- raw HTML omitted --><!-- raw HTML omitted --></p>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/6417194&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+<p><span><a href="http://soundcloud.com/ktamasenty/bbc-countdown-compilation">BBC Countdown Compilation</a></span></p>
 
         </div>
 
@@ -250,26 +287,6 @@
         <div class="tags">
             <i class="fas fa-tags"></i>
             <a href='/tags/aj%C3%A1nl%C3%B3/'>ajánló</a>, <a href='/tags/random/'>random</a>, <a href='/tags/sorozat/'>sorozat</a>
-        </div>
-    </article>
-
-		
-		    <article class="post">
-        <header>
-            <h1 class="post"><a href="/index.php/2011/03/25/katzenjammer-a-bar-in-amsterdam/">Katzenjammer &#8211; A Bar in Amsterdam</a></h1>
-            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2011/03/25/katzenjammer-a-bar-in-amsterdam/"><i class="far fa-bookmark"></i></a>
-            <time datetime="2011-03-25T16:35:24Z">Friday, March 25, 2011</time> · 24 words · 1 min read</div>
-        </header>
-        <div class="text">
-
-<p>Damage igen remek <a href="http://www.planetdamage.com/2011/03/25/damages-razor-coated-candies-03-venus-in-rock/">harmadik sarkanykazettas mixtapejeben</a> akadtam erre a dalra, ami azota is megy korbe es korbe es korbe es korbe es korbe es…</p>
-<!-- raw HTML omitted -->
-
-        </div>
-
-        <div class="tags">
-            <i class="fas fa-tags"></i>
-            <a href='/tags/aj%C3%A1nl%C3%B3/'>ajánló</a>, <a href='/tags/random/'>random</a>, <a href='/tags/zene/'>zene</a>
         </div>
     </article>
 
