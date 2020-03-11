@@ -3,13 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://blog.ktamas.com/index.php/2020/03/11/how-to-stay-sane-on-twitter-dot-com/</loc>
+    <lastmod>2020-03-11T12:41:30+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.ktamas.com/</loc>
-    <lastmod>2020-01-06T10:48:07+00:00</lastmod>
+    <lastmod>2020-03-11T12:41:30+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.ktamas.com/tags/</loc>
-    <lastmod>2020-01-06T10:48:07+00:00</lastmod>
+    <lastmod>2020-03-11T12:41:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ktamas.com/tags/sanity/</loc>
+    <lastmod>2020-03-11T12:41:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ktamas.com/tags/twitter/</loc>
+    <lastmod>2020-03-11T12:41:30+00:00</lastmod>
   </url>
   
   <url>
@@ -503,6 +518,11 @@
   </url>
   
   <url>
+    <loc>https://blog.ktamas.com/tags/%C3%A9n/</loc>
+    <lastmod>2015-06-24T10:42:52+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.ktamas.com/tags/%C3%A9nblog/</loc>
     <lastmod>2015-06-24T10:42:52+00:00</lastmod>
   </url>
@@ -559,11 +579,6 @@
   
   <url>
     <loc>https://blog.ktamas.com/index.php/2014/05/19/materialis-dolgokrol/</loc>
-    <lastmod>2014-05-19T10:10:08+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.ktamas.com/tags/%C3%A9n/</loc>
     <lastmod>2014-05-19T10:10:08+00:00</lastmod>
   </url>
   
@@ -883,6 +898,11 @@
   </url>
   
   <url>
+    <loc>https://blog.ktamas.com/tags/wind/</loc>
+    <lastmod>2013-08-09T11:01:47+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.ktamas.com/tags/windows/</loc>
     <lastmod>2013-08-09T11:01:47+00:00</lastmod>
   </url>
@@ -958,6 +978,11 @@
   </url>
   
   <url>
+    <loc>https://blog.ktamas.com/tags/sorozat/</loc>
+    <lastmod>2013-07-25T10:29:53+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.ktamas.com/tags/sorozatok/</loc>
     <lastmod>2013-07-25T10:29:53+00:00</lastmod>
   </url>
@@ -984,11 +1009,6 @@
   
   <url>
     <loc>https://blog.ktamas.com/index.php/2013/07/23/nyelvtanulasrol-filmekrol-es-sorozatokrol/</loc>
-    <lastmod>2013-07-23T11:20:45+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.ktamas.com/tags/sorozat/</loc>
     <lastmod>2013-07-23T11:20:45+00:00</lastmod>
   </url>
   
@@ -3804,11 +3824,6 @@
   
   <url>
     <loc>https://blog.ktamas.com/index.php/2009/01/26/a_wind_es_az_ubuntu_esete_pt_1/</loc>
-    <lastmod>2009-01-26T09:43:08+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.ktamas.com/tags/wind/</loc>
     <lastmod>2009-01-26T09:43:08+00:00</lastmod>
   </url>
   
