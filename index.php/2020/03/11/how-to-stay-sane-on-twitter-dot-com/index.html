@@ -55,7 +55,7 @@ Sure, you could just spend less time on the hellsite, but we both know that’s 
         <header>
             <h1 class="title">How to Stay Sane on Twitter</h1>
             <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2020/03/11/how-to-stay-sane-on-twitter-dot-com/"><i class="far fa-bookmark"></i></a>
-            <time datetime="2020-03-11T12:41:30Z">Wednesday, March 11, 2020</time> · 1011 words · 5 min read</div>
+            <time datetime="2020-03-11T12:41:30Z">Wednesday, March 11, 2020</time> · 1013 words · 5 min read</div>
         </header>
         <div class="text">
 
@@ -85,12 +85,12 @@ Sure, you could just spend less time on the hellsite, but we both know that’s 
 <p><img src="https://i.imgur.com/IjMEFqY.jpg" alt="pinned list">
 <em>Here&rsquo;s the list I use, pinned on my timeline and I can just swipe right to read it. On Desktop, you find it under Lists but of course you can bookmark it as well.</em></p>
 <p>Now, you can, of course, go through each and every person you follow and manually add them to your &ldquo;Unfiltered&rdquo; list, but that&rsquo;s going to be very time-consuming, so we&rsquo;re going to use some command-line magic to do this in one big swoop.</p>
-<p>What you need: Ruby 2.4+ installed on your computer and having a Developer account at Twitter. For the latter, if you haven&rsquo;t done so yet, go to <a href="developer.twitter.com">developer.twitter.com</a> and apply for one; unfortunately, it can sometimes take days for them to approve you. Once that&rsquo;s done, create a new, dummy app you&rsquo;ll use for this.</p>
+<p>What you need: <a href="https://www.ruby-lang.org/en/">Ruby</a> 2.4+ installed on your computer and having a Developer account at Twitter. For the latter, if you haven&rsquo;t done so yet, go to <a href="developer.twitter.com">developer.twitter.com</a> and apply for one; unfortunately, it can sometimes take days for them to approve you. Once that&rsquo;s done, create a new, dummy app you&rsquo;ll use for this.</p>
 <p>Next, install the <a href="https://github.com/sferik/t"><code>t</code></a> gem: <code>gem install t</code>, and because it&rsquo;s a bit old, downgrade the <code>twitter</code> gem: <code>gem install twitter -v 6.1.0 &amp;&amp; gem uninstall twitter -v 6.2.0</code>.</p>
 <p>Now you&rsquo;re almost ready to go, but first, you&rsquo;ll have to log in and authorize your command-line client. Run <code>t authorize</code> and follow the instructions; it&rsquo;ll ask for the API key and API secret key, then gives you a URL where you can log into the dummy app you just created.</p>
 <p>Now you&rsquo;re ready. Create a new list on the Twitter web UI, name it whatever you want; I&rsquo;m using &ldquo;Unfiltered&rdquo;. Then get a list of the people you follow and pipe it into a text file: <code>t followings &gt; ~/my_followings.txt</code>, which you&rsquo;ll use to add everyone to your list: <code>cat ~/my_followings.txt|xargs t list add Unfiltered</code>. You can also do this with just one command, as you might have deducted.</p>
 <p>And that&rsquo;s it! You now have both a heavily filtered timeline that keeps you mostly sane, but also the ability to check it out without any of those filters, if you wish to.</p>
-<p>The only thing you have to keep in mind now is whenever you follow or unfollow someone, you&rsquo;ll have to add them to your Unfiltered Twitter list as well. I find that to be a small price to pay, personally.</p>
+<p>The only thing you have to keep in mind now is <strong>whenever you follow or unfollow someone, you&rsquo;ll have to add or remove them to/from your Unfiltered Twitter list as well</strong>. I find that to be a small price to pay, personally.</p>
 
         </div>
 
