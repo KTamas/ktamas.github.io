@@ -3,7 +3,7 @@
 	<id>https://blog.ktamas.com/tags/</id>
 	<title>KTamas&#39; Blog Tags</title>
 	<subtitle>Bringing you irregular content since 2009. By KTamas.</subtitle>
-	<updated>2020-03-11T12:41:30Z</updated>
+	<updated>2020-03-18T08:31:00Z</updated>
 	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/feed.xml"/>
 	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/"/>
 	<link rel="alternate" type="application/json" href="https://blog.ktamas.com/tags/feed.json"/>
@@ -11,9 +11,65 @@
 		<name>KTamas</name>
 		<uri>https://blog.ktamas.com/</uri>
 	</author>
-	<generator uri="https://gohugo.io/" version="0.66.0">Hugo</generator>
+	<generator uri="https://gohugo.io/" version="0.67.1">Hugo</generator>
 	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
+	<entry>
+		<id>https://blog.ktamas.com/index.php/2020/03/18/hungarian-green-pea-soup/</id>
+		<title>My grandma&#39;s Hungarian Green Pea Soup recipe (aka Zöldborsóleves)</title>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2020/03/18/hungarian-green-pea-soup/"/>
+		<updated>2020-03-18T08:31:00Z</updated>
+		<published>2020-03-18T08:31:00Z</published>
+		<author>
+			<name>KTamas</name>
+			<uri>https://blog.ktamas.com/</uri>
+		</author>
+		<category scheme="https://blog.ktamas.com/tags" term="recipe" label="recipe"/>
+		<category scheme="https://blog.ktamas.com/tags" term="grandma" label="grandma"/>
+		<category scheme="https://blog.ktamas.com/tags" term="soup" label="soup"/>
+		<summary>Ingredients for the soup:
+ 1kg green peas (ideally fresh but frozen works) 3-500g carrots, depends on how much you want in it Chicken broth/stock (if not, then 3ish chicken-flavored bouillon cubes) salt to taste (it needs a lot because the peas and the carrots are sweet)  for the noodles:
+ 2 eggs 6 spoons of flour – this is not an exact science, it needs to have the right texture, not too runny, but not too thick  thickening (roux):</summary>
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+<![CDATA[<h3 id="ingredients">Ingredients</h3>
+<p>for the soup:</p>
+<ul>
+<li>1kg green peas (ideally fresh but frozen works)</li>
+<li>3-500g carrots, depends on how much you want in it</li>
+<li>Chicken broth/stock (if not, then 3ish chicken-flavored bouillon cubes)</li>
+<li>salt to taste (it needs <em>a lot</em> because the peas and the carrots are sweet)</li>
+</ul>
+<p>for the noodles:</p>
+<ul>
+<li>2 eggs</li>
+<li>6 spoons of flour &ndash; this is not an exact science, it needs to have the right texture, not too runny, but not too thick</li>
+</ul>
+<p>thickening (roux):</p>
+<ul>
+<li>2 teaspoons of Hungarian paprika (in absence, non-Hungarian paprika will do, but obviously not optimal)</li>
+<li>1.5 tablespoon of rapeseed/sunflower oil, or a bit less lard</li>
+<li>1.5 tablespoon of flour</li>
+<li>2 packs or two big fistfuls of parsley (the more the merrier, at least up to a certain point)</li>
+</ul>
+<h3 id="instructions">Instructions</h3>
+<p>Boil the peas in a large pot with water for 15-30 minutes, until a white foam on the top appears. Take it off the stove, replace the water with chicken broth (or just water). Cook until green peas are soft (it really depends on what kind of peas can you get, anywhere between 20 minutes and 4 hours). Make sure to cut the carrots and add them to the soup <strong>before the peas are done</strong> so they have time to get soft as well.</p>
+<p>Prepare the noodles: mix 2 tablespoons of oil and 6 tablespoons of flour. Sift the flour, if possible. Mix it well until it is smooth.</p>
+<p>When the carrots are soft, do the thickening:</p>
+<p>Warm the oil/lard in a small saucepan. Add the flour, cook it until it&rsquo;s golden brown, mixing it constantly. Take it off the stove and give it a minute or three to cool a bit. Add the paprika and parsley (chopped). Mix it well. Add a cold cup (!) of water. Mix it well until smooth. Pour it all in the soup, boil it.</p>
+<p>Grate the noodles into the soup, or use a teaspoon. Cook it for a few minutes, then it&rsquo;s done.</p>
+<p>Can be eaten with or without crème fraîche/sour cream.</p>
+<p>This serves about 6-8 people, and the recipe scales up or down really well.</p>
+
+<footer>
+    <a title="Permanent link to “My grandma&#39;s Hungarian Green Pea Soup recipe (aka Zöldborsóleves)”" href="https://blog.ktamas.com/index.php/2020/03/18/hungarian-green-pea-soup/">My grandma&#39;s Hungarian Green Pea Soup recipe (aka Zöldborsóleves)</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    Tagged
+        <div class="tags">
+            <i class="fas fa-tags"></i>
+            <a href='/tags/recipe/'>recipe</a>, <a href='/tags/grandma/'>grandma</a>, <a href='/tags/soup/'>soup</a>
+        </div>
+</footer>]]></content>
+	</entry>
 	<entry>
 		<id>https://blog.ktamas.com/index.php/2020/03/11/how-to-stay-sane-on-twitter-dot-com/</id>
 		<title>How to Stay Sane on Twitter</title>
@@ -1386,37 +1442,6 @@ Flow is one of the many, many specialty cafés in Budapest.</summary>
         <div class="tags">
             <i class="fas fa-tags"></i>
             <a href='/tags/drawing/'>drawing</a>
-        </div>
-</footer>]]></content>
-	</entry>
-	<entry>
-		<id>https://blog.ktamas.com/index.php/2019/02/02/i-am-not-sponsored-by-grammarly-but-at-this-point-i-really-should-be/</id>
-		<title>I Am Not Sponsored by Grammarly but at This Point I Really Should Be</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2019/02/02/i-am-not-sponsored-by-grammarly-but-at-this-point-i-really-should-be/"/>
-		<updated>2019-02-02T22:07:51Z</updated>
-		<published>2019-02-02T22:07:51Z</published>
-		<author>
-			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
-		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="writersblock" label="writersblock"/>
-		<summary>I was going to finally get back to work on my latest series before I distracted myself with other things, like tweaking my blog (word counts! reading time! endlessly tweaking the CSS!) as well as continuing to cross-post some of my writings from here. One thing I noticed is how my writing has improved over the last month (at least in my opinion). I was also mildly horrified how bad my spelling and grammar was before I started using Grammarly.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
-<![CDATA[<p>I was going to finally get back to work on my latest series before I distracted myself with other things, like tweaking <a href="https://blog.ktamas.com">my blog</a> (word counts! reading time! endlessly tweaking the CSS!) as well as continuing to cross-post some of my writings from here. One thing I noticed is how my writing has improved over the last month (at least in my opinion). I was also mildly horrified how bad my spelling and grammar was before I started using Grammarly. Through this process, I fixed many early mistakes in those posts, though I don&rsquo;t think I will edit them much beyond that.</p>
-<p><em>A few days ago I bit the bullet and subscribed to Grammarly Premium, which fixes commas, sometimes tenses and other things one might mess up. It&rsquo;s not a magic bullet, and I often disagree with its recommendations, but overall it&rsquo;s definitely worth the money for me. If you want to save 40% on your subscription, register a new account and simply wait a few days. They will email you a discount on your first year.</em></p>
-<p>I also took the opportunity to edit my series about ADHD into <a href="https://blog.ktamas.com/index.php/2019/02/02/re-take-your-pills-my-story-of-adhd/">one big longread</a>. It made me realize that breaking things down into smaller chunks really helps with writing, but at the same time editing them into one long article is not an easy process and I still suck at it. This is something I want to get better at as I want to write more long-form articles.</p>
-<hr>
-<p>About ten years ago, before social media really blew up and blogs were all the rage, I hated when people <a href="https://www.urbandictionary.com/define.php?term=metablogging">metablogged</a>. A lot has changed, of course, but I can&rsquo;t help but see the irony that right now I&rsquo;m doing pretty much the same thing: writing about writing, for me a form of progressive procrastination and a way to hit that 300-word mark and keep my streak.</p>
-<p>In 2019 I feel like it&rsquo;s allright, as long as it&rsquo;s not overdone. I better find something else to write about for tomorrow, though.</p>
-<p><em>This post was</em> <em><strong>not</strong></em> <em>sponsored by Grammarly, even though I&rsquo;ve written about them plenty of times now, so they should really consider doing that.</em></p>
-
-<footer>
-    <a title="Permanent link to “I Am Not Sponsored by Grammarly but at This Point I Really Should Be”" href="https://blog.ktamas.com/index.php/2019/02/02/i-am-not-sponsored-by-grammarly-but-at-this-point-i-really-should-be/">I Am Not Sponsored by Grammarly but at This Point I Really Should Be</a>
-    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
-    Tagged
-        <div class="tags">
-            <i class="fas fa-tags"></i>
-            <a href='/tags/writersblock/'>writersblock</a>
         </div>
 </footer>]]></content>
 	</entry>

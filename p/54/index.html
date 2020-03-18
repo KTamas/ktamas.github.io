@@ -27,7 +27,7 @@
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:site" value="@ktamas" />
 	<meta name="twitter:creator" value="@ktamas" />
-	<meta name="generator" content="Hugo 0.66.0" />
+	<meta name="generator" content="Hugo 0.67.1" />
 </head>
 <body>
 	<div id="container">
@@ -49,6 +49,34 @@
 		</header>
 
 	<main id="home">
+		
+		    <article class="post">
+        <header>
+            <h1 class="post"><a href="/index.php/2009/05/24/imap_is_a_ghetto/">IMAP is a ghetto</a></h1>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2009/05/24/imap_is_a_ghetto/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2009-05-24T12:16:24Z">Sunday, May 24, 2009</time> · 241 words · 2 min read</div>
+        </header>
+        <div class="text">
+
+<p>Az van, hogy van ez az IMAP, ami jó. Szerveren tárolhatsz mindent, megosztott mappák, satöbbi, olyan, mint az Exchange, csak jobb. Lenne. Viszont.</p>
+<p>一 Az Outlook egy fos, mint aztmár egy <a href="http://ktamas.blog.hu/2009/05/17/die_outlook_die">előző blogpostomban</a> is fejtegettem. Sok shared mappa esetén a Send &amp; Receive kb. egy percig tart, ami idő alatt az Outlook még mai gépeken is majd’ használhatatlanul lassú lesz. Ezenfelül egy aranyos, kb. 6 éve ismert bug miatt ha az ember leiratkozik olyan mappákról, amiben olvasatlan levelek vannak, akkor az outlook figyelmen kívül hagyva minden beállítást, azonnal kiküld egy rakat “Not Read:” értesítést minden üzenetre, amire read receipt lett kérve.</p>
+<p>二 Így lett nekünk az új céges levelezőkliens a Thunderbird: ez gyors, nem küld ki kéretlenül leveleket leiratkozáskor, cserébe a Subscribe funkció egyelőre erősen bugzik benne (random felirat mappákra, illetve nem irat le róluk), és nem tudok rájönni, hogy miért. Debug módban konkrétan egy rakat ilyen hibát kapok:</p>
+<blockquote>
+<p>1628149872[1e71f20]: considering playing queued url:imap://user@my.mail.server.address:143/unsubscribe&gt;.shared/a/sub/folder</p>
+<p>-1628149872[1e71f20]: creating protocol instance to play queued url:imap://user@my.mail.server.address:143/unsubscribe&gt;.shared/a/sub/folder</p>
+<p>-1628149872[1e71f20]: failed creating protocol instance to play queued url:imap://user@my.mail.server.address:143/unsubscribe&gt;.shared/a/sub/folder</p>
+</blockquote>
+<p>三 Webmailnek a legjobb perpillanat a Roundcube, ami viszont szeret néha teljesen értelmetlen “error: undefined” hibákat adni, kicsit még éretlen (0.4-es verzió…), valamint szintén szocproblémái vannak a feliratkozással, konkrétan ha az erre szolgáló oldalra megyünk a beállításokban, akkor 10-ből 9-szer felirat azonnal az összes mappára, szintén nem tudom, hogy miért..</p>
+<p>Gyanakszom, hogy esetleg valami szerveroldali hiba, de már háromszor végignéztem a Courier beállításait, és sehol se láttam semmit ami bekavarhatna…</p>
+
+        </div>
+
+        <div class="tags">
+            <i class="fas fa-tags"></i>
+            <a href='/tags/imap/'>imap</a>, <a href='/tags/linux/'>linux</a>, <a href='/tags/mail/'>mail</a>
+        </div>
+    </article>
+
 		
 		    <article class="post">
         <header>
@@ -246,21 +274,6 @@
             <i class="fas fa-tags"></i>
             <a href='/tags/gasztro/'>gasztro</a>
         </div>
-    </article>
-
-		
-		    <article class="post">
-        <header>
-            <h1 class="post"><a href="/index.php/2009/05/07/almost_perfect/">Almost Perfect</a></h1>
-            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2009/05/07/almost_perfect/"><i class="far fa-bookmark"></i></a>
-            <time datetime="2009-05-07T21:05:27Z">Thursday, May 7, 2009</time> · 50 words · 1 min read</div>
-        </header>
-        <div class="text">
-
-<p>Szóval 1980 táján összeállt három ember, és felhúzott egy céget a semmiből, megcsinálták a WordPerfectet, amely pár év után a legnépszerűbb szövegszerkesztő lett, egészen a Windows 3.0 megjelenéséig, ami után jött a Word for Windows… és a többit már tudjuk. Addig azonban egy egészen érdekes 12 év történetét ismerhetjük meg,</p>
-
-        </div>
-
     </article>
 
 		
@@ -851,7 +864,16 @@
         
     
     
-    <li class="page-item"><a class="page-link" href="/p/62/">62</a></li>
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    <li class="page-item"><a class="page-link" href="/p/63/">63</a></li>
     
     
     <li class="page-item">
@@ -859,7 +881,7 @@
     </li>
     
     <li class="page-item">
-        <a href="/p/62/" class="page-link" aria-label="Last"><span aria-hidden="true">&raquo;&raquo;</span></a>
+        <a href="/p/63/" class="page-link" aria-label="Last"><span aria-hidden="true">&raquo;&raquo;</span></a>
     </li>
     
 </ul>
