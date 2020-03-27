@@ -11,7 +11,7 @@
 		<name>KTamas</name>
 		<uri>https://blog.ktamas.com/</uri>
 	</author>
-	<generator uri="https://gohugo.io/" version="0.67.1">Hugo</generator>
+	<generator uri="https://gohugo.io/" version="0.68.3">Hugo</generator>
 	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
 	<entry>
