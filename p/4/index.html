@@ -27,7 +27,7 @@
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:site" value="@ktamas" />
 	<meta name="twitter:creator" value="@ktamas" />
-	<meta name="generator" content="Hugo 0.68.3" />
+	<meta name="generator" content="Hugo 0.70.0" />
 </head>
 <body>
 	<div id="container">
@@ -49,6 +49,73 @@
 		</header>
 
 	<main id="home">
+		
+		    <article class="post">
+        <header>
+            <h1 class="post"><a href="/index.php/2019/02/01/converting-my-blog-to-hugo-and-getting-rid-of-my-vps/">Converting My Blog To Hugo and Getting Rid of My VPS</a></h1>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2019/02/01/converting-my-blog-to-hugo-and-getting-rid-of-my-vps/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2019-02-01T11:46:09Z">Friday, February 1, 2019</time> · 955 words · 5 min read</div>
+        </header>
+        <div class="text">
+
+<p><a href="https://blog.ktamas.com">I have a blog</a> (you&rsquo;re reading it!). It&rsquo;s got history: I set it up in early 2009, and I have almost 600 posts, mostly in Hungarian. I had one before that, between 2005 and 2008, but it was lost due to a variety of reasons, including my failure to properly back things up. Small bits of it are still <a href="http://web.archive.org/web/20070208165650/http://blog.ktamas.com/">up in the Wayback Machine</a>, though. It was all in Wordpress, which does its job, though even in 2019 it can be a pain to update things.</p>
+<h3 id="from-wordpress-to-jekyll-to-hugo">From Wordpress to Jekyll to Hugo</h3>
+<p>About a week ago I decided it was time to migrate it to <a href="https://jekyllrb.com/">Jekyll</a>. I was bored, and it gave me a good excuse to play with a static site generator. Plus, doing this kind of conversion became a rite of passage for people working in tech these days.</p>
+<p><em>This is not a complete guide; you can find hundreds of them with a <a href="https://www.google.com/search?q=convert+wordpress+to+jekyll">quick google</a>. I will, however, provide a general overview of the process with some helpful pointers and links.</em></p>
+<p>I started by migrating all the comments to Disqus with their <a href="https://wordpress.org/plugins/disqus-comment-system/">official Wordpress plugin</a>. After that, I used a <a href="https://wordpress.org/plugins/jekyll-exporter/">Jekyll exporter plugin</a> that converted all my posts into markdown&hellip; except it stripped all the embeds.</p>
+<p>I used to blog a lot about music, so I had a lot of embeds, mostly from Youtube. In retrospect, I could have saved myself some time by patching the exporter or finding another one. In the end, however, I ended up fixing every single post by hand. I replaced old, pre-iframe flash embed codes with updated ones and changed the newer, but still http ones to https. In most places, if the video was not necessary or wasn&rsquo;t available anymore, I added the song to the post via Spotify. The chances of a given song being up on Spotify in a few years feels <em>marginally</em> higher than on Youtube right now. I had a few other embeds that I could fix with newer code (Soundcloud) and others that I couldn&rsquo;t (Deezer), but most of the time I could find the given song or playlist within Spotify. All of this had the benefit of walking down on memory lane, reading 10-year old blog posts and cringing a lot. <em>I was so young.</em></p>
+<hr>
+<p>I&rsquo;ve found a <a href="https://github.com/vinitkumar/white-paper">reasonably decent theme</a> for Jekyll, which felt like a good starting point, though it didn&rsquo;t have built-in support for tags or archives. I started googling how to implement that, and around the same time I was venting about my embed issues on the XOXO slack. That was when <a href="https://twitter.com/theory">David</a> chimed in about his experiences on doing this exact same process, except he ended up using <a href="https://gohugo.io">Hugo</a>, another popular static site generator that&rsquo;s kind of like Jekyll except faster. <a href="https://github.com/theory/justatheory/tree/master/themes/justatheory">The theme</a> of <a href="https://justatheory.com">his blog</a> had everything I wanted: a fancy archives page and proper support for tags. So I figured I might as well continue my journey: switch to Hugo and use his theme as a basis.</p>
+<p>Jekyll is written in Ruby and uses a simple templating language. Hugo&rsquo;s code is in Go, and it uses Go&rsquo;s own templates; they definitely have a learning curve, even if you have coded in Go before. With some help, googling and a lot of trial and error, I got the hang of it and managed to change things to my liking as well as the look and the color scheme of the site. I converted most of my posts&rsquo; <a href="https://gohugo.io/content-management/front-matter/">front matter</a> <a href="https://github.com/coderzh/ConvertToHugo">with a script</a> and fixed the rest with a few search-and-replaces. With 8-10 hours of work behind me — half of that was fixing those embeds — I had my new blog ready to be <a href="https://pages.github.com/">hosted on Github Pages for free</a>. I use a modified version of the <a href="https://gohugo.io/hosting-and-deployment/hosting-on-github/#put-it-into-a-script-1">sample deploy script</a> they have in Hugo&rsquo;s documentation.</p>
+<h3 id="getting-rid-of-my-vps">Getting Rid of My VPS</h3>
+<p>I had a small VPS at Linode for years now, hosting my pet projects, my blog and a bunch of static sites (like my <a href="https://ktamas.com">home page</a>) over the years. It also had OpenVPN installed so I could watch iPlayer for free until BBC started cracking down on that. By now it only had my blog and those static sites; I figured if I could find something for the latter, I could ditch the VPS entirely.</p>
+<p>I don&rsquo;t remember how, but I came across <a href="https://netlify.com">Netlify</a>. They give you free static hosting with extremely generous soft limits (100 gigs of storage, 100 GB/month transfer). You just point them to a Github repository, and about 30 seconds later you have your site ready, with support for multiple custom domains and SSL.</p>
+<p>I spent an hour or two moving everything to Netlify, changing the necessary DNS entries and in the end, I was ready to say goodbye to my VPS and save a grand total of $7 a month in the future. I made backups of everything and then, somewhat emotionally pressed the &ldquo;Delete&rdquo; button on Linode&rsquo;s control panel. I wouldn&rsquo;t be surprised if I would get another one eventually for a side project or something, but for now, I&rsquo;m happy with my all my stuff hosted around the internet for free and stored in git repos.</p>
+<h3 id="on-the-future-of-my-blog">On the Future of My Blog</h3>
+<p>There is a lot more content to come as I started writing regularly. Feel free to <a href="http://feeds.feedburner.com/KTamasBlog">subscribe to this blog</a> in your favorite RSS reader.</p>
+<p>Hugo gives me a lot of ways to tinker; I am already thinking about replacing the commenting system, adding reading time, word count and so on. I might write something on this in again in the future.</p>
+<p><em>This post was not sponsored by anyone, just in case some of it reads like an ad for Github or Netlify or whatever.</em></p>
+
+        </div>
+
+        <div class="tags">
+            <i class="fas fa-tags"></i>
+            <a href='/tags/meta/'>meta</a>, <a href='/tags/tech/'>tech</a>, <a href='/tags/hugo/'>hugo</a>
+        </div>
+    </article>
+
+		
+		    <article class="post">
+        <header>
+            <h1 class="post"><a href="/index.php/2019/01/31/on-wine-and-anxiety/">On Wine and Anxiety</a></h1>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2019/01/31/on-wine-and-anxiety/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2019-01-31T16:40:50Z">Thursday, January 31, 2019</time> · 543 words · 3 min read</div>
+        </header>
+        <div class="text">
+
+<p>I&rsquo;m sitting in a wine bar and waiting for my friends to arrive to hang out. I spent my free time today working my converting my blog from Wordpress to Hugo — with a detour of Jekyll — and moving my static sites to Netlify so that I can shut down my barely-used VPS. A full write-up about this is coming soon.</p>
+<p>I have about 20 minutes before said friends arrive so this will be one of those stream of consciousness posts where I just start writing and see what comes out of it.</p>
+<hr>
+<p>For the longest time, I did not like neither beer nor wine. Sure, both are acquired tastes, but I tried plenty (especially beer) and it just never clicked. To this day the only beer I drink is alcohol-free lager since it&rsquo;s the one that tastes the least like actual beer and it has the advantage of, well, not having alcohol in it. If I wanted to get tipsy or drunk I would go with shots or cocktails. That changed in recent years, though; I finally got a taste of wine, dry red wine, to be exact.</p>
+<hr>
+<p>I mentioned a bunch of times already that in 2012 my untreated anxiety disorder got to the point where I started having panic attacks and forced me to seek treatment. One of the side-effects of all this is that my stomach was shot. I had severe discomfort/pain for months; at one point, someone accidentally figured out that the primary cause was high stomach acid and antacid pills help. Slowly, I started recovering. To aid the process and my digestion (in retrospect, maybe my anxiety as well), my old GP, who was somewhat old-school prescribed me a deciliter of red wine, every day, after lunch. It&rsquo;s not like I had anything to lose, and it&rsquo;s not enough alcohol to get me tipsy anyway.</p>
+<p>So I did that for like two months, and after a few weeks, I started not hating red wine. A few weeks after that, I was a convert. Since then it became my go-to drink of choice.</p>
+<hr>
+<p>I don&rsquo;t know much about wine. &ldquo;It&rsquo;s good&rdquo; or &ldquo;It sucks&rdquo; is as far as I can go. I did develop preferences over the years; by far and large, I like a good Merlot or Pinot Noir. Above all, Shiraz (Syrah) wines, mostly from Australia and New Zealand are among my favorites.</p>
+<p>When I lived in Sweden, I had the luxury of having a selection of 100s of different wines from at least 20 different countries. See, in Sweden, there is a government monopoly on selling alcohol above 3.5%; you can only buy the serious stuff in state-run alcohol shops. The pros and cons of this system are beyond the scope of this post, but one huge pro was the selection I&rsquo;ve mentioned above.</p>
+<hr>
+<p>I&rsquo;m back in Hungary now, and though there are stores where you can get import wine, most of the wine here is local. Which is not a bad thing, of course; Hungarian is a wine country, and our wine is renowned for its quality. I do miss being able to pick from all the different countries, though.</p>
+<hr>
+<p>My friends started arriving. Time for me to order a glass of Syrah&hellip;</p>
+
+        </div>
+
+        <div class="tags">
+            <i class="fas fa-tags"></i>
+            <a href='/tags/writersblock/'>writersblock</a>, <a href='/tags/wine/'>wine</a>
+        </div>
+    </article>
+
 		
 		    <article class="post">
         <header>
@@ -330,65 +397,6 @@
         <div class="tags">
             <i class="fas fa-tags"></i>
             <a href='/tags/30/'>30</a>, <a href='/tags/thoughts/'>thoughts</a>
-        </div>
-    </article>
-
-		
-		    <article class="post">
-        <header>
-            <h1 class="post"><a href="/index.php/2019/01/15/in-memoriam-of-sharewood-my-own-little-content-sharing-community/">In Memoriam of Sharewood — My Own Little Content Sharing Community</a></h1>
-            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2019/01/15/in-memoriam-of-sharewood-my-own-little-content-sharing-community/"><i class="far fa-bookmark"></i></a>
-            <time datetime="2019-01-15T09:56:04Z">Tuesday, January 15, 2019</time> · 617 words · 3 min read</div>
-        </header>
-        <div class="text">
-
-<p>This post was inspired by the Motherboard article, <a href="https://motherboard.vice.com/en_us/article/a3mm4z/the-rise-and-demise-of-rss">The Rise and Demise of RSS</a>.</p>
-<hr>
-<p>It was early 2012 and Google Reader&rsquo;s sharing function was taken from us, replaced with a useless, shitty &ldquo;Share to Google+&rdquo; button (Fuck you, Google). I&rsquo;ve been using Reader since late 2006 and the sharing feature since it&rsquo;s introduction; the notion that if I see something interesting on the internet <em>I must share it with others</em> was ingrained in me, forever.</p>
-<p>It started with conversations with friends, and we discovered that Posterous (RIP) had a decent bookmarklet one could use to grab content for sharing. So a few of us started content-sharing blogs (or linkblogs, if you will). Not long after, a friend suggested an idea: why don&rsquo;t we make our own content-sharing community? So we could use that for a back-end, all we need is a place where we aggregate all these blogs full of content.</p>
-<p>The name of software that is used to aggregate RSS feeds is <a href="https://en.wikipedia.org/wiki/Planet_(software)">Planet</a>. There were and still are many Planet sites, so I went looking for a suitable engine, but none of them were right until I stumbled upon the <a href="https://github.com/anildigital/planet">code</a> behind planetrubyonrails.com (RIP), written in, wait for it, Rails. I was already familiar with Rails, so <a href="https://github.com/ktamas/sharewood.hu">I forked it</a>, upgraded it to the latest version of Ruby on Rails, made a couple of changes and a basic design and by then I already had ten people interested, mostly from the old community at Reader.</p>
-<p>A cronjob crawled the people&rsquo;s feeds, pulled the content into the database, stripped most of the formatting and then displayed it on the site, which itself had an RSS feed of course. And so, in early 2012, <a href="http://goodbye.sharewood.hu/">Sharewood</a> (RIP) was born.</p>
-<hr>
-<p>Over the next year or so our community has grown a bit. At the height of it, we had about 16 people. That may not sound like a lot, but a community is a community. People were sharing all kinds of interesting things, and I felt like I got back at least part of what we lost when Google neutered Reader.</p>
-<p>The project was an opportunity for me as well to play with Rails; I ended up rewriting almost the entire codebase. I wrote a new RSS/Atom parser; tried to implement PuSH (<a href="https://en.wikipedia.org/wiki/WebSub">PubSubHubBub</a>); added support for user accounts, so people would be able to follow others and get a custom RSS feed. I added a few tweaks to the front-end as well, like j/k navigation.</p>
-<p>In early 2013 Google announced that they&rsquo;d shut down Reader and a flurry of new alternatives appeared. One of the most promising ones was Hivemined, one that would never be finished; the one I ended up switching to was <a href="https://newsblur.com/">NewsBlur</a> which I still use to this day. It&rsquo;s customizable, fast, has good support and UX. It also has built-in sharing and commenting support although it&rsquo;s not used widely. I tried switching to it, but never really got hooked on it, and I never had a community around it.</p>
-<hr>
-<p>I shut down Sharewood in 2014, having done only basic maintenance on it for a year by then, and I felt like it has run its course.</p>
-<p>My itch to share things is still very much present; I <a href="http://sharing.ktamas.com/">maintain a Tumblr blog</a> where I share things irregularly, mostly webcomics I like. I also retweet interesting and funny things a lot <a href="https://twitter.com/ktamas">on Twitter</a>. But I still don&rsquo;t have a central place with a community like in the good old days, if you will.</p>
-<p>I have no illusions; RSS will not make a comeback. Retweeting things and commenting on them or sharing things in private Slacks are as good as it gets right now.</p>
-<p>The itch is still there.</p>
-
-        </div>
-
-        <div class="tags">
-            <i class="fas fa-tags"></i>
-            <a href='/tags/sharewood/'>sharewood</a>, <a href='/tags/rss/'>rss</a>, <a href='/tags/googlereader/'>googlereader</a>
-        </div>
-    </article>
-
-		
-		    <article class="post">
-        <header>
-            <h1 class="post"><a href="/index.php/2019/01/03/on-blogging-journaling-evernote-todos-and-thinking-in-weeks/">On Blogging, Journaling, Evernote, Todos and Thinking in Weeks</a></h1>
-            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2019/01/03/on-blogging-journaling-evernote-todos-and-thinking-in-weeks/"><i class="far fa-bookmark"></i></a>
-            <time datetime="2019-01-03T16:10:20Z">Thursday, January 3, 2019</time> · 571 words · 3 min read</div>
-        </header>
-        <div class="text">
-
-<p>Well, it&rsquo;s day 5 of my streak, and I have no idea what to write about. But they say you just have to start and eventually something will come out of it, so that&rsquo;s what I am doing now.</p>
-<p>Thing is, <a href="https://blog.ktamas.com/">I have a blog</a>, although I have not blogged regularly for years now. The only time I did that was in early 2013 when I moved to Sweden from Hungary. For a while I did post daily because things were new and exciting, but eventually it just became regular life stuff, and I slowly stopped; other things became priority. Nevertheless, it was an important period in my life, and I&rsquo;m glad I have written memories of it.</p>
-<p>Around 2013 I got myself a pocket-sized Moleskine, and I started writing down whatever came to my mind, journaling, more or less. I had that notebook with me religiously, in my right pocket, next to my wallet and in the next year and a half, I filled several of them. My favorite was the Evernote edition, which is not sold anymore. It gave you three months of Evernote premium but more importantly, it had nice, light, dot-grid pages which quickly became my favorite.</p>
-<p>I kept writing in my notebooks until the start of 2015 when I went digital and started writing all the things down in Evernote. Now, Evernote is by no means a perfect app: it&rsquo;s bloated, slow and clumsy in many ways. And yet to this day, I have found no suitable replacement for it. It&rsquo;s one of those softwares that my brain got hardwired to (like OSX, or Lightroom). Plus it&rsquo;s available for every platform ever.</p>
-<p>I usually make a note a day with the title being the current date. I make a lot of ad-hoc todo lists which is as close as I get to being organized with my todos, being tried at least a half dozen apps by now and never being able to stick to one.</p>
-<p>(I still carry a paper notebook with me everywhere, an A5 dotted Leuchtturm1917 Bullet Journal that I use for regular notebook purposes because BuJoing turned out to be Not My Thing™, but they make good notebooks. I mostly use it to take notes when I&rsquo;m at my therapist.)</p>
-<p>In the last few weeks, I&rsquo;m trying a new experiment with the todos, which is moving to a weekly format, so I have one Note with the todos for Week 51, one for Week 52 and so on. In each note, I have each day and a &ldquo;Later&rdquo; section, and I try to add as many things as possible because it gives me a sense of achievement and it&rsquo;s nice to look back on days when I thought I got nothing done.</p>
-<p>P.S. Thinking in weeks is a very Swedish thing to do. In Sweden, everyone knows what week it is, and they frequently refer to them as in &ldquo;I&rsquo;m doing this on week X&rdquo; or &ldquo;I&rsquo;ll be on vacation between week Y and Z.&rdquo; If my memory serves me right, one of the most popular apps in the Swedish App Store for a long time was called &ldquo;Week Calendar&rdquo; until Apple added the option to display week numbers in Calendar. It drove me crazy for a long time, but I have to admit that it makes sense because it&rsquo;s a good unit of time. I&rsquo;ve been told the Germans do the same.</p>
-
-        </div>
-
-        <div class="tags">
-            <i class="fas fa-tags"></i>
-            <a href='/tags/metablogging/'>metablogging</a>, <a href='/tags/adhd/'>adhd</a>
         </div>
     </article>
 
