@@ -52,6 +52,26 @@
 		
 		    <article class="post">
         <header>
+            <h1 class="post"><a href="/index.php/2012/10/28/feed-nagytakaritas/">Feed nagytakarítás</a></h1>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2012/10/28/feed-nagytakaritas/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2012-10-28T17:40:08Z">Sunday, October 28, 2012</time> · 128 words · 1 min read</div>
+        </header>
+        <div class="text">
+
+<p>Leginkább note to self jellegű a bejegyzés, de hátha másnak is haszos lehet.</p>
+<p>Az alapprobléma: nagyon sok feedet olvasok (587 jelen pillanatban), és szeretném tudni, nem-e változott meg valameliknek a címe / szűnt meg az oldal időközben.</p>
+<p>A megoldás: végigmegyünk a feed URL-jein, és megnézzük, melik dob valami más HTTP státuszt, mint 200, ami ugye az OK.</p>
+<p>Az eszközök: Ruby, Curl, valami posix-kompatibilis rendszer (Linux, OSX etc.)</p>
+<p>Első körben letöltjük az OPML fájlunkat a readerből. Utána <a href="https://gist.github.com/d2b82556b4c9bc5baddd">ennek a ruby scriptnek a segítségével</a> kiszedjük belőle az URL-eket a <code>subscription_urls.txt</code> fájlba.</p>
+<p>Ezután <a href="https://gist.github.com/1ab093f30e4f6ad748f1">ez a script</a> szépen végigellenőrzi a feedek HTTP státuszát (az outputot iranyitsuk tetszőleges szövegfájlba), végül nyissuk meg ezt a fájlt, és nyomjunk rá egy sortot kedvenc szövegszerkesztőnkben és indulhat a vadászat: minden ami nem 200-zal kezdődik, az gyanús.</p>
+
+        </div>
+
+    </article>
+
+		
+		    <article class="post">
+        <header>
             <h1 class="post"><a href="/index.php/2012/10/18/rukkola-bookmarklet-update-4-this-is-not-a-goodbye/">Rukkola bookmarklet update 4: this is not a goodbye</a></h1>
             <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2012/10/18/rukkola-bookmarklet-update-4-this-is-not-a-goodbye/"><i class="far fa-bookmark"></i></a>
             <time datetime="2012-10-18T13:15:41Z">Thursday, October 18, 2012</time> · 105 words · 1 min read</div>
@@ -227,35 +247,6 @@
 
         </div>
 
-    </article>
-
-		
-		    <article class="post">
-        <header>
-            <h1 class="post"><a href="/index.php/2012/08/11/hacking-rukkola-avagy-alternativ-kollekciobongeszes/">Hacking Rukkola, avagy bookmarklet a nem happolhatóak elrejtésére</a></h1>
-            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2012/08/11/hacking-rukkola-avagy-alternativ-kollekciobongeszes/"><i class="far fa-bookmark"></i></a>
-            <time datetime="2012-08-11T18:31:15Z">Saturday, August 11, 2012</time> · 262 words · 2 min read</div>
-        </header>
-        <div class="text">
-
-<p>Szóval elindult a <a href="http://rukkola.hu/">rukkola.hu</a>, közösségi könyvcserélde, remek dolog, próbáljátok ki, felteszitek a megunt könyveiteket, és cserébe szerezhettek másoktól hasonlókat. A böngészés a feltett könyvek között egyelőre még nem tökéletes, engem például borzasztóan zavar, hogy a <a href="http://rukkola.hu/kollekciok">kollekciók</a> böngészésénél (szerk: és keresésnél) nincs olyan nézet, amikor csak azokat a könyveket látom, amikre ténylegesen lecsaphatok.</p>
-<p>Összedobtam hát gyorsan egy bookmarkletet erre. Chrome Extensionnek indult, de nem érzem elég nagynak, hogy megérje berakni a saját App Storejukba, valamint sóher vagyok kifizetni az öt dollárt érte egyelőre, majd ha még lesz pár ilyen rukkola-módosításom, amit már érdemes felrakni. Mindenesetre nincs más dolgoktok, hogy <a href="http://blog.ktamas.com/index.php/rukkola-bookmarklet/">felrakjátok a bookmarklet oldaláról</a>. <del datetime="2012-08-15T16:30:01+00:00">Lapozni a Tovább gombbal lehet, még az oldalakat is mutatja.</del> <strong>Update:</strong> nem kell semmit kattintgatni, <a href="http://blog.ktamas.com/index.php/2012/08/15/rukkola-bookmarklet-update-1-gorgetes-a-vegtelenbe/">van végtelen görgetés</a>.</p>
-<p><strong>Update 2:</strong> A bookmarklet frissült és saját oldalt kapott, <a href="http://blog.ktamas.com/index.php/rukkola-bookmarklet/">innen rakhatod fel</a>.</p>
-<p>A mostani megoldásnak megvan az a hátránya, hogy ha átkattintasz egy könyvre, akkor sajnos kezdheted elölről. Ez egy 0.0.<del datetime="2012-08-15T16:30:01+00:00">1</del>2-es változat, a 0.0.<del>2</del>3-ben majd ezt is áthidaljuk valahogy remélhetőleg és/vagy egyszer a távoli jövőben ha lesz Rukkola API, majd arra fogunk építkezni.</p>
-<p>A teljes kód <a href="https://github.com/KTamas/rukkola_hacks/tree/bookmarklet">fent van a githubon</a> természetesen. <del datetime="2012-08-15T16:40:33+00:00">Könnyen megoldható lenne, hogy az összes oldalt betöltse egyszerre, de ezt nem szeretném, mert feleslegesen terhelném vele a rukkola szervereit, amik amúgyis elég lassúak tudnak lenni sajnos sokszor. Esetleg a jövőben valamiféle végtelenscrollozást belerakok, és akkor a Továbbra kattintgatást megússza az ember.</del> <a href="http://blog.ktamas.com/index.php/2012/08/15/rukkola-bookmarklet-update-1-gorgetes-a-vegtelenbe/">Van végtelen görgetés!</a></p>
-<p>És egy before-after kép, avagy előtte:</p>
-<p><a href="/wp-content/uploads/2012/08/rbefore.jpg"><img src="/wp-content/uploads/2012/08/rbefore-439x1024.jpg" alt="" title="Előtte" width="439" height="1024" class="aligncenter size-large wp-image-2363219" srcset="/wp-content/uploads/2012/08/rbefore-439x1024.jpg 439w, /wp-content/uploads/2012/08/rbefore-128x300.jpg 128w, /wp-content/uploads/2012/08/rbefore.jpg 1009w" sizes="(max-width: 439px) 100vw, 439px" /></a></p>
-<p>És utána:</p>
-<p><a href="/wp-content/uploads/2012/08/rafter.jpg"><img src="/wp-content/uploads/2012/08/rafter-400x1024.jpg" alt="" title="Utána" width="400" height="1024" class="aligncenter size-large wp-image-2363218" srcset="/wp-content/uploads/2012/08/rafter-400x1024.jpg 400w, /wp-content/uploads/2012/08/rafter-117x300.jpg 117w" sizes="(max-width: 400px) 100vw, 400px" /></a></p>
-<p>(P.S.: RSS-ből valószínű biztosan nem fog működni a bookmarkletes dolog, szóval ha ezt a Google Readerben olvasod, át kell hozzá kattintani)</p>
-<p>(P.P.S.: A bookmarklet remekül alkalmazható keresésekre is.)</p>
-
-        </div>
-
-        <div class="tags">
-            <i class="fas fa-tags"></i>
-            <a href='/tags/programoz%C3%A1s/'>programozás</a>, <a href='/tags/rukkola/'>rukkola</a>
-        </div>
     </article>
 
 		
