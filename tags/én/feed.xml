@@ -3,19 +3,19 @@
 	<id>https://blog.ktamas.com/tags/%C3%A9n/</id>
 	<title>én on KTamas&#39; Blog</title>
 	<subtitle>An ongoing list of KTamas' Blog posts about én</subtitle>
-	<updated>2015-06-24T10:42:52Z</updated>
+	<updated>2014-05-19T10:10:08Z</updated>
 	<link rel="self" type="application/atom+xml" href="https://blog.ktamas.com/tags/%C3%A9n/feed.xml"/>
 	<link rel="alternate" type="text/html" href="https://blog.ktamas.com/tags/%C3%A9n/"/>
 	<author>
 		<name>KTamas</name>
 		<uri>https://blog.ktamas.com/</uri>
 	</author>
-	<generator uri="https://gohugo.io/" version="0.70.0">Hugo</generator>
+	<generator uri="https://gohugo.io/" version="0.71.1">Hugo</generator>
 	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
 	<entry>
 		<id>https://blog.ktamas.com/index.php/2020/05/01/my-recent-media-diet-march-april-2020/</id>
-		<title>My Recent Media Diet March April 2020</title>
+		<title>My Recent Media Diet (March/April, 2020)</title>
 		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2020/05/01/my-recent-media-diet-march-april-2020/"/>
 		<updated>2020-05-01T08:40:04Z</updated>
 		<published>2020-05-01T08:40:04Z</published>
@@ -26,12 +26,12 @@
 		<category scheme="https://blog.ktamas.com/tags" term="thoughts" label="thoughts"/>
 		<category scheme="https://blog.ktamas.com/tags" term="mediadiet" label="mediadiet"/>
 		<category scheme="https://blog.ktamas.com/tags" term="recommendations" label="recommendations"/>
-		<summary>Previously: February 2020, January 2020, Best of Media, 2019
+		<summary>Previously: February, 2020, January, 2020, Best of Media, 2019
 Time to catch up with things I’ve been watching/enjoying! I am shamelessly copying Kottke’s format, with some minor changes.
  Wow. Jesus. It’s been, uh, a decade since my last post and a lot has changed. I was way too overwhelmed with gestures with hands to finish it so this will be a combined March/April post.
  Movies Bad Education (2019): This is a movie, though it’s an HBO movie.</summary>
 		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
-<![CDATA[<p>Previously: <a href="https://blog.ktamas.com/index.php/2020/03/01/my-recent-media-diet-february-2020/">February 2020</a>, <a href="https://blog.ktamas.com/index.php/2020/02/01/my-recent-media-diet-january-2020/">January 2020</a>, <a href="https://blog.ktamas.com/index.php/2020/01/02/best-of-media-2019/">Best of Media, 2019</a></p>
+<![CDATA[<p>Previously: <a href="https://blog.ktamas.com/index.php/2020/03/01/my-recent-media-diet-february-2020/">February, 2020</a>, <a href="https://blog.ktamas.com/index.php/2020/02/01/my-recent-media-diet-january-2020/">January, 2020</a>, <a href="https://blog.ktamas.com/index.php/2020/01/02/best-of-media-2019/">Best of Media, 2019</a></p>
 <p>Time to catch up with things I&rsquo;ve been watching/enjoying! I am shamelessly copying <a href="https://kottke.org/19/06/my-recent-media-diet-summer-solstice-2019-edition">Kottke&rsquo;s format</a>, with some minor changes.</p>
 <hr>
 <p>Wow. Jesus. It&rsquo;s been, uh, a decade since my last post and a lot has changed. I was way too overwhelmed with <em>gestures with hands</em> to finish it so this will be a combined March/April post.</p>
@@ -65,7 +65,7 @@ Time to catch up with things I’ve been watching/enjoying! I am shamelessly cop
 <p>I had to stop watching <a href="https://en.wikipedia.org/wiki/Last_Week_Tonight_with_John_Oliver">Last Week Tonight</a> for my sanity — I just can&rsquo;t take anymore news these days, even if they are occasionally funny. See you John after the Plague is over.</p>
 
 <footer>
-    <a title="Permanent link to “My Recent Media Diet March April 2020”" href="https://blog.ktamas.com/index.php/2020/05/01/my-recent-media-diet-march-april-2020/">My Recent Media Diet March April 2020</a>
+    <a title="Permanent link to “My Recent Media Diet (March/April, 2020)”" href="https://blog.ktamas.com/index.php/2020/05/01/my-recent-media-diet-march-april-2020/">My Recent Media Diet (March/April, 2020)</a>
     by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
     Tagged
         <div class="tags">
@@ -192,7 +192,7 @@ Sure, you could just spend less time on the hellsite, but we both know that’s 
 	</entry>
 	<entry>
 		<id>https://blog.ktamas.com/index.php/2020/03/01/my-recent-media-diet-february-2020/</id>
-		<title>My Recent Media Diet February 2020</title>
+		<title>My Recent Media Diet (February, 2020)</title>
 		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2020/03/01/my-recent-media-diet-february-2020/"/>
 		<updated>2020-03-01T08:40:12Z</updated>
 		<published>2020-03-01T08:40:12Z</published>
@@ -203,12 +203,12 @@ Sure, you could just spend less time on the hellsite, but we both know that’s 
 		<category scheme="https://blog.ktamas.com/tags" term="thoughts" label="thoughts"/>
 		<category scheme="https://blog.ktamas.com/tags" term="mediadiet" label="mediadiet"/>
 		<category scheme="https://blog.ktamas.com/tags" term="recommendations" label="recommendations"/>
-		<summary>Previously: January 2020, Best of Media, 2019
+		<summary>Previously: January, Best of Media, 2019
 Time to catch up with things I’ve been watching/enjoying! I am shamelessly copying Kottke’s format, with some minor changes.
 Books I started reading Better Than IRL, which is about the Old Internet and how people find community there. I hope I can finish it, I’ve already read two essays from it.
 Movies A Beautiful Day in the Neighborhood (2019): I did not grow up with Mr.</summary>
 		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
-<![CDATA[<p>Previously: <a href="https://blog.ktamas.com/index.php/2020/02/01/my-recent-media-diet-january-2020/">January 2020</a>, <a href="https://blog.ktamas.com/index.php/2020/01/02/best-of-media-2019/">Best of Media, 2019</a></p>
+<![CDATA[<p>Previously: <a href="https://blog.ktamas.com/index.php/2020/02/01/my-recent-media-diet-january-2020/">January</a>, <a href="https://blog.ktamas.com/index.php/2020/01/02/best-of-media-2019/">Best of Media, 2019</a></p>
 <p>Time to catch up with things I&rsquo;ve been watching/enjoying! I am shamelessly copying <a href="https://kottke.org/19/06/my-recent-media-diet-summer-solstice-2019-edition">Kottke&rsquo;s format</a>, with some minor changes.</p>
 <h1 id="books">Books</h1>
 <p>I started reading <a href="https://fictionandfeeling.com/products/better-than-irl">Better Than IRL</a>, which is about the Old Internet and how people find community there. I hope I can finish it, I&rsquo;ve already read two essays from it.</p>
@@ -243,7 +243,7 @@ Movies A Beautiful Day in the Neighborhood (2019): I did not grow up with Mr.</s
 <p>I&rsquo;m still watching <a href="https://en.wikipedia.org/wiki/Last_Week_Tonight_with_John_Oliver">Last Week Tonight</a> and it&rsquo;s fine but the long segments are just increasingly meh.</p>
 
 <footer>
-    <a title="Permanent link to “My Recent Media Diet February 2020”" href="https://blog.ktamas.com/index.php/2020/03/01/my-recent-media-diet-february-2020/">My Recent Media Diet February 2020</a>
+    <a title="Permanent link to “My Recent Media Diet (February, 2020)”" href="https://blog.ktamas.com/index.php/2020/03/01/my-recent-media-diet-february-2020/">My Recent Media Diet (February, 2020)</a>
     by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
     Tagged
         <div class="tags">
@@ -254,7 +254,7 @@ Movies A Beautiful Day in the Neighborhood (2019): I did not grow up with Mr.</s
 	</entry>
 	<entry>
 		<id>https://blog.ktamas.com/index.php/2020/02/01/my-recent-media-diet-january-2020/</id>
-		<title>My Recent Media Diet January 2020</title>
+		<title>My Recent Media Diet (January, 2020)</title>
 		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2020/02/01/my-recent-media-diet-january-2020/"/>
 		<updated>2020-02-01T08:40:16Z</updated>
 		<published>2020-02-01T08:40:16Z</published>
@@ -295,7 +295,7 @@ Books For the Love of Men by Liz Plank: Hey, I read a book! Someone give me an a
 <p><a href="https://en.wikipedia.org/wiki/You_(TV_series)">You (season 1 and 2)</a>: I really enjoyed the first season but the second one is more of the same and eventually I could not handle being in the protagonist&rsquo;s head anymore, it was just too much toxic masculinity for me, even if that&rsquo;s the whole point of the show. I read the recaps for the rest of the season and, I mean, <em>wow</em>. Not gonna say anything else. And I&rsquo;m definitely not watching the third season if that happens. (A-; B-)</p>
 
 <footer>
-    <a title="Permanent link to “My Recent Media Diet January 2020”" href="https://blog.ktamas.com/index.php/2020/02/01/my-recent-media-diet-january-2020/">My Recent Media Diet January 2020</a>
+    <a title="Permanent link to “My Recent Media Diet (January, 2020)”" href="https://blog.ktamas.com/index.php/2020/02/01/my-recent-media-diet-january-2020/">My Recent Media Diet (January, 2020)</a>
     by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
     Tagged
         <div class="tags">
