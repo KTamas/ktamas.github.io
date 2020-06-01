@@ -52,6 +52,22 @@
 		
 		    <article class="post">
         <header>
+            <h1 class="post"><a href="/index.php/2012/10/28/pubsubhubbub/">PubSubHubBub</a></h1>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2012/10/28/pubsubhubbub/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2012-10-28T17:50:24Z">Sunday, October 28, 2012</time> · 122 words · 1 min read</div>
+        </header>
+        <div class="text">
+
+<p>Egy újszülöttnek minden vicc új, mondják, de az megvan mindenkinek hogy a Feedburnerben egy klikkel be lehet kapcsolni a PubSubHubBubot (ami nincs bekapcsolva alapból, nem igazán értem, miért)? A Publicize -&gt; PingShot alatt van a fícsör. És így nem fél nap alatt frissül a Google Readerben az adott feed.</p>
+<p>Az persze másik dolog, hogy maga a Feedburner 10-20-30 perc delayyel dolgozik, ezt úgy lehet kiküszöbölni, hogy mi magunk is megpingeljük a Feedburnert, mikor a frissül a feedünk. Mióta a gugli megvette a szolgáltatást, azóta leginkább csak romlott, a dokumentációhoz vezető linkek például halottak, de <a href="http://stackoverflow.com/questions/736413/ping-feedburner-in-django-app">lehet találni</a> példakódot. A végén <a href="https://github.com/KTamas/sharewood.hu/blob/master/app/helpers/application_helper.rb#L3">pár sor az egész</a>. Sőt, annyit kavartam hogy bekötöttem a <a href="http://superfeedr.com/">Superfeedr</a>t is, úgyhogy one way or another mindenképp PuSHolva lesz a feed, realtime.</p>
+
+        </div>
+
+    </article>
+
+		
+		    <article class="post">
+        <header>
             <h1 class="post"><a href="/index.php/2012/10/28/feed-nagytakaritas/">Feed nagytakarítás</a></h1>
             <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2012/10/28/feed-nagytakaritas/"><i class="far fa-bookmark"></i></a>
             <time datetime="2012-10-28T17:40:08Z">Sunday, October 28, 2012</time> · 128 words · 1 min read</div>
@@ -228,22 +244,6 @@
 <p><a href="/wp-content/uploads/2012/08/newbookmarklet.png"><img class="aligncenter size-full wp-image-2363255" title="newbookmarklet" src="/wp-content/uploads/2012/08/newbookmarklet.png" alt="" width="217" height="47" /></a></p>
 <p>És még be is tölti az új helyről a bookmarkletet bónuszként, de az üzenet minden alkalommal megjelenik, elősegítve a migrációt. Mindenkitől elnézést, akinek ez kellemetlenséget okoz, ilyen költözést többet nem tervezek a közeli és távolabbi jövőben.</p>
 <p>P.S.: Gyorsan beraktam azt, hogy menjen a legutóbbi happolások oldalon is.</p>
-
-        </div>
-
-    </article>
-
-		
-		    <article class="post">
-        <header>
-            <h1 class="post"><a href="/index.php/2012/08/15/rukkola-bookmarklet-update-1-gorgetes-a-vegtelenbe/">Rukkola bookmarklet update 1: görgetés a végtelenbe</a></h1>
-            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2012/08/15/rukkola-bookmarklet-update-1-gorgetes-a-vegtelenbe/"><i class="far fa-bookmark"></i></a>
-            <time datetime="2012-08-15T18:29:36Z">Wednesday, August 15, 2012</time> · 110 words · 1 min read</div>
-        </header>
-        <div class="text">
-
-<p>Most, hogy <a href="http://salata.rukkola.hu/2012/08/14/upgrade/">gyors lett a rukkola</a> (hurrá! hurrá! hurrá!), belefejlesztettem <a href="http://blog.ktamas.com/index.php/2012/08/11/hacking-rukkola-avagy-alternativ-kollekciobongeszes/">a bookmarkletbe</a> a végtelenbe görgetést jól, így nem kell a továbbot kattintgatni, csak szépen menni lefele és a többi magától történik. Mi több, nincs többé olyan sem, hogy a tovább gombra nem tölt be semmit (ami valójában azt jelentette, hogy a következő oldalon nem volt happolható könyv); ilyenkor automatikusan tölti a következő oldalt egészen addig, amíg nem talál legalább annyi könyvet ami új sort kezd. Ha pedig az adott kollekció végére ért az ember, akkor azt is jelzi már egy diszkrét üzenettel.</p>
-<p>A frissítéshez az égvilágon semmit nem kell tenni, mivel maga a bookmarklet mindig a legfrissebb verziót futtatja le.</p>
 
         </div>
 
