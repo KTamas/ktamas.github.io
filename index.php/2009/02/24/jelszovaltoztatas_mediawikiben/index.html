@@ -7,7 +7,7 @@
 	<title>Jelszóváltoztatás Mediawikiben</title>
 	<meta name="description" content="Napi találós kérdés: hogyan változtatjuk meg egy adott user jelszavát Mediawiki alatt ha adminok vagyunk? Természetesen így:
 How do I change a user’s password? Assuming that $wgPasswordSalt is set to true (the default), you can use the following SQL query:
-UPDATE user SET user_password = MD5(CONCAT(user_id, ‘-&#39;,
+UPDATE user SET user_password = MD5(CONCAT(user_id, ‘-’,
 MD5(‘somepass’))) WHERE user_name = ‘someuser’;
 Ha jön a forradalom, mennek a falhoz." />
 	<meta name="author" content="KTamas" />
@@ -28,14 +28,14 @@ Ha jön a forradalom, mennek a falhoz." />
 	<meta property="og:site_name" content="KTamas&#39; Blog"/>
 	<meta property="og:description" content="Napi találós kérdés: hogyan változtatjuk meg egy adott user jelszavát Mediawiki alatt ha adminok vagyunk? Természetesen így:
 How do I change a user’s password? Assuming that $wgPasswordSalt is set to true (the default), you can use the following SQL query:
-UPDATE user SET user_password = MD5(CONCAT(user_id, ‘-&#39;,
+UPDATE user SET user_password = MD5(CONCAT(user_id, ‘-’,
 MD5(‘somepass’))) WHERE user_name = ‘someuser’;
 Ha jön a forradalom, mennek a falhoz." />
 	<meta property="og:image" content="https://blog.ktamas.com/icon-512x512.png" />
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:site" value="@ktamas" />
 	<meta name="twitter:creator" value="@ktamas" />
-	<meta name="generator" content="Hugo 0.71.1" />
+	<meta name="generator" content="Hugo 0.72.0" />
 </head>
 <body>
 	<div id="container">

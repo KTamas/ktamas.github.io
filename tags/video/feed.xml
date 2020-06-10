@@ -10,9 +10,72 @@
 		<name>KTamas</name>
 		<uri>https://blog.ktamas.com/</uri>
 	</author>
-	<generator uri="https://gohugo.io/" version="0.71.1">Hugo</generator>
+	<generator uri="https://gohugo.io/" version="0.72.0">Hugo</generator>
 	<icon>"https://blog.ktamas.com/icon-512x512.png"</icon>
 	<rights>© Tamas Kadar, 2009-2019. All Rights Reserved.</rights>
+	<entry>
+		<id>https://blog.ktamas.com/index.php/2020/06/09/my-bangbangcon-2020-experience-as-a-speaker/</id>
+		<title>My !!Con 2020 experience as a speaker</title>
+		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2020/06/09/my-bangbangcon-2020-experience-as-a-speaker/"/>
+		<updated>2020-06-10T12:32:44Z</updated>
+		<published>2020-06-10T12:32:44Z</published>
+		<author>
+			<name>KTamas</name>
+			<uri>https://blog.ktamas.com/</uri>
+		</author>
+		<category scheme="https://blog.ktamas.com/tags" term="bangbangcon" label="bangbangcon"/>
+		<category scheme="https://blog.ktamas.com/tags" term="conference" label="conference"/>
+		<category scheme="https://blog.ktamas.com/tags" term="publicspeaking" label="publicspeaking"/>
+		<summary>!!Con 2020 was the best-organized virtual conference I’ve ever attended, and I figured I’d share a few things that I feel like made it great.
+ First, they take care of their speakers. This is nothing new; in the past, they’d pay for your trip and accommodation to NYC. On top of that, you receive a $256 honorarium.
+This being a virtual conference, no trips were involved, but speakers did need good audio and video for their talks.</summary>
+		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
+<![CDATA[<p>!!Con 2020 was the best-organized virtual conference I&rsquo;ve ever attended, and I figured I&rsquo;d share a few things that I feel like made it great.</p>
+<hr>
+<p>First, they take care of their speakers. This is nothing new; in the past, they&rsquo;d pay for your trip and accommodation to NYC. On top of that, you receive a $256 honorarium.</p>
+<p>This being a virtual conference, no trips were involved, but speakers did need good audio and video for their talks. The organizers covered everyone&rsquo;s cost to get a good webcam and a microphone for up to around $250 (a soft limit). I was lucky and got a Logitech Brio immediately after my talk was accepted, just before the entire world ran out of webcams; others were less lucky. I also got a Blue Yeti microphone, which worked well.</p>
+<p>The original plan was for everyone to stream via <a href="https://obsproject.com/">OBS</a> to a custom RTMP server, but this was eventually scrapped for several reasons. They ended up using <a href="https://streamyard.com">StreamYard</a> instead. The service only requires a web browser; as a speaker, you open a link, share your mic, webcam and you&rsquo;re good to go. This does not give you as much flexibility, but it does the job and works really well.</p>
+<p>As a speaker, you also had the option to make a pre-recorded version of your talk and have them play it instead of doing it live, or just have it as a backup in case something goes wrong; I think every virtual conference should implement a system like this. You had to record yourself and your presentation in two separate videos, and <a href="confreaks.com">Confreaks</a> took care of the rest. The organizers also made sure to do an A/V check with every speaker before the conference, and you even had the option of sending them a separate video to upload to Youtube if you felt like your live talk could be improved in post.</p>
+<p>!!Con was always livestreamed for free on Youtube. The perks you got if you had a ticket were access to a closed Discord server and a T-shirt.</p>
+<p>This is not the first virtual conference that organized their hallway track around Discord, but they went the extra mile and then some.</p>
+<p>For one, they set up a channel for each speaker&rsquo;s talk, ordered by the schedule. As the day and the talks progressed, you would move from channel to channel, down on the list. This proved to be a brilliant idea: it was easy to keep track of the conversations, they were not in one big batch, and you could always go back to a given channel if you wanted to talk about a specific talk. More conferences should adopt this.</p>
+<p>Communication with the speakers also went through Discord; one had to keep it open because it was where they&rsquo;d tell you if something was not right with your A/V setup or whatever. This proved to be a challenge for a few people as some presentation software — I&rsquo;m looking at you, Keynote — blanks out all your screens while in presentation mode. But in those cases, the organizers could fall back to just texting the person. I had Discord open on my iPad since I was presenting from my laptop.</p>
+<p>They also had a bot that could match random people up to hang out. You would go to a channel and say &ldquo;match me&rdquo;, and if other people did the same in the next 60 (or later, 90) seconds, it&rsquo;d create a Discord voice room and send everyone an invite. This worked okay, but I didn&rsquo;t see it used that much, and many times, you would not get enough interested people to join you.</p>
+<p>Besides Discord and the thoughtful organization of the channels, there were virtual Zoom rooms you could join throughout the conference. You were given a map with all the rooms, and it showed you who was in the given room; if your Zoom name and Discord name matched to a certain degree, it even showed your avatar.</p>
+<p>Early on, someone started a <a href="https://docs.google.com/spreadsheets/d/15yh9gABz2ZgHwbkOD5cXxgT_RQx7-ituTVy6dIQ11DM/edit#gid=1100664741">Spreadsheet Party</a> and it was a huge success; it was even turned into an <a href="https://unleashed-simplistic-lingonberry.glitch.me/">editable Glitch page</a>.</p>
+<p>The broadcast itself overall went well; there were some early glitches, sound issues and such, but these are almost inevitable. Cindy from Confreaks did a great job with everything. After some people suggested it, the organizers started adding some padding between talks, because people needed time to mentally move on to the next talk and Discord channel. It&rsquo;d be nice to have a dedicated emcee next year, though; I&rsquo;ve seen that work very well on other virtual conferences.</p>
+<p>All this culminated in the fact that throughout the weekend, I really felt like <em>I was there at the conference</em> and that was a first for me with a virtual event. I&rsquo;d be on Discord, have the livestream open (or up on my TV), chat/talk/zoom with people in the breaks, clap at the end of each talk and so on. It was like magic.</p>
+<hr>
+<p>One of the many, many strengths of !!Con is that the organizers are really good at curating interesting talks. Even the ones where you go &ldquo;meh&rdquo; are still objectively good ones.</p>
+<p>This year was no different, and I wanted to highlight a few that I enjoyed the most.</p>
+<ul>
+<li>The <a href="https://www.youtube.com/watch?v=z670kHQhYvs">first day&rsquo;s keynote by Taeyoon Choi</a> was one of the many talks that showed how you can be creative with pre-recorded talks; they don&rsquo;t have to be just you speaking with a slide deck (not that anything is wrong with that). He showed us around in Seoul, his home city, and talked about many things throughout.</li>
+<li><a href="https://www.youtube.com/watch?v=NWejhIM74do">&ldquo;The Taming of the Clue&rdquo; by Chloe Revery</a></li>
+<li><a href="https://www.youtube.com/watch?v=jbFr-D4c_HM">&ldquo;Trapped in codepoints no more! I&rsquo;m freeing Chinese characters&rdquo; by Gábor Ugray</a></li>
+<li><a href="https://www.youtube.com/watch?v=6rbJu10Telc">&ldquo;Playing Breakout… inside a PDF!!&rdquo; by Omar Rizwan</a></li>
+<li><a href="https://www.youtube.com/watch?v=3y9DNluD-cU">&ldquo;EMAIL!&rdquo; by Char Stiles</a></li>
+<li><a href="https://www.youtube.com/watch?v=x8T7UE7A0jk">&ldquo;Quebec&rsquo;s 735kv power lines can survive the apocalypse, but can they run TCP?!&rdquo; by Nick Sweeting</a></li>
+<li><a href="https://www.youtube.com/watch?v=Biqm9ndNyC8">&ldquo;Using font shaping to put commas in big numbers EVERYWHERE!!&rdquo; by Tristan Hume</a></li>
+<li><a href="https://www.youtube.com/watch?v=EAxnA9L5rS8">&ldquo;89 characters of base-11?! Mobile networking in rural Ethiopia!&rdquo; by Ben Kuhn</a></li>
+<li><a href="https://www.youtube.com/watch?v=tBnPDwoUCXQ">&ldquo;CBS Televised Computer-Generated Stories in 1960—and Ten Million Watched!&rdquo; by James Ryan</a> — another great example of a talk that used the pre-recorded aspect well</li>
+<li><a href="https://www.youtube.com/watch?v=zNJAQcSA1vI">&ldquo;Writing {{‘poems that change&rsquo;, &lsquo;chance poems&rsquo;, &lsquo;dynamic poetry&rsquo;}}!&rdquo; by Andrew Yoon</a></li>
+<li><a href="https://www.youtube.com/watch?v=E-9oKH2-Myg">&ldquo;Screwing up is easier than ever before!&rdquo; by Joshua Wise</a></li>
+</ul>
+<p>But possibly the best talk of all was the unconference session with <a href="http://stenoknight.com/bio.html">Mirabai Knight</a> who talked about <a href="https://en.wikipedia.org/wiki/Stenotype">Steno</a> (and <a href="http://www.openstenoproject.org/">Plover</a>); it was so fascinating. Check out some of her talks <a href="https://www.youtube.com/results?search_query=mirabai+knight">on YouTube</a>.</p>
+<p>Oh, yeah, <a href="https://youtu.be/QEZ0N0rrbL0">I also did a talk: Little Printing for Everyone!!1</a>.</p>
+<hr>
+<p>Overall, !!Con 2020 was a very positive experience, and I hope to be there (and possibly give a talk!) next year as well, one way or another.</p>
+
+<footer>
+    <a title="Permanent link to “My !!Con 2020 experience as a speaker”" href="https://blog.ktamas.com/index.php/2020/06/09/my-bangbangcon-2020-experience-as-a-speaker/">My !!Con 2020 experience as a speaker</a>
+    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
+    Tagged
+        <div class="tags">
+            <i class="fas fa-tags"></i>
+            <a href='/tags/bangbangcon/'>bangbangcon</a>, <a href='/tags/conference/'>conference</a>, <a href='/tags/publicspeaking/'>publicspeaking</a>
+        </div>
+</footer>]]></content>
+	</entry>
 	<entry>
 		<id>https://blog.ktamas.com/index.php/2020/06/01/my-recent-media-diet-may-2020/</id>
 		<title>My Recent Media Diet (May, 2020)</title>
@@ -376,17 +439,17 @@ Books For the Love of Men by Liz Plank: Hey, I read a book! Someone give me an a
 		</author>
 		<category scheme="https://blog.ktamas.com/tags" term="recommendations-newsletters" label="recommendations newsletters"/>
 		<summary>I love newsletters and I read quite a few of them. I made a list a bit more than a year ago and a few things have changed since then. I compiled this list for the XOXO slack yesterday and I figured it’d be good to share it here as well. These are the things I read these days.
- Nicole Knows is The Toast alum Nicole Cliffe‘s newsletter, do yourself a favor and follow her on twitter immediately as well.</summary>
+ Nicole Knows is The Toast alum Nicole Cliffe’s newsletter, do yourself a favor and follow her on twitter immediately as well.</summary>
 		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>I love newsletters and I read quite a few of them. I <a href="https://writetogether.space/posts/ktamas/my-favorite-newsletters">made a list a bit more than a year ago</a> and a few things have changed since then. I compiled this list for the XOXO slack yesterday and I figured it&rsquo;d be good to share it here as well. These are the things I read these days.</p>
 <ul>
-<li><a href="https://nicole.substack.com/">Nicole Knows</a> is <a href="http://the-toast.net/">The Toast</a> alum <a href="http://twitter.com/nicole_cliffe">Nicole Cliffe</a>&lsquo;s newsletter, do yourself a favor and follow her on twitter immediately as well. It&rsquo;s a mix of fun and weird Reddit threads and skincare. [<a href="https://nicole.substack.com/">archives</a>]</li>
+<li><a href="https://nicole.substack.com/">Nicole Knows</a> is <a href="http://the-toast.net/">The Toast</a> alum <a href="http://twitter.com/nicole_cliffe">Nicole Cliffe</a>&rsquo;s newsletter, do yourself a favor and follow her on twitter immediately as well. It&rsquo;s a mix of fun and weird Reddit threads and skincare. [<a href="https://nicole.substack.com/">archives</a>]</li>
 <li><a href="https://buttondown.email/Iankennedy">The week that was</a> by <a href="https://twitter.com/iankennedy">Ian Kennedy</a> is a weekly newsletter with usually ten links to interesting, unusual stories from all over the world. [<a href="https://everwas.com/tag/weekthatwas/">archives</a>]</li>
 <li><a href="https://danhon.substack.com/">Things That Have Caught My Attention</a> by <a href="http://twitter.com/hondanhon">Dan Hon</a>. Fascinating reads about the intersection of technology and, well, life, I guess. [<a href="https://tinyletter.com/danhon/archive">archives</a>]</li>
 <li><a href="http://fimoculous.com/recs/">Recs</a> by <a href="https://twitter.com/fimoculous">Rex Sorgatz</a>, which relaunched recently, gives you a fresh dose of interesting things to read from the web. [<a href="http://fimoculous.com/recs/">archives</a>]</li>
 <li><a href="https://tinyletter.com/amynw">The Morning Missive</a> by <a href="https://twitter.com/amynw">Amy Widdowsson</a> is a semi-daily newsletter of, again, interesting links. [<a href="https://tinyletter.com/amynw/archive">archives</a>]</li>
 <li><a href="https://tinyletter.com/emchap">Emchap&rsquo;s Shit</a> by <a href="https://twitter.com/eachapm">Emily Chapman</a> is a weekly newsletter of, you guessed it, interesting links and a story and a recipe. [<a href="https://tinyletter.com/emchap/archive">archives</a>]</li>
-<li><a href="https://www.desklunchnewsletter.com/">Desk Lunch</a> is a weekly newsletter, &ldquo;A community for all creative people of marginalized genders.&quot;, it gives me something to think about almost every week. [<a href="https://us16.campaign-archive.com/home/?u=9a0a385211ebb7b21b0ef828a&amp;id=908a07a835">archives</a>]</li>
+<li><a href="https://www.desklunchnewsletter.com/">Desk Lunch</a> is a weekly newsletter, &ldquo;A community for all creative people of marginalized genders.&rdquo;, it gives me something to think about almost every week. [<a href="https://us16.campaign-archive.com/home/?u=9a0a385211ebb7b21b0ef828a&amp;id=908a07a835">archives</a>]</li>
 <li><a href="http://letterstosummer.com/">Letters to Summer</a> by <a href="https://twitter.com/jilliangmeehan">Jillian G. Meehan</a> and <a href="https://twitter.com/summabis">summer farah</a> is a biweekly newsletter about just, well, interesting stuff. [<a href="http://letterstosummer.com/">archives</a>]</li>
 <li><a href="http://garbageday.substack.com/">Garbage Day</a> by <a href="https://twitter.com/broderick">Ryan Broderick</a>, which gives you just the weirdest stuff from the internet every Friday. May be borderline NSFW at times. [<a href="http://garbageday.substack.com/">archives</a>]</li>
 <li><a href="https://podcastidea.substack.com/">Podcast Idea</a> by <a href="https://twitter.com/roseveleth">Rose Eveleth</a> gives you weekly fictional podcast ideas. [<a href="https://podcastidea.substack.com/">archives</a>]</li>
@@ -954,13 +1017,13 @@ Eler</p>
 Kevin</p>
 <p><a href="https://i.imgur.com/DKHZaSk.jpg">julia&rsquo;s mug</a>
 Julia&rsquo;s mug</p>
-<p>Next, I went to Glitch&rsquo;s Appy Hour. I ran into Lyndsey there again as well as a few other friends. I watched <a href="https://twitter.com/nicolehe">Nicole He</a>&lsquo;s cool demo for her upcoming interactive project and a Powerpoint Karaoke that was fun. I got to talk with one of my Internet Heroes, <a href="https://twitter.com/jkottke">Jason Kottke</a>; we had a good chat. He told me to email him the link to my portraits after the festival, if I somehow end up on <a href="https://kottke.org">kottke.org</a> I can die happy (so far it hasn&rsquo;t happened.)</p>
+<p>Next, I went to Glitch&rsquo;s Appy Hour. I ran into Lyndsey there again as well as a few other friends. I watched <a href="https://twitter.com/nicolehe">Nicole He</a>&rsquo;s cool demo for her upcoming interactive project and a Powerpoint Karaoke that was fun. I got to talk with one of my Internet Heroes, <a href="https://twitter.com/jkottke">Jason Kottke</a>; we had a good chat. He told me to email him the link to my portraits after the festival, if I somehow end up on <a href="https://kottke.org">kottke.org</a> I can die happy (so far it hasn&rsquo;t happened.)</p>
 <p>I took a scooter back to Rev Hall to check out <a href="https://play.date/">Playdate</a>, Panic&rsquo;s upcoming quirky game console. They only had one game you could play it, and it&rsquo;s a cool device but a lot will depend on the games people will develop for it. I finally got to meet <a href="https://twitter.com/meyer">Mike</a> and got to know <a href="https://twitter.com/vladgeorgescu">Vlad</a>; I obviously took their portraits as well.</p>
 <p><img src="https://i.imgur.com/2SieyXG.jpg" alt="mike">
 Mike</p>
 <p><img src="https://i.imgur.com/v7CCwbl.jpg" alt="vlad">
 Vlad</p>
-<p>I ran into Skyler again and she told me about <a href="https://twitter.com/theearlcarlson">Earl</a>&lsquo;s concert at 4 at #music-making so after hanging out a bit in the park, that was my next stop. We watched him do some chill electro music (<a href="https://soundcloud.com/kiatremusic/release_ep">he has a soundcloud</a>), it was pretty great and a good way to take a break from this marathon of a day. By then it was around 4:30 pm, so I decided to get a late lunch and got a grilled cheese (again.)</p>
+<p>I ran into Skyler again and she told me about <a href="https://twitter.com/theearlcarlson">Earl</a>&rsquo;s concert at 4 at #music-making so after hanging out a bit in the park, that was my next stop. We watched him do some chill electro music (<a href="https://soundcloud.com/kiatremusic/release_ep">he has a soundcloud</a>), it was pretty great and a good way to take a break from this marathon of a day. By then it was around 4:30 pm, so I decided to get a late lunch and got a grilled cheese (again.)</p>
 <p>Afterwards I took a scooter to the #adhd meetup, where I got a 3D printed empathy emoji that I jury-rigged to my badge; earlier that day Lyndsey showed me the trick to sticking the pronoun pin to my badge so now my badge looked a lot better. I also took the chance to print out and stick my avatar there and wrote all the projects I did under my name as well.</p>
 <p><img src="https://i.imgur.com/dit67Am.jpg" alt="picture of my XOXO badge">
 My XOXO badge, now complete</p>
@@ -1462,7 +1525,7 @@ This was a cool car close to the Outpost.</p>
 		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
 <![CDATA[<p>My sister came over last night, and we had a good time. We cooked what we pretty much always cook — fajitas — and watched a movie, as well as started planning a short summer trip to Estonia and Finland. I&rsquo;ve been there, but she hasn&rsquo;t, and I like both places, so I&rsquo;m happy to go with her and show my favorite places there, as well as explore new ones. Right now the plan is to spend a day in Tallinn, at least a day and a half in a nearby national park, then take the ferry to Helsinki and visit the woods near Espoo before heading home.</p>
 <hr>
-<p>The <a href="https://boringconference.com/">9th Boring Conference</a>&lsquo;s date was just announced (May 4th), and I&rsquo;m definitely going, even though it&rsquo;s about a month after Brexit and who knows what&rsquo;s up by then. I was there last year with a few friends, and we had a blast. It&rsquo;s a day of extremely interesting and fun presentations about seemingly boring topics, and the whole thing costs about 25 GBP or so to attend. I highly recommend it.</p>
+<p>The <a href="https://boringconference.com/">9th Boring Conference</a>&rsquo;s date was just announced (May 4th), and I&rsquo;m definitely going, even though it&rsquo;s about a month after Brexit and who knows what&rsquo;s up by then. I was there last year with a few friends, and we had a blast. It&rsquo;s a day of extremely interesting and fun presentations about seemingly boring topics, and the whole thing costs about 25 GBP or so to attend. I highly recommend it.</p>
 <p>A week later there&rsquo;s <a href="http://bangbangcon.com">!!Con</a> in NYC as well. I really want to go, because they have really fun talks, but it&rsquo;s harder to get a ticket, and they release them pretty late, so by the time I would get a ticket it&rsquo;s possible that getting a flight there would be pretty expensive. Plus <a href="https://2018.xoxofest.com/">XOXO</a> is returning for 2019, but it&rsquo;s always a toss if you get in or not with their lottery system for the tickets. Two trips to the US in one year gets expensive pretty quick, so I have to consider my options and do some budgeting.</p>
 <p>Then there&rsquo;s also <a href="https://itp.nyu.edu/camp2019/">ITP Camp</a> going on in NYC in June, and while timewise I could do it, it&rsquo;s $1400 plus all the costs that come with staying for a month in one of the most expensive cities in the US.</p>
 <p>In an ideal world, I&rsquo;d leave early May for Boring, then go to NYC for !!Con, stay for ITP Camp, then meet up in Estonia with my sister before arriving back to Budapest, about two months later. Spend July and August back in Budapest, then come early September I would take another trip to Portland for XOXO for about ten days.</p>
@@ -1514,46 +1577,6 @@ Season 2 has one episode left but so far the series shows no signs of getting bo
         <div class="tags">
             <i class="fas fa-tags"></i>
             <a href='/tags/thoughts/'>thoughts</a>, <a href='/tags/mediadiet/'>mediadiet</a>, <a href='/tags/recommendations/'>recommendations</a>
-        </div>
-</footer>]]></content>
-	</entry>
-	<entry>
-		<id>https://blog.ktamas.com/index.php/2019/02/15/on-yoga/</id>
-		<title>On Yoga</title>
-		<link rel="alternate" type="text/html" href="https://blog.ktamas.com/index.php/2019/02/15/on-yoga/"/>
-		<updated>2019-02-15T12:02:59Z</updated>
-		<published>2019-02-15T12:02:59Z</published>
-		<author>
-			<name>KTamas</name>
-			<uri>https://blog.ktamas.com/</uri>
-		</author>
-		<category scheme="https://blog.ktamas.com/tags" term="exercise" label="exercise"/>
-		<category scheme="https://blog.ktamas.com/tags" term="yoga" label="yoga"/>
-		<summary>I’ve written about my relationship with exercise, but I left out a significant bit: yoga.
-Growing up fundamentalist, you learn that yoga (and most martial arts) are Bad. It’s by the devil; you’re worshiping other Gods, and so on. Even though I’ve been working hard to get rid of these parts of my faith, it’s a slow and arduous process.
-So I never even thought of trying it for a long time.</summary>
-		<content type="text/html" xml:base="https://blog.ktamas.com/" xml:space="preserve" mode="xml">
-<![CDATA[<p>I&rsquo;ve <a href="https://blog.ktamas.com/index.php/2019/02/14/on-excercise/">written about</a> my relationship with exercise, but I left out a significant bit: yoga.</p>
-<p>Growing up fundamentalist, you learn that yoga (and most martial arts) are <em>Bad</em>. It&rsquo;s by the devil; you&rsquo;re worshiping other Gods, and so on. Even though I&rsquo;ve been working hard to get rid of these parts of my faith, it&rsquo;s a slow and arduous process.</p>
-<p>So I never even thought of trying it for a long time. Then a former coworker and friend got into it; time to time she&rsquo;d say &ldquo;You should really give yoga a try,&rdquo; and I would be like yeah, maybe, someday. Putting aside old and harmful beliefs, it also looked just&hellip; boring.</p>
-<hr>
-<p>In late 2014 I broke my leg. Recovery was slow and painful, even though I did a decent amount of physical therapy. One day I stumbled upon a mass yoga event on Facebook and for whatever reason, I thought &ldquo;eh, okay, why not?&rdquo; So I went. It was awkward, unusual and weird, but I distinctly remember that afterwards the pain from my leg just disappeared for two days, like a miracle.</p>
-<p>Even that was not enough at the time to start a regular practice, but in the spring of 2016, I finally pulled the trigger. I didn&rsquo;t even know how to breathe right on the first class (hint: use only your nose), but it felt amazing, especially after the class. So I kept going back, as much as I could, though I was traveling a lot during that time.</p>
-<p>Yoga made me at least a bit more flexible, but more importantly, it helped me to slow down, and it gave me space to process things. My mind would often wander during class, and while that&rsquo;s somewhat discouraged, it was exactly what I needed at that time. And more often than not I would leave calmer and feeling more at peace with myself, something I desperately needed.</p>
-<p>I was spoiled by having a great class filled with other expats and <a href="http://www.unfoldyourmat.com/">my awesome teacher, Lavinia</a>. For her regular drop-in classes I&rsquo;ve visited, she has her own style, a mix of existing ones, that has evolved over the recent years.</p>
-<center>![Lavinia and I](https://i.imgur.com/mVKUk8V.jpg)  </center>
-<center>Me and my teacher</center>
-<p>I haven&rsquo;t done much yoga since I left Sweden. I&rsquo;ve searched and tried, but I haven&rsquo;t found a good class/teacher that I was happy with long-term—like I said, I was really spoiled, and it set the bar high. And maybe it&rsquo;s not what I need right now.</p>
-<p>To this day though, whenever I visit Gothenburg, I make it a point to go to at least one of her classes, and they never fail to disappoint me. In an ideal world, I would be able to teleport to Sweden once a week for a 90-minute class.</p>
-<p>I can only tell you what my friend kept telling me: you should really give yoga a try.</p>
-
-<footer>
-    <a title="Permanent link to “On Yoga”" href="https://blog.ktamas.com/index.php/2019/02/15/on-yoga/">On Yoga</a>
-    by KTamas for <a href="https://blog.ktamas.com/">KTamas&#39; Blog</a>
-    Tagged
-        <div class="tags">
-            <i class="fas fa-tags"></i>
-            <a href='/tags/exercise/'>exercise</a>, <a href='/tags/yoga/'>yoga</a>
         </div>
 </footer>]]></content>
 	</entry>

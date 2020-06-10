@@ -27,7 +27,7 @@
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:site" value="@ktamas" />
 	<meta name="twitter:creator" value="@ktamas" />
-	<meta name="generator" content="Hugo 0.71.1" />
+	<meta name="generator" content="Hugo 0.72.0" />
 </head>
 <body>
 	<div id="container">
@@ -49,6 +49,22 @@
 		</header>
 
 	<main id="home">
+		
+		    <article class="post">
+        <header>
+            <h1 class="post"><a href="/index.php/2010/10/01/ujra_es_ujra_elokerul/">Ujra es ujra elokerul</a></h1>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2010/10/01/ujra_es_ujra_elokerul/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2010-10-01T10:22:00Z">Friday, October 1, 2010</time> · 6 words · 1 min read</div>
+        </header>
+        <div class="text">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oMLCrzy9TEs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Utah Saints - 'Something Good 08'
+
+        </div>
+
+    </article>
+
 		
 		    <article class="post">
         <header>
@@ -232,29 +248,6 @@ Various Artists – Shrek 2 OST</p>
             <i class="fas fa-tags"></i>
             <a href='/tags/random/'>random</a>, <a href='/tags/zene/'>zene</a>
         </div>
-    </article>
-
-		
-		    <article class="post">
-        <header>
-            <h1 class="post"><a href="/index.php/2010/06/18/hogyan_mentunk_le_egyszeruen_rtmp_streameket_streamelt_flashvideo/">Hogyan mentunk le egyszeruen RTMP streameket (streamelt flashvideo)</a></h1>
-            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2010/06/18/hogyan_mentunk_le_egyszeruen_rtmp_streameket_streamelt_flashvideo/"><i class="far fa-bookmark"></i></a>
-            <time datetime="2010-06-18T21:49:39Z">Friday, June 18, 2010</time> · 100 words · 1 min read</div>
-        </header>
-        <div class="text">
-
-<p>Amolyan jegyzet magamnak, meg hatha megtalalja egyszer valaki guglibol. Hozzavalok egy linux, amin van iptables es sudo, meg az rtmpdump leforditasahoz szukseges dolgok (ubuntun ez a build-essential csomag).</p>
-<ul>
-<li><a href="http://rtmpdump.mplayerhq.hu/download/">Leszedjuk az internetrol</a> az rtmpdumpot, kicsomagol, configure script nincs, make, sudo make install.</li>
-<li>Hozzaadunk egy tetszoleges felhasznalot <code>sudo adduser rtmpsuck</code></li>
-<li>Atiranyitjuk az rtmp forgalmat az iptables-szel: <code>sudo iptables -t nat -A OUTPUT -p tcp --dport 1935 -m owner &amp;nbsp;\! --uid-owner rtmpsuck -j REDIRECT</code></li>
-<li>Atlepunk a felhasznaloba <code>sudo su rtmpsuck</code></li>
-<li>elinditjuk az rtmpsrv-t egy olyan konyvtarbol, amihez van irasi joga</li>
-<li>elinditjuk a bongeszot, abban pedig a lejatszast, es mar menti is le szepen.</li>
-</ul>
-
-        </div>
-
     </article>
 
 		

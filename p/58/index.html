@@ -27,7 +27,7 @@
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:site" value="@ktamas" />
 	<meta name="twitter:creator" value="@ktamas" />
-	<meta name="generator" content="Hugo 0.71.1" />
+	<meta name="generator" content="Hugo 0.72.0" />
 </head>
 <body>
 	<div id="container">
@@ -49,6 +49,85 @@
 		</header>
 
 	<main id="home">
+		
+		    <article class="post">
+        <header>
+            <h1 class="post"><a href="/index.php/2009/03/27/miert_fogunk_a_jovoben_excelt_is_rubyban_programozni/">Miért fogunk a jövőben excelt is Rubyban programozni?</a></h1>
+            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2009/03/27/miert_fogunk_a_jovoben_excelt_is_rubyban_programozni/"><i class="far fa-bookmark"></i></a>
+            <time datetime="2009-03-27T12:53:36Z">Friday, March 27, 2009</time> · 72 words · 1 min read</div>
+        </header>
+        <div class="text">
+
+<p>Ruby:</p>
+<blockquote>
+<p>require ‘win32ole’</p>
+</blockquote>
+<blockquote>
+<p>excel = Win32ole.new(“Excel.Application”)</p>
+</blockquote>
+<blockquote>
+<p>excel.visible = true</p>
+</blockquote>
+<blockquote>
+<p>wb = excel.workbooks.add</p>
+</blockquote>
+<blockquote>
+<p>ws = wb.activesheet</p>
+</blockquote>
+<blockquote>
+<p>ws.range(‘A1:B5’).each do |cell|</p>
+</blockquote>
+<blockquote>
+<p>cell.value = “Hello, World”</p>
+</blockquote>
+<blockquote>
+<p>end</p>
+</blockquote>
+<p>versus</p>
+<blockquote>
+<p>using Microsoft.Office.Interop.Excel;</p>
+</blockquote>
+<blockquote>
+<p>[…]</p>
+</blockquote>
+<blockquote>
+<p>var excel = new ApplicationClass();</p>
+</blockquote>
+<blockquote>
+<p>excel.Visible = true;</p>
+</blockquote>
+<blockquote>
+<p>object missing = System.Reflection.Missing.Value;</p>
+</blockquote>
+<blockquote>
+<p>var workbook = excel.Workbooks.Add(missing);</p>
+</blockquote>
+<blockquote>
+<p>var range = excel.get_Range((object)”A1″, (object)”B5″);</p>
+</blockquote>
+<blockquote>
+<p>foreach (Range r in range.Cells) {</p>
+</blockquote>
+<blockquote>
+<p>r.Activate();</p>
+</blockquote>
+<blockquote>
+<p>excel.ActiveCell.Value2 = “Alma”;</p>
+</blockquote>
+<blockquote>
+<p>}</p>
+</blockquote>
+<p>Na, melik a kevésbé gány megoldás?</p>
+<p>(A szerkesztőségbe várjuk a jobb C#-os megoldásokat.)</p>
+
+        </div>
+
+        <div class="tags">
+            <i class="fas fa-tags"></i>
+            <a href='/tags/programoz%C3%A1s/'>programozás</a>
+        </div>
+    </article>
+
 		
 		    <article class="post">
         <header>
@@ -232,28 +311,6 @@
         <div class="tags">
             <i class="fas fa-tags"></i>
             <a href='/tags/agymenes/'>agymenes</a>, <a href='/tags/windows/'>windows</a>
-        </div>
-    </article>
-
-		
-		    <article class="post">
-        <header>
-            <h1 class="post"><a href="/index.php/2009/03/16/got_sun/">Got Sün?</a></h1>
-            <div class="subheader"><a rel="bookmark" href="https://blog.ktamas.com/index.php/2009/03/16/got_sun/"><i class="far fa-bookmark"></i></a>
-            <time datetime="2009-03-16T14:33:18Z">Monday, March 16, 2009</time> · 29 words · 1 min read</div>
-        </header>
-        <div class="text">
-
-<p>A tegnap indult <a href="http://webcast.tv2.hu/tenyek/index.php?m=video&amp;video_id=391722">sün meme</a> után nem kellett sok ido, hogy megszülessenek a <span style="text-decoration: line-through;">lolcatek</span> lolsünök és egyéb paródiák…</p>
-<p><a href="http://twitpic.com/25ior"><img class="aligncenter size-full wp-image-257" title="Sün" src="http://ktamas.blog.hu/media/image/200903/25ior-9daaa5c806fffeb2eee2ee7484f43de549be5473.png" alt="Sün" width="250" height="221" /></a><a href="http://twitpic.com/251a4"><img class="aligncenter size-medium wp-image-258" title="Sün" src="http://ktamas.blog.hu/media/image/200903/251a4-008e7d43fba3b1fc425b617ecf3b2e6649be5335-300x200.jpg" alt="Sün microsystems" width="300" height="200" /></a></p>
-<p>(via <a href="http://webisztan.blog.hu">hh</a> és <a href="http://turulcsirip.hu/user/tiborq">tiborq</a>)</p>
-<p>Edit: <a href="http://instad.tumblr.com/post/86814353/s-n-a-new-hungarian-buzzword">van</a> még. <a href="http://tsabeeka.wamma.hu/2009/03/16/sun-ajandek-csengohanggal/">Csengohang</a> is. <a href="http://www.facebook.com/group.php?gid=74939730070">Facebook csoporttal</a>!</p>
-
-        </div>
-
-        <div class="tags">
-            <i class="fas fa-tags"></i>
-            <a href='/tags/wtf/'>wtf</a>
         </div>
     </article>
 
